@@ -75,7 +75,7 @@ def get_covers(lang: str) -> List[Path]:
     return covers
 
 
-def build_omnibus(lang: str, output_dir: Path):
+def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
     """Generate the complete omnibus edition in all three formats."""
     is_en = lang == "en"
     suffix = "EN" if is_en else "PT-BR"
@@ -104,6 +104,9 @@ def build_omnibus(lang: str, output_dir: Path):
     combined_md.append(f"subtitle: \"{subtitle}\"")
     combined_md.append("author: \"Dr. Jordan B. Peterson\"")
     combined_md.append(f"lang: \"{'en' if is_en else 'pt-BR'}\"")
+    combined_md.append("source: \"Transcripts from Jordan B. Peterson's Biblical Series lectures (YouTube, 2017)\"")
+    combined_md.append("repository: \"https://github.com/thiagodamas/jordan-peterson-biblical-stories\"")
+    combined_md.append("original-series: \"The Psychological Significance of the Biblical Stories\"")
     combined_md.append("---")
     combined_md.append("")
     combined_md.append("# Jordan B. Peterson")
@@ -112,6 +115,32 @@ def build_omnibus(lang: str, output_dir: Path):
     combined_md.append("")
     combined_md.append("---")
     combined_md.append("")
+
+    # Introduction / Origin metadata (bilingual-aware)
+    if is_en:
+        combined_md.append("## About This Edition")
+        combined_md.append("")
+        combined_md.append("This omnibus contains the complete transcripts of Jordan B. Peterson's 2017 lecture series *The Psychological Significance of the Biblical Stories*. The material is provided for educational and personal study purposes.")
+        combined_md.append("")
+        combined_md.append("All lectures were originally delivered and recorded publicly on YouTube. This community project offers high-quality, spoken-style transcripts in English (original) and Brazilian Portuguese, with footnotes for technical terms and conceptual clarifications.")
+        combined_md.append("")
+        combined_md.append("**Source**: Jordan B. Peterson – \"The Psychological Significance of the Biblical Stories\" (YouTube, 2017)")
+        combined_md.append("**Repository**: https://github.com/thiagodamas/jordan-peterson-biblical-stories")
+        combined_md.append("")
+        combined_md.append("---")
+        combined_md.append("")
+    else:
+        combined_md.append("## Sobre Esta Edição")
+        combined_md.append("")
+        combined_md.append("Este volume reúne as transcrições completas da série de palestras de Jordan B. Peterson de 2017 intitulada *O Significado Psicológico das Histórias Bíblicas*. O material é disponibilizado para fins educacionais e de estudo pessoal.")
+        combined_md.append("")
+        combined_md.append("Todas as palestras foram originalmente proferidas e gravadas publicamente no YouTube. Este projeto comunitário oferece transcrições de alta qualidade em tom oral, em inglês (original) e português brasileiro, com notas de rodapé para termos técnicos e esclarecimentos conceituais.")
+        combined_md.append("")
+        combined_md.append("**Fonte original**: Palestras de Jordan B. Peterson – \"The Psychological Significance of the Biblical Stories\" (YouTube, 2017)")
+        combined_md.append("**Repositório**: https://github.com/thiagodamas/jordan-peterson-biblical-stories")
+        combined_md.append("")
+        combined_md.append("---")
+        combined_md.append("")
 
     # Add each lecture as a top-level chapter
     for i, transcript in enumerate(transcripts):
@@ -194,33 +223,32 @@ def build_omnibus(lang: str, output_dir: Path):
         ]
         subprocess.run(cmd, check=True, capture_output=True)
 
-        # 3. PDF from EPUB (using Calibre)
-        # We use xvfb-run because Calibre's PDF output requires a display server,
-        # which is not present in headless CI environments (GitHub Actions).
-        print("Generating Complete PDF from EPUB...")
-        pdf_cmd = [
-            "xvfb-run", "--auto-servernum", "--server-args=-screen 0 1024x768x24",
-            "ebook-convert",
-            str(epub_path),
-            str(pdf_path),
-            "--pdf-page-size", "A4",
-            "--pdf-default-font-size", "11",
-            "--pdf-mono-font-size", "10",
-            "--pdf-margin-left", "1.8cm",
-            "--pdf-margin-right", "1.8cm",
-            "--pdf-margin-top", "1.8cm",
-            "--pdf-margin-bottom", "1.8cm",
-            "--title", f"{title} - {suffix}",
-            "--authors", "Jordan B. Peterson",
-        ]
-        pdf_success = True
-        try:
-            subprocess.run(pdf_cmd, check=True, capture_output=True)
-        except subprocess.CalledProcessError as e:
-            pdf_success = False
-            print("WARNING: PDF generation failed (ebook-convert returned error).")
-            print("EPUB and MOBI were generated successfully.")
-            print(f"PDF error output (stderr): {e.stderr.decode('utf-8', errors='ignore') if e.stderr else 'N/A'}")
+        # 3. PDF from EPUB (using Calibre) - only if explicitly requested
+        pdf_success = False
+        if generate_pdf:
+            print("Generating Complete PDF from EPUB...")
+            pdf_cmd = [
+                "xvfb-run", "--auto-servernum", "--server-args=-screen 0 1024x768x24",
+                "ebook-convert",
+                str(epub_path),
+                str(pdf_path),
+                "--pdf-page-size", "A4",
+                "--pdf-default-font-size", "11",
+                "--pdf-mono-font-size", "10",
+                "--pdf-margin-left", "1.8cm",
+                "--pdf-margin-right", "1.8cm",
+                "--pdf-margin-top", "1.8cm",
+                "--pdf-margin-bottom", "1.8cm",
+                "--title", f"{title} - {suffix}",
+                "--authors", "Jordan B. Peterson",
+            ]
+            pdf_success = True
+            try:
+                subprocess.run(pdf_cmd, check=True, capture_output=True)
+            except subprocess.CalledProcessError as e:
+                pdf_success = False
+                print("WARNING: PDF generation failed (ebook-convert returned error).")
+                print(f"PDF error output (stderr): {e.stderr.decode('utf-8', errors='ignore') if e.stderr else 'N/A'}")
 
     finally:
         tmp_path.unlink(missing_ok=True)
@@ -228,10 +256,11 @@ def build_omnibus(lang: str, output_dir: Path):
     print(f"\n✓ Omnibus complete for {suffix}")
     print(f"  - {epub_path.name}")
     print(f"  - {mobi_path.name}")
-    if pdf_success:
-        print(f"  - {pdf_path.name}")
-    else:
-        print("  - PDF generation failed (see warning above)")
+    if generate_pdf:
+        if pdf_success:
+            print(f"  - {pdf_path.name}")
+        else:
+            print("  - PDF generation failed")
 
     return epub_path, pdf_path, mobi_path
 
@@ -276,9 +305,11 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--lang", choices=["en", "pt"], required=True)
     parser.add_argument("--output", type=Path, default=Path("dist/ebooks"))
+    parser.add_argument("--pdf", action="store_true", default=False,
+                        help="Generate PDF (recommended only for local use, requires Calibre + display server)")
     args = parser.parse_args()
 
-    build_omnibus(args.lang, args.output)
+    build_omnibus(args.lang, args.output, generate_pdf=args.pdf)
 
 
 if __name__ == "__main__":

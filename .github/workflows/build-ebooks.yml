@@ -52,12 +52,12 @@ jobs:
 
           pip3 install --break-system-packages weasyprint
 
-      - name: Build Complete Omnibus - English (PDF + EPUB + MOBI)
+      - name: Build Complete Omnibus - English (EPUB + MOBI)
         if: github.event.inputs.language == '' || github.event.inputs.language == 'en' || github.event.inputs.language == 'both'
         run: |
           python3 scripts/generate_omnibus.py --lang en --output dist/ebooks
 
-      - name: Build Complete Omnibus - Portuguese (PDF + EPUB + MOBI)
+      - name: Build Complete Omnibus - Portuguese (EPUB + MOBI)
         if: github.event.inputs.language == '' || github.event.inputs.language == 'pt' || github.event.inputs.language == 'both'
         run: |
           python3 scripts/generate_omnibus.py --lang pt --output dist/ebooks
