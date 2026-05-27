@@ -24,8 +24,10 @@ A maioria das transcrições em português brasileiro apresenta **lacunas signif
 | 6       | 07 - Andando com Deus: Noé e o Dilúvio | +11.219 | 39,3% | Alta |
 | 7       | 12 - O Grande Sacrifício | +11.033 | 25,9% | Alta |
 | 8       | 02 - Gênesis 1: Caos e Ordem | +5.689 | 70,7% | Média-Alta |
-| 9       | 01 - Introdução à Ideia de Deus | +3.829 | 79,0% | Média |
+| 9       | 01 - Introdução à Ideia de Deus | +3.829* | 79,0% | Média (revisada) |
 | 10      | 11 - Sodoma e Gomorra | +3.729 | 79,0% | Média |
+
+\* Palestra 01 já foi revisada (tradução completa das seções faltantes + limpeza de duplicação).
 
 ## Análise Detalhada por Palestra (Críticas e Altas)
 
@@ -100,11 +102,12 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 
 ## Status de Revisão (atualizado)
 
-- **Palestra 01** — Revisada em 27/05/2026.  
+- **Palestra 01** — Revisada em 27/05/2026 (tradução completa + limpeza).  
   Gap original: ~3.829 palavras.  
   Seção II e Seção IV completadas com tradução integral do conteúdo faltante.  
   Adicionadas 5 novas notas de rodapé (Jung, Freud, conhecimento incorporado, fenomenologia, cosmologia mesopotâmica).  
-  Status atual: **Concluída / Gap significativamente reduzido**.
+  Limpeza realizada: removido bloco duplicado residual da seção sobre Jung (~16-34 linhas removidas dependendo da etapa).  
+  Status final: **Concluída e limpa**. O arquivo agora tem menos palavras que o original em inglês e sem duplicações. Linhas extras restantes são principalmente por estilo oral + novas notas.
 
 ## Observações Técnicas
 
