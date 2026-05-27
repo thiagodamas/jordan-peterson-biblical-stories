@@ -109,6 +109,14 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
   Limpeza realizada: removido bloco duplicado residual da seção sobre Jung (~16-34 linhas removidas dependendo da etapa).  
   Status final: **Concluída e limpa**. O arquivo agora tem menos palavras que o original em inglês e sem duplicações. Linhas extras restantes são principalmente por estilo oral + novas notas.
 
+- **Palestra 02** — Em andamento (iniciada em 27/05/2026).  
+  Gap original: ~5.689 palavras.  
+  Estrutura severamente bagunçada identificada (cabeçalhos de seção duplicados e conteúdo de Seção IV/V/VI fora de lugar).  
+  Backup criado.  
+  Iniciada correção estrutural + tradução do conteúdo faltante da Seção IV (parte filosófica sobre Mefistófeles, "Deus viu que era bom", problema do mal, "segundo a sua espécie", transição AT → NT).  
+  Nenhuma duplicação grave de frases encontrada até o momento.  
+  Status atual: **Em progresso** (estrutura sendo consertada + tradução em andamento).
+
 ## Observações Técnicas
 
 - Em quase todos os casos, o **número de seções** e de **timestamps** bate entre EN e PT-BR. Isso indica que o problema não é ausência de estrutura, mas **conteúdo falado truncado** dentro das seções.
