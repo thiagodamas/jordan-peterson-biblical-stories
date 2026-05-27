@@ -66,16 +66,26 @@ p strong, em {
     font-style: italic;
 }
 
-/* Footnotes */
-.footnotes {
-    font-size: 0.9em;
+/* Footnotes / Endnotes (used in omnibus) */
+.footnotes,
+#footnotes,
+.footnote {
+    font-size: 0.85em;
     margin-top: 2em;
     border-top: 1px solid #ddd;
     padding-top: 1em;
+    color: #444;
 }
 
 .footnotes hr {
     display: none;
+}
+
+/* Make footnote references smaller and less intrusive */
+a.footnote-ref {
+    font-size: 0.7em;
+    vertical-align: super;
+    line-height: 0;
 }
 
 /* Blockquotes if any */
@@ -101,14 +111,26 @@ code {
         font-size: 11pt;
         line-height: 1.5;
     }
-    
+
+    /* Each main lecture title (# Palestra / # Lecture) starts on a new page */
     h1 {
         page-break-before: always;
     }
-    
+
+    /* Do not break before the very first H1 (book title "Jordan B. Peterson") */
     h1:first-of-type {
         page-break-before: avoid;
     }
+
+    /* Avoid orphaned section headings */
+    h2, h3 {
+        page-break-after: avoid;
+    }
+}
+
+/* Strong page break support for the separators we insert in the omnibus */
+div[style*="page-break-before"] {
+    page-break-before: always;
 }
 
 /* Omnibus specific styling */

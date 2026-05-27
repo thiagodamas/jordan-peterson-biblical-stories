@@ -150,7 +150,14 @@ def build_omnibus(lang: str, output_dir: Path):
         # Append the body as-is (## Seção I, ## Seção II, ## Seção III, etc.)
         combined_md.append(body)
         combined_md.append("")
-        combined_md.append("---")  # Visual separator between lectures
+
+        # Force each lecture to start on a new page.
+        # - \newpage works excellently with pdflatex (PDF)
+        # - The div works for WeasyPrint and EPUB readers
+        combined_md.append('<div style="page-break-before: always;"></div>')
+        combined_md.append(r"\newpage")
+        combined_md.append("")
+        combined_md.append("---")  # Visual separator
         combined_md.append("")
 
     # Write temporary combined file
@@ -175,12 +182,13 @@ def build_omnibus(lang: str, output_dir: Path):
         ]
         subprocess.run(cmd, check=True, capture_output=True)
 
-        # 2. PDF via WeasyPrint (best for CI)
+        # 2. PDF via pdflatex (best footnote support)
+        # WeasyPrint is used only as fallback because it has weak Pandoc footnote support.
         print("Generating Complete PDF...")
         cmd = [
             "pandoc", str(tmp_path),
             "-o", str(pdf_path),
-            "--pdf-engine=weasyprint",
+            "--pdf-engine=pdflatex",
             "--toc",
             "--toc-depth=2",
             "--css=assets/ebook-style.css",
@@ -188,9 +196,8 @@ def build_omnibus(lang: str, output_dir: Path):
         ]
         result = subprocess.run(cmd, capture_output=True, text=True)
         if result.returncode != 0:
-            print("WeasyPrint PDF failed, trying alternative...")
-            # Fallback: try pdflatex if available (rare on minimal runners)
-            cmd[3] = "--pdf-engine=pdflatex"
+            print("pdflatex PDF failed, falling back to WeasyPrint...")
+            cmd[3] = "--pdf-engine=weasyprint"
             subprocess.run(cmd, check=True)
 
         # 3. MOBI from EPUB
