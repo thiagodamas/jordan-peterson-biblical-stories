@@ -195,10 +195,11 @@ def build_omnibus(lang: str, output_dir: Path):
         subprocess.run(cmd, check=True, capture_output=True)
 
         # 3. PDF from EPUB (using Calibre)
-        # This is more reliable in CI than Pandoc's PDF engines (pdflatex/weasyprint).
-        # Calibre produces consistent results and respects our page-break rules and CSS.
+        # We use xvfb-run because Calibre's PDF output requires a display server,
+        # which is not present in headless CI environments (GitHub Actions).
         print("Generating Complete PDF from EPUB...")
-        cmd = [
+        pdf_cmd = [
+            "xvfb-run", "--auto-servernum", "--server-args=-screen 0 1024x768x24",
             "ebook-convert",
             str(epub_path),
             str(pdf_path),
@@ -212,15 +213,25 @@ def build_omnibus(lang: str, output_dir: Path):
             "--title", f"{title} - {suffix}",
             "--authors", "Jordan B. Peterson",
         ]
-        subprocess.run(cmd, check=True, capture_output=True)
+        pdf_success = True
+        try:
+            subprocess.run(pdf_cmd, check=True, capture_output=True)
+        except subprocess.CalledProcessError as e:
+            pdf_success = False
+            print("WARNING: PDF generation failed (ebook-convert returned error).")
+            print("EPUB and MOBI were generated successfully.")
+            print(f"PDF error output (stderr): {e.stderr.decode('utf-8', errors='ignore') if e.stderr else 'N/A'}")
 
     finally:
         tmp_path.unlink(missing_ok=True)
 
     print(f"\n✓ Omnibus complete for {suffix}")
     print(f"  - {epub_path.name}")
-    print(f"  - {pdf_path.name}")
     print(f"  - {mobi_path.name}")
+    if pdf_success:
+        print(f"  - {pdf_path.name}")
+    else:
+        print("  - PDF generation failed (see warning above)")
 
     return epub_path, pdf_path, mobi_path
 

@@ -38,6 +38,7 @@ jobs:
           sudo apt-get install -y \
             pandoc \
             calibre \
+            xvfb \
             python3-pip \
             python3-dev \
             libpango-1.0-0 \
