@@ -130,12 +130,13 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
   Iniciada inserção de conteúdo traduzido da Seção IV (Adão e Eva, costela, casamento, ideia junguiana da reunificação do ser hermafrodita original).  
   Status: **Estrutura consertada + tradução em andamento**.
 
-- **Palestra 05** — Estrutura corrigida (27/05/2026).  
+- **Palestra 05** — Estrutura corrigida + tradução iniciada (27/05/2026).  
   Gap original: ~1.264 palavras.  
   Cabeçalhos duplicados normalizados. Backup criado.  
-  Status: **Estrutura consertada. Tradução pendente**.
+  Iniciada inserção de conteúdo traduzido (Caim e Abel, sacrifício de qualidade, ressentimento e assassinato).  
+  Status: **Estrutura consertada + tradução em andamento**.
 
-- **Palestra 06** — Estrutura corrigida + tradução iniciada (27/05/2026).  
+- **Palestra 06** — Estrutura corrigida + tradução em andamento (27/05/2026).  
   Gap original: ~12.509 palavras (a maior).  
   Cabeçalhos normalizados. Backup criado.  
   Iniciada inserção de conteúdo traduzido (Pinóquio/Geppetto, "Gigantes da Terra", filosofia do dilúvio, corrupção e renovação).  

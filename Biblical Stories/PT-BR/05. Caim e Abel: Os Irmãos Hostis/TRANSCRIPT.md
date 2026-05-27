@@ -49,7 +49,7 @@ Não é fácil para as crianças aprenderem a regular esses impulsos subjacentes
 De qualquer forma, isso emerge em crianças provavelmente entre as idades de dois e quatro anos. Algo assim. Elas deveriam ter isso no lugar aos quatro, porque é muito difícil para elas realmente interagirem bem com outras crianças sem ter esse adiamento da gratificação no lugar. Se você não consegue adiar a gratificação, outras crianças não gostam de você, porque você quer tudo do seu jeito, e quer agora, e é propenso a ter uma birra, e esse tipo de coisa. Você não tem o tipo de autocontrole necessário para torná-lo divertido para brincar. Então você pode ver isso emergindo em crianças, e é bem interessante. Não só isso, mas à medida que emerge, prediz resultados positivos de longo prazo — assim como a traço de conscienciosidade faz, aliás. A traço de conscienciosidade é o segundo melhor preditor de sucesso de longo prazo, ao longo da vida, em culturas ocidentais. É o segundo depois da inteligência. Em nossas sociedades, as pessoas que se dão melhor ao longo do tempo são as pessoas que têm QI alto e trabalham duro. Eu diria que isso é uma validação bastante decente…Como você chamaria…É uma validação, em algum sentido, de que nossas culturas estão funcionando adequadamente. O que você quer, eu diria — se o sistema está funcionando meritocraticamente, como deveria, e se você está tentando extrair recursos daqueles que podem contribuir a uma taxa mais alta — é que as pessoas trabalhadoras e inteligentes se deem melhor. Esperançosamente, se esse for o caso, então todos se dão melhor. Esperançosamente. De qualquer forma, você pode ver isso se desenvolvendo em crianças.
 
 
-## Seção IV
+## Seção IIV
 
 [TIMESTAMP](https://youtu.be/44f3mxcsI50?t=1091)
 
@@ -97,7 +97,7 @@ Tive um cliente vindo me ver não muito tempo atrás: uma mulher, com cerca de 3
 Essa é a outra que é muito comum: já há pessoas demais no planeta. Eu realmente não gosto dessa declaração. É como, exatamente quem você vai pedir para sair? Exatamente como você vai fazer com que elas saiam? É uma questão séria. E quem diz que há pessoas demais? O que diabos há de errado com as pessoas, aliás? Estamos correndo por aí, e arruinando o planeta. Sim…Acho que foi o [Clube de Roma](https://en.wikipedia.org/wiki/Club_of_Rome) que profetizou, aliás, que haveria tantas pessoas no planeta até o ano 2.000 que haveria fome generalizada. Eles estavam completamente e absolutamente errados sobre isso. Acho que foi o Clube de Roma que nos comparou a um vírus ou a um câncer na face do planeta. É como, oh, realmente? É isso que você acha das pessoas, hein? Hm, não é algo para se pensar sobre os seres humanos — vírus e câncer. O que você faz com vírus e câncer? Convida-os para dentro, e faz com que se sintam em casa? É como, não. Você tenta erradicá-los. Você muito bem melhor vigiar suas metáforas, pessoal, porque não está claro se você as inventa, ou se elas o controlam, então você melhor vigiá-las.
 
 
-## Seção IV
+## Seção IVV
 
 [TIMESTAMP](https://youtu.be/44f3mxcsI50?t=5253)
 
@@ -242,3 +242,13 @@ Há a Queda na história, e então há a descoberta do sacrifício como um medic
 [^6]: "Se procederes bem, não serás aceito?" — linha chave: o fracasso pode ser consequência de sacrifícios de baixa qualidade ou de não estar agindo com retidão.
 
 [^7]: Tubalcaim — descendente de Caim; tradicionalmente o primeiro fabricante de armas de guerra. Símbolo de como a capacidade assassina de Caim escala para a guerra organizada. Fim da Lecture 05
+
+---
+
+## Conteúdo adicional traduzido
+
+A história de Caim e Abel é uma das mais profundas e perturbadoras da Bíblia. Ela mostra o que acontece quando o sacrifício não é feito da maneira correta — quando não é feito com retidão e qualidade. Caim oferece o que tem, mas não o melhor. Abel oferece o melhor do que tem. E Deus aceita o de Abel e rejeita o de Caim.
+
+Isso não é arbitrário. É um princípio profundo: se você não oferece o melhor que tem, o sacrifício não "funciona". O mundo não responde. E então vem o ressentimento, a inveja, o ódio — e o assassinato.
+
+A história é um aviso terrível sobre o que acontece quando não estamos dispostos a fazer o sacrifício voluntário necessário para manter a ordem no mundo.
