@@ -208,7 +208,9 @@ def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
             note_lines = re.findall(r'^\[\^(\d+)\]:\s*(.*?)(?=\n\[\^|\Z)', notes_raw, re.MULTILINE | re.DOTALL)
             if note_lines:
                 for num, text in note_lines:
-                    clean_text = text.strip().replace('\n', ' ')
+                    # Aggressive whitespace normalization to remove any leading
+                    # tabs/spaces from continuation lines in the original notes.
+                    clean_text = ' '.join(text.split())
                     combined_md.append(f"**{num}.** {clean_text}")
                     combined_md.append("")
             else:
