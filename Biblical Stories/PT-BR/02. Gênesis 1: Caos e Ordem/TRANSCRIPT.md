@@ -217,3 +217,11 @@ Os alunos às vezes me perguntam, por que estudar história? É como, porque a h
 [^6]: Fenomenológico: relativo à fenomenologia, abordagem filosófica (Husserl, Heidegger) que estuda as estruturas da experiência consciente tal como ela se apresenta ao sujeito, em vez de tentar reduzi-la a explicações puramente objetivas ou científicas.
 
 [^7]: *Imprimatur* (latim: "imprima-se"): autorização oficial da Igreja Católica para imprimir um texto religioso. Aqui usado metaforicamente: as pessoas deram "autorização divina" ao padrão de trabalhar seis dias e descansar um, como se fosse uma lei cósmica.
+
+[^8]: **Mefistófeles / Fausto (Goethe)**: No *Fausto* de Goethe, Mefistófeles é o diabo que se apresenta como o "adversário da palavra" (o adversário da criação e da ordem). Peterson usa isso para ilustrar a visão niilista de que o ser é tão sofrido que seria melhor se nunca tivesse existido.
+
+[^9]: **Ivan Karamázov** (*Os Irmãos Karamázov*, Dostoiévski): personagem que questiona a bondade de Deus diante do sofrimento inocente das crianças. Representa a revolta racional contra a existência.
+
+[^10]: **"Segunda a sua espécie" (Kind / Kin)**: "Kind" em inglês significa tanto "espécie" quanto "parentesco". Peterson explora o duplo sentido: tratar os outros como parentes (ser "kind") é uma forma de bondade que reflete a ordem divina.
+
+[^11]: **Nuremberg e Soljenítsin**: Referência aos julgamentos de Nuremberg (que estabeleceram o conceito de "crimes contra a humanidade") e ao escritor Aleksandr Soljenítsin, que denunciou os horrores do totalitarismo comunista. Peterson usa isso para argumentar que existe um mal transcendente que não pode ser relativizado.
