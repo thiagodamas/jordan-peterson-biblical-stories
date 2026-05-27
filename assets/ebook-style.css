@@ -81,6 +81,23 @@ p strong, em {
     display: none;
 }
 
+/* Notas e comentários adicionais (notas órfãs sem referência no texto) */
+.additional-notes {
+    font-size: 0.85em;
+    font-style: italic;
+    color: #555;
+    margin-top: 1.2em;
+    padding-left: 0.5em;
+    border-left: 3px solid #ddd;
+}
+
+.additional-notes h3 {
+    font-size: 1em;
+    font-style: italic;
+    margin-bottom: 0.4em;
+    color: #444;
+}
+
 /* Make footnote references smaller and less intrusive */
 a.footnote-ref {
     font-size: 0.7em;

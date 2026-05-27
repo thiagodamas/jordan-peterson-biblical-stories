@@ -76,44 +76,60 @@ def get_covers(lang: str) -> List[Path]:
     return covers
 
 
-def renumber_footnotes(body: str, lecture_num: int) -> str:
-    """Renumber footnotes per lecture to avoid ID collisions in the omnibus.
-    
-    Converts [^1], [^2] etc. into [^02-1], [^02-2] (for lecture 2), etc.
-    This allows all footnotes from all 16 lectures to coexist in one document.
+def process_lecture_with_footnotes(full_content: str, lecture_num: int) -> tuple[str, list[str]]:
+    """
+    Process a lecture's full content:
+    - Extracts the spoken body (everything before the notes section).
+    - Collects ALL footnote definitions (even those without references in the text).
+    - Renumbers everything per lecture (e.g. [^02-1], [^02-2]).
+    - Returns:
+        - The processed body with references updated.
+        - A list of renumbered footnote definitions (to be printed at the end of the lecture).
     """
     prefix = f"{lecture_num:02d}"
-    
-    # Pattern to find footnote references and definitions
-    ref_pattern = re.compile(r'\[\^(\d+)\]')
-    
-    # Collect all unique footnote numbers that appear
-    footnote_ids = sorted(set(ref_pattern.findall(body)), key=int)
-    
-    if not footnote_ids:
-        return body
-    
-    # Create mapping: old_id -> new_id
-    mapping = {old: f"{prefix}-{i}" for i, old in enumerate(footnote_ids, start=1)}
-    
-    def replace_reference(match: re.Match) -> str:
+
+    # Try to split body from the notes section
+    notes_markers = ["**Notas**", "Notas\n", "\nNotas"]
+    body = full_content
+    notes_part = ""
+
+    for marker in notes_markers:
+        if marker in full_content:
+            parts = full_content.split(marker, 1)
+            body = parts[0].rstrip()
+            notes_part = parts[1]
+            break
+
+    # Find all footnote definitions in the notes section (or at the end)
+    # Pattern: [^1]: explanation (can span multiple lines until next [^n] or end)
+    def_pattern = re.compile(r'^\[\^(\d+)\]:\s*(.*?)(?=\n\[\^|\Z)', re.MULTILINE | re.DOTALL)
+    definitions = def_pattern.findall(notes_part if notes_part else full_content)
+
+    if not definitions:
+        return body, []
+
+    # Create mapping old -> new
+    old_ids = [d[0] for d in definitions]
+    mapping = {old: f"{prefix}-{i}" for i, old in enumerate(old_ids, start=1)}
+
+    # Replace references in the body
+    def replace_ref(match):
         old = match.group(1)
-        return f"[^{mapping[old]}]"
-    
-    # Replace all references in the text
-    body = ref_pattern.sub(replace_reference, body)
-    
-    # Also replace the definitions (they usually appear at the end of each lecture's body)
-    # Definition format: [^1]: explanation
-    def_pattern = re.compile(r'^(\[\^)(\d+)(\]:)', re.MULTILINE)
-    
-    def replace_definition(match: re.Match) -> str:
-        old = match.group(2)
-        return f"{match.group(1)}{mapping[old]}{match.group(3)}"
-    
-    body = def_pattern.sub(replace_definition, body)
-    
-    return body
+        if old in mapping:
+            return f"[^{mapping[old]}]"
+        return match.group(0)
+
+    body = re.sub(r'\[\^(\d+)\]', replace_ref, body)
+
+    # Build the list of renumbered definitions
+    renumbered_defs = []
+    for old_id, text in definitions:
+        new_id = mapping[old_id]
+        # Clean up the text a bit
+        text = text.strip()
+        renumbered_defs.append(f"[^{new_id}]: {text}")
+
+    return body, renumbered_defs
 
 
 def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
@@ -217,12 +233,23 @@ def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
             # Fallback — should not happen now
             body = content
 
-        # Renumber footnotes per lecture so they don't collide in the big omnibus document
-        body = renumber_footnotes(body, num)
+        # Process footnotes: renumber references + collect ALL definitions
+        # (including those without reference in the text)
+        body, footnotes = process_lecture_with_footnotes(content, num)
 
-        # Append the body as-is (## Seção I, ## Seção II, ## Seção III, etc.)
+        # Append the body
         combined_md.append(body)
         combined_md.append("")
+
+        # Append footnotes for this lecture (even orphan ones)
+        if footnotes:
+            combined_md.append("### Notas e comentários adicionais")
+            combined_md.append("")
+            combined_md.append('<div class="additional-notes">')
+            for fn in footnotes:
+                combined_md.append(fn)
+            combined_md.append("</div>")
+            combined_md.append("")
 
         # Force each lecture to start on a new page.
         # - \newpage works excellently with pdflatex (PDF)
