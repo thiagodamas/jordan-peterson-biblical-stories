@@ -96,6 +96,16 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 2. **Fase 2 (Altas)**: 06, 07, 12
 3. **Fase 3**: 02, 01, 11
 
+---
+
+## Status de Revisão (atualizado)
+
+- **Palestra 01** — Revisada em 27/05/2026.  
+  Gap original: ~3.829 palavras.  
+  Seção II e Seção IV completadas com tradução integral do conteúdo faltante.  
+  Adicionadas 5 novas notas de rodapé (Jung, Freud, conhecimento incorporado, fenomenologia, cosmologia mesopotâmica).  
+  Status atual: **Concluída / Gap significativamente reduzido**.
+
 ## Observações Técnicas
 
 - Em quase todos os casos, o **número de seções** e de **timestamps** bate entre EN e PT-BR. Isso indica que o problema não é ausência de estrutura, mas **conteúdo falado truncado** dentro das seções.
