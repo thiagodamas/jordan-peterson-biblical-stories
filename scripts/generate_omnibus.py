@@ -12,7 +12,9 @@ Usage:
 """
 
 import argparse
+import os
 import re
+import shutil
 import subprocess
 import sys
 import tempfile
@@ -243,12 +245,13 @@ def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
 
         # Append footnotes for this lecture (even orphan ones)
         if footnotes:
+            combined_md.append("")
+            combined_md.append("::: {.additional-notes}")
             combined_md.append("### Notas e comentários adicionais")
             combined_md.append("")
-            combined_md.append('<div class="additional-notes">')
             for fn in footnotes:
                 combined_md.append(fn)
-            combined_md.append("</div>")
+            combined_md.append(":::")
             combined_md.append("")
 
         # Force each lecture to start on a new page.
@@ -298,8 +301,8 @@ def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
         pdf_success = False
         if generate_pdf:
             print("Generating Complete PDF from EPUB...")
-            pdf_cmd = [
-                "xvfb-run", "--auto-servernum", "--server-args=-screen 0 1024x768x24",
+            
+            ebook_cmd = [
                 "ebook-convert",
                 str(epub_path),
                 str(pdf_path),
@@ -313,6 +316,14 @@ def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
                 "--title", f"{title} - {suffix}",
                 "--authors", "Jordan B. Peterson",
             ]
+            
+            # Use xvfb-run only in headless/CI environments (Linux without display).
+            # On macOS or normal desktops, run ebook-convert directly.
+            if shutil.which("xvfb-run") and (os.environ.get("CI") or not os.environ.get("DISPLAY")):
+                pdf_cmd = ["xvfb-run", "--auto-servernum", "--server-args=-screen 0 1024x768x24"] + ebook_cmd
+            else:
+                pdf_cmd = ebook_cmd
+            
             pdf_success = True
             try:
                 subprocess.run(pdf_cmd, check=True, capture_output=True)
