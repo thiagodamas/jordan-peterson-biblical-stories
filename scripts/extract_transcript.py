@@ -76,6 +76,25 @@ def find_main_content(soup: BeautifulSoup) -> Tag:
     return soup.body or soup
 
 
+def collect_all_transcript_content(soup: BeautifulSoup) -> Tag:
+    """
+    Enhanced collector for old jordanbpeterson.com pages.
+    Some sections were hidden inside .spoiler divs. We try to gather
+    the main content + any spoiler blocks that contain real transcript text.
+    """
+    main = find_main_content(soup)
+    
+    # Collect any .spoiler divs that have substantial text (these often contained
+    # the actual spoken content after section headings on the old site)
+    spoilers = soup.select(".spoiler")
+    for sp in spoilers:
+        if len(sp.get_text(strip=True)) > 300:
+            # Append the spoiler content to the main container for extraction
+            main.append(sp)
+    
+    return main
+
+
 def clean_soup(soup: BeautifulSoup) -> None:
     """
     Conservative cleanup: remove only obvious non-content elements
@@ -91,6 +110,7 @@ def clean_soup(soup: BeautifulSoup) -> None:
         '[class*="share-"]', '[id*="share"]',
         ".related-posts", ".post-share", ".social-links",
         ".comment", ".comments-area",
+        # Do NOT remove .spoiler — the old site put real transcript content inside these
     ]
     for sel in junk_selectors:
         for el in soup.select(sel):
@@ -222,7 +242,9 @@ def extract_lecture(number: int, output_dir: Optional[Path] = None) -> Path:
     raw_html = extract_html_from_mhtml(mhtml_path)
     soup = BeautifulSoup(raw_html, "html.parser")
 
-    main = find_main_content(soup)
+    # Use the enhanced collector that also pulls in .spoiler content
+    # (the old site hid large parts of the transcript inside these)
+    main = collect_all_transcript_content(soup)
     clean_soup(main)
 
     # Convert to markdown
