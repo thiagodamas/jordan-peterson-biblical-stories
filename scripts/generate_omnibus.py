@@ -12,6 +12,7 @@ Usage:
 """
 
 import argparse
+import re
 import subprocess
 import sys
 import tempfile
@@ -73,6 +74,46 @@ def get_covers(lang: str) -> List[Path]:
         covers.append(cover if cover and cover.exists() else None)
 
     return covers
+
+
+def renumber_footnotes(body: str, lecture_num: int) -> str:
+    """Renumber footnotes per lecture to avoid ID collisions in the omnibus.
+    
+    Converts [^1], [^2] etc. into [^02-1], [^02-2] (for lecture 2), etc.
+    This allows all footnotes from all 16 lectures to coexist in one document.
+    """
+    prefix = f"{lecture_num:02d}"
+    
+    # Pattern to find footnote references and definitions
+    ref_pattern = re.compile(r'\[\^(\d+)\]')
+    
+    # Collect all unique footnote numbers that appear
+    footnote_ids = sorted(set(ref_pattern.findall(body)), key=int)
+    
+    if not footnote_ids:
+        return body
+    
+    # Create mapping: old_id -> new_id
+    mapping = {old: f"{prefix}-{i}" for i, old in enumerate(footnote_ids, start=1)}
+    
+    def replace_reference(match: re.Match) -> str:
+        old = match.group(1)
+        return f"[^{mapping[old]}]"
+    
+    # Replace all references in the text
+    body = ref_pattern.sub(replace_reference, body)
+    
+    # Also replace the definitions (they usually appear at the end of each lecture's body)
+    # Definition format: [^1]: explanation
+    def_pattern = re.compile(r'^(\[\^)(\d+)(\]:)', re.MULTILINE)
+    
+    def replace_definition(match: re.Match) -> str:
+        old = match.group(2)
+        return f"{match.group(1)}{mapping[old]}{match.group(3)}"
+    
+    body = def_pattern.sub(replace_definition, body)
+    
+    return body
 
 
 def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
@@ -175,6 +216,9 @@ def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
         else:
             # Fallback — should not happen now
             body = content
+
+        # Renumber footnotes per lecture so they don't collide in the big omnibus document
+        body = renumber_footnotes(body, num)
 
         # Append the body as-is (## Seção I, ## Seção II, ## Seção III, etc.)
         combined_md.append(body)
