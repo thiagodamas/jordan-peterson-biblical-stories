@@ -51,7 +51,7 @@ Li na Harper's Magazine, em um ponto, que as pessoas prefeririam ser assaltadas 
 As histórias gerais são, bem, você pode ser morto — porque é um dragão — mas é apenas pode, em oposição a definitivamente será morto se ele acontecer de atacar você às três da manhã, em casa, quando você está de ressaca, foi um dia ruim, e você não tem sua espada e escudo prontos. Geralmente é isso que acontece com as pessoas que evitam coisas. Não é algo que deveria ser recomendado. Você está ferrado dos dois lados. Essa é uma das coisas que é tão legal sobre ser profundamente pessimista: é tão libertador. Saber que, às vezes, não importa o que você fizer você está encrencado é um hábito realmente útil de desenvolver. Isso é um alívio. Então você pode parar de remexer procurando a saída. Não há saída, cara. Você pode escolher a morte miserável A ou a morte um pouco menos miserável B. Algo assim. Sei que essa é uma maneira terrível de olhar as coisas, mas é extraordinariamente útil entender que muitas vezes sua escolha se resume a escolher a opção menos ruim. Se isso é tudo o que você pode fazer, se é assim que a vida está se revelando para você, é como, bem, mais poder para você. A opção menos ruim — isso é o melhor que você pode fazer. É bom o suficiente, especialmente comparado à alternativa, que é a opção mais ruim.
 
 
-## Seção II
+## Seção IV
 
 [TIMESTAMP](https://www.youtube.com/watch?v=wNjbasba-Qw&t=1474)
 

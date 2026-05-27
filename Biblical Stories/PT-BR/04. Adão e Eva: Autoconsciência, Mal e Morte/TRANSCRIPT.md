@@ -45,7 +45,7 @@ Há um equilíbrio dinâmico entre o hemisfério direito e o esquerdo, onde o es
 Gosto dessa teoria também, porque também ajuda a justificar a hipótese que venho expondo para vocês, que é que há uma parte de nós que se estende para o mundo, e tenta entender o que não sabemos, e que essa parte se estende com comportamento, emoção, imagem, e então, talvez, com poesia e narrativa. À medida que isso se desenvolve, então desenvolvemos representações mais articuladas desse conhecimento emergente. Você pode mapear isso muito bem na presunção do neurologista e do neuropsicólogo sobre o que constitui a razão para a diferenciação hemisférica. A outra coisa que é tão legal sobre o argumento da diferenciação hemisférica, até onde estou preocupado — e isso é realmente algo para se pensar, cara, porque é um… Há uma palavra que Ned Flanders usa para isso… Coçador de cabeça. Acho que é algo assim. Hah. De qualquer forma, fazemos a suposição de que aquilo para o que estamos biologicamente adaptados é a realidade. É na verdade uma definição axiomática, se você for darwinista, porque a natureza é o que seleciona — por definição, é isso que a natureza é: é o que seleciona. E se a natureza que seleciona impôs a você uma estrutura hemisférica dual — porque metade de você tem que lidar com caos, e metade de você tem que lidar com ordem — então você pode fazer um caso inferencial muito bom de que o mundo é feito de caos e ordem, e isso é realmente algo para se pensar, cara. Então você pode pensar nisso por um tempo, se quiser.
 
 
-## Seção II
+## Seção IV
 
 [TIMESTAMP](https://youtu.be/Ifi5KkXig3s?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat&t=1195)
 

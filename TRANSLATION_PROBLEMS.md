@@ -117,6 +117,26 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
   Nenhuma duplicação grave de frases encontrada. Estrutura agora com 6 seções corretas + Notas.  
   Status final: **Concluída**.
 
+- **Palestra 03** — Estrutura corrigida + tradução iniciada (27/05/2026).  
+  Gap original: ~1.506 palavras.  
+  Cabeçalhos duplicados corrigidos. Tradução parcial de conteúdo faltante na Seção IV (Piaget, jogo e moralidade, hierarquia de competência). Novas notas adicionadas.  
+  Status: **Em andamento / Estrutura consertada**.
+
+- **Palestra 04** — Estrutura corrigida (27/05/2026).  
+  Gap original: ~3.387 palavras.  
+  Cabeçalhos duplicados ("Seção I" e "Seção V") renomeados para IV e VI. Backup criado.  
+  Status: **Estrutura consertada. Tradução pendente**.
+
+- **Palestra 05** — Estrutura corrigida (27/05/2026).  
+  Gap original: ~1.264 palavras.  
+  Cabeçalhos duplicados corrigidos. Backup criado.  
+  Status: **Estrutura consertada. Tradução pendente**.
+
+- **Palestra 06** — Estrutura corrigida (27/05/2026).  
+  Gap original: ~12.509 palavras (uma das piores).  
+  Cabeçalhos duplicados corrigidos. Backup criado.  
+  Status: **Estrutura consertada. Tradução pendente (será a mais pesada)**.
+
 ## Observações Técnicas
 
 - Em quase todos os casos, o **número de seções** e de **timestamps** bate entre EN e PT-BR. Isso indica que o problema não é ausência de estrutura, mas **conteúdo falado truncado** dentro das seções.

@@ -188,7 +188,26 @@ Houve muitas simulações de inteligência artificial de jogos de troca. As pess
 
 Essa é também a razão pela qual acho que os malditos pós-modernistas estão tão errados. Eles dizem que há um número infinito de interpretações do mundo. Isso é realmente verdade, mas é aqui que eles cometem um erro: eles dizem que nenhuma interpretação deve ser privilegiada sobre qualquer outra interpretação. É como, errado. Errado. É aí que as coisas vão seriamente pelos trilhos. A interpretação tem que ser — e esse é o objetivo piagetiano — se você e eu vamos jogar um jogo, regra um é que ambos temos que querer jogar. Regra dois é que outras pessoas vão nos deixar jogar. Regra três é que devemos ser capazes de jogar por um período razoavelmente longo sem que isso se deteriore. Talvez regra quatro seja, enquanto estamos jogando, o mundo não deveria nos matar. Não há muitos jogos — você não manda seus filhos brincar na autoestrada, certo? Eles não estão jogando hóquei na autoestrada, porque o mundo os mata. Há um número infinito de interpretações, mas não há um número infinito de soluções. As soluções são restringidas pelo fato do mundo e nosso sofrimento no mundo, e também restringidas pelo fato de que nos restringimos mutuamente. É aí que acho que isso deu terrivelmente, terrivelmente errado.
 
+Jean Piaget foi um dos primeiros a entender que a moralidade emerge do jogo. Ele observou crianças brincando e percebeu que, para o jogo funcionar por muito tempo sem se deteriorar, as crianças precisam criar e seguir regras. E essas regras não são impostas de fora — elas surgem da própria interação das crianças. É um processo de construção social e biológica ao mesmo tempo.
+
+Isso é extremamente importante porque significa que a noção de "jogo justo" está embutida em nós de forma muito profunda. Quando alguém quebra as regras do jogo de forma flagrante, todos os outros jogadores sentem que algo está errado no nível visceral. É como se o jogo em si fosse uma forma primitiva de moralidade.
+
+Piaget via quatro estágios básicos no desenvolvimento do jogo e da moralidade nas crianças:
+
+1. O jogo motor individual (a criança brinca sozinha, sem regras sociais).
+2. O jogo egocêntrico (a criança joga com outras, mas ainda não entende que as regras são compartilhadas).
+3. O jogo de cooperação incipiente (as crianças começam a tentar coordenar as regras).
+4. O jogo de regras codificadas (as crianças entendem que as regras são arbitrárias mas necessárias, e podem ser mudadas por consenso).
+
+O que é brilhante nessa ideia é que a moralidade não é algo que simplesmente cai do céu ou é imposto pelos adultos de forma arbitrária. Ela emerge da necessidade prática de brincar junto com outras pessoas de forma sustentável. Se você quer continuar jogando com os outros, você tem que desenvolver um senso de justiça, de reciprocidade, de consideração pelo ponto de vista do outro.
+
+Isso se conecta diretamente com a hierarquia de dominância. Em um grupo de crianças brincando, surge naturalmente uma estrutura de quem é mais habilidoso, quem lidera, quem segue. Mas essa hierarquia só se mantém estável se for percebida como justa pela maioria. Se alguém domina de forma cruel ou trapaceira, o jogo desmorona.
+
+É por isso que as hierarquias de competência tendem a ser mais estáveis e produtivas do que as hierarquias puramente de poder. Quando a dominância é baseada em habilidade real e respeito mútuo, as pessoas aceitam melhor a estrutura. Quando é baseada apenas em força bruta ou manipulação, ela gera ressentimento e eventual revolta.
+
 ## Seção V
+
+[TIMESTAMP](https://youtu.be/R_GPAl_q2QQ?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat&t=5696)
 
 [TIMESTAMP](https://youtu.be/R_GPAl_q2QQ?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat&t=5696)
 
@@ -274,6 +293,18 @@ São Jorge é o santo padroeiro da Inglaterra. Isso realmente ilumina a propens�
 
 [^7]: *Impresario*: empresário ou promotor (no contexto de luta livre, o organizador dos eventos). Usado aqui para descrever Stu Hart, pai da família de lutadores.
 
+[^8]: **Jean Piaget** (1896–1980): psicólogo suíço. Peterson destaca sua descoberta de que a moralidade emerge do jogo entre crianças, como um processo de construção de regras justas para que o jogo possa continuar de forma sustentável.
+
+[^9]: **Jogo e moralidade**: segundo Piaget, noções de justiça, reciprocidade e consideração pelo outro surgem da necessidade prática de brincar junto com os outros sem que o jogo desmorone. Essa é uma das raízes profundas da moralidade humana.
+
+[^10]: **Hierarquia de competência vs. poder bruto**: hierarquias baseadas em habilidade real e respeito mútuo tendem a ser mais estáveis e produtivas. Quando a dominância é apenas força ou manipulação, ela gera ressentimento e eventual colapso.
+
 ---
 
 **Fim da Lecture 03**
+
+[^8]: **Jean Piaget** (1896–1980): psicólogo suíço. Peterson destaca sua descoberta de que a moralidade emerge do jogo entre crianças, como um processo natural de construção de regras justas.
+
+[^9]: **Jogo e moralidade**: noções de justiça e reciprocidade surgem da necessidade prática de brincar junto de forma sustentável. Essa é uma das raízes biológicas e sociais da moralidade.
+
+[^10]: **Hierarquia de competência vs. poder**: hierarquias baseadas em habilidade e respeito mútuo são mais estáveis. Dominância pura por força gera ressentimento e colapso.

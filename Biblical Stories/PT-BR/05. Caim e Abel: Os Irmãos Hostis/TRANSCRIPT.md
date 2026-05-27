@@ -49,7 +49,7 @@ Não é fácil para as crianças aprenderem a regular esses impulsos subjacentes
 De qualquer forma, isso emerge em crianças provavelmente entre as idades de dois e quatro anos. Algo assim. Elas deveriam ter isso no lugar aos quatro, porque é muito difícil para elas realmente interagirem bem com outras crianças sem ter esse adiamento da gratificação no lugar. Se você não consegue adiar a gratificação, outras crianças não gostam de você, porque você quer tudo do seu jeito, e quer agora, e é propenso a ter uma birra, e esse tipo de coisa. Você não tem o tipo de autocontrole necessário para torná-lo divertido para brincar. Então você pode ver isso emergindo em crianças, e é bem interessante. Não só isso, mas à medida que emerge, prediz resultados positivos de longo prazo — assim como a traço de conscienciosidade faz, aliás. A traço de conscienciosidade é o segundo melhor preditor de sucesso de longo prazo, ao longo da vida, em culturas ocidentais. É o segundo depois da inteligência. Em nossas sociedades, as pessoas que se dão melhor ao longo do tempo são as pessoas que têm QI alto e trabalham duro. Eu diria que isso é uma validação bastante decente…Como você chamaria…É uma validação, em algum sentido, de que nossas culturas estão funcionando adequadamente. O que você quer, eu diria — se o sistema está funcionando meritocraticamente, como deveria, e se você está tentando extrair recursos daqueles que podem contribuir a uma taxa mais alta — é que as pessoas trabalhadoras e inteligentes se deem melhor. Esperançosamente, se esse for o caso, então todos se dão melhor. Esperançosamente. De qualquer forma, você pode ver isso se desenvolvendo em crianças.
 
 
-## Seção II
+## Seção IV
 
 [TIMESTAMP](https://youtu.be/44f3mxcsI50?t=1091)
 
