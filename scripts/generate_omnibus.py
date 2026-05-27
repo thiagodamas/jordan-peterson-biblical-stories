@@ -78,74 +78,18 @@ def get_covers(lang: str) -> List[Path]:
     return covers
 
 
-def process_lecture_with_footnotes(full_content: str, lecture_num: int) -> tuple[str, list[str], list[str]]:
+def split_lecture_content(full_content: str) -> tuple[str, str]:
     """
-    Process a lecture's full content:
-    - Extracts the spoken body (everything before the notes section).
-    - Collects ALL footnote definitions (even those without references in the text).
-    - Renumbers everything per lecture (e.g. [^02-1], [^02-2]).
-    - Returns:
-        - The processed body with references updated.
-        - A list of renumbered footnote definitions for which there IS a reference in the body
-          (these will be emitted as real [^id]: defs so Pandoc generates proper popup footnotes).
-        - A list of renumbered footnote definitions for which there is NO reference in the body
-          ("orphan" notes added during translation). These will be rendered as visible plain text
-          inside a "Notas e comentários adicionais" section.
+    Simple split: returns (spoken_body, notes_section_raw).
+    Notes section is everything after the first **Notas** marker.
+    This replaces the old complex footnote renumbering logic.
     """
-    prefix = f"{lecture_num:02d}"
-
-    # Try to split body from the notes section
-    notes_markers = ["**Notas**", "Notas\n", "\nNotas"]
-    body = full_content
-    notes_part = ""
-
-    for marker in notes_markers:
+    markers = ["**Notas**", "Notas\n", "\nNotas"]
+    for marker in markers:
         if marker in full_content:
-            parts = full_content.split(marker, 1)
-            body = parts[0].rstrip()
-            notes_part = parts[1]
-            break
-
-    # Find all footnote definitions in the notes section (or at the end)
-    # Pattern: [^1]: explanation (can span multiple lines until next [^n] or end)
-    def_pattern = re.compile(r'^\[\^(\d+)\]:\s*(.*?)(?=\n\[\^|\Z)', re.MULTILINE | re.DOTALL)
-    definitions = def_pattern.findall(notes_part if notes_part else full_content)
-
-    if not definitions:
-        return body, [], []
-
-    # Create mapping old -> new
-    old_ids = [d[0] for d in definitions]
-    mapping = {old: f"{prefix}-{i}" for i, old in enumerate(old_ids, start=1)}
-
-    # Replace references in the body
-    def replace_ref(match):
-        old = match.group(1)
-        if old in mapping:
-            return f"[^{mapping[old]}]"
-        return match.group(0)
-
-    body = re.sub(r'\[\^(\d+)\]', replace_ref, body)
-
-    # Build the list of renumbered definitions and partition into referenced vs orphan
-    renumbered_defs = []
-    for old_id, text in definitions:
-        new_id = mapping[old_id]
-        text = text.strip()
-        renumbered_defs.append((new_id, text))
-
-    # Which new ids actually appear as references in the (rewritten) body?
-    used_ids = set(re.findall(r'\[\^(\d{2}-\d+)\]', body))
-
-    referenced_defs = []
-    orphan_defs = []
-    for new_id, text in renumbered_defs:
-        if new_id in used_ids:
-            referenced_defs.append(f"[^{new_id}]: {text}")
-        else:
-            orphan_defs.append(f"[^{new_id}]: {text}")
-
-    return body, referenced_defs, orphan_defs
+            body, notes = full_content.split(marker, 1)
+            return body.rstrip(), notes.strip()
+    return full_content, ""
 
 
 def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
@@ -244,41 +188,33 @@ def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
         idx = content.find(marker)
         relevant = content[idx:] if idx != -1 else content
 
-        # Process footnotes: renumber references + partition ALL definitions into
-        # referenced (for Pandoc popup footnotes) vs orphan (for visible section).
-        processed_body, referenced_footnotes, orphan_footnotes = process_lecture_with_footnotes(relevant, num)
+        # Simple split - no more renumbering or Pandoc footnote magic needed.
+        # Notes are now just another section with distinct formatting.
+        body, notes_raw = split_lecture_content(relevant)
 
-        # Append the body (starts cleanly at Seção I when available)
-        combined_md.append(processed_body)
+        combined_md.append(body)
         combined_md.append("")
 
-        # Emit bare footnote definitions ONLY for notes that are actually referenced
-        # in the lecture body. This lets Pandoc generate the proper EPUB3 popup
-        # <aside epub:type="footnote"> endnotes that work in Apple Books etc.
-        # (These definition lines are consumed and do not appear as visible text.)
-        if referenced_footnotes:
-            for fn in referenced_footnotes:
-                combined_md.append(fn)
+        # Render notes (if present) as a clearly styled section at the end of the lecture.
+        # This is now the only way notes appear - always visible, reliable across readers.
+        if notes_raw:
+            combined_md.append("")
+            combined_md.append("::: {.lecture-notes}")
+            combined_md.append("### Notas")
             combined_md.append("")
 
-        # For orphan notes (definitions with no [^ref] in the body text):
-        # render them as ordinary visible paragraphs inside the styled fenced div.
-        # This guarantees they appear at the end of each lecture in every reader
-        # (including Apple Books), with the requested italic/smaller styling.
-        if orphan_footnotes:
-            combined_md.append("")
-            combined_md.append("::: {.additional-notes}")
-            combined_md.append("### Notas e comentários adicionais")
-            combined_md.append("")
-            for fn in orphan_footnotes:
-                # Turn "[^02-3]: explanation text" into a readable paragraph
-                m = re.match(r'\[\^([^\]]+)\]:\s*(.*)', fn, re.DOTALL)
-                if m:
-                    nid, txt = m.groups()
-                    combined_md.append(f"**Nota {nid}**: {txt.strip()}")
+            # Reformat the raw [^n]: lines into clean, readable paragraphs
+            # while keeping the original note numbers.
+            note_lines = re.findall(r'^\[\^(\d+)\]:\s*(.*?)(?=\n\[\^|\Z)', notes_raw, re.MULTILINE | re.DOTALL)
+            if note_lines:
+                for num, text in note_lines:
+                    clean_text = text.strip().replace('\n', ' ')
+                    combined_md.append(f"**{num}.** {clean_text}")
                     combined_md.append("")
-                else:
-                    combined_md.append(fn)
+            else:
+                # Fallback: dump raw notes content
+                combined_md.append(notes_raw)
+
             combined_md.append(":::")
             combined_md.append("")
 

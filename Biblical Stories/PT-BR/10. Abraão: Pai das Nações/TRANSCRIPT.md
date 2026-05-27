@@ -88,19 +88,19 @@ Obrigado por terem vindo. Na próxima vamos para uma das histórias mais difíce
 
 ## Notas de rodapé
 
-[^1]: **Pai de muitas nações**: O título da lecture. A promessa a Abraão não é só pessoal ou tribal — é universal. A aliança vai gerar ramificações que afetam toda a humanidade (judeus, cristãos, muçulmanos traçam linhagem até ele).
+: **Pai de muitas nações**: O título da lecture. A promessa a Abraão não é só pessoal ou tribal — é universal. A aliança vai gerar ramificações que afetam toda a humanidade (judeus, cristãos, muçulmanos traçam linhagem até ele).
 
-[^2]: **A crise de sucesso**: Tema psicológico recorrente. Quando você alcança o que queria (formar-se, conseguir o emprego, terminar o projeto), surge a pergunta: "e agora?". As histórias abraâmicas são pontuadas por momentos de sacrifício e reorientação exatamente depois de vitórias ou chegadas.
+: **A crise de sucesso**: Tema psicológico recorrente. Quando você alcança o que queria (formar-se, conseguir o emprego, terminar o projeto), surge a pergunta: "e agora?". As histórias abraâmicas são pontuadas por momentos de sacrifício e reorientação exatamente depois de vitórias ou chegadas.
 
-[^3]: **A aliança como contrato psicológico**: Não é só "Deus promete". É um acordo mútuo. Abraão tem que manter sua parte (integridade, sacrifício, orientação correta) para que a promessa se cumpra. É o equivalente psicológico da arca de Noé.
+: **A aliança como contrato psicológico**: Não é só "Deus promete". É um acordo mútuo. Abraão tem que manter sua parte (integridade, sacrifício, orientação correta) para que a promessa se cumpra. É o equivalente psicológico da arca de Noé.
 
-[^4]: **Ismael vs Isaque**: A tentativa humana de "ajudar" a promessa divina (Sara dando Agar) gera consequências reais e duradouras. Deus cumpre a promessa original (Isaque), mas também abençoa o resultado do erro humano (Ismael). A vida real é complicada assim.
+: **Ismael vs Isaque**: A tentativa humana de "ajudar" a promessa divina (Sara dando Agar) gera consequências reais e duradouras. Deus cumpre a promessa original (Isaque), mas também abençoa o resultado do erro humano (Ismael). A vida real é complicada assim.
 
-[^5]: **"Ande na minha presença e seja perfeito"**: A injunção repetida. Não significa perfeição moral impecável (Abraão mente duas vezes). Significa manter a orientação para o mais alto ideal possível, mesmo depois de falhar.
+: **"Ande na minha presença e seja perfeito"**: A injunção repetida. Não significa perfeição moral impecável (Abraão mente duas vezes). Significa manter a orientação para o mais alto ideal possível, mesmo depois de falhar.
 
-[^6]: **A recusa de recompensa (L09) repetida aqui**: Abraão consistentemente se recusa a se beneficiar de forma imprópria de suas ações corretas. Manutenção da pureza ética do motivo.
+: **A recusa de recompensa (L09) repetida aqui**: Abraão consistentemente se recusa a se beneficiar de forma imprópria de suas ações corretas. Manutenção da pureza ética do motivo.
 
-[^7]: **O transe de Abraão**: Peterson trata as visões e transe de forma psicológica (estados alterados de consciência, revelação interna) sem descartar o mistério. O importante não é o mecanismo, mas o conteúdo: a aliança e a promessa.
+: **O transe de Abraão**: Peterson trata as visões e transe de forma psicológica (estados alterados de consciência, revelação interna) sem descartar o mistério. O importante não é o mecanismo, mas o conteúdo: a aliança e a promessa.
 
 ---
 

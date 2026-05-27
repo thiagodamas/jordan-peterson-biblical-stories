@@ -176,19 +176,19 @@ Isso é Páscoa, e a Morte e Ressurreição de Cristo. Esquecemos ou permanecemo
 
 ## Notas de rodapé
 
-[^1]: **Dois modos de ver o mundo**: O mundo como "lugar de coisas" (ciência, objetividade) e o mundo como "fórum para a ação" (valor, narrativa, mito). Nenhum é completo sozinho. O segundo tem precedência porque somos seres vivos que precisam agir.
+: **Dois modos de ver o mundo**: O mundo como "lugar de coisas" (ciência, objetividade) e o mundo como "fórum para a ação" (valor, narrativa, mito). Nenhum é completo sozinho. O segundo tem precedência porque somos seres vivos que precisam agir.
 
-[^2]: **Morte e renascimento como processo psicológico**: Não é invenção cristã. É o padrão básico do desenvolvimento humano: toda crise séria exige a morte de concepções antigas pra que novas possam nascer. Sem isso, não há aprendizado nem crescimento.
+: **Morte e renascimento como processo psicológico**: Não é invenção cristã. É o padrão básico do desenvolvimento humano: toda crise séria exige a morte de concepções antigas pra que novas possam nascer. Sem isso, não há aprendizado nem crescimento.
 
-[^3]: **Imitação de Cristo**: Para Peterson (seguindo Jung), significa identificar-se com o processo de morte voluntária do inadequado e renascimento no serviço de algo melhor — repetidamente, ao longo da vida. Não é crença em fatos, mas encarnação de um modo de ser.
+: **Imitação de Cristo**: Para Peterson (seguindo Jung), significa identificar-se com o processo de morte voluntária do inadequado e renascimento no serviço de algo melhor — repetidamente, ao longo da vida. Não é crença em fatos, mas encarnação de um modo de ser.
 
-[^4]: **"Pegue sua cruz"**: Aceitar o fardo da tragédia e traição da própria vida, em vez de rebelar-se contra a existência ou buscar vingança infinita. Esse é o caminho que impede que a tragédia se torne inferno.
+: **"Pegue sua cruz"**: Aceitar o fardo da tragédia e traição da própria vida, em vez de rebelar-se contra a existência ou buscar vingança infinita. Esse é o caminho que impede que a tragédia se torne inferno.
 
-[^5]: **Logos**: A Palavra eterna que traz ordem habitável ao caos através do confronto voluntário e verdadeiro. Cada pessoa é um centro de Logos quando age com coragem e verdade.
+: **Logos**: A Palavra eterna que traz ordem habitável ao caos através do confronto voluntário e verdadeiro. Cada pessoa é um centro de Logos quando age com coragem e verdade.
 
-[^6]: **Red Queen de Alice**: Referência recorrente em Peterson. O ambiente muda tão rápido que você tem que correr o mais rápido que consegue só pra ficar no mesmo lugar. Parar de se transformar é cair pra trás.
+: **Red Queen de Alice**: Referência recorrente em Peterson. O ambiente muda tão rápido que você tem que correr o mais rápido que consegue só pra ficar no mesmo lugar. Parar de se transformar é cair pra trás.
 
-[^7]: **O mistério do impacto do cristianismo**: Mesmo ateus como Dawkins e Harris reconhecem que a história da morte e ressurreição de Cristo exerceu influência imensa. Peterson argumenta que isso reflete uma verdade psicológica profunda sobre a necessidade de morte e renascimento voluntários.
+: **O mistério do impacto do cristianismo**: Mesmo ateus como Dawkins e Harris reconhecem que a história da morte e ressurreição de Cristo exerceu influência imensa. Peterson argumenta que isso reflete uma verdade psicológica profunda sobre a necessidade de morte e renascimento voluntários.
 
 ---
 

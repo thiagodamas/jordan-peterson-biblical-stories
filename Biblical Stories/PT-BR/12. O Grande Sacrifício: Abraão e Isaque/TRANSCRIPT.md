@@ -94,19 +94,19 @@ Obrigado por terem vindo durante estas 12 palestras. Foi uma jornada extraordin�
 
 ## Notas de rodapé
 
-[^1]: **A Ligação de Isaque (Akedah)**: Uma das histórias mais famosas e perturbadoras da Bíblia. Testa o limite da aliança. Não é um teste sádico, mas a verificação se a fé de Abraão é real até o ponto de sacrificar o futuro prometido.
+: **A Ligação de Isaque (Akedah)**: Uma das histórias mais famosas e perturbadoras da Bíblia. Testa o limite da aliança. Não é um teste sádico, mas a verificação se a fé de Abraão é real até o ponto de sacrificar o futuro prometido.
 
-[^2]: **Sacrifício como reconstituição**: Toda vez que uma "aventura" de Abraão termina (vitória ou chegada), ele faz um sacrifício e se reorienta. O sacrifício não é punição — é o processo de deixar o velho pra trás pra poder avançar pro próximo estágio.
+: **Sacrifício como reconstituição**: Toda vez que uma "aventura" de Abraão termina (vitória ou chegada), ele faz um sacrifício e se reorienta. O sacrifício não é punição — é o processo de deixar o velho pra trás pra poder avançar pro próximo estágio.
 
-[^3]: **A crise de Sara e Agar**: Consequências reais de decisões humanas apressadas (Sara entregando Agar). A divisão familiar é dolorosa. Mesmo assim Deus abençoa ambos os ramos (Isaque e Ismael). A vida real é assim: erros têm consequências, mas a graça continua.
+: **A crise de Sara e Agar**: Consequências reais de decisões humanas apressadas (Sara entregando Agar). A divisão familiar é dolorosa. Mesmo assim Deus abençoa ambos os ramos (Isaque e Ismael). A vida real é assim: erros têm consequências, mas a graça continua.
 
-[^4]: **"Não estendas a tua mão"**: O momento de alívio supremo. O sacrifício exigido é transformado no último segundo. O ponto não é a morte do filho, mas a demonstração de que Abraão está disposto a entregar até o que Deus prometeu — e por isso o filho é devolvido.
+: **"Não estendas a tua mão"**: O momento de alívio supremo. O sacrifício exigido é transformado no último segundo. O ponto não é a morte do filho, mas a demonstração de que Abraão está disposto a entregar até o que Deus prometeu — e por isso o filho é devolvido.
 
-[^5]: **O carneiro no mato**: Substituição. O sacrifício acontece, mas não é o ser humano inocente. Tema que ecoa por toda a tradição (cordeiro pascal, sacrifício de Cristo).
+: **O carneiro no mato**: Substituição. O sacrifício acontece, mas não é o ser humano inocente. Tema que ecoa por toda a tradição (cordeiro pascal, sacrifício de Cristo).
 
-[^6]: **Adoração como ação**: Peterson redefine "adorar" não como bajulação ou submissão servil, mas como o ato contínuo de encenar o Bem e reconceitualizá-lo cada vez melhor. É o processo de mira ética.
+: **Adoração como ação**: Peterson redefine "adorar" não como bajulação ou submissão servil, mas como o ato contínuo de encenar o Bem e reconceitualizá-lo cada vez melhor. É o processo de mira ética.
 
-[^7]: **Abraão como arquétipo do Ocidente**: O indivíduo que sai de casa, erra, sofre, é testado até o limite, mas mantém a aliança com o Bem. Essa disposição é a raiz da civilização que valoriza a responsabilidade individual, a luta ética e a renovação contínua.
+: **Abraão como arquétipo do Ocidente**: O indivíduo que sai de casa, erra, sofre, é testado até o limite, mas mantém a aliança com o Bem. Essa disposição é a raiz da civilização que valoriza a responsabilidade individual, a luta ética e a renovação contínua.
 
 ---
 

@@ -225,18 +225,18 @@ Há a Queda na história, e então há a descoberta do sacrifício como um medic
 
 ---
 
-[^1]: Ayahuasca — planta visionária sul-americana usada em cerimônias; aqui, símbolo do encontro com o "reino arquetípico" e o princípio feminino (a Grande Mãe), contrastando com o logos.
+: Ayahuasca — planta visionária sul-americana usada em cerimônias; aqui, símbolo do encontro com o "reino arquetípico" e o princípio feminino (a Grande Mãe), contrastando com o logos.
 
-[^2]: Teste do Marshmallow — clássico experimento de Walter Mischel sobre capacidade de adiar gratificação em crianças; prediz sucesso de longo prazo (associado à traço de conscienciosidade).
+: Teste do Marshmallow — clássico experimento de Walter Mischel sobre capacidade de adiar gratificação em crianças; prediz sucesso de longo prazo (associado à traço de conscienciosidade).
 
-[^3]: Sacrifício como contrato com o futuro — ideia central de Peterson: sacrificar o presente para melhorar o futuro (e o de seus descendentes). O Antigo Testamento dramatiza isso de forma concreta.
+: Sacrifício como contrato com o futuro — ideia central de Peterson: sacrificar o presente para melhorar o futuro (e o de seus descendentes). O Antigo Testamento dramatiza isso de forma concreta.
 
-[^4]: Sombra (Jung) — o lado reprimido e potencialmente destrutivo da psique; aqui associado a Caim e ao potencial de malevolência voluntária em todo ser humano.
+: Sombra (Jung) — o lado reprimido e potencialmente destrutivo da psique; aqui associado a Caim e ao potencial de malevolência voluntária em todo ser humano.
 
-[^5]: Aliança profana (Jung) — entre a mãe edípica superprotetora e a criança hiper-dependente; um círculo vicioso que impede o desenvolvimento.
+: Aliança profana (Jung) — entre a mãe edípica superprotetora e a criança hiper-dependente; um círculo vicioso que impede o desenvolvimento.
 
-[^6]: "Se procederes bem, não serás aceito?" — linha chave: o fracasso pode ser consequência de sacrifícios de baixa qualidade ou de não estar agindo com retidão.
+: "Se procederes bem, não serás aceito?" — linha chave: o fracasso pode ser consequência de sacrifícios de baixa qualidade ou de não estar agindo com retidão.
 
-[^7]: Tubalcaim — descendente de Caim; tradicionalmente o primeiro fabricante de armas de guerra. Símbolo de como a capacidade assassina de Caim escala para a guerra organizada.
+: Tubalcaim — descendente de Caim; tradicionalmente o primeiro fabricante de armas de guerra. Símbolo de como a capacidade assassina de Caim escala para a guerra organizada.
 
 Fim da Lecture 05

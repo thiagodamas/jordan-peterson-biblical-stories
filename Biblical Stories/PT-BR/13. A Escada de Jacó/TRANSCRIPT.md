@@ -76,19 +76,19 @@ Obrigado por terem vindo. Na próxima vamos para a história de José — o clí
 
 ## Notas de rodapé
 
-[^1]: **Israel = "Aquele que luta com Deus"**: O nome mais importante da tradição. Não significa submissão passiva. Significa engajamento ativo, wrestling, recusa em desistir da relação mesmo quando dói. Essa é a definição de "crer" no Antigo Testamento segundo Peterson.
+: **Israel = "Aquele que luta com Deus"**: O nome mais importante da tradição. Não significa submissão passiva. Significa engajamento ativo, wrestling, recusa em desistir da relação mesmo quando dói. Essa é a definição de "crer" no Antigo Testamento segundo Peterson.
 
-[^2]: **Jacó como trapaceiro**: Diferente de Abraão (mais nobre) ou Isaque (mais passivo), Jacó é explicitamente um manipulador e mentiroso. Mesmo assim ele tem a visão da escada e luta com Deus. A mensagem: o divino não exige perfeição moral prévia.
+: **Jacó como trapaceiro**: Diferente de Abraão (mais nobre) ou Isaque (mais passivo), Jacó é explicitamente um manipulador e mentiroso. Mesmo assim ele tem a visão da escada e luta com Deus. A mensagem: o divino não exige perfeição moral prévia.
 
-[^3]: **A luta no vau de Jaboque**: Cena arquetípica. Jacó luta fisicamente com um ser divino a noite toda e se recusa a soltar até ser abençoado. O quadril deslocado é o preço permanente da luta (ele mancará pelo resto da vida). A bênção vem através do confronto, não da obediência passiva.
+: **A luta no vau de Jaboque**: Cena arquetípica. Jacó luta fisicamente com um ser divino a noite toda e se recusa a soltar até ser abençoado. O quadril deslocado é o preço permanente da luta (ele mancará pelo resto da vida). A bênção vem através do confronto, não da obediência passiva.
 
-[^4]: **A escada de anjos**: Visão de que existe uma conexão estruturada entre terra e céu, entre o humano e o divino. Essa intuição aparece em toda grande arquitetura religiosa (catedral gótica, mandala, árvore da vida). O ser humano pode participar dessa conexão vertical.
+: **A escada de anjos**: Visão de que existe uma conexão estruturada entre terra e céu, entre o humano e o divino. Essa intuição aparece em toda grande arquitetura religiosa (catedral gótica, mandala, árvore da vida). O ser humano pode participar dessa conexão vertical.
 
-[^5]: **Reconciliação com Esaú**: Em vez da esperada vingança, o irmão traído corre e abraça Jacó. A graça aparece onde a justiça retributiva seria esperada. Mesmo o trapaceiro pode ser perdoado quando há arrependimento real (Jacó envia presentes e se humilha).
+: **Reconciliação com Esaú**: Em vez da esperada vingança, o irmão traído corre e abraça Jacó. A graça aparece onde a justiça retributiva seria esperada. Mesmo o trapaceiro pode ser perdoado quando há arrependimento real (Jacó envia presentes e se humilha).
 
-[^6]: **Betel**: "Casa de Deus". O lugar onde o céu e a terra se tocam. Jacó transforma o sonho em altar e voto. O local comum se torna sagrado através da experiência transformadora.
+: **Betel**: "Casa de Deus". O lugar onde o céu e a terra se tocam. Jacó transforma o sonho em altar e voto. O local comum se torna sagrado através da experiência transformadora.
 
-[^7]: **Moralidade realista das histórias bíblicas**: Peterson enfatiza repetidamente que os "heróis" de Gênesis são profundamente falhos (mentem, traem, têm favoritos, etc.). Isso não é defeito das histórias — é o que as torna grandes e úteis. Pessoas reais, com falhas reais, ainda podem ter relação com o divino e gerar algo de valor.
+: **Moralidade realista das histórias bíblicas**: Peterson enfatiza repetidamente que os "heróis" de Gênesis são profundamente falhos (mentem, traem, têm favoritos, etc.). Isso não é defeito das histórias — é o que as torna grandes e úteis. Pessoas reais, com falhas reais, ainda podem ter relação com o divino e gerar algo de valor.
 
 ---
 
