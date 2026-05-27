@@ -141,10 +141,10 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 - **Palestra 06** — Em andamento (27/05/2026).  
   Gap original: ~12.509 palavras (atualmente ~7.420).  
   Estrutura normalizada (cabeçalhos I–V limpos).  
-  Tradução e inserção de grande quantidade de conteúdo importante já realizadas (Pinóquio/Geppetto, "Gigantes da Terra", corrupção que leva ao dilúvio, Noé como o justo, a arca, o arco-íris e a nova aliança, os comandos após o dilúvio, a proibição do sangue, a declaração sobre a imagem de Deus, a história de Noé bêbado e a maldição de Canaã, a pomba e a folha de oliveira, o altar e o cheiro suave, a mensagem de esperança e recomeço, a interpretação dos "filhos de Deus e filhas dos homens" como heróis do passado em culturas pré-letradas, e a ideia psicológica de que "o dilúvio está sempre vindo").  
-  Novas notas adicionadas (total 26 notas).  
-  Limpeza de duplicação residual realizada.  
-  Status: **Estrutura consertada + tradução substancial em andamento (progresso significativo — ainda falta conteúdo, mas o núcleo filosófico e narrativo está bem avançado)**.
+  Tradução e inserção de grande quantidade de conteúdo importante já realizadas, incluindo a grande discussão filosófica da Seção III (viver dentro de uma dessas "coisas malditas", hierarquia de competência, atenção como rei no topo, problema mente-corpo, micro-rotinas, emoção positiva como indicador de movimento em direção a uma meta, etc.).  
+  Novas notas adicionadas (total 29 notas).  
+  Limpeza de duplicação e estrutura realizada.  
+  Status: **Estrutura consertada + tradução muito avançada (progresso substancial — gap ainda existe, mas o núcleo filosófico mais denso já foi incorporado)**.
 
 ## Observações Técnicas
 
