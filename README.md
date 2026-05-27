@@ -44,13 +44,19 @@ A tradução para português brasileiro foi realizada com foco em fidelidade ao 
 
 Melhorias na tradução, correções de fluidez ou novas notas de rodapé são bem-vindas via Pull Request.
 
-## Ebooks Automatizados (PDF / EPUB / MOBI)
+## Ebooks Automatizados (EPUB / MOBI)
 
-Este repositório gera automaticamente, via **GitHub Actions**, versões em ebook de todas as 16 palestras:
+Este repositório gera automaticamente, via **GitHub Actions**, versões em ebook da edição completa (Omnibus) com todas as 16 palestras:
 
 - **EPUB** (recomendado para a maioria dos leitores)
 - **MOBI** (otimizado para Kindle)
-- **PDF** (para leitura em desktop ou impressão)
+
+> **PDF**: O PDF da edição omnibus **não é mais gerado automaticamente** no GitHub Actions.  
+> Você pode gerá-lo localmente com:
+> ```bash
+> python3 scripts/generate_omnibus.py --lang en --pdf
+> python3 scripts/generate_omnibus.py --lang pt --pdf
+> ```
 
 ### Idiomas
 - Inglês (EN)
@@ -61,9 +67,10 @@ Este repositório gera automaticamente, via **GitHub Actions**, versões em eboo
 **Edição Completa (Omnibus)**
 - **Uma única versão** contendo **todas as 16 palestras** juntas
 - Ideal para referência, busca de termos ou leitura sequencial completa da série
+- Cada edição inclui agora uma introdução e metadados claros de origem (incluindo link para este repositório)
 - Arquivos nomeados como:
   - `Jordan Peterson - Biblical Stories - EN.epub`
-  - `Jordan Peterson - Histórias Bíblicas - PT-BR.pdf`
+  - `Jordan Peterson - Histórias Bíblicas - PT-BR.epub`
 
 ### Como baixar
 
@@ -76,10 +83,8 @@ Os nomes dos arquivos são limpos (sem espaços) para facilitar o download:
 
 - `Jordan-Peterson-Biblical-Stories-EN.epub`
 - `Jordan-Peterson-Biblical-Stories-EN.mobi`
-- `Jordan-Peterson-Biblical-Stories-EN.pdf`
 - `Jordan-Peterson-Historias-Biblicas-PT-BR.epub`
 - `Jordan-Peterson-Historias-Biblicas-PT-BR.mobi`
-- `Jordan-Peterson-Historias-Biblicas-PT-BR.pdf`
 
 ### Gatilhos
 - Todo push na branch `main` que modifica as transcrições dispara uma nova build.

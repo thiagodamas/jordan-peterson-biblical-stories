@@ -108,24 +108,30 @@ jobs:
           body: |
             ## Jordan Peterson Biblical Stories — Ebooks (Versão Completa)
             
-            Esta release contém as **versões completas** com **todas as 16 palestras em um único arquivo**.
+            Esta release contém as **versões completas (Omnibus)** com **todas as 16 palestras em um único arquivo**.
             
-            ### Arquivos gerados (6 no total)
+            ### Arquivos gerados via GitHub Actions (4 no total)
             
             **Inglês (EN)**
             - `Jordan-Peterson-Biblical-Stories-EN.epub`
             - `Jordan-Peterson-Biblical-Stories-EN.mobi`
-            - `Jordan-Peterson-Biblical-Stories-EN.pdf`
             
             **Português do Brasil (PT-BR)**
             - `Jordan-Peterson-Historias-Biblicas-PT-BR.epub`
             - `Jordan-Peterson-Historias-Biblicas-PT-BR.mobi`
-            - `Jordan-Peterson-Historias-Biblicas-PT-BR.pdf`
             
-            ### Formatos
+            > **Nota sobre PDF**: O PDF do omnibus não é mais gerado automaticamente no GitHub Actions.  
+            > Você pode gerar localmente executando:
+            > ```bash
+            > python3 scripts/generate_omnibus.py --lang en --pdf
+            > python3 scripts/generate_omnibus.py --lang pt --pdf
+            > ```
+            
+            ### Formatos disponíveis no GitHub
             - **.epub** → Melhor compatibilidade (recomendado)
             - **.mobi** → Otimizado para Kindle
-            - **.pdf** → Leitura em computador / impressão
+            
+            Cada edição omnibus inclui agora uma introdução e metadados claros de origem (incluindo link para este repositório).
             
             ---
             Gerado automaticamente via GitHub Actions a partir do commit ${{ github.sha }}
