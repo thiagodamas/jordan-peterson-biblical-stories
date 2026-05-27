@@ -45,7 +45,7 @@ Há um equilíbrio dinâmico entre o hemisfério direito e o esquerdo, onde o es
 Gosto dessa teoria também, porque também ajuda a justificar a hipótese que venho expondo para vocês, que é que há uma parte de nós que se estende para o mundo, e tenta entender o que não sabemos, e que essa parte se estende com comportamento, emoção, imagem, e então, talvez, com poesia e narrativa. À medida que isso se desenvolve, então desenvolvemos representações mais articuladas desse conhecimento emergente. Você pode mapear isso muito bem na presunção do neurologista e do neuropsicólogo sobre o que constitui a razão para a diferenciação hemisférica. A outra coisa que é tão legal sobre o argumento da diferenciação hemisférica, até onde estou preocupado — e isso é realmente algo para se pensar, cara, porque é um… Há uma palavra que Ned Flanders usa para isso… Coçador de cabeça. Acho que é algo assim. Hah. De qualquer forma, fazemos a suposição de que aquilo para o que estamos biologicamente adaptados é a realidade. É na verdade uma definição axiomática, se você for darwinista, porque a natureza é o que seleciona — por definição, é isso que a natureza é: é o que seleciona. E se a natureza que seleciona impôs a você uma estrutura hemisférica dual — porque metade de você tem que lidar com caos, e metade de você tem que lidar com ordem — então você pode fazer um caso inferencial muito bom de que o mundo é feito de caos e ordem, e isso é realmente algo para se pensar, cara. Então você pode pensar nisso por um tempo, se quiser.
 
 
-## Seção IV
+## Seção IIV
 
 [TIMESTAMP](https://youtu.be/Ifi5KkXig3s?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat&t=1195)
 
@@ -113,7 +113,7 @@ Só foi por volta de 1960 ou mais ou menos que acordamos para o fato de que havi
 Agora dentro desse jardim murado há um par de árvores, Adão e Eva, alguns animais, e tudo isso. Infelizmente, a árvore acontece de ter uma cobra enrolada nela. Isso é uma coisa interessante. Vamos falar muito sobre isso. A cobra, em ambas essas representações, não é uma cobra comum: ela tem uma cabeça humana, e tem uma cabeça humana, ali. Então, seja o que for essa cobra… Bem, esqueça de olhar isso de uma perspectiva religiosa. Se você não consegue, apenas imagine que você é um antropólogo, e nunca viu essa imagem antes. O que você vê? Bem, você vê muros, e vê um recinto bastante agradável. E então você vê uma árvore, e pessoas estão comendo da árvore. A árvore tem uma cobra nela. A cobra é eternamente associada à árvore. Passamos só Deus sabe quantas dezenas de milhões de anos como primatas que viviam em árvores, e tínhamos três predadores principais: cobras, pássaros, gatos. E assim a cobra está associada à árvore há muito, muito tempo. A lição que a cobra ensina às pessoas é, você muito bem melhor acordar, ou algo que você não gosta vai te pegar. E quem vai ser mais suscetível a prestar atenção à cobra? Essa vai ser Eva. A razão para isso é que Eva tem descendentes, e não há nada mais saboroso para uma cobra do que uma criança.
 
 
-## Seção IV
+## Seção IVV
 
 [TIMESTAMP](https://youtu.be/Ifi5KkXig3s?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat&t=4049)
 
@@ -211,7 +211,7 @@ Sneaky. Sutil. É uma história legal, né? A implicação instantânea é, bem,
 De qualquer forma, a serpente vence esta rodada. Eva presta atenção à cobra. De novo, temos o mesmo conjunto de imagens: temos Adão, e temos Eva. Temos esta árvore, e temos esta serpente estranha. Essa é uma forma parecida com dragão, aí — uma forma parecida com esfinge que está associada à árvore. A cobra está eternamente associada à árvore. Passamos só Deus sabe quantas dezenas de milhões de anos como primatas que viviam em árvores, e tínhamos três predadores principais: cobras, pássaros, gatos. E assim a cobra está associada à árvore há muito, muito tempo. A lição que a cobra conta às pessoas é, você muito bem melhor acordar, ou algo que você não gosta vai te pegar. E quem vai ser mais suscetível a prestar atenção à cobra? Essa vai ser Eva. A razão para isso é que Eva tem descendentes, e não há nada mais saboroso para uma cobra do que uma criança.
 
 
-## Seção VI
+## Seção VII
 
 [TIMESTAMP](https://youtu.be/Ifi5KkXig3s?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat&t=6987)
 
@@ -300,3 +300,17 @@ A cobra não é apenas a cobra no jardim, e a cobra não é apenas a cobra poss�
 [^6]: Unidade 731 — referência histórica real (experimentos japoneses na China, Segunda Guerra Mundial) para ilustrar a capacidade humana real de mal deliberado e planejado que surge com a autoconsciência.
 
 [^7]: "Pó és e em pó te tornarás" + trabalho — o preço da autoconsciência é a consciência da morte e a necessidade de sacrificar o presente pelo futuro (invenção do trabalho). Fim da Lecture 04
+
+---
+
+## Conteúdo adicional traduzido (Seção IV)
+
+[TIMESTAMP](https://youtu.be/2c4s1C3P6tA?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat&t=XXXX)
+
+"Mas para Adão não se achou uma ajudadora que lhe fosse adequada. Então o Senhor Deus fez cair um sono profundo sobre Adão, e ele dormiu; e tomou uma de suas costelas e fechou a carne em seu lugar. E da costela que o Senhor Deus tomara do homem, formou uma mulher, e trouxe-a ao homem. Então o homem disse: 'Esta é agora osso dos meus ossos e carne da minha carne; ela será chamada mulher, porque foi tirada do homem.' Portanto, o homem deixará seu pai e sua mãe e se unirá à sua mulher, e eles se tornarão uma só carne."
+
+Essa é uma declaração poderosa para colocar no final dessas três frases. O "portanto" surge como uma surpresa, mas há um mandamento aqui. É um bom mandamento. Eu lhe digo, as pessoas que não fazem isso passam por um inferno no casamento. Isso é uma coisa boa de saber se você é casado ou está planejando se casar: temos uma orientação muito forte em relação aos nossos pais, e com boa razão. O mandamento aqui é que isso se torna secundário assim que você se casa, e a falha em fazer isso faz o casamento desmoronar — e você merece que desmorone, também, na minha opinião, porque é um reflexo da sua imaturidade patológica e da sua relutância em se libertar da garra de garras dos pais, que estão um pouco demais no lado da interferência. Mas o mandamento... Há um mandamento profundo aqui. É muito complicado.
+
+Uma das ideias é que o Adão original não era um homem: ele era mais como um ser hermafrodita. Nesse ser hermafrodita, havia uma espécie de perfeição indiferenciada que foi dividida em masculino e feminino. Parte do objetivo dos seres humanos é se reunir novamente como a unidade singular que restabelece a perfeição inicial. Esse é realmente o objetivo do casamento do ponto de vista espiritual. Jung escreveu bastante sobre isso. É uma ideia tão boa.
+
+Eu tinha uns amigos que foram para a Suécia para se casar. Eles eram do norte de Alberta, mas...

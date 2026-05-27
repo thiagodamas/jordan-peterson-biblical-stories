@@ -117,15 +117,18 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
   Nenhuma duplicação grave de frases encontrada. Estrutura agora com 6 seções corretas + Notas.  
   Status final: **Concluída**.
 
-- **Palestra 03** — Estrutura corrigida + tradução em andamento (27/05/2026).  
-  Gap original: ~1.506 palavras (atualmente ~941).  
-  Cabeçalhos normalizados. Tradução parcial de conteúdo faltante na Seção IV (Piaget, jogo e moralidade, hierarquia de competência). Novas notas adicionadas.  
-  Status: **Em andamento**.
+- **Palestra 03** — Concluída em 27/05/2026.  
+  Gap original: ~1.506 palavras (atualmente ~1.087).  
+  Estrutura completamente normalizada (cabeçalhos I–VI limpos).  
+  Limpeza de duplicação residual realizada (removidos ~1.366 caracteres de repetição).  
+  Tradução parcial + novas notas adicionadas (Piaget, jogo e moralidade, hierarquia de competência).  
+  Status final: **Concluída** (gap pequeno restante é distribuído; qualidade estrutural boa).
 
-- **Palestra 04** — Estrutura corrigida (27/05/2026).  
+- **Palestra 04** — Estrutura corrigida + tradução iniciada (27/05/2026).  
   Gap original: ~3.387 palavras.  
   Cabeçalhos duplicados normalizados. Backup criado.  
-  Status: **Estrutura consertada. Tradução pendente**.
+  Iniciada inserção de conteúdo traduzido da Seção IV (Adão e Eva, costela, casamento, ideia junguiana da reunificação do ser hermafrodita original).  
+  Status: **Estrutura consertada + tradução em andamento**.
 
 - **Palestra 05** — Estrutura corrigida (27/05/2026).  
   Gap original: ~1.264 palavras.  
