@@ -1,0 +1,126 @@
+/* ============================================
+   Jordan Peterson Biblical Stories - Ebook Styles
+   Used for both EPUB and PDF generation
+   ============================================ */
+
+body {
+    font-family: "Georgia", "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+    font-size: 1.05em;
+    line-height: 1.65;
+    margin: 0 auto;
+    max-width: 38em;
+    padding: 1em;
+    color: #222;
+    text-align: justify;
+    hyphens: auto;
+}
+
+h1 {
+    font-size: 1.8em;
+    margin-top: 1.5em;
+    margin-bottom: 0.6em;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 0.4em;
+}
+
+h2 {
+    font-size: 1.35em;
+    margin-top: 1.8em;
+    margin-bottom: 0.5em;
+    color: #1a1a1a;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0.2em;
+}
+
+h3 {
+    font-size: 1.15em;
+    margin-top: 1.4em;
+    color: #333;
+}
+
+p {
+    margin: 0.75em 0;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Timestamps */
+a[href*="youtu.be"] {
+    font-size: 0.9em;
+    color: #555;
+    background-color: #f8f8f8;
+    padding: 1px 6px;
+    border-radius: 3px;
+}
+
+/* Keywords */
+p strong, em {
+    font-style: italic;
+}
+
+/* Footnotes */
+.footnotes {
+    font-size: 0.9em;
+    margin-top: 2em;
+    border-top: 1px solid #ddd;
+    padding-top: 1em;
+}
+
+.footnotes hr {
+    display: none;
+}
+
+/* Blockquotes if any */
+blockquote {
+    border-left: 4px solid #ccc;
+    margin: 1.2em 0;
+    padding-left: 1em;
+    color: #444;
+    font-style: italic;
+}
+
+/* Code / inline */
+code {
+    background-color: #f4f4f4;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-size: 0.95em;
+}
+
+/* For PDF specific tweaks */
+@media print {
+    body {
+        font-size: 11pt;
+        line-height: 1.5;
+    }
+    
+    h1 {
+        page-break-before: always;
+    }
+    
+    h1:first-of-type {
+        page-break-before: avoid;
+    }
+}
+
+/* Omnibus specific styling */
+hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 2em 0;
+}
+
+h1 + h2 {
+    text-align: center;
+    font-style: italic;
+    margin-top: -0.5em;
+    color: #555;
+}

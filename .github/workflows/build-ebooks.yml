@@ -1,0 +1,134 @@
+name: Build Ebooks (PDF / EPUB / MOBI)
+
+permissions:
+  contents: write   # Required for softprops/action-gh-release to create releases and upload assets
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Biblical Stories/**'
+      - 'scripts/lectures.py'
+      - '.github/workflows/build-ebooks.yml'
+  workflow_dispatch:
+    inputs:
+      language:
+        description: 'Language to build'
+        required: false
+        default: 'both'
+        type: choice
+        options:
+          - both
+          - en
+          - pt
+
+jobs:
+  # Build Complete Omnibus (todas as 16 palestras em um único arquivo)
+  build-complete:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main' || github.event_name == 'workflow_dispatch'
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies (Pandoc + WeasyPrint + Calibre)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            pandoc \
+            calibre \
+            python3-pip \
+            python3-dev \
+            libpango-1.0-0 \
+            libpangocairo-1.0-0 \
+            libgdk-pixbuf2.0-0 \
+            libffi-dev \
+            shared-mime-info \
+            libjpeg-dev \
+            libopenjp2-7-dev \
+            libwebp-dev
+
+          pip3 install --break-system-packages weasyprint
+
+      - name: Build Complete Omnibus - English (PDF + EPUB + MOBI)
+        if: github.event.inputs.language == '' || github.event.inputs.language == 'en' || github.event.inputs.language == 'both'
+        run: |
+          python3 scripts/generate_omnibus.py --lang en --output dist/ebooks
+
+      - name: Build Complete Omnibus - Portuguese (PDF + EPUB + MOBI)
+        if: github.event.inputs.language == '' || github.event.inputs.language == 'pt' || github.event.inputs.language == 'both'
+        run: |
+          python3 scripts/generate_omnibus.py --lang pt --output dist/ebooks
+
+      - name: Upload complete omnibus artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: complete-omnibus
+          path: dist/ebooks/*
+          retention-days: 30
+
+  # Final job: create GitHub Release with the 6 files (método mais habitual e amigável)
+  release:
+    needs: build-complete
+    runs-on: ubuntu-latest
+    # Only create release on main branch (or manual dispatch)
+    if: github.ref == 'refs/heads/main' || github.event_name == 'workflow_dispatch'
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: all-artifacts
+          merge-multiple: true
+
+      - name: Prepare release assets
+        run: |
+          mkdir -p release-assets
+          # Copia os arquivos e sanitiza os nomes (remove espaços para downloads mais limpos)
+          find all-artifacts -type f \( -name "*.epub" -o -name "*.pdf" -o -name "*.mobi" \) -exec sh -c '
+            for f; do 
+              newname=$(basename "$f" | tr " " "-")
+              cp "$f" "release-assets/$newname"
+            done
+          ' sh {} +
+          
+          echo "=== Arquivos gerados (Versão Completa - 6 arquivos) ==="
+          ls -lh release-assets/ | sort
+
+      - name: Create or update GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ebooks-${{ github.run_number }}
+          name: Ebooks Build ${{ github.run_number }} (${{ github.event.created_at || github.event.head_commit.timestamp }})
+          body: |
+            ## Jordan Peterson Biblical Stories — Ebooks (Versão Completa)
+            
+            Esta release contém as **versões completas** com **todas as 16 palestras em um único arquivo**.
+            
+            ### Arquivos gerados (6 no total)
+            
+            **Inglês (EN)**
+            - `Jordan-Peterson-Biblical-Stories-EN.epub`
+            - `Jordan-Peterson-Biblical-Stories-EN.mobi`
+            - `Jordan-Peterson-Biblical-Stories-EN.pdf`
+            
+            **Português do Brasil (PT-BR)**
+            - `Jordan-Peterson-Historias-Biblicas-PT-BR.epub`
+            - `Jordan-Peterson-Historias-Biblicas-PT-BR.mobi`
+            - `Jordan-Peterson-Historias-Biblicas-PT-BR.pdf`
+            
+            ### Formatos
+            - **.epub** → Melhor compatibilidade (recomendado)
+            - **.mobi** → Otimizado para Kindle
+            - **.pdf** → Leitura em computador / impressão
+            
+            ---
+            Gerado automaticamente via GitHub Actions a partir do commit ${{ github.sha }}
+          files: release-assets/*
+          draft: false
+          prerelease: false
+          token: ${{ secrets.GITHUB_TOKEN }}

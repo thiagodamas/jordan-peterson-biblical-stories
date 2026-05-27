@@ -1,0 +1,43 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Raw source data - Daily Wire PDFs are huge and not needed for extraction
+sources/Daily Wire/
+# wayback-machine is intentionally tracked (raw sources for transcript extraction)
+
+# We keep the Wayback Machine .mhtml files so people can reproduce transcript extraction
+# sources/wayback machine/   ← intentionally NOT ignored
+
+# Temporary / extraction artifacts
+*.tmp

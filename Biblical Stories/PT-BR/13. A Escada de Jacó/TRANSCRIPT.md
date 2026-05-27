@@ -1,0 +1,95 @@
+# **Série Bíblica XIII: A Escada de Jacó**
+
+por Dr. Jordan Peterson
+
+*Palavras-chave: Jacó, Escada, Sonho, Anjos, Betel*
+
+## Seção I
+
+Muito obrigado por terem aparecido de novo. É realmente bom ver todo mundo. Uma das coisas que venho percebendo, como consequência de percorrer essas histórias, é que o grau em que elas são sobre indivíduos é bastante notável. Acho isso realmente revelador. Uma das razões pelas quais prefiro Dostoiévski a Tolstói é porque Tolstói é mais sociólogo. Ele está mais interessado nas relações entre grupos de pessoas — isso é uma simplificação excessiva. Obviamente, Tolstói é um grande autor. Mas gosto mais de Dostoiévski, porque ele realmente mergulha nas almas dos indivíduos. Acho que o grau em que todas as histórias que já cobrimos até agora em Gênesis são sobre indivíduos é notável. Elas são bastante realistas, o que também é bastante notável. Elas não são realmente romantizadas, em nenhum grau grande. Todas as pessoas consideradas, digamos, figuras patriarcais ou matriarcais em Gênesis não têm falta de falhas éticas, e também não têm falta de dificuldades na vida delas. As dificuldades são realistas. São problemas de primeira linha — como catástrofes familiares, fome, guerra, vingança, ódio, e todas essas coisas. Não é um livro bonito. Essa é uma das coisas que o torna grande — essa é uma das coisas que caracteriza a grande literatura: ela não te apresenta uma visão branqueada da humanidade, ou da existência. Isso é realmente um alívio, acho, porque — como todos vocês sabem, porque estão vivos — não existe coisa como uma existência branqueada. Estar vivo é estar em encrenca, ética e existencialmente.
+
+Tenho lido este livro, recentemente. Vou falar um pouco sobre ele mais tarde. Se chama *Better Never to Have Been*. Foi escrito por um filósofo na África do Sul, em Cape Town, chamado Benatar. Esse é o sobrenome dele. Ele basicamente argumenta... Acho que é um argumento especioso. Acho que é construído artificialmente. Mas ele basicamente argumenta que, porque a vida está tão cheia de sofrimento — mesmo vidas boas estão muito cheias de sofrimento — é errado trazer crianças pro mundo, porque o sofrimento supera o bem — mesmo em vidas boas. E também seria melhor não existir, exatamente pela mesma razão.
+
+Minha sensação, ao ler o livro, é que ele chegou a essa conclusão e então escreveu o livro pra justificá-la, o que na verdade é o inverso do jeito que você deveria escrever um livro. Você deveria ter uma questão quando está escrevendo um livro, e deveria ser uma questão real. Deveria ser uma que você não sabe a resposta. E aí você deveria estar estudando e escrevendo feito louco, e lendo tudo que consegue colocar as mãos, pra ver se consegue realmente lidar com o problema, e chegar a alguma solução. Você deveria caminhar o leitor, também, através do seu processo de pensamento, pra que eles possam chegar a — bem, não necessariamente à mesma conclusão, mas pelo menos rastrear o que você está fazendo.
+
+Não acho que foi o que Benatar fez — acho que ele escreveu de trás pra frente. E então eu estava pensando bastante sobre isso, porque essa é na verdade uma questão com a qual tenho contendido na minha escrita. Existem figuras mefistofélicas ou satânicas, por exemplo, no *Fausto* de Goethe — e também Ivan, nos *Irmãos Karamázov*, que basicamente fazem o mesmo caso: a existência está tão repleta de problemas e sofrimento que seria melhor se ela não existisse, de jeito nenhum. O problema que tive com isso — tem uma variedade deles, mas um dos problemas que tive com isso é o que acontece se você começar a pensar assim. O que observei é que as pessoas que começam a pensar assim — não é aí que param. Elas ficam com raiva da existência — o que aconteceu com Caim, como vimos na história de Caim e Abel. E aí, o próximo passo é começar a tomar vingança contra a existência. Isso cascateia até virar vingança contra — bem, acho que a melhor maneira de pensar nisso é vingança contra Deus, pelo crime do Ser — que é, acho, o tipo mais profundo de ódio que você pode nutrir.
+
+Quando você está no aperto de uma emoção realmente profunda — uma emoção realmente profunda, bem no fundo das emoções — você está em algo que é como um estado quase religioso. Isso é mais ou menos independente da sua crença, digamos, num ser divino transcendente. Você pode estar num estado emocional profundamente profundo que é tão profundo quanto pode ser, e ele pode ter significado religioso, sem que isso necessariamente signifique sobre um ser transcendente. Mas o problema com esse argumento é que você pode gerrymander ele indefinidamente. Em primeiro lugar, como você mede sofrimento, e como você mede felicidade? Como você atribui pesos a eles? Simplesmente não existe jeito de fazer isso. Você tem que fazer de forma arbitrária. E então você pode fazer um argumento de que o sofrimento supera a felicidade — você só pesa o sofrimento mais pesadamente do que pesa a felicidade, e esse é o fim disso. Então esse é um problema. Mas acho que existe um problema mais profundo.
+
+Eu estava lendo este outro livro, há algum tempo, também. Foi escrito pelo cara que dirigiu o Projeto Genoma Humano. Não lembro exatamente como se chamava, mas era algo como *The Language of God*. Uma das coisas que ele referenciou — que não me impressionou tão forte quanto deveria, pra começo de conversa — foi que ele achava que um dos fenômenos, digamos, que justificava uma crença num ser transcendente era algo como a intuição moral dos seres humanos — que temos um senso de certo e errado. O que acontece em Gênesis, na história de Adão e Eva, é que a história anuncia a vinda do senso de certo e errado — o conhecimento do bem e do mal. Não é algo que atribuímos aos animais. É algo que é único aos seres humanos. Animais podem ser predadores, e podem ser gentis, e você pode ter um relacionamento com eles. Mas você nunca pensa num gato malvado, ou num lobo malvado, mesmo que sejam predatórios. Mas os seres humanos têm essa capacidade de julgar entre bem e mal, certo e errado. É realmente uma parte integral do nosso ser.
+
+Acho que você pode fazer um caso biológico pra isso — como você pode fazer um caso biológico pra maior parte do que é relevante sobre os seres humanos, porque somos criaturas biológicas. Mas realmente não entendemos o significado disso. O que acontece na história de Adão e Eva é que a realização da vinda ao conhecimento do bem e do mal é na verdade representada como uma mudança de significado cósmico. Isso coloca uma fratura permanente na estrutura do ser. Se você pensa nos seres humanos como formigas insignificantes, num minúsculo grão de poeira, no meio de um cosmos infinito — um cosmos que se importa menos conosco — então quem se importa, fundamentalmente, se os seres humanos têm o conhecimento pra distinguir entre bem e mal? Mas, se você dá à consciência um papel central no Ser — e você pode fazer um caso perfeitamente razoável pra isso, porque sem consciência, não existe Ser, pelo que qualquer um consegue determinar. Então pode ser muito mais central do que pensamos. Eu realmente não acho que existe um contra-argumento pra isso. Nenhum sólido. Você pode afirmar que a consciência é epifenomenal, o mundo é fundamentalmente materialista, e não importa que exista consciência. Você pode afirmar isso, mas você pode fazer um caso igualmente credível do outro lado. Certamente, nossa experiência vivida é de que a consciência é crucial, obviamente, e tratamos uns aos outros — na maior parte do tempo — como se fôssemos seres conscientes valiosos. Não abriríamos mão da nossa consciência, mesmo que muitas vezes seja consciência do sofrimento.
+
+Acho que outro problema com o livro é que ele é meio que baseado na ideia de que a vida é pra felicidade. Não acho que seja isso, e não acho que seja assim que as pessoas experimentam a vida. Posso estar errado, mas parece, pra mim, que as pessoas experimentam a vida como algo como uma série de decisões éticas cruciais. É algo assim. Simplesmente não consigo imaginar — talvez eu esteja sendo ingênuo sobre isso — outro ser que seja como eu, na maioria dos sentidos, que não esteja constantemente lutando, de algum sentido, com qual é a próxima coisa certa a fazer. Não é como se fosse óbvio. Não é sangrentamente óbvio. Não significa que você vai fazer a coisa certa, porque você não faz — muitas vezes — e você sabe disso, pelo seu próprio julgamento. Você está cometendo erros, o tempo todo. Às vezes você não sabe o que está fazendo, e talvez seja um erro, e talvez não seja. Quem pode dizer? Não é disso que estou falando. Estou falando de quando você sabe que o que está fazendo está errado, e você vai em frente, e faz mesmo assim. As pessoas fazem isso o tempo todo. Isso também é extremamente peculiar. Você pensaria que, se você soubesse que está errado, e dissesse a si mesmo que está errado, que simplesmente não faria. Mas não é assim que você é, de jeito nenhum. Você pode dizer a si mesmo que algo está errado 50 vezes, e vai fazer na 51ª vez, e aí vai se sentir como merece se sentir, provavelmente. Mas não te impede.
+
+Acho que o outro problema com o ponto de vista — a ideia de que o sofrimento da vida erradica sua utilidade — é que é baseado na ideia de que felicidade — ou falta de sofrimento, mesmo — é o critério certo pelo qual julgar a vida. Não acho que seja assim que realmente experimentamos a vida. Acho que o que fazemos, em vez disso, é nos colocar através de uma série de escolhas morais excruciantes. Uma das coisas que é realmente significativa sobre as histórias bíblicas — sobre toda a filosofia implícita que está embutida nas histórias, acho — é que é assim que a vida é apresentada, nas histórias. Todos esses indivíduos — primeiro, eles são indivíduos; não são grupos. Segundo, eles estão agonizando sobre suas escolhas morais, o tempo todo. O tempo todo! E eles têm um relacionamento com Deus. Não é um relacionamento diretivo, exatamente. Mesmo as pessoas com quem Deus fala diretamente — o que, suspeito, não é algo que você exatamente queira...
+
+## Seção II
+
+[TIMESTAMP](https://youtu.be/A9JtQN_GoVI?t=26m39s)
+
+Obrigado a todos por terem aparecido. É realmente bom ver todo mundo. Uma das coisas que venho percebendo, como consequência de percorrer essas histórias, é que o grau em que elas são sobre indivíduos é bastante notável. Acho isso realmente revelador. Uma das razões pelas quais prefiro Dostoiévski a Tolstói é porque Tolstói é mais sociólogo. Ele está mais interessado nas relações entre grupos de pessoas — isso é uma simplificação excessiva. Obviamente, Tolstói é um grande autor. Mas gosto mais de Dostoiévski, porque ele realmente mergulha nas almas dos indivíduos. Acho que o grau em que todas as histórias que já cobrimos até agora em Gênesis são sobre indivíduos é notável. Elas são bastante realistas, o que também é bastante notável. Elas não são realmente romantizadas, em nenhum grau grande. Todas as pessoas consideradas, digamos, figuras patriarcais ou matriarcais em Gênesis não têm falta de falhas éticas, e também não têm falta de dificuldades na vida delas. As dificuldades são realistas. São problemas de primeira linha — como catástrofes familiares, fome, guerra, vingança, ódio, e todas essas coisas. Não é um livro bonito. Essa é uma das coisas que o torna grande — essa é uma das coisas que caracteriza a grande literatura: ela não te apresenta uma visão branqueada da humanidade, ou da existência. Isso é realmente um alívio, acho, porque — como todos vocês sabem, porque estão vivos — não existe coisa como uma existência branqueada. Estar vivo é estar em encrenca, ética e existencialmente.
+
+Tenho lido este livro, recentemente. Vou falar um pouco sobre ele mais tarde. Se chama *Better Never to Have Been*. Foi escrito por um filósofo na África do Sul, em Cape Town, chamado Benatar. Esse é o sobrenome dele. Ele basicamente argumenta... Acho que é um argumento especioso. Acho que é construído artificialmente. Mas ele basicamente argumenta que, porque a vida está tão cheia de sofrimento — mesmo vidas boas estão muito cheias de sofrimento — é errado trazer crianças pro mundo, porque o sofrimento supera o bem — mesmo em vidas boas. E também seria melhor não existir, exatamente pela mesma razão.
+
+Minha sensação, ao ler o livro, é que ele chegou a essa conclusão e então escreveu o livro pra justificá-la, o que na verdade é o inverso do jeito que você deveria escrever um livro. Você deveria ter uma questão quando está escrevendo um livro, e deveria ser uma questão real. Deveria ser uma que você não sabe a resposta. E aí você deveria estar estudando e escrevendo feito louco, e lendo tudo que consegue colocar as mãos, pra ver se consegue realmente lidar com o problema, e chegar a alguma solução. Você deveria caminhar o leitor, também, através do seu processo de pensamento, pra que eles possam chegar a — bem, não necessariamente à mesma conclusão, mas pelo menos rastrear o que você está fazendo.
+
+Não acho que foi o que Benatar fez — acho que ele escreveu de trás pra frente. E então eu estava pensando bastante sobre isso, porque essa é na verdade uma questão com a qual tenho contendido na minha escrita. Existem figuras mefistofélicas ou satânicas, por exemplo, no *Fausto* de Goethe — e também Ivan, nos *Irmãos Karamázov*, que basicamente fazem o mesmo caso: a existência está tão repleta de problemas e sofrimento que seria melhor se ela não existisse, de jeito nenhum. O problema que tive com isso — tem uma variedade deles, mas um dos problemas que tive com isso é o que acontece se você começar a pensar assim. O que observei é que as pessoas que começam a pensar assim — não é aí que param. Elas ficam com raiva da existência — o que aconteceu com Caim, como vimos na história de Caim e Abel. E aí, o próximo passo é começar a tomar vingança contra a existência. Isso cascateia até virar vingança contra — bem, acho que a melhor maneira de pensar nisso é vingança contra Deus, pelo crime do Ser — que é, acho, o tipo mais profundo de ódio que você pode nutrir.
+
+## Seção III
+
+[TIMESTAMP](https://youtu.be/A9JtQN_GoVI?t=52m59s)
+
+A história de Jacó começa com ele traindo seu irmão Esaú (com a ajuda da mãe Rebeca) — roubando a bênção do primogênito. Ele é um trapaceiro, um mentiroso, um manipulador. Não é um herói moral simples. Ele foge pra casa do tio Labão pra escapar da ira de Esaú.
+
+Lá ele trabalha 14 anos pra conseguir se casar com Raquel (a mulher que ama), sendo enganado por Labão no processo (ganha Lia primeiro). Ele é trapaceado, mas também trapaceia Labão com as varas pintadas e a seleção genética dos rebanhos. É um relacionamento de engano mútuo.
+
+Jacó tem 12 filhos (incluindo José e Benjamim com Raquel). Depois de muitos anos, ele decide voltar pra casa, com medo do encontro com Esaú.
+
+## Seção IV
+
+[TIMESTAMP](https://youtu.be/A9JtQN_GoVI?t=1h15m22s)
+
+Na noite antes de reencontrar Esaú, Jacó fica sozinho e luta com um "homem" (anjo / Deus) até o amanhecer. Ele não desiste, mesmo depois que o adversário desloca seu quadril. No final, ele é abençoado e recebe um novo nome: **Israel** — "aquele que luta com Deus".
+
+Essa é a cena mais importante. Jacó não é abençoado por ser bom ou obediente. Ele é abençoado por lutar, por não desistir, por se engajar diretamente com o divino mesmo quando dói fisicamente e existencialmente.
+
+Ele então encontra Esaú. Em vez da esperada vingança, Esaú corre ao encontro dele e o abraça. A reconciliação acontece (pelo menos temporariamente).
+
+Jacó constrói um altar em Betel — o lugar onde ele sonhou com a escada de anjos subindo e descendo do céu. O sonho é a visão de que existe uma conexão entre terra e céu, entre o humano e o divino, e que essa conexão pode ser acessada mesmo por um trapaceiro como ele.
+
+## Seção V
+
+[TIMESTAMP](https://youtu.be/A9JtQN_GoVI?t=1h46m54s)
+
+A história de Jacó é a história do indivíduo moralmente ambíguo que ainda assim tem uma experiência transformadora com o divino. Ele não é escolhido por ser puro. Ele é escolhido apesar de (e talvez por causa de) sua astúcia, sua luta, sua recusa em desistir.
+
+O nome "Israel" = "aquele que luta com Deus" se torna o nome do povo inteiro. Isso é profundo: a relação correta com o divino não é submissão passiva ou crença cega. É luta ética, é wrestling com o que é mais alto, é não aceitar respostas fáceis.
+
+As catedrais góticas, os mandalas, as árvores da vida — todas expressam a mesma intuição que a escada de Jacó: existe uma estrutura vertical que conecta o mais baixo ao mais alto, e o ser humano pode participar dessa estrutura através de esforço, sacrifício e luta.
+
+Jacó é o avô de José. A linhagem continua através de um homem profundamente falho. E é exatamente por isso que essas histórias dão esperança: se até um trapaceiro como Jacó pode lutar com Deus e ser transformado, então talvez haja esperança pra todos nós.
+
+Obrigado por terem vindo. Na próxima vamos para a história de José — o clímax das narrativas patriarcais e uma das mais belas histórias de redenção e perdão de toda a literatura.
+
+---
+
+## Notas de rodapé
+
+[^1]: **Israel = "Aquele que luta com Deus"**: O nome mais importante da tradição. Não significa submissão passiva. Significa engajamento ativo, wrestling, recusa em desistir da relação mesmo quando dói. Essa é a definição de "crer" no Antigo Testamento segundo Peterson.
+
+[^2]: **Jacó como trapaceiro**: Diferente de Abraão (mais nobre) ou Isaque (mais passivo), Jacó é explicitamente um manipulador e mentiroso. Mesmo assim ele tem a visão da escada e luta com Deus. A mensagem: o divino não exige perfeição moral prévia.
+
+[^3]: **A luta no vau de Jaboque**: Cena arquetípica. Jacó luta fisicamente com um ser divino a noite toda e se recusa a soltar até ser abençoado. O quadril deslocado é o preço permanente da luta (ele mancará pelo resto da vida). A bênção vem através do confronto, não da obediência passiva.
+
+[^4]: **A escada de anjos**: Visão de que existe uma conexão estruturada entre terra e céu, entre o humano e o divino. Essa intuição aparece em toda grande arquitetura religiosa (catedral gótica, mandala, árvore da vida). O ser humano pode participar dessa conexão vertical.
+
+[^5]: **Reconciliação com Esaú**: Em vez da esperada vingança, o irmão traído corre e abraça Jacó. A graça aparece onde a justiça retributiva seria esperada. Mesmo o trapaceiro pode ser perdoado quando há arrependimento real (Jacó envia presentes e se humilha).
+
+[^6]: **Betel**: "Casa de Deus". O lugar onde o céu e a terra se tocam. Jacó transforma o sonho em altar e voto. O local comum se torna sagrado através da experiência transformadora.
+
+[^7]: **Moralidade realista das histórias bíblicas**: Peterson enfatiza repetidamente que os "heróis" de Gênesis são profundamente falhos (mentem, traem, têm favoritos, etc.). Isso não é defeito das histórias — é o que as torna grandes e úteis. Pessoas reais, com falhas reais, ainda podem ter relação com o divino e gerar algo de valor.
+
+---
+
+**Fim da Lecture 13**
