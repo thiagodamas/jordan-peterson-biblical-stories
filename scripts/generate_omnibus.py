@@ -182,25 +182,7 @@ def build_omnibus(lang: str, output_dir: Path):
         ]
         subprocess.run(cmd, check=True, capture_output=True)
 
-        # 2. PDF via pdflatex (best footnote support)
-        # WeasyPrint is used only as fallback because it has weak Pandoc footnote support.
-        print("Generating Complete PDF...")
-        cmd = [
-            "pandoc", str(tmp_path),
-            "-o", str(pdf_path),
-            "--pdf-engine=pdflatex",
-            "--toc",
-            "--toc-depth=2",
-            "--css=assets/ebook-style.css",
-            "-V", "geometry:margin=1.8cm",
-        ]
-        result = subprocess.run(cmd, capture_output=True, text=True)
-        if result.returncode != 0:
-            print("pdflatex PDF failed, falling back to WeasyPrint...")
-            cmd[3] = "--pdf-engine=weasyprint"
-            subprocess.run(cmd, check=True)
-
-        # 3. MOBI from EPUB
+        # 2. MOBI from EPUB (using Calibre)
         print("Generating Complete MOBI...")
         cmd = [
             "ebook-convert",
@@ -208,6 +190,26 @@ def build_omnibus(lang: str, output_dir: Path):
             str(mobi_path),
             "--mobi-file-type", "both",
             "--title", f"{title} Complete - {suffix}",
+            "--authors", "Jordan B. Peterson",
+        ]
+        subprocess.run(cmd, check=True, capture_output=True)
+
+        # 3. PDF from EPUB (using Calibre)
+        # This is more reliable in CI than Pandoc's PDF engines (pdflatex/weasyprint).
+        # Calibre produces consistent results and respects our page-break rules and CSS.
+        print("Generating Complete PDF from EPUB...")
+        cmd = [
+            "ebook-convert",
+            str(epub_path),
+            str(pdf_path),
+            "--pdf-page-size", "A4",
+            "--pdf-default-font-size", "11",
+            "--pdf-mono-font-size", "10",
+            "--pdf-margin-left", "1.8cm",
+            "--pdf-margin-right", "1.8cm",
+            "--pdf-margin-top", "1.8cm",
+            "--pdf-margin-bottom", "1.8cm",
+            "--title", f"{title} - {suffix}",
             "--authors", "Jordan B. Peterson",
         ]
         subprocess.run(cmd, check=True, capture_output=True)
