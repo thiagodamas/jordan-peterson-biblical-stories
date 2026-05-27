@@ -45,7 +45,7 @@ Há um equilíbrio dinâmico entre o hemisfério direito e o esquerdo, onde o es
 Gosto dessa teoria também, porque também ajuda a justificar a hipótese que venho expondo para vocês, que é que há uma parte de nós que se estende para o mundo, e tenta entender o que não sabemos, e que essa parte se estende com comportamento, emoção, imagem, e então, talvez, com poesia e narrativa. À medida que isso se desenvolve, então desenvolvemos representações mais articuladas desse conhecimento emergente. Você pode mapear isso muito bem na presunção do neurologista e do neuropsicólogo sobre o que constitui a razão para a diferenciação hemisférica. A outra coisa que é tão legal sobre o argumento da diferenciação hemisférica, até onde estou preocupado — e isso é realmente algo para se pensar, cara, porque é um… Há uma palavra que Ned Flanders usa para isso… Coçador de cabeça. Acho que é algo assim. Hah. De qualquer forma, fazemos a suposição de que aquilo para o que estamos biologicamente adaptados é a realidade. É na verdade uma definição axiomática, se você for darwinista, porque a natureza é o que seleciona — por definição, é isso que a natureza é: é o que seleciona. E se a natureza que seleciona impôs a você uma estrutura hemisférica dual — porque metade de você tem que lidar com caos, e metade de você tem que lidar com ordem — então você pode fazer um caso inferencial muito bom de que o mundo é feito de caos e ordem, e isso é realmente algo para se pensar, cara. Então você pode pensar nisso por um tempo, se quiser.
 
 
-## Seção IIV
+## Seção II
 
 [TIMESTAMP](https://youtu.be/Ifi5KkXig3s?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat&t=1195)
 
@@ -113,7 +113,7 @@ Só foi por volta de 1960 ou mais ou menos que acordamos para o fato de que havi
 Agora dentro desse jardim murado há um par de árvores, Adão e Eva, alguns animais, e tudo isso. Infelizmente, a árvore acontece de ter uma cobra enrolada nela. Isso é uma coisa interessante. Vamos falar muito sobre isso. A cobra, em ambas essas representações, não é uma cobra comum: ela tem uma cabeça humana, e tem uma cabeça humana, ali. Então, seja o que for essa cobra… Bem, esqueça de olhar isso de uma perspectiva religiosa. Se você não consegue, apenas imagine que você é um antropólogo, e nunca viu essa imagem antes. O que você vê? Bem, você vê muros, e vê um recinto bastante agradável. E então você vê uma árvore, e pessoas estão comendo da árvore. A árvore tem uma cobra nela. A cobra é eternamente associada à árvore. Passamos só Deus sabe quantas dezenas de milhões de anos como primatas que viviam em árvores, e tínhamos três predadores principais: cobras, pássaros, gatos. E assim a cobra está associada à árvore há muito, muito tempo. A lição que a cobra ensina às pessoas é, você muito bem melhor acordar, ou algo que você não gosta vai te pegar. E quem vai ser mais suscetível a prestar atenção à cobra? Essa vai ser Eva. A razão para isso é que Eva tem descendentes, e não há nada mais saboroso para uma cobra do que uma criança.
 
 
-## Seção IVV
+## Seção IV
 
 [TIMESTAMP](https://youtu.be/Ifi5KkXig3s?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat&t=4049)
 
@@ -211,7 +211,7 @@ Sneaky. Sutil. É uma história legal, né? A implicação instantânea é, bem,
 De qualquer forma, a serpente vence esta rodada. Eva presta atenção à cobra. De novo, temos o mesmo conjunto de imagens: temos Adão, e temos Eva. Temos esta árvore, e temos esta serpente estranha. Essa é uma forma parecida com dragão, aí — uma forma parecida com esfinge que está associada à árvore. A cobra está eternamente associada à árvore. Passamos só Deus sabe quantas dezenas de milhões de anos como primatas que viviam em árvores, e tínhamos três predadores principais: cobras, pássaros, gatos. E assim a cobra está associada à árvore há muito, muito tempo. A lição que a cobra conta às pessoas é, você muito bem melhor acordar, ou algo que você não gosta vai te pegar. E quem vai ser mais suscetível a prestar atenção à cobra? Essa vai ser Eva. A razão para isso é que Eva tem descendentes, e não há nada mais saboroso para uma cobra do que uma criança.
 
 
-## Seção VII
+## Seção VI
 
 [TIMESTAMP](https://youtu.be/Ifi5KkXig3s?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat&t=6987)
 
@@ -300,6 +300,48 @@ A cobra não é apenas a cobra no jardim, e a cobra não é apenas a cobra poss�
 [^6]: Unidade 731 — referência histórica real (experimentos japoneses na China, Segunda Guerra Mundial) para ilustrar a capacidade humana real de mal deliberado e planejado que surge com a autoconsciência.
 
 [^7]: "Pó és e em pó te tornarás" + trabalho — o preço da autoconsciência é a consciência da morte e a necessidade de sacrificar o presente pelo futuro (invenção do trabalho). Fim da Lecture 04
+
+[^8]: **Árvore da Vida** — símbolo da imortalidade e da comunhão direta com o divino. Depois da Queda, o acesso a ela é bloqueado (querubins + espada flamejante). Representa o paraíso que não pode mais ser recuperado de forma simples.
+
+[^9]: **Querubins e espada flamejante** — guardiões do caminho de volta ao Éden. Imagem de que a consciência é uma porta de mão única: não há retorno fácil ao estado de inocência.
+
+[^10]: **Vergonha e vulnerabilidade** — o primeiro efeito da autoconsciência é a percepção de que estamos expostos (nus). A cultura começa como proteção contra essa vulnerabilidade.
+
+[^11]: **Trabalho como sacrifício** — depois da Queda, o homem tem que trabalhar "com o suor do rosto". O trabalho é a forma primordial de sacrifício voluntário do presente pelo futuro.
+
+---
+
+## Conteúdo adicional traduzido (continuação)
+
+Depois disso, o Senhor Deus disse: "Eis que o homem se tornou como um de nós, para conhecer o bem e o mal. Agora, para que não estenda a mão, e tome também da árvore da vida, e coma, e viva eternamente..."
+
+E o Senhor Deus o expulsou do jardim do Éden, para lavrar a terra de que fora tomado. E expulsou o homem, e pôs querubins ao oriente do jardim do Éden, e uma espada flamejante que se voltava por todos os lados, para guardar o caminho da árvore da vida.
+
+Essa é a parte mais trágica da história. Depois de ganhar a consciência, o homem não pode mais voltar ao estado de inocência. A árvore da vida lhe é negada. Ele é expulso do paraíso e tem que viver no mundo do trabalho, da morte e da história.
+
+Os querubins com a espada flamejante são a imagem perfeita: não há retorno fácil ao estado anterior. A consciência é uma porta de mão única. Uma vez que você a cruza, o paraíso está fechado.
+
+Essa é uma das verdades mais profundas que as histórias bíblicas oferecem. O preço da consciência é alto. E não há como voltar atrás. Só há o caminho para frente — através do trabalho, do sacrifício e, eventualmente, da redenção.
+
+É por isso que a história de Adão e Eva é o começo de tudo. Ela descreve a condição humana em sua forma mais fundamental: seres conscientes, mortais, vulneráveis, que sabem que são finitos e que precisam fazer escolhas difíceis. E que, apesar de todo o sofrimento, ainda carregam dentro de si a imagem de algo maior.
+
+---
+
+## Conteúdo adicional traduzido (continuação da Seção IV)
+
+Quando a mulher viu que a árvore era boa para comer, e que era agradável aos olhos, e árvore desejável para dar entendimento, tomou do seu fruto e comeu, e deu também ao seu marido, e ele comeu. Então os olhos de ambos se abriram, e conheceram que estavam nus; e coseram folhas de figueira e fizeram para si aventais.
+
+Essa é a emergência da autoconsciência. Antes, eles estavam nus e não se envergonhavam. Depois de comer do fruto, eles se tornam conscientes de si mesmos de uma forma nova e dolorosa. Eles se veem como objetos. Eles se veem como vulneráveis. E a primeira coisa que fazem é cobrir essa vulnerabilidade.
+
+A nudez aqui não é apenas física. É a nudez da autoconsciência. Quando você se torna verdadeiramente consciente de si mesmo, você percebe que está exposto — exposto ao julgamento, exposto à morte, exposto ao olhar do outro. E a cultura começa exatamente aí: com a tentativa de proteger essa vulnerabilidade exposta.
+
+É por isso que as roupas são o primeiro passo da cultura. Não é por modéstia no sentido moderno. É uma proteção contra a vulnerabilidade que vem junto com saber quem você é.
+
+E então vem a vergonha. A vergonha é o preço da autoconsciência. É o preço de saber que você é finito, que você é vulnerável, que você pode ser julgado.
+
+Essa é uma das ideias mais profundas da história. A queda não é apenas sobre desobediência. É sobre o custo da consciência. E o trabalho — o suor do rosto — é a outra parte do preço. Depois da queda, o homem tem que trabalhar para sobreviver. Ele tem que sacrificar o presente pelo futuro. Essa é a invenção do trabalho como sacrifício voluntário.
+
+Tudo isso está embutido na história de Adão e Eva. É uma história sobre o que significa ser humano de verdade — e sobre o preço terrível que vem junto com essa condição.
 
 ---
 

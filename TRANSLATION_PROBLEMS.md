@@ -124,22 +124,25 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
   Tradução parcial + novas notas adicionadas (Piaget, jogo e moralidade, hierarquia de competência).  
   Status final: **Concluída** (gap pequeno restante é distribuído; qualidade estrutural boa).
 
-- **Palestra 04** — Estrutura corrigida + tradução iniciada (27/05/2026).  
+- **Palestra 04** — Concluída em 27/05/2026.  
   Gap original: ~3.387 palavras.  
-  Cabeçalhos duplicados normalizados. Backup criado.  
-  Iniciada inserção de conteúdo traduzido da Seção IV (Adão e Eva, costela, casamento, ideia junguiana da reunificação do ser hermafrodita original).  
-  Status: **Estrutura consertada + tradução em andamento**.
+  Estrutura completamente normalizada.  
+  Tradução substancial do conteúdo faltante da Seção IV (Adão e Eva, a costela, o casamento, a ideia do ser hermafrodita original, a vergonha, a árvore da vida, os querubins, o trabalho como sacrifício).  
+  Novas notas adicionadas (Árvore da Vida, querubins, vergonha e vulnerabilidade, trabalho como sacrifício).  
+  Status final: **Concluída**.
 
-- **Palestra 05** — Estrutura corrigida + tradução iniciada (27/05/2026).  
+- **Palestra 05** — Concluída em 27/05/2026.  
   Gap original: ~1.264 palavras.  
-  Cabeçalhos duplicados normalizados. Backup criado.  
-  Iniciada inserção de conteúdo traduzido (Caim e Abel, sacrifício de qualidade, ressentimento e assassinato).  
-  Status: **Estrutura consertada + tradução em andamento**.
+  Estrutura normalizada.  
+  Tradução de conteúdo faltante (Caim e Abel, a qualidade do sacrifício, a marca de Caim, a escalada da violência até Tubalcaim, o sacrifício voluntário como antídoto).  
+  Novas notas adicionadas (Marca de Caim, escalada da violência, sacrifício voluntário).  
+  Status final: **Concluída**.
 
-- **Palestra 06** — Estrutura corrigida + tradução em andamento (27/05/2026).  
+- **Palestra 06** — Em andamento (27/05/2026).  
   Gap original: ~12.509 palavras (a maior).  
-  Cabeçalhos normalizados. Backup criado.  
-  Iniciada inserção de conteúdo traduzido (Pinóquio/Geppetto, "Gigantes da Terra", filosofia do dilúvio, corrupção e renovação).  
+  Estrutura normalizada.  
+  Iniciada tradução e inserção de conteúdo importante (Pinóquio/Geppetto, "Gigantes da Terra", corrupção que leva ao dilúvio, Noé como o justo, a arca, o arco-íris e a nova aliança).  
+  Novas notas adicionadas (Pinóquio, Nefilim, dilúvio como retorno ao caos, Noé, arca, arco-íris).  
   Status: **Estrutura consertada + tradução em andamento (a mais pesada)**.
 
 ## Observações Técnicas

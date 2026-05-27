@@ -243,6 +243,28 @@ Há a Queda na história, e então há a descoberta do sacrifício como um medic
 
 [^7]: Tubalcaim — descendente de Caim; tradicionalmente o primeiro fabricante de armas de guerra. Símbolo de como a capacidade assassina de Caim escala para a guerra organizada. Fim da Lecture 05
 
+[^8]: **Marca de Caim** — sinal colocado por Deus que é ao mesmo tempo punição e proteção. Representa a ideia de que a vingança não deve ser infinita; há um limite para a retaliação.
+
+[^9]: **Escalada da violência** — o que começa como assassinato individual (Caim e Abel) se transforma, ao longo das gerações, em guerra organizada (Lamech, Tubalcaim). A história mostra como o pecado não fica parado: ele se multiplica quando não é confrontado.
+
+[^10]: **Sacrifício voluntário como antídoto** — a única forma de conter a maldição da violência é através do sacrifício voluntário e consciente, tema que se desenvolve ao longo de toda a Bíblia.
+
+---
+
+## Conteúdo adicional traduzido
+
+Depois de Caim matar Abel, Deus coloca uma marca nele — a marca de Caim. Essa marca tem um duplo significado: é ao mesmo tempo uma punição e uma proteção. É um sinal de que Caim é marcado pelo seu crime, mas também de que ninguém deve matá-lo. Deus está dizendo, de certa forma, que a vingança não deve continuar indefinidamente.
+
+Mas a história não para aí. A violência não termina com Caim. Ela escala. Várias gerações depois aparece Lamech, que se gabava de matar um jovem que o tinha ferido. E depois vem Tubalcaim, que é descrito como o primeiro fabricante de armas de bronze e ferro.
+
+Essa é a escalada terrível: o que começou como um assassinato individual (Caim matando Abel por inveja) se transforma, ao longo das gerações, em guerra organizada. A capacidade assassina de Caim não desaparece — ela é amplificada pela técnica, pela metalurgia, pela civilização.
+
+A história está nos dizendo algo muito profundo sobre a natureza humana: a queda não é um evento único. Ela continua se desdobrando. O pecado de Caim se multiplica. O que era um ato de inveja pessoal se torna, com o tempo, a capacidade de matar em escala industrial.
+
+É por isso que a história de Caim e Abel é tão importante. Ela não é apenas sobre dois irmãos. Ela é sobre a origem da violência humana e sobre como essa violência, se não for confrontada e transformada, só tende a crescer. A história toda da Bíblia, de certa forma, é a tentativa de responder a essa maldição que começou com Caim.
+
+E é por isso que o tema do sacrifício voluntário se torna tão central. Se a violência não for contida por algo maior — por um sacrifício voluntário, por uma renúncia consciente —, ela simplesmente se espalha. A história de Caim mostra o que acontece quando o sacrifício não é feito da maneira certa. A história posterior tenta mostrar como fazer o sacrifício da maneira certa.
+
 ---
 
 ## Conteúdo adicional traduzido

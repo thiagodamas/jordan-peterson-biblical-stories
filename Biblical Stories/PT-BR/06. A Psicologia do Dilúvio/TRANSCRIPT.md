@@ -144,6 +144,34 @@ Ok, então você está vivendo em uma dessas coisas malditas. Parece-me que voc�
 
 [^7]: "Viver em uma história" (Jung) — você está sempre dentro de uma narrativa; se for inconsciente ou de outra pessoa, você provavelmente vai acabar mal. Fim da Lecture 06
 
+[^8]: **Pinóquio e Geppetto** — história usada por Peterson para ilustrar que tornar-se um ser real (autônomo e moral) exige mais do que apenas ser construído. Requer um desejo transcendente, sacrifício e confronto com o caos (a baleia).
+
+[^9]: **Gigantes da Terra (Nefilim)** — resultado da mistura desordenada entre "filhos de Deus" e "filhas dos homens". Símbolo da corrupção que surge quando o espírito se une ao biológico sem a devida estrutura e responsabilidade.
+
+[^10]: **Dilúvio como retorno ao caos** — quando a corrupção atinge um ponto de não-retorno, o mundo precisa ser "resetado". O dilúvio é o caos primordial voltando para permitir um novo começo.
+
+[^11]: **Noé como o justo** — o homem que consegue navegar o retorno ao caos porque ainda preserva a ordem interna. A arca é a imagem da consciência ou da tradição que sobrevive ao colapso.
+
+[^12]: **Arco-íris e a nova aliança** — sinal de que, depois do caos, Deus promete não destruir o mundo novamente dessa forma. É a esperança de que a ordem pode se restabelecer e que o ser vale a pena continuar.
+
+---
+
+## Conteúdo adicional traduzido (continuação)
+
+O que significa, então, essa história toda de Noé e do dilúvio?
+
+Significa que, quando a corrupção chega a um certo ponto — quando a violência, a mentira e a exploração se tornam a regra e não a exceção —, o mundo, de certa forma, não pode mais continuar como está. Algo precisa ser destruído para que algo novo possa nascer.
+
+O dilúvio é o retorno ao caos primordial. É como se Deus dissesse: "Vamos voltar ao começo e tentar de novo". Noé é o homem que consegue navegar esse retorno ao caos porque ele é "justo em suas gerações". Ele é o que ainda mantém a ordem em meio ao caos.
+
+E a arca é a imagem perfeita: uma estrutura pequena, frágil, mas ordenada, flutuando no meio do caos infinito. É a imagem da consciência individual — ou da tradição que ainda preserva a ordem — sobrevivendo ao colapso de tudo ao redor.
+
+Depois do dilúvio, Deus faz uma aliança com Noé. Ele promete que nunca mais destruirá o mundo com um dilúvio. E o sinal dessa aliança é o arco-íris.
+
+O arco-íris é a primeira vez que aparece algo que atravessa o céu de um lado a outro. Ele une o que estava separado. Depois do caos, vem a promessa de que a ordem pode se restabelecer — e de que Deus está disposto a continuar com a criação apesar de tudo.
+
+Essa é a esperança que a história de Noé oferece: mesmo quando tudo desmorona, mesmo quando a corrupção parece total, ainda é possível construir algo que sobreviva. E ainda é possível recomeçar. O ser, no final, é algo que vale a pena continuar, apesar de todo o sofrimento.
+
 ---
 
 ## Seção IV (conteúdo adicional traduzido) - continuação
