@@ -139,11 +139,12 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
   Status final: **Concluída**.
 
 - **Palestra 06** — Em andamento (27/05/2026).  
-  Gap original: ~12.509 palavras (a maior).  
-  Estrutura normalizada.  
-  Tradução e inserção de conteúdo importante já realizadas (Pinóquio/Geppetto, "Gigantes da Terra", corrupção que leva ao dilúvio, Noé como o justo, a arca, o arco-íris e a nova aliança, os comandos após o dilúvio, a proibição do sangue, a declaração sobre a imagem de Deus, a história de Noé bêbado e a maldição de Canaã).  
-  Novas notas adicionadas (Pinóquio, Nefilim, dilúvio como retorno ao caos, Noé, arca, arco-íris, imagem de Deus e dignidade humana, proibição do sangue, maldição de Canaã).  
-  Status: **Estrutura consertada + tradução em andamento (a mais pesada — ainda falta conteúdo significativo)**.
+  Gap original: ~12.509 palavras (atualmente ~8.615).  
+  Estrutura normalizada (cabeçalhos I–V limpos).  
+  Tradução e inserção de grande quantidade de conteúdo importante já realizadas (Pinóquio/Geppetto, "Gigantes da Terra", corrupção que leva ao dilúvio, Noé como o justo, a arca, o arco-íris e a nova aliança, os comandos após o dilúvio, a proibição do sangue, a declaração sobre a imagem de Deus, a história de Noé bêbado e a maldição de Canaã, a pomba e a folha de oliveira, o altar e o cheiro suave, a mensagem de esperança e recomeço).  
+  Novas notas adicionadas (Pinóquio, Nefilim, dilúvio como retorno ao caos, Noé, arca, arco-íris, imagem de Deus e dignidade humana, proibição do sangue, maldição de Canaã, corvo e pomba, altar e cheiro suave).  
+  Limpeza de duplicação residual realizada.  
+  Status: **Estrutura consertada + tradução substancial em andamento (ainda falta conteúdo significativo, mas grande progresso feito)**.
 
 ## Observações Técnicas
 
