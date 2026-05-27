@@ -78,7 +78,7 @@ def get_covers(lang: str) -> List[Path]:
     return covers
 
 
-def process_lecture_with_footnotes(full_content: str, lecture_num: int) -> tuple[str, list[str]]:
+def process_lecture_with_footnotes(full_content: str, lecture_num: int) -> tuple[str, list[str], list[str]]:
     """
     Process a lecture's full content:
     - Extracts the spoken body (everything before the notes section).
@@ -86,7 +86,11 @@ def process_lecture_with_footnotes(full_content: str, lecture_num: int) -> tuple
     - Renumbers everything per lecture (e.g. [^02-1], [^02-2]).
     - Returns:
         - The processed body with references updated.
-        - A list of renumbered footnote definitions (to be printed at the end of the lecture).
+        - A list of renumbered footnote definitions for which there IS a reference in the body
+          (these will be emitted as real [^id]: defs so Pandoc generates proper popup footnotes).
+        - A list of renumbered footnote definitions for which there is NO reference in the body
+          ("orphan" notes added during translation). These will be rendered as visible plain text
+          inside a "Notas e comentários adicionais" section.
     """
     prefix = f"{lecture_num:02d}"
 
@@ -108,7 +112,7 @@ def process_lecture_with_footnotes(full_content: str, lecture_num: int) -> tuple
     definitions = def_pattern.findall(notes_part if notes_part else full_content)
 
     if not definitions:
-        return body, []
+        return body, [], []
 
     # Create mapping old -> new
     old_ids = [d[0] for d in definitions]
@@ -123,15 +127,25 @@ def process_lecture_with_footnotes(full_content: str, lecture_num: int) -> tuple
 
     body = re.sub(r'\[\^(\d+)\]', replace_ref, body)
 
-    # Build the list of renumbered definitions
+    # Build the list of renumbered definitions and partition into referenced vs orphan
     renumbered_defs = []
     for old_id, text in definitions:
         new_id = mapping[old_id]
-        # Clean up the text a bit
         text = text.strip()
-        renumbered_defs.append(f"[^{new_id}]: {text}")
+        renumbered_defs.append((new_id, text))
 
-    return body, renumbered_defs
+    # Which new ids actually appear as references in the (rewritten) body?
+    used_ids = set(re.findall(r'\[\^(\d{2}-\d+)\]', body))
+
+    referenced_defs = []
+    orphan_defs = []
+    for new_id, text in renumbered_defs:
+        if new_id in used_ids:
+            referenced_defs.append(f"[^{new_id}]: {text}")
+        else:
+            orphan_defs.append(f"[^{new_id}]: {text}")
+
+    return body, referenced_defs, orphan_defs
 
 
 def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
@@ -228,29 +242,43 @@ def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
         # heading level so they all appear properly in the TOC.
         marker = "## Section I" if is_en else "## Seção I"
         idx = content.find(marker)
+        relevant = content[idx:] if idx != -1 else content
 
-        if idx != -1:
-            body = content[idx:]
-        else:
-            # Fallback — should not happen now
-            body = content
+        # Process footnotes: renumber references + partition ALL definitions into
+        # referenced (for Pandoc popup footnotes) vs orphan (for visible section).
+        processed_body, referenced_footnotes, orphan_footnotes = process_lecture_with_footnotes(relevant, num)
 
-        # Process footnotes: renumber references + collect ALL definitions
-        # (including those without reference in the text)
-        body, footnotes = process_lecture_with_footnotes(content, num)
-
-        # Append the body
-        combined_md.append(body)
+        # Append the body (starts cleanly at Seção I when available)
+        combined_md.append(processed_body)
         combined_md.append("")
 
-        # Append footnotes for this lecture (even orphan ones)
-        if footnotes:
+        # Emit bare footnote definitions ONLY for notes that are actually referenced
+        # in the lecture body. This lets Pandoc generate the proper EPUB3 popup
+        # <aside epub:type="footnote"> endnotes that work in Apple Books etc.
+        # (These definition lines are consumed and do not appear as visible text.)
+        if referenced_footnotes:
+            for fn in referenced_footnotes:
+                combined_md.append(fn)
+            combined_md.append("")
+
+        # For orphan notes (definitions with no [^ref] in the body text):
+        # render them as ordinary visible paragraphs inside the styled fenced div.
+        # This guarantees they appear at the end of each lecture in every reader
+        # (including Apple Books), with the requested italic/smaller styling.
+        if orphan_footnotes:
             combined_md.append("")
             combined_md.append("::: {.additional-notes}")
             combined_md.append("### Notas e comentários adicionais")
             combined_md.append("")
-            for fn in footnotes:
-                combined_md.append(fn)
+            for fn in orphan_footnotes:
+                # Turn "[^02-3]: explanation text" into a readable paragraph
+                m = re.match(r'\[\^([^\]]+)\]:\s*(.*)', fn, re.DOTALL)
+                if m:
+                    nid, txt = m.groups()
+                    combined_md.append(f"**Nota {nid}**: {txt.strip()}")
+                    combined_md.append("")
+                else:
+                    combined_md.append(fn)
             combined_md.append(":::")
             combined_md.append("")
 
