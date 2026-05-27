@@ -302,10 +302,23 @@ def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
         if generate_pdf:
             print("Generating Complete PDF from EPUB...")
             
-            ebook_cmd = [
+            is_macos = sys.platform == "darwin"
+
+            if is_macos:
+                print("Note: PDF generation via command line can be unreliable on macOS.")
+                print("      If it fails, we strongly recommend using the Calibre GUI instead.\n")
+
+            # Base command (works on all platforms)
+            base_cmd = [
                 "ebook-convert",
                 str(epub_path),
                 str(pdf_path),
+                "--title", f"{title} - {suffix}",
+                "--authors", "Jordan B. Peterson",
+            ]
+            
+            # Full PDF options (work well on Linux/CI, may not exist on some macOS Calibre installs)
+            full_options = [
                 "--pdf-page-size", "A4",
                 "--pdf-default-font-size", "11",
                 "--pdf-mono-font-size", "10",
@@ -313,24 +326,50 @@ def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
                 "--pdf-margin-right", "1.8cm",
                 "--pdf-margin-top", "1.8cm",
                 "--pdf-margin-bottom", "1.8cm",
-                "--title", f"{title} - {suffix}",
-                "--authors", "Jordan B. Peterson",
             ]
             
-            # Use xvfb-run only in headless/CI environments (Linux without display).
-            # On macOS or normal desktops, run ebook-convert directly.
+            # Try full options first
+            pdf_cmd = base_cmd + full_options
+            
+            # Use xvfb-run only in headless/CI Linux environments
             if shutil.which("xvfb-run") and (os.environ.get("CI") or not os.environ.get("DISPLAY")):
-                pdf_cmd = ["xvfb-run", "--auto-servernum", "--server-args=-screen 0 1024x768x24"] + ebook_cmd
-            else:
-                pdf_cmd = ebook_cmd
+                pdf_cmd = ["xvfb-run", "--auto-servernum", "--server-args=-screen 0 1024x768x24"] + pdf_cmd
             
             pdf_success = True
             try:
                 subprocess.run(pdf_cmd, check=True, capture_output=True)
             except subprocess.CalledProcessError as e:
-                pdf_success = False
-                print("WARNING: PDF generation failed (ebook-convert returned error).")
-                print(f"PDF error output (stderr): {e.stderr.decode('utf-8', errors='ignore') if e.stderr else 'N/A'}")
+                stderr = e.stderr.decode('utf-8', errors='ignore') if e.stderr else ''
+                
+                # If the error is "no such option" for PDF flags (common on some macOS Calibre installs),
+                # retry with minimal options
+                if "no such option" in stderr and any(opt in stderr for opt in ["--pdf-page-size", "--pdf-default-font-size"]):
+                    print("Retrying PDF generation with minimal options (some PDF flags not supported on this system)...")
+                    pdf_cmd = base_cmd  # minimal command without PDF-specific options
+                    if shutil.which("xvfb-run") and (os.environ.get("CI") or not os.environ.get("DISPLAY")):
+                        pdf_cmd = ["xvfb-run", "--auto-servernum", "--server-args=-screen 0 1024x768x24"] + pdf_cmd
+                    
+                    try:
+                        subprocess.run(pdf_cmd, check=True, capture_output=True)
+                    except subprocess.CalledProcessError as e2:
+                        pdf_success = False
+                        if is_macos:
+                            print("\n" + "="*70)
+                            print("PDF generation failed on macOS.")
+                            print("This is a known limitation of Calibre's command-line PDF export on macOS.")
+                            print("\nRecommended solution:")
+                            print("  1. Open the generated .epub file in the Calibre application.")
+                            print("  2. Select the book → click 'Convert books'.")
+                            print("  3. Choose PDF as the output format and click OK.")
+                            print("     (The GUI conversion is much more reliable on macOS.)")
+                            print("="*70 + "\n")
+                        else:
+                            print("WARNING: PDF generation failed even with minimal options.")
+                            print(f"PDF error output (stderr): {e2.stderr.decode('utf-8', errors='ignore') if e2.stderr else 'N/A'}")
+                else:
+                    pdf_success = False
+                    print("WARNING: PDF generation failed (ebook-convert returned error).")
+                    print(f"PDF error output (stderr): {stderr if stderr else 'N/A'}")
 
     finally:
         tmp_path.unlink(missing_ok=True)
