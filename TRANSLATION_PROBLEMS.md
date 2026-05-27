@@ -71,9 +71,15 @@ Três seções com menos de 15% do conteúdo original.
 
 Seções III, IV e V estão praticamente colapsadas.
 
-### 6. Palestra 07 — Andando com Deus: Noé e o Dilúvio (Gap: 11.219 palavras)
+### 6. Palestra 07 — Andando com Deus: Noé e o Dilúvio (Gap original: 11.219 palavras)
 
-- **Seção V**: EN 6.964 → PT 2.029 (gap 4.935) — a seção mais longa está pela metade.
+**Status atual (em andamento, primeiro grande passe)**:  
+- Gap atual: ~9.492 palavras (reduzido em ~1.727 palavras nesta rodada).  
+- Conteúdo crítico adicionado: ponte psicológica central entre "estrutura danificada" e "Noé andava com Deus" — árvore corrupta / pelos frutos os conhecereis, "nem todo aquele que me diz Senhor, Senhor", "nunca vos conheci", casa sobre a rocha vs areia, Apocalipse como lado do juízo (Jung), crítica de Nietzsche, lições negativas do século XX, polarização moderna (anúncio NRA / Antifa), milagres negativos, e o sentido prático de "andar com Deus" como reparo voluntário local.  
+- Estrutura: normalizada (cabeçalhos limpos I–V, **Notas** apenas ao final com formatação padrão).  
+- Notas: 7 existentes mantidas + estrutura de notas limpa.  
+- Próximo: continuar preenchendo o restante do núcleo filosófico + qualquer lacuna remanescente nas seções iniciais/médias.  
+- Status: **Avançando bem — núcleo conceitual mais denso ("andar com Deus = reparo heroico voluntário + juízo prático") agora presente.**
 
 ### 7. Palestra 12 — O Grande Sacrifício (Gap: 11.033 palavras)
 
