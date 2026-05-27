@@ -8,7 +8,7 @@ on:
     branches: [main]
     paths:
       - 'Biblical Stories/**'
-      - 'scripts/lectures.py'
+      - 'scripts/**'
       - '.github/workflows/build-ebooks.yml'
   workflow_dispatch:
     inputs:
