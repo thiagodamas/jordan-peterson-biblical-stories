@@ -215,22 +215,22 @@ A história delineou a catástrofe ética de Sodoma e Gomorra; a dissolução da
 
 ## Notas de rodapé
 
-: **Hospitalidade** (*hospitality*): Virtude central da história, especialmente no contexto antigo. Receber o estranho (os três visitantes/anjos) é receber o divino. A falha de Sodoma não é primariamente sexual no sentido moderno, mas a destruição completa da capacidade de receber o Outro com dignidade e proteção. Abraão e Ló são mestres do estranho; a cidade é o oposto.
-
-: **Circuncisão como sacrifício psicológico**: Transição de sacrifício externo (animais, posses) para algo pessoal e corporal. Representa a necessidade de "desistir de uma parte para salvar o todo", marcar seriamente uma aliança, e transformar o sacrifício em realidade psicológica/internalizada. Ecoa o batismo (morte do velho eu).
-
-: **Negociação com Deus / Abraão intercedendo**: Abraão barganha por Sodoma (50 → 10 justos). Isso não é irreverência; é o modelo de responsabilidade moral individual desenvolvida. O indivíduo não aceita passivamente "a vontade de Deus" quando parece injusta — ele argumenta, intercede, luta. "Israel" = "aquele que luta com Deus".
-
-: **"Grande demais pra falir" / colapso ético de Sodoma**: Sistemas (cidades, impérios, ideologias) que violam a ordem ética natural (equilíbrio caos/ordem) entram em colapso catastrófico. O "ruído" do pecado chega aos céus. Paralelo com totalitarismos do século XX (Soljenítsin, *Arquipélago Gulag*): a corrupção começa no indivíduo que mente e não defende a verdade.
-
-: **Cegueira voluntária** (*willful blindness*): As pessoas em Sodoma (e em regimes corruptos) "sabiam" o que estava acontecendo em algum nível, mas escolheram não saber. A corrupção se espalha porque indivíduos recusam a responsabilidade de ver e agir. Ló hesita em sair — "demora-se" — e carrega as consequências.
-
-: **Não olhar para trás / sem desculpas**: A mulher de Ló vira estátua de sal. Lição dura: quando você deixa um lugar/situação terrível, não há nostalgia. Olhar para trás (literal ou figurativamente) é se condenar. As histórias enfatizam que não há desculpas — nem catástrofes familiares — para não fazer o que deve ser feito. "Não há tempo a perder."
-
-: **Potencial e ideal como juiz**: O futuro/ideal que você formula se torna juiz. Ao elevar seu objetivo, você cria um juiz que revela o que é inútil em você para ser dispensado (processo "fênix"). Cristo como juiz arquetípico: "livre-se de tudo que não é perfeito". Pessoas que você admira são encarnações parciais do messias arquetípico.
-
-: **Hospitalidade ao estranho como ato de coragem**: Abraão recebe bem os anjos/estrangeiros apesar de ser um cara durão e ciente dos perigos. Evoca o melhor do Outro. Cada pessoa tem valor intrínseco/transcendente (logos). "O que você faz ao menor, faz a mim." Fazer contato genuíno com o estranho é como o pão que nutre (não material).
-
 ---
 
-**Fim da Lecture 11**
+**Notas**
+
+[^1]: **Hospitalidade** (*hospitality*): Virtude central da história, especialmente no contexto antigo. Receber o estranho (os três visitantes/anjos) é receber o divino. A falha de Sodoma não é primariamente sexual no sentido moderno, mas a destruição completa da capacidade de receber o Outro com dignidade e proteção. Abraão e Ló são mestres do estranho; a cidade é o oposto.
+
+[^2]: **Circuncisão como sacrifício psicológico**: Transição de sacrifício externo (animais, posses) para algo pessoal e corporal. Representa a necessidade de "desistir de uma parte para salvar o todo", marcar seriamente uma aliança, e transformar o sacrifício em realidade psicológica/internalizada. Ecoa o batismo (morte do velho eu).
+
+[^3]: **Negociação com Deus / Abraão intercedendo**: Abraão barganha por Sodoma (50 → 10 justos). Isso não é irreverência; é o modelo de responsabilidade moral individual desenvolvida. O indivíduo não aceita passivamente "a vontade de Deus" quando parece injusta — ele argumenta, intercede, luta. "Israel" = "aquele que luta com Deus".
+
+[^4]: **"Grande demais pra falir" / colapso ético de Sodoma**: Sistemas (cidades, impérios, ideologias) que violam a ordem ética natural (equilíbrio caos/ordem) entram em colapso catastrófico. O "ruído" do pecado chega aos céus. Paralelo com totalitarismos do século XX (Soljenítsin, *Arquipélago Gulag*): a corrupção começa no indivíduo que mente e não defende a verdade.
+
+[^5]: **Cegueira voluntária** (*willful blindness*): As pessoas em Sodoma (e em regimes corruptos) "sabiam" o que estava acontecendo em algum nível, mas escolheram não saber. A corrupção se espalha porque indivíduos recusam a responsabilidade de ver e agir. Ló hesita em sair — "demora-se" — e carrega as consequências.
+
+[^6]: **Não olhar para trás / sem desculpas**: A mulher de Ló vira estátua de sal. Lição dura: quando você deixa um lugar/situação terrível, não há nostalgia. Olhar para trás (literal ou figurativamente) é se condenar. As histórias enfatizam que não há desculpas — nem catástrofes familiares — para não fazer o que deve ser feito. "Não há tempo a perder."
+
+[^7]: **Potencial e ideal como juiz**: O futuro/ideal que você formula se torna juiz. Ao elevar seu objetivo, você cria um juiz que revela o que é inútil em você para ser dispensado (processo "fênix"). Cristo como juiz arquetípico: "livre-se de tudo que não é perfeito". Pessoas que você admira são encarnações parciais do messias arquetípico.
+
+[^8]: **Hospitalidade ao estranho como ato de coragem**: Abraão recebe bem os anjos/estrangeiros apesar de ser um cara durão e ciente dos perigos. Evoca o melhor do Outro. Cada pessoa tem valor intrínseco/transcendente (logos). "O que você faz ao menor, faz a mim." Fazer contato genuíno com o estranho é como o pão que nutre (não material). --- **Fim da Lecture 11**

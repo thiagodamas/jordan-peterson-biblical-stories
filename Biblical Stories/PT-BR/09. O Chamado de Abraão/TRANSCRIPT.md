@@ -96,20 +96,20 @@ Obrigado por terem vindo. Na próxima vamos continuar com mais das aventuras de 
 
 ## Notas de rodapé
 
-: **O Chamado (Lekh Lekha)**: "Sai-te" / "Vai pra você". Um dos momentos mais famosos da Bíblia. Não é só uma ordem geográfica — é um chamado psicológico e espiritual pra deixar o familiar (terra, parentela, casa do pai) e se aventurar no desconhecido em direção ao potencial. É o arquétipo da individuação.
-
-: **Aliança (Covenant)**: Contrato ativo e bilateral entre o indivíduo e o Ser. Não é crença passiva. É a decisão de agir como se o mundo recompensasse o sacrifício e a integridade, mesmo sem evidência prévia. "Acreditar" aqui é um verbo de ação.
-
-: **Abraão como personagem falho**: Diferente de Noé (mais arquetípico), Abraão é retratado como um homem real que mente (duas vezes sobre Sara), toma decisões questionáveis e ainda assim é abençoado. Isso é "boa notícia" — o caminho não exige perfeição, apenas manutenção da aliança.
-
-: **Recusa do espólio (Gênesis 14)**: Abraão recusa as riquezas do rei de Sodoma pra não contaminar a pureza ética de sua ação de resgate. Ele não quer que ninguém possa dizer que ele ficou rico com o mal alheio. Manutenção da integridade acima do ganho material.
-
-: **Melquisedeque**: Figura misteriosa e importante — rei e sacerdote ao mesmo tempo, que oferece pão e vinho e abençoa Abraão. É frequentemente visto como precursor ou tipo de Cristo na tradição cristã. Representa um encontro com uma ordem espiritual mais alta que transcende as rivalidades políticas da época.
-
-: **"Contempla as estrelas"**: A promessa impossível (Abraão é velho e Sara é estéril). A fé aqui é a disposição de apostar sua vida na ideia de que o sacrifício e a orientação correta produzem frutos que vão muito além do que você consegue ver no momento.
-
-: **Responsabilidade como antídoto**: Peterson conecta diretamente o chamado de Abraão com o que ele observa em seu público (especialmente jovens homens): uma fome profunda por responsabilidade, em contraste com a cultura contemporânea de direitos, vitimismo e passividade. "Pegue a coisa mais pesada que conseguir e carregue."
-
 ---
 
-**Fim da Lecture 09**
+**Notas**
+
+[^1]: **O Chamado (Lekh Lekha)**: "Sai-te" / "Vai pra você". Um dos momentos mais famosos da Bíblia. Não é só uma ordem geográfica — é um chamado psicológico e espiritual pra deixar o familiar (terra, parentela, casa do pai) e se aventurar no desconhecido em direção ao potencial. É o arquétipo da individuação.
+
+[^2]: **Aliança (Covenant)**: Contrato ativo e bilateral entre o indivíduo e o Ser. Não é crença passiva. É a decisão de agir como se o mundo recompensasse o sacrifício e a integridade, mesmo sem evidência prévia. "Acreditar" aqui é um verbo de ação.
+
+[^3]: **Abraão como personagem falho**: Diferente de Noé (mais arquetípico), Abraão é retratado como um homem real que mente (duas vezes sobre Sara), toma decisões questionáveis e ainda assim é abençoado. Isso é "boa notícia" — o caminho não exige perfeição, apenas manutenção da aliança.
+
+[^4]: **Recusa do espólio (Gênesis 14)**: Abraão recusa as riquezas do rei de Sodoma pra não contaminar a pureza ética de sua ação de resgate. Ele não quer que ninguém possa dizer que ele ficou rico com o mal alheio. Manutenção da integridade acima do ganho material.
+
+[^5]: **Melquisedeque**: Figura misteriosa e importante — rei e sacerdote ao mesmo tempo, que oferece pão e vinho e abençoa Abraão. É frequentemente visto como precursor ou tipo de Cristo na tradição cristã. Representa um encontro com uma ordem espiritual mais alta que transcende as rivalidades políticas da época.
+
+[^6]: **"Contempla as estrelas"**: A promessa impossível (Abraão é velho e Sara é estéril). A fé aqui é a disposição de apostar sua vida na ideia de que o sacrifício e a orientação correta produzem frutos que vão muito além do que você consegue ver no momento.
+
+[^7]: **Responsabilidade como antídoto**: Peterson conecta diretamente o chamado de Abraão com o que ele observa em seu público (especialmente jovens homens): uma fome profunda por responsabilidade, em contraste com a cultura contemporânea de direitos, vitimismo e passividade. "Pegue a coisa mais pesada que conseguir e carregue." --- **Fim da Lecture 09**

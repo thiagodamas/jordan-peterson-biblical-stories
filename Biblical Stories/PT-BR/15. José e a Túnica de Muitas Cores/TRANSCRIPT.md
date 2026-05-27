@@ -146,20 +146,20 @@ Ok, então tudo bem. Há alguma utilidade em perseguir aquelas coisas em que voc
 
 ## Notas de rodapé
 
-: **Túnica de muitas cores** (*coat of many colours*): Símbolo da singularidade e do chamado de José. O favoritismo de Jacó é um erro grave (gera inveja fratricida), mas a "diferença" de José (sonhos, visão) é real. A túnica marca quem carrega algo novo — e por isso é odiado. Também indica a capacidade de manifestar muitos traços e funcionar em muitos contextos.
-
-: **Sonhos e interpretação**: José é o arquétipo do "vidente". Seus sonhos não são só pessoais; eles revelam o padrão do que vai acontecer. A capacidade de interpretar sonhos (de Faraó, dos oficiais) é a capacidade de ler o futuro no presente — competência psicológica suprema. Sonhos como "chamado à aventura" que liga interesse biológico ao desenvolvimento.
-
-: **Ausência de ressentimento**: O tema central da lecture. José é traído, escravizado, acusado falsamente, esquecido na prisão. Nunca culpa. Quando tem poder, perdoa e providencia. Essa é a força mais poderosa que existe, segundo esta história: o indivíduo que recusa o papel de vítima e transforma o mal em bem. Paralelo com Cristo.
-
-: **Teste de arrependimento**: José não perdoa automaticamente. Ele testa os irmãos com a taça de prata e Benjamim. Só quando Judá oferece sua própria liberdade pelo caçula (o oposto do que fizeram com José) é que José revela sua identidade. Perdão verdadeiro exige evidência de mudança. "Deus o intentou para bem" — mas os irmãos tiveram que demonstrar transformação.
-
-: **"Vós bem intentastes mal... porém Deus o intentou para bem"**: A frase mais importante da história. Resume a providência bíblica: o mal humano real (traição dos irmãos) é transformado em bem maior (salvação da família e de muita gente). Não é negação do mal; é afirmação de que o bem pode triunfar mesmo quando as intenções eram destrutivas. José armazena caráter para a fome.
-
-: **José como tipo de Cristo / precursor**: Tradicional na leitura cristã. O filho amado traído, que sofre injustamente, é exaltado, e salva seu povo da morte. Peterson vê também o padrão psicológico: o indivíduo competente e sem ressentimento que redime a linhagem familiar e a cultura. "Não há força mais poderosa que caráter e competência."
-
-: **Fim de Gênesis e as 12 tribos**: A série cobre as histórias fundacionais. José fecha o ciclo: da criação e queda, através do dilúvio e Babel, dos patriarcas, até o povo de Israel no Egito. Jacó abençoa invertendo tradição (Efraim sobre Manassés). O próximo movimento (Êxodo) é a saída do "inferno" que José transformou em salvação. "E isso é Gênesis."
-
 ---
 
-**Fim da Lecture 15**
+**Notas**
+
+[^1]: **Túnica de muitas cores** (*coat of many colours*): Símbolo da singularidade e do chamado de José. O favoritismo de Jacó é um erro grave (gera inveja fratricida), mas a "diferença" de José (sonhos, visão) é real. A túnica marca quem carrega algo novo — e por isso é odiado. Também indica a capacidade de manifestar muitos traços e funcionar em muitos contextos.
+
+[^2]: **Sonhos e interpretação**: José é o arquétipo do "vidente". Seus sonhos não são só pessoais; eles revelam o padrão do que vai acontecer. A capacidade de interpretar sonhos (de Faraó, dos oficiais) é a capacidade de ler o futuro no presente — competência psicológica suprema. Sonhos como "chamado à aventura" que liga interesse biológico ao desenvolvimento.
+
+[^3]: **Ausência de ressentimento**: O tema central da lecture. José é traído, escravizado, acusado falsamente, esquecido na prisão. Nunca culpa. Quando tem poder, perdoa e providencia. Essa é a força mais poderosa que existe, segundo esta história: o indivíduo que recusa o papel de vítima e transforma o mal em bem. Paralelo com Cristo.
+
+[^4]: **Teste de arrependimento**: José não perdoa automaticamente. Ele testa os irmãos com a taça de prata e Benjamim. Só quando Judá oferece sua própria liberdade pelo caçula (o oposto do que fizeram com José) é que José revela sua identidade. Perdão verdadeiro exige evidência de mudança. "Deus o intentou para bem" — mas os irmãos tiveram que demonstrar transformação.
+
+[^5]: **"Vós bem intentastes mal... porém Deus o intentou para bem"**: A frase mais importante da história. Resume a providência bíblica: o mal humano real (traição dos irmãos) é transformado em bem maior (salvação da família e de muita gente). Não é negação do mal; é afirmação de que o bem pode triunfar mesmo quando as intenções eram destrutivas. José armazena caráter para a fome.
+
+[^6]: **José como tipo de Cristo / precursor**: Tradicional na leitura cristã. O filho amado traído, que sofre injustamente, é exaltado, e salva seu povo da morte. Peterson vê também o padrão psicológico: o indivíduo competente e sem ressentimento que redime a linhagem familiar e a cultura. "Não há força mais poderosa que caráter e competência."
+
+[^7]: **Fim de Gênesis e as 12 tribos**: A série cobre as histórias fundacionais. José fecha o ciclo: da criação e queda, através do dilúvio e Babel, dos patriarcas, até o povo de Israel no Egito. Jacó abençoa invertendo tradição (Efraim sobre Manassés). O próximo movimento (Êxodo) é a saída do "inferno" que José transformou em salvação. "E isso é Gênesis." --- **Fim da Lecture 15**

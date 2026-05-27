@@ -283,18 +283,20 @@ A cobra não é apenas a cobra no jardim, e a cobra não é apenas a cobra poss�
 
 ---
 
-: *Tzadik* — figura messiânica na tradição judaica; a pessoa que encontra o que perdeu na infância e o recupera voluntariamente, retornando ao estado de inocência com consciência desperta.
+---
 
-: *Multitrait-Multimethod Matrix* — método de validação de constructo em psicologia; quanto mais maneiras diferentes você mede algo e obtém o mesmo resultado, mais confiável é a conclusão.
+**Notas**
 
-: Serpente/Satanás — a tradição cristã posteriormente identificou a serpente do Éden com o autor de todo mal; ideia brilhante que revela que o maior inimigo da humanidade não é apenas o predador externo, mas a propensão humana ao mal (inclusive dentro de si).
+[^1]: *Tzadik* — figura messiânica na tradição judaica; a pessoa que encontra o que perdeu na infância e o recupera voluntariamente, retornando ao estado de inocência com consciência desperta.
 
-: Árvore do conhecimento do bem e do mal — não é mera metáfora; representa a informação como "meta-alimento". O momento em que o ser humano se torna autoconsciente de sua vulnerabilidade é o momento em que adquire a capacidade de fazer o mal conscientemente.
+[^2]: *Multitrait-Multimethod Matrix* — método de validação de constructo em psicologia; quanto mais maneiras diferentes você mede algo e obtém o mesmo resultado, mais confiável é a conclusão.
 
-: Nudez e vergonha — reconhecimento da vulnerabilidade permanente. O primeiro passo da cultura (roupas) é proteção contra essa vulnerabilidade exposta.
+[^3]: Serpente/Satanás — a tradição cristã posteriormente identificou a serpente do Éden com o autor de todo mal; ideia brilhante que revela que o maior inimigo da humanidade não é apenas o predador externo, mas a propensão humana ao mal (inclusive dentro de si).
 
-: Unidade 731 — referência histórica real (experimentos japoneses na China, Segunda Guerra Mundial) para ilustrar a capacidade humana real de mal deliberado e planejado que surge com a autoconsciência.
+[^4]: Árvore do conhecimento do bem e do mal — não é mera metáfora; representa a informação como "meta-alimento". O momento em que o ser humano se torna autoconsciente de sua vulnerabilidade é o momento em que adquire a capacidade de fazer o mal conscientemente.
 
-: "Pó és e em pó te tornarás" + trabalho — o preço da autoconsciência é a consciência da morte e a necessidade de sacrificar o presente pelo futuro (invenção do trabalho).
+[^5]: Nudez e vergonha — reconhecimento da vulnerabilidade permanente. O primeiro passo da cultura (roupas) é proteção contra essa vulnerabilidade exposta.
 
-Fim da Lecture 04
+[^6]: Unidade 731 — referência histórica real (experimentos japoneses na China, Segunda Guerra Mundial) para ilustrar a capacidade humana real de mal deliberado e planejado que surge com a autoconsciência.
+
+[^7]: "Pó és e em pó te tornarás" + trabalho — o preço da autoconsciência é a consciência da morte e a necessidade de sacrificar o presente pelo futuro (invenção do trabalho). Fim da Lecture 04

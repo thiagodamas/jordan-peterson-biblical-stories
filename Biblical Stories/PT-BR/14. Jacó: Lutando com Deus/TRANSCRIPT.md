@@ -219,18 +219,20 @@ José é o favorito de Israel porque ele vê nele esse excesso de possibilidade.
 
 ---
 
-: *Axis mundi* — o eixo ou pilar central que une o céu (transcendente) e a terra (material); símbolo arcaico do centro sagrado de uma cultura ou psique. Aparece em muitas tradições (árvore do mundo, obeliscos, cruz, etc.).
+---
 
-: Marduque (Marduk) — deus principal da Mesopotâmia; herói que derrota o dragão do caos (Tiamat) e cria o mundo ordenado a partir dele. Representa a capacidade humana de confrontar o desconhecido e produzir ordem.
+**Notas**
 
-: Tiamat — a deusa-dragão primordial do caos na mitologia babilônica; símbolo do desconhecido aterrorizante que precisa ser "cortado em pedaços" (compreendido e organizado) para que a vida civilizada seja possível.
+[^1]: *Axis mundi* — o eixo ou pilar central que une o céu (transcendente) e a terra (material); símbolo arcaico do centro sagrado de uma cultura ou psique. Aparece em muitas tradições (árvore do mundo, obeliscos, cruz, etc.).
 
-: Israel — "aquele que luta com Deus" ou "Deus luta". O nome dado a Jacó após a luta noturna. Indica que o relacionamento adequado com o divino não é submissão passiva, mas um contender corajoso e transformador. A nação de Israel carrega esse nome como identidade.
+[^2]: Marduque (Marduk) — deus principal da Mesopotâmia; herói que derrota o dragão do caos (Tiamat) e cria o mundo ordenado a partir dele. Representa a capacidade humana de confrontar o desconhecido e produzir ordem.
 
-: Peniel (ou Penuel) — "o rosto de Deus". O lugar onde Jacó viu Deus "face a face" e recebeu a bênção (e a lesão permanente). Simboliza o encontro transformador e perigoso com o transcendente.
+[^3]: Tiamat — a deusa-dragão primordial do caos na mitologia babilônica; símbolo do desconhecido aterrorizante que precisa ser "cortado em pedaços" (compreendido e organizado) para que a vida civilizada seja possível.
 
-: Ritual xamânico — prática ancestral disseminada em que o praticante "morre" simbolicamente (dissolução até os ossos), viaja ao mundo espiritual, conversa com ancestrais e retorna renovado. Muitos estudiosos veem ecos disso na origem das tradições religiosas.
+[^4]: Israel — "aquele que luta com Deus" ou "Deus luta". O nome dado a Jacó após a luta noturna. Indica que o relacionamento adequado com o divino não é submissão passiva, mas um contender corajoso e transformador. A nação de Israel carrega esse nome como identidade.
 
-: "Perfeito em suas gerações" — ideia de integridade familiar e moral como "arca" protetora contra o caos (tema recorrente em Gênesis: Noé, Abraão, agora Jacó/Israel).
+[^5]: Peniel (ou Penuel) — "o rosto de Deus". O lugar onde Jacó viu Deus "face a face" e recebeu a bênção (e a lesão permanente). Simboliza o encontro transformador e perigoso com o transcendente.
 
-Fim da Lecture 14
+[^6]: Ritual xamânico — prática ancestral disseminada em que o praticante "morre" simbolicamente (dissolução até os ossos), viaja ao mundo espiritual, conversa com ancestrais e retorna renovado. Muitos estudiosos veem ecos disso na origem das tradições religiosas.
+
+[^7]: "Perfeito em suas gerações" — ideia de integridade familiar e moral como "arca" protetora contra o caos (tema recorrente em Gênesis: Noé, Abraão, agora Jacó/Israel). Fim da Lecture 14

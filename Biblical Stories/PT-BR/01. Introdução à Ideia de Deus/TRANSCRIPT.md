@@ -246,14 +246,18 @@ Vamos parar por aqui, porque agora estamos prontos para dar um passo tentativo p
 
 ---
 
-: Peterson usa “Being” com maiúscula, num sentido próximo (mas não idêntico) ao de Heidegger. Em português, optei por “Ser” (maiúsculo) para preservar essa distinção filosófica entre o ser humano concreto e a dimensão mais ampla do Ser. Manterei essa convenção ao longo de toda a série.
+---
 
-: *Übermensch*. Mantive o termo original porque carrega uma carga conceitual específica na filosofia de Nietzsche (alguém que cria seus próprios valores após a “morte de Deus”) que se perde nas traduções comuns (“Super-homem” ou “Além-do-Homem”).
+**Notas**
 
-: Novamente, “Being” com maiúscula. O termo é central no pensamento de Peterson e aparece repetidamente ao longo da série.
+[^1]: Peterson usa “Being” com maiúscula, num sentido próximo (mas não idêntico) ao de Heidegger. Em português, optei por “Ser” (maiúsculo) para preservar essa distinção filosófica entre o ser humano concreto e a dimensão mais ampla do Ser. Manterei essa convenção ao longo de toda a série.
 
-: *Tehom* (תְּהוֹם) é a palavra hebraica usada em Gênesis 1:2 para o abismo primordial ou águas do caos. Peterson faz uma conexão etimológica e mitológica importante com Tiamat, a deusa-dragão do caos na mitologia mesopotâmica. Achei relevante manter a nota para leitores interessados em filologia e mitologia comparada.
+[^2]: *Übermensch*. Mantive o termo original porque carrega uma carga conceitual específica na filosofia de Nietzsche (alguém que cria seus próprios valores após a “morte de Deus”) que se perde nas traduções comuns (“Super-homem” ou “Além-do-Homem”).
 
-: Aqui Peterson usa a palavra grega *logos* (Λόγος). Em contextos teológicos e filosóficos costuma ser mantida em grego ou traduzida como “Verbo” (como em João 1:1). Optei por manter “logos” em itálico na maior parte do texto, pois Peterson trabalha com o termo em sua densidade filosófica (razão, palavra, consciência, princípio ordenador). Quando achar necessário, farei nota adicional.
+[^3]: Novamente, “Being” com maiúscula. O termo é central no pensamento de Peterson e aparece repetidamente ao longo da série.
 
-: *Prodromos* é uma palavra grega que significa “prelúdio”, “precursor” ou “algo que vem antes”. Peterson está usando de forma levemente irônica para indicar que as ideias que vai apresentar servirão como preparação para a próxima palestra.
+[^4]: *Tehom* (תְּהוֹם) é a palavra hebraica usada em Gênesis 1:2 para o abismo primordial ou águas do caos. Peterson faz uma conexão etimológica e mitológica importante com Tiamat, a deusa-dragão do caos na mitologia mesopotâmica. Achei relevante manter a nota para leitores interessados em filologia e mitologia comparada.
+
+[^5]: Aqui Peterson usa a palavra grega *logos* (Λόγος). Em contextos teológicos e filosóficos costuma ser mantida em grego ou traduzida como “Verbo” (como em João 1:1). Optei por manter “logos” em itálico na maior parte do texto, pois Peterson trabalha com o termo em sua densidade filosófica (razão, palavra, consciência, princípio ordenador). Quando achar necessário, farei nota adicional.
+
+[^6]: *Prodromos* é uma palavra grega que significa “prelúdio”, “precursor” ou “algo que vem antes”. Peterson está usando de forma levemente irônica para indicar que as ideias que vai apresentar servirão como preparação para a próxima palestra.

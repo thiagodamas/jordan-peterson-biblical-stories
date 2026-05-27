@@ -126,18 +126,20 @@ Ok, então você está vivendo em uma dessas coisas malditas. Parece-me que voc�
 
 ---
 
-: *A priori* — estrutura perceptual e interpretativa embutida (biológica e cultural) que usamos para dar sentido ao mundo antes de qualquer experiência específica.
+---
 
-: Red Queen problem — referência à hipótese evolutiva: você tem que correr o mais rápido que puder apenas para ficar no mesmo lugar (adaptação contínua contra predadores, entropia e mudança).
+**Notas**
 
-: Horus / Marduque — deuses associados à atenção e à vitória sobre o caos (dragão/serpente); simbolizam a força ordenadora que confronta o desconhecido.
+[^1]: *A priori* — estrutura perceptual e interpretativa embutida (biológica e cultural) que usamos para dar sentido ao mundo antes de qualquer experiência específica.
 
-: Entropia + pecados do homem — as duas razões pelas quais as coisas desmoronam: o declínio natural das estruturas + a falha humana em prestar atenção voluntária (evitação, negligência).
+[^2]: Red Queen problem — referência à hipótese evolutiva: você tem que correr o mais rápido que puder apenas para ficar no mesmo lugar (adaptação contínua contra predadores, entropia e mudança).
 
-: Onde você está? — a necessidade de autoconhecimento preciso (mapear o passado, identificar problemas atuais) como pré-requisito para qualquer navegação eficaz no mundo.
+[^3]: Horus / Marduque — deuses associados à atenção e à vitória sobre o caos (dragão/serpente); simbolizam a força ordenadora que confronta o desconhecido.
 
-: Past Authoring / Future Authoring — programas desenvolvidos por Peterson para ajudar as pessoas a organizar narrativamente o passado e planejar o futuro de forma explícita.
+[^4]: Entropia + pecados do homem — as duas razões pelas quais as coisas desmoronam: o declínio natural das estruturas + a falha humana em prestar atenção voluntária (evitação, negligência).
 
-: "Viver em uma história" (Jung) — você está sempre dentro de uma narrativa; se for inconsciente ou de outra pessoa, você provavelmente vai acabar mal.
+[^5]: Onde você está? — a necessidade de autoconhecimento preciso (mapear o passado, identificar problemas atuais) como pré-requisito para qualquer navegação eficaz no mundo.
 
-Fim da Lecture 06
+[^6]: Past Authoring / Future Authoring — programas desenvolvidos por Peterson para ajudar as pessoas a organizar narrativamente o passado e planejar o futuro de forma explícita.
+
+[^7]: "Viver em uma história" (Jung) — você está sempre dentro de uma narrativa; se for inconsciente ou de outra pessoa, você provavelmente vai acabar mal. Fim da Lecture 06

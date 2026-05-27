@@ -148,20 +148,20 @@ Então esse é um bom lugar pra parar. Não tem palestra na próxima semana, ali
 
 ## Notas de rodapé
 
-: **Andar com Deus** (*walking with God*): Expressão central da lecture. Não significa obediência passiva ou pietismo, mas engajamento voluntário e corajoso com o caos/desconhecido para reconstruir ordem funcional — consertar a "estrutura danificada" da existência. É o antídoto psicológico contra a corrupção individual e social.
-
-: **Estrutura danificada** (*damaged structure*): Conceito recorrente em Peterson. A ordem social/psicológica/biologica que herdamos está sempre incompleta, corrupta e em processo de degeneração. A tarefa existencial é notá-la e repará-la ativamente (heroic adventure), em vez de resentir ou destruir.
-
-: **Perfeito em suas gerações** (*perfect in his generations*): Do hebraico *tamim be-dorotav*. Não significa perfeição moral absoluta, mas integridade e completude dentro do contexto da época e cultura de Noé. Destaca que a "justiça" é sempre situada historicamente.
-
-: **Arca** (*ark*): Símbolo do microcosmo de ordem que o indivíduo/herói constrói em meio ao caos diluviano. Representa a família, a psique bem integrada e a sociedade funcional que sobrevive à inundação da corrupção. Peterson a lê como modelo de como preservar o que é valioso durante colapso civilizacional.
-
-: **Aliança/Pacto** (*covenant*): Contrato negociado entre o humano e o Ser (Deus). Não é unilateral nem arbitrário; envolve responsabilidade mútua. O arco-íris é o "token" visível dessa aliança — lembrete de que, enquanto a humanidade agir com integridade, a destruição total (o dilúvio) pode ser evitada.
-
-: **Solzhenitsyn e Frankl**: Referências centrais à ideia de que catástrofes sociais (totalitarismo, Gulag, campos de concentração) têm origem na corrupção moral individual. A única defesa real é a recusa pessoal à mentira e à cumplicidade — "caminhar com Deus" no nível mais íntimo. Ver *Arquipélago Gulag* e *Em Busca de Sentido*.
-
-: **Domínio e limitação moral** (Gênesis 9): O poder humano sobre a natureza ( "temor e pavor" ) vem com uma restrição sagrada: a vida (sangue) é inviolável. Não é licença pra exploração irrestrita, mas responsabilidade acrescida. Peterson rejeita leituras simplistas que veem aqui justificativa para destruição ambiental.
-
 ---
 
-**Fim da Lecture 07**
+**Notas**
+
+[^1]: **Andar com Deus** (*walking with God*): Expressão central da lecture. Não significa obediência passiva ou pietismo, mas engajamento voluntário e corajoso com o caos/desconhecido para reconstruir ordem funcional — consertar a "estrutura danificada" da existência. É o antídoto psicológico contra a corrupção individual e social.
+
+[^2]: **Estrutura danificada** (*damaged structure*): Conceito recorrente em Peterson. A ordem social/psicológica/biologica que herdamos está sempre incompleta, corrupta e em processo de degeneração. A tarefa existencial é notá-la e repará-la ativamente (heroic adventure), em vez de resentir ou destruir.
+
+[^3]: **Perfeito em suas gerações** (*perfect in his generations*): Do hebraico *tamim be-dorotav*. Não significa perfeição moral absoluta, mas integridade e completude dentro do contexto da época e cultura de Noé. Destaca que a "justiça" é sempre situada historicamente.
+
+[^4]: **Arca** (*ark*): Símbolo do microcosmo de ordem que o indivíduo/herói constrói em meio ao caos diluviano. Representa a família, a psique bem integrada e a sociedade funcional que sobrevive à inundação da corrupção. Peterson a lê como modelo de como preservar o que é valioso durante colapso civilizacional.
+
+[^5]: **Aliança/Pacto** (*covenant*): Contrato negociado entre o humano e o Ser (Deus). Não é unilateral nem arbitrário; envolve responsabilidade mútua. O arco-íris é o "token" visível dessa aliança — lembrete de que, enquanto a humanidade agir com integridade, a destruição total (o dilúvio) pode ser evitada.
+
+[^6]: **Solzhenitsyn e Frankl**: Referências centrais à ideia de que catástrofes sociais (totalitarismo, Gulag, campos de concentração) têm origem na corrupção moral individual. A única defesa real é a recusa pessoal à mentira e à cumplicidade — "caminhar com Deus" no nível mais íntimo. Ver *Arquipélago Gulag* e *Em Busca de Sentido*.
+
+[^7]: **Domínio e limitação moral** (Gênesis 9): O poder humano sobre a natureza ( "temor e pavor" ) vem com uma restrição sagrada: a vida (sangue) é inviolável. Não é licença pra exploração irrestrita, mas responsabilidade acrescida. Peterson rejeita leituras simplistas que veem aqui justificativa para destruição ambiental. --- **Fim da Lecture 07**
