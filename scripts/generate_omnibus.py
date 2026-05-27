@@ -131,40 +131,23 @@ def build_omnibus(lang: str, output_dir: Path):
         combined_md.append("")
         combined_md.append("")
 
-        # --- SIMPLE & ROBUST CONTENT EXTRACTION ---
-        # Anchor on the standardized "## Seção I" / "## Section I" that now exists
-        # in every TRANSCRIPT.md. This replaces the fragile spoken-text heuristic.
+        # --- SIMPLE CONTENT EXTRACTION ---
+        # We standardized that every TRANSCRIPT.md now starts its actual spoken
+        # content with "## Seção I" (or "## Section I"). We just take everything
+        # from that point onward, exactly as it is in the source.
+        #
+        # This preserves all the real sections (Seção I, II, III...) at the same
+        # heading level so they all appear properly in the TOC.
         marker = "## Section I" if is_en else "## Seção I"
         idx = content.find(marker)
 
         if idx != -1:
             body = content[idx:]
         else:
-            # Fallback (should not happen after standardization)
+            # Fallback — should not happen now
             body = content
 
-        # Split off the original first "## Seção I" marker line.
-        # We will insert our own clean one and only demote the subsequent sections.
-        body_lines = body.splitlines()
-        if body_lines and (body_lines[0].startswith("## Seção") or body_lines[0].startswith("## Section")):
-            body_lines = body_lines[1:]   # drop the original Seção I marker
-
-        # Demote any remaining ## Seção / ## Section (these are now Seção II+)
-        demoted_lines = []
-        for line in body_lines:
-            if line.startswith("## Seção") or line.startswith("## Section"):
-                line = "#" + line          # ## → ###
-            demoted_lines.append(line)
-        body = "\n".join(demoted_lines)
-
-        # Insert exactly one clean "## Seção I" under the Palestra title.
-        # The body now starts directly with spoken content or the next ### Seção II.
-        if is_en:
-            combined_md.append("## Section I")
-        else:
-            combined_md.append("## Seção I")
-        combined_md.append("")
-
+        # Append the body as-is (## Seção I, ## Seção II, ## Seção III, etc.)
         combined_md.append(body)
         combined_md.append("")
         combined_md.append("---")  # Visual separator between lectures
