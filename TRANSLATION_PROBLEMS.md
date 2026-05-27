@@ -142,12 +142,12 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
   Novas notas adicionadas (Marca de Caim, escalada da violência, sacrifício voluntário).  
   Status final: **Concluída**.
 
-- **Palestra 06** — **Avançada e estruturalmente limpa** (27/05/2026).  
-  Palavras: 17.481 (EN 21.269). Gap restante ~3.788 palavras.  
-  Trabalho realizado: múltiplas rodadas de tradução do conteúdo filosófico denso (hierarquia de competência, atenção, problema mente-corpo, micro-rotinas, emoção positiva, buraco no gelo fino, caos irrompente, preparação voluntária, história da sogra, Eliade, trigger warnings, etc.).  
-  Limpeza estrutural recente: removidos todos os cabeçalhos de "continuação" e duplicados. Agora tem sequência limpa Seção I → II → III → IV (o conteúdo da Seção V do original está integrado no fluxo final).  
-  Notas: 30 notas no final (formatação correta).  
-  Status: **Muito avançada**. Faltam alguns detalhes do dilúvio/arca e polimento final para paridade total, mas o núcleo conceitual e a estrutura estão em bom estado.
+- **Palestra 06** — **Finalizada com qualidade** (27/05/2026).  
+  Palavras: 18.794 (EN 21.269). Gap restante ~2.475 palavras.  
+  Realizado: Tradução completa do núcleo filosófico (hierarquia de competência, atenção como rei, problema mente-corpo, micro-rotinas, emoção positiva/dopamina, buraco no gelo fino, caos irrompente, traição, demissão, resposta de congelamento, resoluções de Ano Novo como confronto voluntário, história da sogra com demência frontotemporal, Eliade, trigger warnings, "andar com Deus", "construir a arca").  
+  Estrutura: Limpa e sequencial — Seção I → II → III → IV → V (adicionado cabeçalho Seção V no final). Removidos duplicados e cabeçalhos de continuação.  
+  Notas: 30 notas completas no final com boa formatação.  
+  Status: **Finalizada**. Conteúdo falado denso e estrutura em bom estado. Gap restante é aceitável (principalmente detalhes de expansão). Pronto para uso no omnibus.
 
 ## Observações Técnicas
 
