@@ -73,13 +73,11 @@ Seções III, IV e V estão praticamente colapsadas.
 
 ### 6. Palestra 07 — Andando com Deus: Noé e o Dilúvio (Gap original: 11.219 palavras)
 
-**Status atual (em andamento, primeiro grande passe)**:  
-- Gap atual: ~9.492 palavras (reduzido em ~1.727 palavras nesta rodada).  
-- Conteúdo crítico adicionado: ponte psicológica central entre "estrutura danificada" e "Noé andava com Deus" — árvore corrupta / pelos frutos os conhecereis, "nem todo aquele que me diz Senhor, Senhor", "nunca vos conheci", casa sobre a rocha vs areia, Apocalipse como lado do juízo (Jung), crítica de Nietzsche, lições negativas do século XX, polarização moderna (anúncio NRA / Antifa), milagres negativos, e o sentido prático de "andar com Deus" como reparo voluntário local.  
-- Estrutura: normalizada (cabeçalhos limpos I–V, **Notas** apenas ao final com formatação padrão).  
-- Notas: 7 existentes mantidas + estrutura de notas limpa.  
-- Próximo: continuar preenchendo o restante do núcleo filosófico + qualquer lacuna remanescente nas seções iniciais/médias.  
-- Status: **Avançando bem — núcleo conceitual mais denso ("andar com Deus = reparo heroico voluntário + juízo prático") agora presente.**
+**Status atual (27/05/2026)**:  
+- Palavras PT-BR: 12.579 (EN 18.479). Gap reduzido para ~5.900 palavras.  
+- Avanço grande nesta sequência: +3.447 palavras de conteúdo falado denso (natureza pecaminosa, ritual do imperador mesopotâmico, história da prisão com o assassino "inócuo", sombra, "arma carregada", mote e trave, "pedi e dar-se-vos-á", descobrir o que realmente é bom para você).  
+- Estrutura limpa (I–V + **Notas** apenas no final).  
+- Status: **Avançando de verdade agora. Foco total em inserir volume real de tradução falada, sem overhead.**
 
 ### 7. Palestra 12 — O Grande Sacrifício (Gap: 11.033 palavras)
 
@@ -144,15 +142,12 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
   Novas notas adicionadas (Marca de Caim, escalada da violência, sacrifício voluntário).  
   Status final: **Concluída**.
 
-- **Palestra 06** — **Concluída** (27/05/2026).  
-  Gap original: ~12.509 palavras.  
-  Status final: **17.500 palavras** (gap reduzido para ~3.769 palavras; ~70% do conteúdo faltante preenchido em passes manuais).  
-  Reestruturação completa: removidos cabeçalhos duplicados/continuação, Notas órfãs no meio do texto, fluxo contínuo e natural restaurado (Seção I → V).  
-  Conteúdo adicionado nesta etapa final: discussão densa sobre o "buraco no gelo fino", irrupção do caos através da hierarquia de pressuposições, exemplos de traição e demissão, resposta de congelamento, resoluções de Ano Novo como confronto voluntário com o dilúvio, história detalhada da sogra com demência frontotemporal, citação de Eliade sobre pecado e dilúvios, crítica aos trigger warnings, e o fecho poderoso ("quando o dilúvio vier, você quer ser a pessoa que construiu a arca").  
-  Adicionadas 8 novas notas explicativas (buraco no gelo fino, hierarquia de pressuposições, resolução de Ano Novo como confronto voluntário, demência frontotemporal, cuidados paliativos, trigger warnings, "andar com Deus", "construir a arca").  
-  Total de notas: 30 (todas únicas, sem duplicação residual).  
-  Estrutura final: limpa, com **Notas** apenas ao final do arquivo em formatação distinta (numeradas, itálico, fonte menor).  
-  Status: **Concluída e limpa**. Pronto para uso no omnibus EPUB.
+- **Palestra 06** — **Avançada e estruturalmente limpa** (27/05/2026).  
+  Palavras: 17.481 (EN 21.269). Gap restante ~3.788 palavras.  
+  Trabalho realizado: múltiplas rodadas de tradução do conteúdo filosófico denso (hierarquia de competência, atenção, problema mente-corpo, micro-rotinas, emoção positiva, buraco no gelo fino, caos irrompente, preparação voluntária, história da sogra, Eliade, trigger warnings, etc.).  
+  Limpeza estrutural recente: removidos todos os cabeçalhos de "continuação" e duplicados. Agora tem sequência limpa Seção I → II → III → IV (o conteúdo da Seção V do original está integrado no fluxo final).  
+  Notas: 30 notas no final (formatação correta).  
+  Status: **Muito avançada**. Faltam alguns detalhes do dilúvio/arca e polimento final para paridade total, mas o núcleo conceitual e a estrutura estão em bom estado.
 
 ## Observações Técnicas
 
