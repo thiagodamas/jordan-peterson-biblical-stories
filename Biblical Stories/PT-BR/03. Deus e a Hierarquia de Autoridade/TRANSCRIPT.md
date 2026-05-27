@@ -144,7 +144,7 @@ Talvez você possa pensar sobre isso como uma hierarquia de dominância, mas lob
 
 Há uma representação mais abstrata da mesma espécie de coisa.
 
-## Seção IV
+## Seção IVV
 
 [TIMESTAMP](https://youtu.be/R_GPAl_q2QQ?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat&t=4424)
 
@@ -235,7 +235,7 @@ Uma das coisas que Jung sabia — e isso é algo que acho tão incrível em sua 
 
 Nunca mais ser o mesmo depois de aprender isso é incrivelmente útil. Quando você entende que é isso que você é, então você é uma criatura completamente diferente. Eu não acho — e isso é algo que aprendi com Jung — que você possa ser uma pessoa boa até saber quanta maldade você contém dentro de si. Não é possível. É em parte porque você simplesmente não tem potência. Se você é apenas ingênuo, se você é apenas legal, se você nunca machucou ninguém, nem mesmo uma mosca, e não tem capacidade para nada disso, por que alguém, alguma vez, levaria você a sério? Você é apenas um animal doméstico, na melhor das hipóteses, e um bastante desprezível, aliás. É uma coisa muito estranha, porque você não pensaria que a revelação da capacidade para o mal é um pré-requisito para a realização do bem. Primeiro de tudo, por que você seria sério o suficiente para sequer tentar perseguir o bem a menos que tivesse algum senso do que é a consequência de não fazer isso? Você precisa ser sério sobre esse tipo de coisa. Não é o jogo de uma criança, certo? É o jogo de um adulto plenamente desenvolvido. Aprendi isso, em parte, quando tive filhos pequenos. Escrevi um capítulo para meu novo livro chamado "Nunca Deixe Seus Filhos Fazerem Nada Que Faça Você Não Gostar Deles". E por quê? Escrevi isso depois que soube que era um monstro. Pensei, vou me certificar de que gosto dos meus filhos. Vou me certificar de que eles se comportem ao meu redor, para que eu goste deles. Sou muito maior que eles, e sou muito mais cruel que eles, e tenho truques na manga que eles nem podem imaginar. Se eles me irritarem, eu absolutamente vou descontar neles. Se você não acha que é o tipo de pessoa que faria isso, então você é o tipo de pessoa que está fazendo isso.
 
-## Seção VI
+## Seção VII
 
 [TIMESTAMP](https://youtu.be/R_GPAl_q2QQ?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat&t=6481)
 
@@ -302,6 +302,12 @@ São Jorge é o santo padroeiro da Inglaterra. Isso realmente ilumina a propens�
 ---
 
 **Fim da Lecture 03**
+
+[^8]: **Jean Piaget** (1896–1980): psicólogo suíço. Peterson destaca sua descoberta de que a moralidade emerge do jogo entre crianças, como um processo natural de construção de regras justas.
+
+[^9]: **Jogo e moralidade**: noções de justiça e reciprocidade surgem da necessidade prática de brincar junto de forma sustentável. Essa é uma das raízes biológicas e sociais da moralidade.
+
+[^10]: **Hierarquia de competência vs. poder**: hierarquias baseadas em habilidade e respeito mútuo são mais estáveis. Dominância pura por força gera ressentimento e colapso.
 
 [^8]: **Jean Piaget** (1896–1980): psicólogo suíço. Peterson destaca sua descoberta de que a moralidade emerge do jogo entre crianças, como um processo natural de construção de regras justas.
 

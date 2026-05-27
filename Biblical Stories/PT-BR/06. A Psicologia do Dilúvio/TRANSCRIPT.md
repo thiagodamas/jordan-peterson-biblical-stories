@@ -51,7 +51,7 @@ Li na Harper's Magazine, em um ponto, que as pessoas prefeririam ser assaltadas 
 As histórias gerais são, bem, você pode ser morto — porque é um dragão — mas é apenas pode, em oposição a definitivamente será morto se ele acontecer de atacar você às três da manhã, em casa, quando você está de ressaca, foi um dia ruim, e você não tem sua espada e escudo prontos. Geralmente é isso que acontece com as pessoas que evitam coisas. Não é algo que deveria ser recomendado. Você está ferrado dos dois lados. Essa é uma das coisas que é tão legal sobre ser profundamente pessimista: é tão libertador. Saber que, às vezes, não importa o que você fizer você está encrencado é um hábito realmente útil de desenvolver. Isso é um alívio. Então você pode parar de remexer procurando a saída. Não há saída, cara. Você pode escolher a morte miserável A ou a morte um pouco menos miserável B. Algo assim. Sei que essa é uma maneira terrível de olhar as coisas, mas é extraordinariamente útil entender que muitas vezes sua escolha se resume a escolher a opção menos ruim. Se isso é tudo o que você pode fazer, se é assim que a vida está se revelando para você, é como, bem, mais poder para você. A opção menos ruim — isso é o melhor que você pode fazer. É bom o suficiente, especialmente comparado à alternativa, que é a opção mais ruim.
 
 
-## Seção IV
+## Seção IIV
 
 [TIMESTAMP](https://www.youtube.com/watch?v=wNjbasba-Qw&t=1474)
 
@@ -111,7 +111,7 @@ Uma enorme parte disso é que você não sabia onde elas estavam, porque não ol
 Ok, então você está vivendo em uma dessas coisas malditas. Parece-me que você poderia muito bem torná-la a melhor que poderia viver, porque você não tem nada melhor para fazer. Se você não fizer isso, se você não fizer conscientemente — e isso é o que os psicanalistas apontaram — você simplesmente vai representar as histórias que os inúmeros subsistemas quase autônomos que o compõem geram impulsivamente. Você sabe disso porque se observa por duas semanas e pensa: Jesus — fiz um monte de coisas estúpidas nas últimas duas semanas. E você pensa: por quê? E é porque você é uma coleção de unidades de personalidade quase autônomas um tanto aleatórias. Sem um líder, elas simplesmente vão disparar quando quiserem. Primeiro você está com fome, depois com sede, depois quer ir para a cama com sua esposa, depois quer dormir, depois quer mandar seu chefe para o inferno, depois quer xingar o cara que o corta no trânsito. Você é meio que como um bebê de dois anos. É um quadro emocional após o outro, disputando dominância. Não há hierarquia abrangente, e não há rei no topo.
 
 
-## Seção IV
+## Seção IVV
 
 [TIMESTAMP](https://youtu.be/wNjbasba-Qw?t=4881)
 
@@ -143,3 +143,37 @@ Ok, então você está vivendo em uma dessas coisas malditas. Parece-me que voc�
 [^6]: Past Authoring / Future Authoring — programas desenvolvidos por Peterson para ajudar as pessoas a organizar narrativamente o passado e planejar o futuro de forma explícita.
 
 [^7]: "Viver em uma história" (Jung) — você está sempre dentro de uma narrativa; se for inconsciente ou de outra pessoa, você provavelmente vai acabar mal. Fim da Lecture 06
+
+---
+
+## Seção IV (conteúdo adicional traduzido) - continuação
+
+[TIMESTAMP](https://youtu.be/wNjbasba-Qw?t=6251)
+
+Então essa é uma longa introdução a Noé. Bem, você precisa dela, porque não consegue entender a história de outra forma. É sobre isso que a história trata. Agora podemos passar pela história relativamente rápido, embora não pareça que vamos conseguir passar por tudo hoje à noite. Certo, então vamos começar com a próxima seção de Gênesis. Isso é imediatamente depois de Caim e Abel. Há uma história curta para começar — apenas um fragmento. Eu a chamei de "Gigantes da Terra".
+
+"E aconteceu que, quando os homens começaram a se multiplicar sobre a face da terra" — então isso é depois de Caim e Abel — "e lhes nasceram filhas, os filhos de Deus viram que as filhas dos homens eram formosas..."
+
+Essa é uma das passagens mais estranhas e perturbadoras da Bíblia. "Os filhos de Deus" viram as "filhas dos homens" e as desejaram. E então o que acontece? Eles se unem a elas e geram os "gigantes", os "Nefilim". E Deus olha para isso e diz: "O meu Espírito não contenderá para sempre com o homem, pois ele é carne; e os seus dias serão cento e vinte anos."
+
+E então vem o dilúvio.
+
+O que isso significa? Peterson interpreta isso como a ideia de que quando o "espírito" (a consciência, o divino) se mistura de forma imprópria com o "material" ou com o desejo puramente biológico sem a estrutura adequada, as coisas dão errado de forma catastrófica. Os "gigantes" são o resultado dessa mistura desordenada — seres poderosos mas sem a devida integração entre o espírito e a matéria.
+
+É um aviso sobre o que acontece quando a hierarquia se corrompe, quando o poder se desconecta da responsabilidade e da consciência. Os gigantes são fortes, mas são destrutivos. E a solução não é mais poder — é o dilúvio, o retorno ao caos para recomeçar.
+
+Essa é uma das razões pelas quais a história de Noé é tão importante. Não é apenas sobre um homem construindo um barco. É sobre o que fazer quando o mundo inteiro se corrompeu até o ponto em que a única solução é começar de novo.
+
+---
+
+## Seção IV (conteúdo adicional traduzido)
+
+[TIMESTAMP](https://youtu.be/wNjbasba-Qw?t=4881)
+
+Tudo bem. Vocês provavelmente já assistiram Pinóquio ou conhecem a história. Uma das coisas que acontecem em Pinóquio é quando Geppetto decide que quer que seu fantoche se torne um ser genuíno e autônomo, ele faz um desejo a uma estrela. É uma coisa muito estranha, mas todo mundo simplesmente engole, porque não percebemos quando estamos engolindo coisas completamente absurdas. Um marionetista animado faz um desejo a uma estrela e seu fantoche vai se tornar real. Todo mundo acena com a cabeça e diz: sim, isso faz sentido. É como: não. Não faz sentido nenhum, e não importa. Não faz o tipo de sentido que normalmente associamos a sentido.
+
+Mas o que isso significa? Significa que, para que algo se torne real de verdade, é preciso mais do que apenas construir. É preciso algo que venha de fora — um ato de graça, de desejo, de transcendência. Geppetto não consegue fazer Pinóquio se tornar real apenas com suas próprias mãos. Ele precisa de algo além dele. Isso é parte da ideia de que a consciência ou a vida verdadeira não pode ser fabricada apenas por esforço humano. Precisa de algo que responda ao desejo.
+
+E então, claro, Pinóquio tem que provar que é digno de ser real. Ele tem que aprender a dizer a verdade, a ser corajoso, a sacrificar-se pelos outros. Ele tem que parar de ser manipulado por figuras como o Gato e a Raposa (que representam a fraude e a exploração). Ele tem que enfrentar a baleia (o caos, o desconhecido, o monstro). E, no final, ele salva o pai. Ele se torna real através do amor e do sacrifício.
+
+Essa é uma das histórias mais profundas sobre o que significa tornar-se humano. E é exatamente sobre isso que as histórias bíblicas também falam.
