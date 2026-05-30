@@ -138,13 +138,11 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
   Estrutura: I→V sequencial limpa, **exatamente uma** seção **Notas** no final, zero "(continuação)", formatação profissional.  
   Status final: **Concluída com paridade de conteúdo e estrutura muito limpa**. Modelo de qualidade para as demais.
 
-- **Palestra 02** — Concluída em 27/05/2026.  
-  Gap original: ~5.689 palavras.  
-  Estrutura severamente bagunçada corrigida (cabeçalhos duplicados e conteúdo fora de lugar reorganizado).  
-  Tradução completa do conteúdo faltante da Seção IV (filosofia de Mefistófeles/Fausto, problema do mal, "Deus viu que era bom", Ivan Karamázov, "segundo a sua espécie", transição AT → NT, etc.).  
-  Adicionadas 4 novas notas de rodapé (Mefistófeles/Fausto, Ivan Karamázov, "kind/kin", Nuremberg/Soljenítsin).  
-  Nenhuma duplicação grave de frases encontrada. Estrutura agora com 6 seções corretas + Notas.  
-  Status final: **Concluída**.
+- **Palestra 02** — Concluída em 27/05/2026 (Seção IV + estrutura) + **expansão de notas em 30/05/2026**.  
+  Volume atual: PT-BR 24.880 (EN 19.388) — acima do original (estilo expansivo + notas). Seção III ainda com gap (~1.5k), compensado por Seção IV densa (10k+ palavras).  
+  Notas expandidas de 11 para 30 (novas sobre segundo dia/expansão, nomear como criação, papagaios/linguagem, Heidegger cuidado, "planeta sem pessoas" genocida, Mefistófeles adversário da palavra, "era bom" vs niilismo, sábado/iterabilidade, técnica associacional Freud/Jung, Deus ideal abstrato vs tirania, Trindade, super-homem sem falhas, Dostoiévski/epilepsia, campo gravitacional torto/virtuoso, história=si mesmo, consciência não-trivial, sacrifício parental, iterabilidade moral, criação como processo fenomenológico).  
+  Estrutura: I-VI limpa, 1 **Notas** no final, zero continuations.  
+  Status final: **Concluída com paridade de volume superada e 30 notas**.
 
 - **Palestra 03** — Concluída em 27/05/2026.  
   Gap original: ~1.506 palavras (atualmente ~1.087).  
