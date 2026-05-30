@@ -79,7 +79,7 @@ Seções III, IV e V estão praticamente colapsadas.
 - Realizado: Tradução completa do núcleo explicativo de "andar com Deus" via Sermão da Montanha (buscai primeiro o reino, lírios do campo, casa sobre a rocha, árvore corrupta, "pelos seus frutos", "nunca vos conheci", mote e trave, "pedi e dar-se-vos-á", reciprocity, etc.) + todo o material de "buraco no gelo fino", traição, demissão, congelamento, preparação, história da sogra, ritual mesopotâmico, resoluções de Ano Novo, Eliade, trigger warnings e fecho final.  
 - Estrutura: Limpa e sequencial — Seção I → II → III → IV → V.  
 - Notas: Expandidas para 30 notas completas e bem formatadas no final.  
-- Status: **Concluída**. Um dos melhores resultados do projeto. Paridade de volume atingida com excelente densidade conceitual. Pronto para o omnibus.
+- Status: **Concluída**. Um dos melhores resultados do projeto. Paridade de volume atingida com excelente densidade conceitual. Pronto para o omnibus. (Confirmado 30/05/2026: 30 notas, estrutura limpa I-V, paridade mantida).
 
 ### 7. Palestra 12 — O Grande Sacrifício (Gap: 11.033 palavras)
 
@@ -151,26 +151,23 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
   Estrutura: I-VI limpa, exatamente 1 **Notas** no final, zero continuations.  
   Status final: **Concluída com estrutura muito limpa e 30 notas**.
 
-- **Palestra 04** — Concluída em 27/05/2026.  
-  Gap original: ~3.387 palavras.  
-  Estrutura completamente normalizada.  
-  Tradução substancial do conteúdo faltante da Seção IV (Adão e Eva, a costela, o casamento, a ideia do ser hermafrodita original, a vergonha, a árvore da vida, os querubins, o trabalho como sacrifício).  
-  Novas notas adicionadas (Árvore da Vida, querubins, vergonha e vulnerabilidade, trabalho como sacrifício).  
-  Status final: **Concluída**.
+- **Palestra 04** — Concluída em 27/05/2026 + **expansão de notas em 30/05/2026**.  
+  Volume: PT-BR ~20.3k (EN 22.6k) — gap ~2.3k reduzido com trabalho prévio; Seção IV foco histórico.  
+  Notas expandidas para 30 (novas sobre Adão/Eva como mito de autoconsciência, costela como "metade", casamento arquetípico, ser hermafrodita original, vergonha/vulnerabilidade, árvore da vida vs conhecimento, querubins como guardiões, trabalho como sacrifício voluntário, etc + Jung, Nietzsche, Dostoiévski cross refs).  
+  Estrutura limpa I-V, 1 Notas final.  
+  Status final: **Concluída com notas completas**.
 
-- **Palestra 05** — Concluída em 27/05/2026.  
-  Gap original: ~1.264 palavras.  
-  Estrutura normalizada.  
-  Tradução de conteúdo faltante (Caim e Abel, a qualidade do sacrifício, a marca de Caim, a escalada da violência até Tubalcaim, o sacrifício voluntário como antídoto).  
-  Novas notas adicionadas (Marca de Caim, escalada da violência, sacrifício voluntário).  
-  Status final: **Concluída**.
+- **Palestra 05** — Concluída em 27/05/2026 + **expansão de notas em 30/05/2026**.  
+  Volume: PT-BR ~17.4k (EN 18.1k) — gap pequeno ~0.7k.  
+  Notas expandidas para 30 (novas sobre Caim/Abel sacrifício voluntário vs inveja, marca de Caim como proteção/estigma, escalada da violência (Lameque/Tubalcaim), sacrifício como antídoto ao ressentimento, etc).  
+  Estrutura limpa, 1 Notas final.  
+  Status final: **Concluída com notas completas**.
 
-- **Palestra 06** — **Concluída** (27/05/2026).  
-  Palavras: 21.431 (EN 21.269). Agora ligeiramente acima do original.  
-  Realizado: Tradução completa do núcleo filosófico denso + exemplos pessoais + fecho (hierarquia de competência, atenção, buraco no gelo fino, caos irrompente, manutenção de relacionamentos, pecados de omissão, Nova Orleans vs diques holandeses, ritual mesopotâmico, resoluções de Ano Novo, história da sogra com demência frontotemporal, Eliade, trigger warnings, "andar com Deus", "construir a arca", dilúvio, aliança e arco-íris).  
-  Estrutura: Limpa e sequencial — Seção I → II → III → IV → V. Removidos todos os duplicados e cabeçalhos de continuação.  
-  Notas: 30 notas completas e bem formatadas no final.  
-  Status: **Concluída**. Paridade de volume atingida (ligeiramente acima). Conteúdo e estrutura em excelente estado. Pronto para o omnibus EPUB.
+- **Palestra 06** — **Concluída** (27/05/2026, confirmado 30/05/2026).  
+  Palavras: ~20.7k (EN 21.3k) — paridade excelente (próximo, com densidade falada).  
+  Realizado (prévio): núcleo denso + buraco no gelo fino, hierarquia competência, Nova Orleans/diques, sogra demência, Eliade, trigger warnings, "andar com Deus", arca, dilúvio, aliança, arco-íris etc.  
+  30 notas já presentes (confirmado). Estrutura I-V limpa, 1 Notas final.  
+  Status: **Concluída** com padrão alvo de paridade e notas. Pronto para omnibus.
 
 ## Observações Técnicas
 
