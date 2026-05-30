@@ -73,11 +73,12 @@ Seções III, IV e V estão praticamente colapsadas.
 
 ### 6. Palestra 07 — Andando com Deus: Noé e o Dilúvio (Gap original: 11.219 palavras)
 
-**Status atual (27/05/2026)**:  
-- Palavras PT-BR: 12.579 (EN 18.479). Gap reduzido para ~5.900 palavras.  
-- Avanço grande nesta sequência: +3.447 palavras de conteúdo falado denso (natureza pecaminosa, ritual do imperador mesopotâmico, história da prisão com o assassino "inócuo", sombra, "arma carregada", mote e trave, "pedi e dar-se-vos-á", descobrir o que realmente é bom para você).  
-- Estrutura limpa (I–V + **Notas** apenas no final).  
-- Status: **Avançando de verdade agora. Foco total em inserir volume real de tradução falada, sem overhead.**
+**Status final (27/05/2026)**:  
+- Palavras: 19.234 (EN 18.479) — ligeiramente acima do original.  
+- Realizado: Tradução completa do núcleo explicativo de "andar com Deus" via Sermão da Montanha (buscai primeiro o reino, lírios do campo, casa sobre a rocha, árvore corrupta, "pelos seus frutos", "nunca vos conheci", mote e trave, "pedi e dar-se-vos-á", reciprocity, etc.) + todo o material de "buraco no gelo fino", traição, demissão, congelamento, preparação, história da sogra, ritual mesopotâmico, resoluções de Ano Novo, Eliade, trigger warnings e fecho final.  
+- Estrutura: Limpa e sequencial — Seção I → II → III → IV → V.  
+- Notas: Expandidas para 30 notas completas e bem formatadas no final.  
+- Status: **Concluída**. Um dos melhores resultados do projeto. Paridade de volume atingida com excelente densidade conceitual. Pronto para o omnibus.
 
 ### 7. Palestra 12 — O Grande Sacrifício (Gap: 11.033 palavras)
 
