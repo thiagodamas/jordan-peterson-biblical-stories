@@ -105,7 +105,29 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 
 ---
 
-## Status de Revisão (atualizado)
+## Status de Revisão (atualizado - 27/05/2026)
+
+**Status Estrutural**: Todas as palestras 01 a 07 agora possuem **status estrutural muito limpo**:
+- Zero cabeçalhos com "(continuação)" ou títulos residuais de tradução ("Conteúdo adicional traduzido").
+- Seções em sequência lógica e consistente (I a V ou VI, conforme a divisão natural da palestra).
+- **Notas** aparece **apenas uma vez**, no final do arquivo, com formatação distinta.
+- Títulos de capítulos consistentes e limpos.
+
+**Paridade de Conteúdo** (volume atual):
+
+- **Palestra 01** — Estrutura muito limpa. Gap: ~3.680 palavras. Conteúdo principal presente, mas ainda com lacuna de expansão.
+- **Palestra 02** — Estrutura muito limpa. Gap: ~4.653 palavras. Maior lacuna de volume entre 01-07.
+- **Palestra 03** — Estrutura muito limpa. Gap: ~1.074 palavras. Boa paridade.
+- **Palestra 04** — Estrutura muito limpa. Gap: ~2.300 palavras. Paridade razoável.
+- **Palestra 05** — Estrutura muito limpa. Gap: ~686 palavras. Excelente paridade.
+- **Palestra 06** — Estrutura muito limpa. 21.431 palavras (EN 21.269). **Paridade excelente** (ligeiramente acima).
+- **Palestra 07** — Estrutura muito limpa. 19.234 palavras (EN 18.479). **Paridade excelente** (ligeiramente acima).
+
+**Resumo**: Estrutura 100% limpa em todas as 01-07. Paridade de volume excelente em 06 e 07; boa em 03 e 05; ainda precisa de mais trabalho de tradução de conteúdo em 01, 02 e 04.
+
+---
+
+## Status de Revisão (histórico)
 
 - **Palestra 01** — Revisada em 27/05/2026 (tradução completa + limpeza).  
   Gap original: ~3.829 palavras.  
