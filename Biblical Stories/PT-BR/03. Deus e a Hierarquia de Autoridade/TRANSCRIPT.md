@@ -289,7 +289,7 @@ São Jorge é o santo padroeiro da Inglaterra. Isso realmente ilumina a propens�
 
 [^5]: Epifenomenológico: relativo ao epifenomenalismo — a visão (que Peterson rejeita) de que a consciência e a moralidade são meros subprodutos ("epifenômenos") sem poder causal real sobre o comportamento ou a realidade.
 
-[^6]: Córtex motor: região do cérebro responsável pelo planejamento e execução de movimentos voluntários. Peterson usa para ilustrar como a percepção está intimamente ligada à ação corporal desde o início.
+[^6]: Córtex motor: região do cérebro responsável pelo planejamento e execução de movimentos voluntais. Peterson usa para ilustrar como a percepção está intimamente ligada à ação corporal desde o início.
 
 [^7]: *Impresario*: empresário ou promotor (no contexto de luta livre, o organizador dos eventos). Usado aqui para descrever Stu Hart, pai da família de lutadores.
 
@@ -299,18 +299,42 @@ São Jorge é o santo padroeiro da Inglaterra. Isso realmente ilumina a propens�
 
 [^10]: **Hierarquia de competência vs. poder bruto**: hierarquias baseadas em habilidade real e respeito mútuo tendem a ser mais estáveis e produtivas. Quando a dominância é apenas força ou manipulação, ela gera ressentimento e eventual colapso.
 
----
+[^11]: **Colin Young e o "sangue de Kingu"**: aluno que ajudou Peterson a ver que humanos são as únicas criaturas que podem realmente enganar e torcer a realidade. Somos "feitos do sangue de Kingu" (rei dos demônios na mitologia) — portadores da capacidade para o mal, como na queda.
 
-**Fim da Lecture 03**
+[^12]: **Ritual mesopotâmico de Ano Novo e humilhação do rei**: o imperador (avatar de Marduque) era humilhado publicamente pelo sacerdote no festival: tirado o uniforme, espancado com luva, forçado a confessar falhas em confrontar o caos. Depois, dormia com prostituta real. Símbolo de que soberania verdadeira exige confrontar Tiamat, não apenas poder.
 
-[^8]: **Jean Piaget** (1896–1980): psicólogo suíço. Peterson destaca sua descoberta de que a moralidade emerge do jogo entre crianças, como um processo natural de construção de regras justas.
+[^13]: **São Jorge, Hércules e a hidra**: cortar uma cabeça da hidra faz sete crescerem. O caos reptiliano gera mais caos se não confrontado corretamente; a luta virtuosa (com olhar beatífico) extrai ordem criativa. São Jorge padroeiro da Inglaterra; metáfora para guerra moral (inimigo como dragão) e o perigo de projetar o caos apenas "lá fora".
 
-[^9]: **Jogo e moralidade**: noções de justiça e reciprocidade surgem da necessidade prática de brincar junto de forma sustentável. Essa é uma das raízes biológicas e sociais da moralidade.
+[^14]: **Mercúrio e a hidra**: imagem de congelamento diante do caos multifacetado. A hidra representa o problema que se multiplica quando evitado ou combatido de forma errada.
 
-[^10]: **Hierarquia de competência vs. poder**: hierarquias baseadas em habilidade e respeito mútuo são mais estáveis. Dominância pura por força gera ressentimento e colapso.
+[^15]: **A queda como capacidade humana de enganar**: a história de Adão e Eva mostra que só o humano pode realmente mentir e distorcer a estrutura da realidade. Isso é o "pecado original" psicológico — a capacidade para o mal que diferencia nossa consciência.
 
-[^8]: **Jean Piaget** (1896–1980): psicólogo suíço. Peterson destaca sua descoberta de que a moralidade emerge do jogo entre crianças, como um processo natural de construção de regras justas.
+[^16]: **Soberania como "ser Marduque"**: o imperador só é legítimo se confronta o caos (Tiamat) e cria ordem. A base da soberania ocidental vem dessa ideia mesopotâmica: poder é responsabilidade de ordenar, não dominação arbitrária.
 
-[^9]: **Jogo e moralidade**: noções de justiça e reciprocidade surgem da necessidade prática de brincar junto de forma sustentável. Essa é uma das raízes biológicas e sociais da moralidade.
+[^17]: **Buda e Cristo como conclusões da ideia do redentor individual**: a evolução da noção de "indivíduo perfeito" que fala verdade no caos para gerar ordem habitável. Aceitação voluntária do sofrimento trágico como pré-condição para ser.
 
-[^10]: **Hierarquia de competência vs. poder**: hierarquias baseadas em habilidade e respeito mútuo são mais estáveis. Dominância pura por força gera ressentimento e colapso.
+[^18]: **Símbolo do infinito e o centro da cruz**: o X da cruz marca o centro do mundo — onde você está como consciência. Lugar de traição, sofrimento e limitação. A pergunta: dado isso, o que fazer? Aceitar voluntariamente e avançar com coragem, apoiado pela tradição.
+
+[^19]: **Goya e a aceitação voluntária do fardo**: a representação implica que você deve aceitar as condições trágicas prévias da existência (traição por amigos/família/estado, punição por pecados alheios) e agir virtuosamente apesar delas.
+
+[^20]: **A hidra como vida que revivifica**: o caos que parece destrutivo também é fonte de revivificação; sem ele, a vida seria estática. Lutar contra ela (não fugir) é o caminho.
+
+[^21]: **Inimigo como dragão projetado**: é fácil transformar o outro em serpente predatória. A sabedoria é reconhecer que as "cobras" podem estar em você. A virgem (potencial) só fica feliz quando o herói luta com consciência interna.
+
+[^22]: **Estrutura hierárquica natural em lagostas e humanos**: dominância serotoninérgica é antiga (300-600 mi anos). Hierarquias de competência são "a priori" — embutidas na biologia e na percepção-ação desde o início.
+
+[^23]: **Cuidado (Heidegger) como essência**: não se importar é impossível para consciência. Mesmo o ódio é cuidado. A trivialização da consciência justifica irresponsabilidade e esconde ódio pela humanidade.
+
+[^24]: **Parkour e complexidade humana**: os "garotos malucos" nos guindastes mostram o que a consciência humana pode fazer. Não trivial; transformações da consciência podem ser as coisas mais importantes no cosmos.
+
+[^25]: **Luta livre e território**: a família Hart/Stu Hart como exemplo de hierarquia de competência em esporte (domínio do ringue como território defendido). Metáfora para como dominância funciona na prática.
+
+[^26]: **O rei e a prostituta no ritual**: após humilhação e confissão, o rei dorme com prostituta — união com o caos (Tiamat) para gerar ordem criativa. Paralelo a São Jorge resgatando a virgem do dragão.
+
+[^27]: **A queda e o sangue de Kingu**: humanos carregam a capacidade de torcer a realidade porque somos "filhos" do caos (sangue de Kingu). Isso torna a responsabilidade moral mais pesada, não menos.
+
+[^28]: **Moralidade do jogo (Piaget estendido)**: regras justas surgem para que o jogo continue. Hierarquia de competência é a extensão adulta: habilidade + respeito permite cooperação sem colapso.
+
+[^29]: **A evolução da ideia de Deus = evolução do ser humano redentor**: de Marduque (herói coletivo) a Cristo/Buda (indivíduo perfeito que aceita o fardo e fala verdade no caos). A palavra que ordena é encarnada no humano virtuoso.
+
+[^30]: **"Você luta contra ela"**: a resposta à hidra da vida (cortar uma cabeça, sete crescem) não é fugir para casa. É confrontar com coragem, extraindo ordem do caos repetidamente. Essa é a base da soberania e da vida digna.

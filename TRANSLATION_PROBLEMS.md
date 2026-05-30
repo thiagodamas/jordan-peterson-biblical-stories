@@ -144,12 +144,12 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
   Estrutura: I-VI limpa, 1 **Notas** no final, zero continuations.  
   Status final: **Concluída com paridade de volume superada e 30 notas**.
 
-- **Palestra 03** — Concluída em 27/05/2026.  
-  Gap original: ~1.506 palavras (atualmente ~1.087).  
-  Estrutura completamente normalizada (cabeçalhos I–VI limpos).  
-  Limpeza de duplicação residual realizada (removidos ~1.366 caracteres de repetição).  
-  Tradução parcial + novas notas adicionadas (Piaget, jogo e moralidade, hierarquia de competência).  
-  Status final: **Concluída** (gap pequeno restante é distribuído; qualidade estrutural boa).
+- **Palestra 03** — Concluída em 27/05/2026 + **limpeza e expansão de notas em 30/05/2026**.  
+  Volume: PT-BR 20.105 (EN 20.604) — gap pequeno ~0.5k.  
+  Limpeza: removidos blocos duplicados de **Notas** e notas repetidas no final (duas seções **Notas** consolidadas em uma única no fim, com formatação profissional).  
+  Notas expandidas para 30 (incluindo Colin Young/Kingu, ritual de Ano Novo e humilhação do rei, São Jorge/hidra, Mercúrio, queda como capacidade de enganar, soberania como ser Marduque, Buda/Cristo como redentor individual, símbolo infinito/cruz, Goya, hidra revivificadora, inimigo como dragão projetado, serotonina lagostas, cuidado Heidegger, parkour/complexidade, luta livre/território, rei+prostituta, sangue de Kingu, moralidade do jogo estendida, evolução Deus=ser redentor, "você luta contra ela").  
+  Estrutura: I-VI limpa, exatamente 1 **Notas** no final, zero continuations.  
+  Status final: **Concluída com estrutura muito limpa e 30 notas**.
 
 - **Palestra 04** — Concluída em 27/05/2026.  
   Gap original: ~3.387 palavras.  
