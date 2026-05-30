@@ -142,12 +142,12 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
   Novas notas adicionadas (Marca de Caim, escalada da violência, sacrifício voluntário).  
   Status final: **Concluída**.
 
-- **Palestra 06** — **Finalizada com qualidade** (27/05/2026).  
-  Palavras: 18.794 (EN 21.269). Gap restante ~2.475 palavras.  
-  Realizado: Tradução completa do núcleo filosófico (hierarquia de competência, atenção como rei, problema mente-corpo, micro-rotinas, emoção positiva/dopamina, buraco no gelo fino, caos irrompente, traição, demissão, resposta de congelamento, resoluções de Ano Novo como confronto voluntário, história da sogra com demência frontotemporal, Eliade, trigger warnings, "andar com Deus", "construir a arca").  
-  Estrutura: Limpa e sequencial — Seção I → II → III → IV → V (adicionado cabeçalho Seção V no final). Removidos duplicados e cabeçalhos de continuação.  
-  Notas: 30 notas completas no final com boa formatação.  
-  Status: **Finalizada**. Conteúdo falado denso e estrutura em bom estado. Gap restante é aceitável (principalmente detalhes de expansão). Pronto para uso no omnibus.
+- **Palestra 06** — **Concluída** (27/05/2026).  
+  Palavras: 21.431 (EN 21.269). Agora ligeiramente acima do original.  
+  Realizado: Tradução completa do núcleo filosófico denso + exemplos pessoais + fecho (hierarquia de competência, atenção, buraco no gelo fino, caos irrompente, manutenção de relacionamentos, pecados de omissão, Nova Orleans vs diques holandeses, ritual mesopotâmico, resoluções de Ano Novo, história da sogra com demência frontotemporal, Eliade, trigger warnings, "andar com Deus", "construir a arca", dilúvio, aliança e arco-íris).  
+  Estrutura: Limpa e sequencial — Seção I → II → III → IV → V. Removidos todos os duplicados e cabeçalhos de continuação.  
+  Notas: 30 notas completas e bem formatadas no final.  
+  Status: **Concluída**. Paridade de volume atingida (ligeiramente acima). Conteúdo e estrutura em excelente estado. Pronto para o omnibus EPUB.
 
 ## Observações Técnicas
 
