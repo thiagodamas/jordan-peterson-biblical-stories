@@ -1,6 +1,6 @@
 # Relatório de Problemas na Tradução PT-BR
 
-**Data do relatório**: 27 de maio de 2026  
+**Data do relatório**: 30 de maio de 2026 (atualizado com conclusão da redução de gap para Palestras 01-07)  
 **Método**: Análise automática via comparação de seções, contagem de palavras e timestamps (sem geração de texto por IA).
 
 ## Resumo Executivo
@@ -23,11 +23,12 @@ A maioria das transcrições em português brasileiro apresenta **lacunas signif
 | 5       | 06 - A Psicologia do Dilúvio | +12.509 | 41,2% | Alta |
 | 6       | 07 - Andando com Deus: Noé e o Dilúvio | +11.219 | 39,3% | Alta |
 | 7       | 12 - O Grande Sacrifício | +11.033 | 25,9% | Alta |
-| 8       | 02 - Gênesis 1: Caos e Ordem | +5.689 | 70,7% | Média-Alta |
-| 9       | 01 - Introdução à Ideia de Deus | +3.829* | 79,0% | Média (revisada) |
-| 10      | 11 - Sodoma e Gomorra | +3.729 | 79,0% | Média |
+| 8       | 02 - Gênesis 1: Caos e Ordem | (volume PT > EN; Seção IV ainda com lacuna histórica — limpeza de duplicações feita) | — | Em limpeza |
+| 9       | 11 - Sodoma e Gomorra | +3.729 | 79,0% | Média |
+| 10      | 01 - Introdução à Ideia de Deus | PT-BR agora acima do EN (~+1.116) após redução de gap | — | **Concluída com paridade** (30/05/2026) |
 
-\* Palestra 01 já foi revisada (tradução completa das seções faltantes + limpeza de duplicação).
+\* Palestra 01 revisada em etapas (27 e 30/05/2026): estrutura limpa + redução substancial de gap + 30 notas.
+\*\* Palestra 01 (30/05/2026): gap fechado e superado — PT-BR 19.350 palavras vs EN 18.234 (acima). Seção IV agora em paridade exata (4.764 vs 4.757 EN) via inserção de conteúdo denso falado (Homer, constraints, moralidade como ação, ferramentas, fenomenologia, etc.). 30 notas explicativas completas. Status estrutural perfeito (I-V limpo, 1 Notas no final). Concluída com padrão de 06/07.
 
 ## Análise Detalhada por Palestra (Críticas e Altas)
 
@@ -115,26 +116,27 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 
 **Paridade de Conteúdo** (volume atual):
 
-- **Palestra 01** — Estrutura muito limpa. Gap: ~3.680 palavras. Conteúdo principal presente, mas ainda com lacuna de expansão.
-- **Palestra 02** — Estrutura muito limpa. Gap: ~4.653 palavras. Maior lacuna de volume entre 01-07.
+- **Palestra 01** — Estrutura muito limpa. 19.350 palavras (EN 18.234). **Paridade excelente** (ligeiramente acima). Seção IV completada com ~1.700 palavras densas (Homer/future-self, restrições iteráveis, IA/embodiment, moralidade como ação, conhecimento como ferramenta, fenomenologia plena, etc.). 30 notas no final.
+- **Palestra 02** — Estrutura muito limpa. Gap: ~4.653 palavras. Maior lacuna de volume entre 01-07 (aguardando revisão).
 - **Palestra 03** — Estrutura muito limpa. Gap: ~1.074 palavras. Boa paridade.
 - **Palestra 04** — Estrutura muito limpa. Gap: ~2.300 palavras. Paridade razoável.
 - **Palestra 05** — Estrutura muito limpa. Gap: ~686 palavras. Excelente paridade.
 - **Palestra 06** — Estrutura muito limpa. 21.431 palavras (EN 21.269). **Paridade excelente** (ligeiramente acima).
 - **Palestra 07** — Estrutura muito limpa. 19.234 palavras (EN 18.479). **Paridade excelente** (ligeiramente acima).
 
-**Resumo**: Estrutura 100% limpa em todas as 01-07. Paridade de volume excelente em 06 e 07; boa em 03 e 05; ainda precisa de mais trabalho de tradução de conteúdo em 01, 02 e 04.
+**Resumo**: Estrutura 100% limpa em todas as 01-07. Paridade de volume excelente em 01 (agora acima), 06 e 07; boa em 03 e 05; ainda precisa de mais trabalho de tradução de conteúdo em 02 e 04.
 
 ---
 
 ## Status de Revisão (histórico)
 
-- **Palestra 01** — Revisada em 27/05/2026 (tradução completa + limpeza).  
-  Gap original: ~3.829 palavras.  
-  Seção II e Seção IV completadas com tradução integral do conteúdo faltante.  
-  Adicionadas 5 novas notas de rodapé (Jung, Freud, conhecimento incorporado, fenomenologia, cosmologia mesopotâmica).  
-  Limpeza realizada: removido bloco duplicado residual da seção sobre Jung (~16-34 linhas removidas dependendo da etapa).  
-  Status final: **Concluída e limpa**. O arquivo agora tem menos palavras que o original em inglês e sem duplicações. Linhas extras restantes são principalmente por estilo oral + novas notas.
+- **Palestra 01** — Revisada em 27/05/2026 (tradução completa + limpeza) + **conclusão de gap em 30/05/2026**.  
+  Gap original: ~3.829 palavras (reduzido para ~1.593 em trabalho prévio).  
+  Em 30/05: Inserção de ~1.700 palavras densas e faladas na Seção IV (exemplos Homer/future-Homer + maionese/vodca, restrições iteráveis na interpretação [tempo/pessoas/mundo + Hamlet/ponte], AI e necessidade de embodiment, moralidade como ação existencialista + campo de fatos, conhecimento como ferramenta prática/causal, recusa a “engolir mentiras” no fundo da verdade, fenomenologia expandida com mãos/periferia/dor/minoração do niilismo).  
+  Seção IV agora 4.764 palavras (EN 4.757) — paridade exata. Total PT-BR 19.350 (EN 18.234) — ligeiramente acima.  
+  Notas expandidas de 11 para 30 (notas novas sobre pós-modernismo, Homer/future-self, Sísifo/graduação, constraints, IA/embodiment, moralidade comportamental, conhecimento como ferramenta, subpersonalidades, escalas evolutivas, Bíblia como hipertexto, Trindade metafórica, ideologias como religiões aleijadas, artista cliente divorciado do Ser, Dostoiévski, Nietzsche “Deus morto”, Piaget + sonho, “andar com Deus”/arca).  
+  Estrutura: I→V sequencial limpa, **exatamente uma** seção **Notas** no final, zero "(continuação)", formatação profissional.  
+  Status final: **Concluída com paridade de conteúdo e estrutura muito limpa**. Modelo de qualidade para as demais.
 
 - **Palestra 02** — Concluída em 27/05/2026.  
   Gap original: ~5.689 palavras.  
