@@ -204,10 +204,13 @@ def generate_ebook(lecture_num: int, lang: str, output_dir: Path):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate ebooks for Jordan Peterson Biblical lectures")
-    parser.add_argument("--lecture", type=int, required=True, help="Lecture number (1-16)")
-    parser.add_argument("--lang", choices=["en", "pt"], required=True, help="Language")
-    parser.add_argument("--output", type=Path, default=Path("dist/ebooks"), help="Output directory")
+    parser = argparse.ArgumentParser(
+        description="Gera ebook de uma única palestra (útil para revisão de tradução).",
+        epilog="Exemplo: python3 scripts/generate_ebook.py --lecture 2 --lang pt"
+    )
+    parser.add_argument("--lecture", type=int, required=True, help="Número da palestra (1-16)")
+    parser.add_argument("--lang", choices=["en", "pt"], required=True, help="Idioma")
+    parser.add_argument("--output", type=Path, default=Path("dist/ebooks"), help="Diretório de saída")
     
     args = parser.parse_args()
     

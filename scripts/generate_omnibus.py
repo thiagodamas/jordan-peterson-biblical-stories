@@ -2,13 +2,16 @@
 """
 Generate omnibus (complete) editions containing all 16 Jordan Peterson Biblical lectures.
 
-Produces:
-  - Jordan Peterson - Biblical Stories Complete - EN.epub / .pdf / .mobi
-  - Jordan Peterson - Biblical Stories Complete - PT-BR.epub / .pdf / .mobi
+Produces clean EPUB + MOBI (PDF is optional locally via --pdf).
 
-Usage:
-    python scripts/generate_omnibus.py --lang en
-    python scripts/generate_omnibus.py --lang pt
+Key characteristics (after simplification):
+- Notes appear only as a styled section at the end of each lecture (no inline [^n] references).
+- Much simpler and more reliable generation process.
+- Works well in Apple Books and other readers.
+
+Usage examples:
+    python3 scripts/generate_omnibus.py --lang pt
+    python3 scripts/generate_omnibus.py --lang en --pdf
 """
 
 import argparse
@@ -137,11 +140,11 @@ def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
     if is_en:
         combined_md.append("## About This Edition")
         combined_md.append("")
-        combined_md.append("This omnibus contains the complete transcripts of Jordan B. Peterson's 2017 lecture series *The Psychological Significance of the Biblical Stories*. The material is provided for educational and personal study purposes.")
+        combined_md.append("This volume brings together the complete transcripts of Jordan B. Peterson's 2017 lecture series *The Psychological Significance of the Biblical Stories*. The material is made available for educational and personal study purposes.")
         combined_md.append("")
-        combined_md.append("All lectures were originally delivered and recorded publicly on YouTube. This community project offers high-quality, spoken-style transcripts in English (original) and Brazilian Portuguese, with footnotes for technical terms and conceptual clarifications.")
+        combined_md.append("All lectures were originally delivered and publicly recorded on YouTube. This community project provides high-quality, spoken-style transcripts in English (the original) and Brazilian Portuguese, with footnotes for technical terms and conceptual clarifications.")
         combined_md.append("")
-        combined_md.append("**Source**: Jordan B. Peterson – \"The Psychological Significance of the Biblical Stories\" (YouTube, 2017)")
+        combined_md.append("**Original Source**: Jordan B. Peterson – \"The Psychological Significance of the Biblical Stories\" (YouTube, 2017)")
         combined_md.append("**Repository**: https://github.com/thiagodamas/jordan-peterson-biblical-stories")
         combined_md.append("")
         combined_md.append("---")
@@ -167,11 +170,11 @@ def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
         # Read the original transcript
         content = transcript.read_text(encoding="utf-8")
 
-        # Proposta 1: Título único e completo por palestra (sem duplicação)
+        # Consistent chapter title formatting for clean TOC in both languages
+        roman = to_roman(num)
         if is_en:
-            combined_md.append(f"# Lecture {num:02d}: {lec['full_title']}")
+            combined_md.append(f"# Lecture {num:02d}: Biblical Series {roman}: {lec['title']}")
         else:
-            roman = to_roman(num)
             combined_md.append(f"# Palestra {num:02d}: Série Bíblica {roman}: {get_pt_lecture_title(num)}")
 
         combined_md.append("")
@@ -389,11 +392,25 @@ def get_pt_lecture_title(num: int) -> str:
 
 
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--lang", choices=["en", "pt"], required=True)
-    parser.add_argument("--output", type=Path, default=Path("dist/ebooks"))
+    parser = argparse.ArgumentParser(
+        description="Gera a edição completa (Omnibus) com todas as 16 palestras de Jordan Peterson.",
+        epilog="""
+Exemplos de uso:
+  python3 scripts/generate_omnibus.py --lang pt
+  python3 scripts/generate_omnibus.py --lang en --output dist/meus-ebooks
+  python3 scripts/generate_omnibus.py --lang pt --pdf          # PDF local (requer Calibre)
+
+Notas importantes:
+- As notas agora são uma seção formatada no final de cada palestra (sem referências inline).
+- PDF não é gerado no GitHub Actions (apenas localmente via --pdf).
+        """.strip()
+    )
+    parser.add_argument("--lang", choices=["en", "pt"], required=True,
+                        help="Idioma: 'en' (inglês) ou 'pt' (português brasileiro)")
+    parser.add_argument("--output", type=Path, default=Path("dist/ebooks"),
+                        help="Diretório de saída dos arquivos gerados")
     parser.add_argument("--pdf", action="store_true", default=False,
-                        help="Generate PDF (recommended only for local use, requires Calibre + display server)")
+                        help="Gerar também PDF (apenas local, requer Calibre instalado)")
     args = parser.parse_args()
 
     build_omnibus(args.lang, args.output, generate_pdf=args.pdf)

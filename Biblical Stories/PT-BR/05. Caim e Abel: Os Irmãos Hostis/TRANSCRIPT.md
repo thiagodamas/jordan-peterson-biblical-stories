@@ -49,7 +49,7 @@ Não é fácil para as crianças aprenderem a regular esses impulsos subjacentes
 De qualquer forma, isso emerge em crianças provavelmente entre as idades de dois e quatro anos. Algo assim. Elas deveriam ter isso no lugar aos quatro, porque é muito difícil para elas realmente interagirem bem com outras crianças sem ter esse adiamento da gratificação no lugar. Se você não consegue adiar a gratificação, outras crianças não gostam de você, porque você quer tudo do seu jeito, e quer agora, e é propenso a ter uma birra, e esse tipo de coisa. Você não tem o tipo de autocontrole necessário para torná-lo divertido para brincar. Então você pode ver isso emergindo em crianças, e é bem interessante. Não só isso, mas à medida que emerge, prediz resultados positivos de longo prazo — assim como a traço de conscienciosidade faz, aliás. A traço de conscienciosidade é o segundo melhor preditor de sucesso de longo prazo, ao longo da vida, em culturas ocidentais. É o segundo depois da inteligência. Em nossas sociedades, as pessoas que se dão melhor ao longo do tempo são as pessoas que têm QI alto e trabalham duro. Eu diria que isso é uma validação bastante decente…Como você chamaria…É uma validação, em algum sentido, de que nossas culturas estão funcionando adequadamente. O que você quer, eu diria — se o sistema está funcionando meritocraticamente, como deveria, e se você está tentando extrair recursos daqueles que podem contribuir a uma taxa mais alta — é que as pessoas trabalhadoras e inteligentes se deem melhor. Esperançosamente, se esse for o caso, então todos se dão melhor. Esperançosamente. De qualquer forma, você pode ver isso se desenvolvendo em crianças.
 
 
-## Seção IIV
+## Seção II
 
 [TIMESTAMP](https://youtu.be/44f3mxcsI50?t=1091)
 
@@ -97,7 +97,7 @@ Tive um cliente vindo me ver não muito tempo atrás: uma mulher, com cerca de 3
 Essa é a outra que é muito comum: já há pessoas demais no planeta. Eu realmente não gosto dessa declaração. É como, exatamente quem você vai pedir para sair? Exatamente como você vai fazer com que elas saiam? É uma questão séria. E quem diz que há pessoas demais? O que diabos há de errado com as pessoas, aliás? Estamos correndo por aí, e arruinando o planeta. Sim…Acho que foi o [Clube de Roma](https://en.wikipedia.org/wiki/Club_of_Rome) que profetizou, aliás, que haveria tantas pessoas no planeta até o ano 2.000 que haveria fome generalizada. Eles estavam completamente e absolutamente errados sobre isso. Acho que foi o Clube de Roma que nos comparou a um vírus ou a um câncer na face do planeta. É como, oh, realmente? É isso que você acha das pessoas, hein? Hm, não é algo para se pensar sobre os seres humanos — vírus e câncer. O que você faz com vírus e câncer? Convida-os para dentro, e faz com que se sintam em casa? É como, não. Você tenta erradicá-los. Você muito bem melhor vigiar suas metáforas, pessoal, porque não está claro se você as inventa, ou se elas o controlam, então você melhor vigiá-las.
 
 
-## Seção IVV
+## Seção IV
 
 [TIMESTAMP](https://youtu.be/44f3mxcsI50?t=5253)
 
@@ -241,7 +241,7 @@ Há a Queda na história, e então há a descoberta do sacrifício como um medic
 
 [^6]: "Se procederes bem, não serás aceito?" — linha chave: o fracasso pode ser consequência de sacrifícios de baixa qualidade ou de não estar agindo com retidão.
 
-[^7]: Tubalcaim — descendente de Caim; tradicionalmente o primeiro fabricante de armas de guerra. Símbolo de como a capacidade assassina de Caim escala para a guerra organizada. Fim da Lecture 05
+[^7]: Tubalcaim — descendente de Caim; tradicionalmente o primeiro fabricante de armas de guerra. Símbolo de como a capacidade assassina de Caim escala para a guerra organizada.
 
 [^8]: **Marca de Caim** — sinal colocado por Deus que é ao mesmo tempo punição e proteção. Representa a ideia de que a vingança não deve ser infinita; há um limite para a retaliação.
 
@@ -249,28 +249,44 @@ Há a Queda na história, e então há a descoberta do sacrifício como um medic
 
 [^10]: **Sacrifício voluntário como antídoto** — a única forma de conter a maldição da violência é através do sacrifício voluntário e consciente, tema que se desenvolve ao longo de toda a Bíblia.
 
+[^11]: **Caim e a inveja do sacrifício alheio**: Caim não é rejeitado por Deus por ser mau por natureza, mas porque seu sacrifício é de menor qualidade (frutos da terra vs. primícias do rebanho). A inveja surge da comparação e da recusa em melhorar o próprio sacrifício.
+
+[^12]: **"Se procederes bem, não serás aceito?"** — Deus oferece a Caim uma segunda chance: a responsabilidade é dele. Esta é a primeira grande lição de agência moral na Bíblia: o fracasso não é destino; é convite para corrigir o sacrifício.
+
+[^13]: **A Sombra (Jung) em Caim**: Caim encarna o lado reprimido e destrutivo da psiche. Todo ser humano carrega o potencial de malevolência voluntária. A história é o primeiro grande mito ocidental sobre o confronto com a própria sombra.
+
+[^14]: **A Marca de Caim como limite à vingança**: Deus protege o assassino de retaliação infinita. Esta é a origem arquetípica da ideia de que a justiça (mesmo divina) impõe limites à escalada da violência — base do direito penal ocidental.
+
+[^15]: **Escalada exponencial da violência (Lamech 77x)**: O que começa como assassinato individual (Caim) torna-se, em poucas gerações, orgulho de matar "setenta e sete vezes". A história mostra que o mal não fica parado: ele se multiplica quando não é transformado por sacrifício.
+
+[^16]: **Tubalcaim e a invenção da guerra industrial**: O primeiro "instrutor de todo artífice em bronze e ferro" é descendente de Caim. A civilização técnica (metalurgia) amplifica a capacidade assassina. Tecnologia sem sacrifício moral = armas de destruição em massa.
+
+[^17]: **Teste do Marshmallow como proto-sacrifício**: A capacidade de adiar a gratificação em crianças de 4 anos é o embrião psicológico do sacrifício bíblico. As crianças que conseguem esperar são as que "procedem bem" e constroem futuro melhor — validação científica da tese central da palestra.
+
+[^18]: **Ayahuasca e o encontro com a Grande Mãe**: O uso da ayahuasca como símbolo do confronto com o princípio feminino/arquetípico. Enquanto o logos (masculino) ordena, o feminino caótico exige encontro e integração — tema que Caim falha em realizar.
+
+[^19]: **A "aliança profana" edípica**: A mãe superprotetora + filho hiper-dependente forma um círculo vicioso que impede o desenvolvimento da capacidade de sacrifício. Caim é o arquétipo do filho que não consegue separar-se e oferecer algo próprio.
+
+[^20]: **Sacrifício vs. ressentimento**: O ressentimento de Caim nasce da recusa em sacrificar o que é inferior. O antídoto não é "sentir-se melhor", mas oferecer o melhor que se tem, mesmo quando dói. Esta é a raiz psicológica do sacrifício voluntário.
+
+[^21]: **A Queda continua em Caim**: A transgressão de Adão e Eva (conhecimento do bem e do mal) manifesta-se plenamente em Caim como malevolência voluntária. O conhecimento do bem agora inclui a capacidade consciente de escolher o mal.
+
+[^22]: **Deus como juiz que oferece agência**: Diferente de deuses caprichosos, o Deus de Caim diz "se procederes bem..." — Ele trata o ser humano como agente moral responsável. Esta é a base da dignidade humana na tradição ocidental.
+
+[^23]: **A cidade construída por Caim**: O primeiro assassino é também o primeiro construtor de cidades. A civilização nasce do sangue e da culpa, mas também da necessidade de ordem após o caos da violência.
+
+[^24]: **William Blake e a autoconsciência de Caim**: A ilustração de Blake mostra Caim tomando consciência não só de seu ato, mas de sua capacidade para o mal. Esta é a segunda grande entrada na autoconsciência humana (depois de Adão e Eva).
+
+[^25]: **O mal existe — e seu oposto também**: A negação moderna do mal (pós-Holocausto, pós-Gulag) é "cegueira voluntária". Se o mal é real, então o bem (e o sacrifício que o sustenta) também é real e necessário.
+
+[^26]: **O gorila invisível e a cegueira dos valores**: O experimento ilustra como nossos valores/ambições nos cegam para a realidade (o gorila no meio do jogo). Caim estava tão fixado em sua oferta rejeitada que não via a alternativa que Deus lhe oferecia.
+
+[^27]: **Madeira morta e autoimolação regular**: A metáfora da floresta que precisa queimar periodicamente. Caim representa a acumulação de "madeira morta" (ressentimento não sacrificado) que um dia queima tudo. O sacrifício voluntário é o "pouco de remédio regular".
+
+[^28]: **A aposta de Jó e a arbitrariedade do sofrimento**: Mesmo no Antigo Testamento há reconhecimento de que o sofrimento nem sempre é merecido. Caim é o oposto: ele recebe uma explicação e uma escolha, e ainda assim escolhe o mal.
+
+[^29]: **O fim da palestra como arquetípico**: "E esse é o fim dessa palestra" não é apenas retórico. A história de Caim e Abel é deixada como um "aviso terrível" que deve ser pensado "praticamente para sempre". O trabalho do ouvinte é continuar a história.
+
+[^30]: **Caim e Abel como drama interno de cada pessoa**: Cada ser humano carrega tanto Caim quanto Abel. A questão não é "sou bom ou mau?", mas "qual sacrifício estou disposto a fazer hoje — o inferior por inveja, ou o melhor por amor à ordem?". Esta é a escolha arquetípica diária.
+
 ---
-
-
-
-Depois de Caim matar Abel, Deus coloca uma marca nele — a marca de Caim. Essa marca tem um duplo significado: é ao mesmo tempo uma punição e uma proteção. É um sinal de que Caim é marcado pelo seu crime, mas também de que ninguém deve matá-lo. Deus está dizendo, de certa forma, que a vingança não deve continuar indefinidamente.
-
-Mas a história não para aí. A violência não termina com Caim. Ela escala. Várias gerações depois aparece Lamech, que se gabava de matar um jovem que o tinha ferido. E depois vem Tubalcaim, que é descrito como o primeiro fabricante de armas de bronze e ferro.
-
-Essa é a escalada terrível: o que começou como um assassinato individual (Caim matando Abel por inveja) se transforma, ao longo das gerações, em guerra organizada. A capacidade assassina de Caim não desaparece — ela é amplificada pela técnica, pela metalurgia, pela civilização.
-
-A história está nos dizendo algo muito profundo sobre a natureza humana: a queda não é um evento único. Ela continua se desdobrando. O pecado de Caim se multiplica. O que era um ato de inveja pessoal se torna, com o tempo, a capacidade de matar em escala industrial.
-
-É por isso que a história de Caim e Abel é tão importante. Ela não é apenas sobre dois irmãos. Ela é sobre a origem da violência humana e sobre como essa violência, se não for confrontada e transformada, só tende a crescer. A história toda da Bíblia, de certa forma, é a tentativa de responder a essa maldição que começou com Caim.
-
-E é por isso que o tema do sacrifício voluntário se torna tão central. Se a violência não for contida por algo maior — por um sacrifício voluntário, por uma renúncia consciente —, ela simplesmente se espalha. A história de Caim mostra o que acontece quando o sacrifício não é feito da maneira certa. A história posterior tenta mostrar como fazer o sacrifício da maneira certa.
-
----
-
-
-
-A história de Caim e Abel é uma das mais profundas e perturbadoras da Bíblia. Ela mostra o que acontece quando o sacrifício não é feito da maneira correta — quando não é feito com retidão e qualidade. Caim oferece o que tem, mas não o melhor. Abel oferece o melhor do que tem. E Deus aceita o de Abel e rejeita o de Caim.
-
-Isso não é arbitrário. É um princípio profundo: se você não oferece o melhor que tem, o sacrifício não "funciona". O mundo não responde. E então vem o ressentimento, a inveja, o ódio — e o assassinato.
-
-A história é um aviso terrível sobre o que acontece quando não estamos dispostos a fazer o sacrifício voluntário necessário para manter a ordem no mundo.

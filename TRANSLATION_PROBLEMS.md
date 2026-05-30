@@ -121,10 +121,10 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 - **Palestra 03** — Estrutura muito limpa. Gap: ~1.074 palavras. Boa paridade.
 - **Palestra 04** — Estrutura muito limpa. Gap: ~2.300 palavras. Paridade razoável.
 - **Palestra 05** — Estrutura muito limpa. Gap: ~686 palavras. Excelente paridade.
-- **Palestra 06** — Estrutura muito limpa. 21.431 palavras (EN 21.269). **Paridade excelente** (ligeiramente acima).
+- **Palestra 06** — Estrutura limpa. Verificado 20.657 palavras (EN 21.269). Gap ~612 palavras. Desequilíbrio seccional persistente (III curto vs EN, IV longo) — tratado como wontfix para preservar densidade falada (ver Issue 6).
 - **Palestra 07** — Estrutura muito limpa. 19.234 palavras (EN 18.479). **Paridade excelente** (ligeiramente acima).
 
-**Resumo**: Estrutura 100% limpa em todas as 01-07. Paridade de volume excelente em 01 (agora acima), 06 e 07; boa em 03 e 05; ainda precisa de mais trabalho de tradução de conteúdo em 02 e 04.
+**Resumo** (Verified post-remediation 30/05/2026): Estrutura 100% limpa em todas as 01-07. 04/05 agora em conformidade total após remediação (30 notas limpas, Notas no EOF). 06 com desequilíbrio seccional documentado. Paridade de volume excelente em 01 (agora acima), 06 e 07; boa em 03 e 05; ainda precisa de mais trabalho de tradução de conteúdo em 02 e 04.
 
 ---
 

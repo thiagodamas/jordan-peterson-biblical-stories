@@ -29,11 +29,34 @@ O projeto oferece as 16 palestras (15 principais + o bônus "On the Death and Re
 - **Paridade rigorosa**: todas as seções + timestamps literais `[TIMESTAMP](https://youtu.be/...)` replicados exatamente do original.
 - Controle de qualidade com Lecture 01 como referência de estilo e fluidez.
 
-## Como usar
+## Como usar (comandos principais)
 
-1. Clone o repositório.
-2. As transcrições estão em `Biblical Stories/PT-BR/` e `Biblical Stories/EN/`.
-3. O arquivo `scripts/lectures.py` contém o mapeamento oficial de todas as 16 palestras (IDs do YouTube, títulos, etc.).
+### Gerar a edição completa (Omnibus) com todas as 16 palestras
+
+```bash
+# Português (recomendado para revisão)
+python3 scripts/generate_omnibus.py --lang pt
+
+# Inglês
+python3 scripts/generate_omnibus.py --lang en
+
+# Com PDF local (requer Calibre)
+python3 scripts/generate_omnibus.py --lang pt --pdf
+```
+
+Os arquivos são gerados em `dist/ebooks/` por padrão.
+
+### Gerar ebook de uma única palestra (útil para revisão)
+
+```bash
+python3 scripts/generate_ebook.py --lecture 2 --lang pt
+```
+
+### Notas importantes (estado atual)
+
+- As notas de rodapé agora aparecem **somente** como uma seção formatada no final de cada palestra (sem referências inline no texto falado).
+- Isso simplificou bastante a geração e melhorou a compatibilidade com Apple Books.
+- PDF não é mais gerado automaticamente no GitHub Actions (apenas localmente com `--pdf`).
 
 ## Licença
 
