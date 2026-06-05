@@ -1,5 +1,8 @@
 # **Biblical Series II: Genesis 1: Chaos & Order**  
 
+![Cover](cover.jpg)
+
+
 by Dr. Jordan Peterson
 
 YouTube Video (https://www.youtube.com/watch?v=hdrLQ7DpiWs)

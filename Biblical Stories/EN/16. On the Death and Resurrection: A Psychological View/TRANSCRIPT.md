@@ -1,5 +1,8 @@
 # **On the Death and Resurrection: A Psychological View in Five Parts**  
 
+![Cover](cover.jpg)
+
+
 by Dr. Jordan Peterson
 
 *Keywords: Death, Resurrection, Christ, Psychology, Meaning*

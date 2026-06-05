@@ -1,5 +1,8 @@
 # **Série Bíblica XIII: A Escada de Jacó**
 
+![Cover](cover.jpg)
+
+
 por Dr. Jordan Peterson
 
 *Palavras-chave: Jacó, Escada, Sonho, Anjos, Betel*

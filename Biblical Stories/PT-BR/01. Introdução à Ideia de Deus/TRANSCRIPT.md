@@ -1,5 +1,8 @@
 # **Série Bíblica I: Introdução à Ideia de Deus**
 
+![Cover](cover.jpg)
+
+
 por Dr. Jordan Peterson
 
 YouTube Video (https://www.youtube.com/watch?v=f-wWBGo6a2w)

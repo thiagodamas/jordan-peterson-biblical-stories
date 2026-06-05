@@ -1,5 +1,8 @@
 # **Biblical Series III: God and the Hierarchy of Authority**  
 
+![Cover](cover.jpg)
+
+
 by Dr. Jordan Peterson
 
 YouTube Video (https://www.youtube.com/watch?v=R_GPAl_q2QQ)

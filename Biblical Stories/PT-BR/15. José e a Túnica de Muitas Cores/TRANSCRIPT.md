@@ -1,5 +1,8 @@
 # **Série Bíblica XV: José e a Túnica de Muitas Cores**
 
+![Cover](cover.jpg)
+
+
 por Dr. Jordan Peterson
 
 YouTube Video (https://www.youtube.com/watch?v=B7V8eZ1BLiI)

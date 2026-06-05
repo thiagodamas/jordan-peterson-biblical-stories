@@ -1,5 +1,8 @@
 # **Biblical Series I: Introduction to the Idea of God**  
 
+![Cover](cover.jpg)
+
+
 by Dr. Jordan Peterson
 
 YouTube Video (https://www.youtube.com/watch?v=f-wWBGo6a2w)

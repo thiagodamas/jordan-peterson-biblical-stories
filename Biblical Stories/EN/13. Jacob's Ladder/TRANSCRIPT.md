@@ -1,5 +1,8 @@
 # **Biblical Series XIII: Jacob's Ladder**  
 
+![Cover](cover.jpg)
+
+
 by Dr. Jordan Peterson
 
 *Keywords: Jacob, Ladder, Dream, Angels, Bethel*

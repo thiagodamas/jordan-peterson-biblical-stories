@@ -1,5 +1,8 @@
 # **Biblical Series VIII: The Phenomenology of the Divine**  
 
+![Cover](cover.jpg)
+
+
 by Dr. Jordan Peterson
 
 *Keywords: Divine, Phenomenology, Experience, God, Mysticism*

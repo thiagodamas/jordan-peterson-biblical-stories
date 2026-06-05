@@ -1,5 +1,8 @@
 # **Biblical Series XV: Joseph and the Coat of Many Colors**  
 
+![Cover](cover.jpg)
+
+
 by Dr. Jordan Peterson
 
 *Keywords: Joseph, Coat, Dreams, Egypt, Forgiveness, Providence*

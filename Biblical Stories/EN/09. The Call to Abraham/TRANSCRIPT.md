@@ -1,5 +1,8 @@
 # **Biblical Series IX: The Call to Abraham**  
 
+![Cover](cover.jpg)
+
+
 by Dr. Jordan Peterson
 
 *Keywords: Abraham, Call, Faith, Sacrifice, Covenant*

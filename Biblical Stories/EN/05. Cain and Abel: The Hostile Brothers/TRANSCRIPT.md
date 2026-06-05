@@ -1,5 +1,8 @@
 # **Biblical Series V: Cain and Abel: The Hostile Brothers**  
 
+![Cover](cover.jpg)
+
+
 by Dr. Jordan Peterson
 
 YouTube Video (https://www.youtube.com/watch?v=44f3mxcsI50)

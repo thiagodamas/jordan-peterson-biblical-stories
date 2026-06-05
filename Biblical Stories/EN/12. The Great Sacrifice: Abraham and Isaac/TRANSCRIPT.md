@@ -1,5 +1,8 @@
 # **Biblical Series XII: The Great Sacrifice: Abraham and Isaac**  
 
+![Cover](cover.jpg)
+
+
 by Dr. Jordan Peterson
 
 YouTube Video (https://www.youtube.com/watch?v=-yUP40gwht0)

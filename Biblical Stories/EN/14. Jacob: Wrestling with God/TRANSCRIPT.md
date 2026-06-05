@@ -1,5 +1,8 @@
 # **Biblical Series XIV: Jacob: Wrestling with God**  
 
+![Cover](cover.jpg)
+
+
 by Dr. Jordan Peterson
 
 YouTube Video (https://www.youtube.com/watch?v=DRJKwDfDbco)

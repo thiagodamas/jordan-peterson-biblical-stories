@@ -1,5 +1,8 @@
 # **Série Bíblica XII: O Grande Sacrifício: Abraão e Isaque**
 
+![Cover](cover.jpg)
+
+
 por Dr. Jordan Peterson
 
 *Palavras-chave: Abraão, Isaque, Sacrifício, Fé, Ligação*

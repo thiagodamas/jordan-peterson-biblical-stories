@@ -1,5 +1,8 @@
 # **Biblical Series VII: Walking with God: Noah and the Flood**  
 
+![Cover](cover.jpg)
+
+
 by Dr. Jordan Peterson
 
 *Keywords: Noah, Covenant, Obedience, Flood, Faith*

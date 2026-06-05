@@ -1,5 +1,8 @@
 # **Biblical Series X: Abraham: Father of Nations**  
 
+![Cover](cover.jpg)
+
+
 by Dr. Jordan Peterson
 
 *Keywords: Abraham, Isaac, Nations, Covenant, Faith*

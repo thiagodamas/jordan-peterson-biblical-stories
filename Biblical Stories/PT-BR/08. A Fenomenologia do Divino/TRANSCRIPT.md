@@ -1,5 +1,8 @@
 # **Série Bíblica VIII: A Fenomenologia do Divino**
 
+![Cover](cover.jpg)
+
+
 por Dr. Jordan Peterson
 
 YouTube Video (https://www.youtube.com/watch?v=UoQdp2prfmM)

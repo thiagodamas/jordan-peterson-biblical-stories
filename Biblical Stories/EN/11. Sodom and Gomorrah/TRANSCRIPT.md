@@ -1,5 +1,8 @@
 # **Biblical Series XI: Sodom and Gomorrah**  
 
+![Cover](cover.jpg)
+
+
 by Dr. Jordan Peterson
 
 *Keywords: Sodom, Gomorrah, Judgment, Hospitality, Lot*

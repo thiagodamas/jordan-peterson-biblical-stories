@@ -1,5 +1,8 @@
 # **Série Bíblica IX: O Chamado de Abraão**
 
+![Cover](cover.jpg)
+
+
 por Dr. Jordan Peterson
 
 *Palavras-chave: Abraão, Chamado, Fé, Sacrifício, Aliança*

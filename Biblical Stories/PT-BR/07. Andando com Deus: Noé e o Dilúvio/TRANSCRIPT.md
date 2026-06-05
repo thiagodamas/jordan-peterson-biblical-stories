@@ -1,5 +1,8 @@
 # **Série Bíblica VII: Andando com Deus: Noé e o Dilúvio**
 
+![Cover](cover.jpg)
+
+
 por Dr. Jordan Peterson
 
 *Palavras-chave: Noé, Pacto, Obediência, Dilúvio, Fé*

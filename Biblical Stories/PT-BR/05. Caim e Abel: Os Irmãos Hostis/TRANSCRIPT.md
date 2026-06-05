@@ -1,5 +1,8 @@
 # **Série Bíblica V: Caim e Abel: Os Irmãos Hostis**
 
+![Cover](cover.jpg)
+
+
 por Dr. Jordan Peterson
 
 YouTube Video (https://www.youtube.com/watch?v=44f3mxcsI50)

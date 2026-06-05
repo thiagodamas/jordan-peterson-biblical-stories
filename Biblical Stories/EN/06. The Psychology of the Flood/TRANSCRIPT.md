@@ -1,5 +1,8 @@
 # **Biblical Series VI: The Psychology of the Flood**  
 
+![Cover](cover.jpg)
+
+
 by Dr. Jordan Peterson
 
 *Keywords: Noah, Flood, Psychology, Catastrophe, Renewal*

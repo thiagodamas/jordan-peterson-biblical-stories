@@ -1,5 +1,8 @@
 # **Série Bíblica VI: A Psicologia do Dilúvio**
 
+![Cover](cover.jpg)
+
+
 por Dr. Jordan Peterson
 
 YouTube Video (https://www.youtube.com/watch?v=wNjbasba-Qw)

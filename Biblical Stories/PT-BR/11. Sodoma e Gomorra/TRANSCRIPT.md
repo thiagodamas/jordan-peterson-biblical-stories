@@ -1,5 +1,8 @@
 # **Série Bíblica XI: Sodoma e Gomorra**
 
+![Cover](cover.jpg)
+
+
 por Dr. Jordan Peterson
 
 YouTube Video (https://www.youtube.com/watch?v=SKzpj0Ev8Xs)

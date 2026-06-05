@@ -1,5 +1,8 @@
 # **Série Bíblica X: Abraão: Pai das Nações**
 
+![Cover](cover.jpg)
+
+
 por Dr. Jordan Peterson
 
 *Palavras-chave: Abraão, Isaque, Nações, Aliança, Fé*

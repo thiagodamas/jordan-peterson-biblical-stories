@@ -1,5 +1,8 @@
 # **Sobre a Morte e a Ressurreição: Uma Visão Psicológica**
 
+![Cover](cover.jpg)
+
+
 por Dr. Jordan Peterson
 
 *Palavras-chave: Morte, Ressurreição, Cristo, Psicologia, Sentido*
