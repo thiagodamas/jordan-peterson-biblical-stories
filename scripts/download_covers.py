@@ -21,7 +21,7 @@ from lectures import LECTURES, get_lecture
 THUMBNAIL_SIZES = ["maxresdefault", "hqdefault", "mqdefault"]
 
 
-def download_cover(number: int, output_dir: Path | None = None) -> Path | None:
+def download_cover(number: int, output_dir: Path | None = None, lang: str = "en") -> Path | None:
     lec = get_lecture(number)
     yt_id = lec.get("youtube_id")
     if not yt_id:
@@ -30,10 +30,18 @@ def download_cover(number: int, output_dir: Path | None = None) -> Path | None:
 
     title = lec["title"]
     folder_name = f"{number:02d}. {title}"
-    base = (output_dir or Path("Biblical Stories")) / folder_name
-    base.mkdir(parents=True, exist_ok=True)
 
-    cover_path = base / "cover.jpg"
+    # Modern structure: default to EN/ or PT-BR/ subdirectories
+    if output_dir is None:
+        subdir = "EN" if lang.lower() == "en" else "PT-BR"
+        base = Path("Biblical Stories") / subdir
+    else:
+        base = output_dir
+
+    folder = base / folder_name
+    folder.mkdir(parents=True, exist_ok=True)
+
+    cover_path = folder / "cover.jpg"
 
     for size in THUMBNAIL_SIZES:
         url = f"https://img.youtube.com/vi/{yt_id}/{size}.jpg"
@@ -51,10 +59,15 @@ def download_cover(number: int, output_dir: Path | None = None) -> Path | None:
 
 
 def main():
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(
+        description="Download YouTube thumbnail covers for lectures."
+    )
     parser.add_argument("numbers", nargs="*", type=int)
     parser.add_argument("--all", action="store_true")
-    parser.add_argument("--output-dir", type=Path, default=None)
+    parser.add_argument("--output-dir", type=Path, default=None,
+                        help="Override output base directory (e.g. 'Biblical Stories/EN')")
+    parser.add_argument("--lang", choices=["en", "pt"], default="en",
+                        help="Language subdirectory when --output-dir is not provided (default: en)")
     args = parser.parse_args()
 
     numbers = list(range(1, 17)) if args.all else args.numbers
@@ -64,7 +77,7 @@ def main():
 
     for n in numbers:
         try:
-            download_cover(n, args.output_dir)
+            download_cover(n, args.output_dir, args.lang)
         except Exception as e:
             print(f"[{n:02d}] ERROR: {e}", file=sys.stderr)
 

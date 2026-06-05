@@ -5,8 +5,9 @@ Extracts and cleans Jordan Peterson Biblical Series transcripts from MHTML archi
 into high-quality Markdown matching the style of the existing Lecture 01.
 
 Usage:
-    python3 scripts/extract_transcript.py 1                 # extract lecture 1
-    python3 scripts/extract_transcript.py --all             # extract all 16
+    python3 scripts/extract_transcript.py 1                              # extract lecture 1 (into EN/)
+    python3 scripts/extract_transcript.py --all                          # extract all 16 into EN/
+    python3 scripts/extract_transcript.py --all --lang en --output-dir "Biblical Stories/EN"
     python3 scripts/extract_transcript.py 1 --output-dir ./tmp
 """
 
@@ -230,7 +231,7 @@ def generate_front_matter(lecture: dict, cover_path: Optional[str] = None) -> st
 # Main extraction pipeline
 # ---------------------------------------------------------------------------
 
-def extract_lecture(number: int, output_dir: Optional[Path] = None) -> Path:
+def extract_lecture(number: int, output_dir: Optional[Path] = None, lang: str = "en") -> Path:
     lec = get_lecture(number)
     mhtml_path = get_mhtml_path(number)
 
@@ -253,18 +254,21 @@ def extract_lecture(number: int, output_dir: Optional[Path] = None) -> Path:
     md = clean_markdown(md)
 
     # Generate output
+    # Modern structure: default to EN/ or PT-BR/ subdirectories instead of root
     folder_name = f"{number:02d}. {lec['title']}"
     if output_dir is None:
-        base = Path("Biblical Stories") / folder_name
+        subdir = "EN" if lang.lower() == "en" else "PT-BR"
+        base = Path("Biblical Stories") / subdir
     else:
-        base = output_dir / folder_name
-    base.mkdir(parents=True, exist_ok=True)
+        base = output_dir
+    folder = base / folder_name
+    folder.mkdir(parents=True, exist_ok=True)
 
     # For now we don't have the cover yet; will be added by download step
     front = generate_front_matter(lec, cover_path=None)
     final = front + md
 
-    out_path = base / "TRANSCRIPT.md"
+    out_path = folder / "TRANSCRIPT.md"
     out_path.write_text(final, encoding="utf-8")
     print(f"      → {out_path}")
 
@@ -272,10 +276,15 @@ def extract_lecture(number: int, output_dir: Optional[Path] = None) -> Path:
 
 
 def main():
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(
+        description="Extract transcripts from MHTML sources into the project structure."
+    )
     parser.add_argument("numbers", nargs="*", type=int, help="Lecture numbers (1-16)")
     parser.add_argument("--all", action="store_true", help="Extract all 16 lectures")
-    parser.add_argument("--output-dir", type=Path, default=None, help="Override output base dir")
+    parser.add_argument("--output-dir", type=Path, default=None,
+                        help="Override output base directory (e.g. 'Biblical Stories/EN')")
+    parser.add_argument("--lang", choices=["en", "pt"], default="en",
+                        help="Language subdirectory to use when --output-dir is not provided (default: en)")
     args = parser.parse_args()
 
     if args.all:
@@ -288,7 +297,7 @@ def main():
 
     for n in numbers:
         try:
-            extract_lecture(n, args.output_dir)
+            extract_lecture(n, args.output_dir, args.lang)
         except Exception as e:
             print(f"[{n:02d}] ERROR: {e}", file=sys.stderr)
 
