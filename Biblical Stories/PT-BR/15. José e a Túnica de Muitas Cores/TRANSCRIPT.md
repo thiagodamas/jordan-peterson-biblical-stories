@@ -1,6 +1,6 @@
 # **Série Bíblica XV: José e a Túnica de Muitas Cores**
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 por Dr. Jordan Peterson

@@ -1,6 +1,6 @@
 # **Biblical Series XV: Joseph and the Coat of Many Colors**  
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 by Dr. Jordan Peterson
