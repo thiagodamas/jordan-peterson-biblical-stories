@@ -111,6 +111,7 @@ def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
     pdf_path = output_dir / f"{base_name}.pdf"
     mobi_path = output_dir / f"{base_name}.mobi"
 
+    base = Path("Biblical Stories")
     transcripts = get_transcript_paths(lang)
     covers = get_covers(lang)
 
@@ -189,11 +190,26 @@ def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
         # heading level so they all appear properly in the TOC.
         marker = "## Section I" if is_en else "## Seção I"
         idx = content.find(marker)
+        front = content[:idx] if idx != -1 else ""
         relevant = content[idx:] if idx != -1 else content
+
+        # Include the per-lecture cover image (added for visualization) in the omnibus.
+        # Extract from front matter and fix path to be relative to Biblical Stories root
+        # so Pandoc can find and embed it with --resource-path.
+        cover_img = ""
+        m = re.search(r'!\[[^\]]*\]\(([^)]*cover\.jpg[^)]*)\)', front, re.IGNORECASE)
+        if m:
+            orig_ref = m.group(0)
+            rel_folder = transcript.relative_to(base).parent
+            cover_img = orig_ref.replace("](cover.jpg)", f"]({rel_folder}/cover.jpg)")
 
         # Simple split - no more renumbering or Pandoc footnote magic needed.
         # Notes are now just another section with distinct formatting.
         body, notes_raw = split_lecture_content(relevant)
+
+        if cover_img:
+            combined_md.append(cover_img)
+            combined_md.append("")
 
         combined_md.append(body)
         combined_md.append("")
@@ -251,7 +267,12 @@ def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
             "--epub-chapter-level=1",
             "--css=assets/ebook-style.css",
             "--standalone",
+            "--resource-path", str(base),
         ]
+        # Set main book cover from the first available lecture cover
+        main_cover = next((c for c in covers if c), None)
+        if main_cover:
+            cmd += [f"--epub-cover-image={main_cover}"]
         subprocess.run(cmd, check=True, capture_output=True)
 
         # 2. MOBI from EPUB (using Calibre)
@@ -264,6 +285,9 @@ def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
             "--title", f"{title} Complete - {suffix}",
             "--authors", "Jordan B. Peterson",
         ]
+        main_cover = next((c for c in covers if c), None)
+        if main_cover:
+            cmd += ["--cover", str(main_cover)]
         subprocess.run(cmd, check=True, capture_output=True)
 
         # 3. PDF from EPUB (using Calibre) - only if explicitly requested

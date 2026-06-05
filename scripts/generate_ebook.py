@@ -130,8 +130,12 @@ def run_pandoc(input_file: Path, output_file: Path, metadata: dict,
         "--toc-depth=2",
     ]
     
+    # Set resource-path to the directory of the transcript so that relative images
+    # like ![Cover](cover.jpg) (and any future images) are found and embedded.
+    resource_dir = input_file.parent
+    cmd += ["--resource-path", str(resource_dir)]
     if cover:
-        cmd += ["--resource-path=.", f"--epub-cover-image={cover}"]
+        cmd += [f"--epub-cover-image={cover}"]
     
     cmd += extra_args
     
