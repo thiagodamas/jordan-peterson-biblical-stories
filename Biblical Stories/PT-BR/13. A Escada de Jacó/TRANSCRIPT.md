@@ -129,6 +129,18 @@ Jacó, o supplantador, o trapaceiro, recebe essa visão. Ele não é puro. Ele m
 
 A visão da escada é uma das imagens mais antigas da humanidade. Xamãs sobem e descem estruturas como essa em suas viagens. Eles são reduzidos a esqueletos (morte simbólica), encontram espíritos ancestrais, e voltam com conhecimento. A escada é a conexão entre terra e céu, entre o humano e o divino. É a intuição de que a psique pode viajar entre níveis de realidade. Forças dentro de você — mensageiros do self — sobem e descem. O que você mais precisa está onde você menos quer olhar, e se você lutar com isso, você pode ser abençoado.
 
+De acordo com Eliade, o xamã recebe dois tipos de instrução: extática (sonhos, transes, visões) e tradicional (técnicas, mitologia, linguagem secreta). A iniciação frequentemente envolve crise grave — fugir pras montanhas, rasgar animais com os dentes, voltar ensanguentado. Mas o importante não é a crise — é a volta transformada.
+
+No xamanismo siberiano, os espíritos levam o futuro xamã pro inferno e o trancam por três anos. Ele é desmembrado, sua cabeça é posta de lado pra ele assistir sua própria desmembramento. Depois ele é remontado, os órgãos são substituídos por novos, e ele volta com o poder.
+
+Isso não é psicose. É iniciação. O futuro xamã é reconhecido não por estar doente, mas por ter emergido da doença com sabedoria.
+
+A escada de Jacó é exatamente isso. Mesmo um trapaceiro como Jacó tem a visão. O divino não exige perfeição. Exige a disposição de lutar e voltar transformado.
+
+Para Jung, isso é o Self. O potencial você se manifesta agarrando seu interesse. O Self é você em potencial, e ele opera no presente direcionando sua atenção pra onde você precisa ir.
+
+E isso é o que acontece com Jacó. A escada aparece. Ele faz o voto. Ele luta. Ele é abençoado. Ele vira Israel. E a linhagem continua.
+
 Depois da visão, Jacó faz um voto prático: "Se Deus for comigo e me guardar neste caminho... então o Senhor será meu Deus." Ele transforma a experiência mística em compromisso concreto. Ergue uma coluna de pedra e promete o dízimo. A fé aqui é ação.
 
 Ele vai para Labão. É enganado exatamente como enganou (Raquel trocada por Lia). O trapaceiro é trapaceado. Trabalha 14 anos. Aprende paciência e o custo do engano. Amadurece no exílio.
