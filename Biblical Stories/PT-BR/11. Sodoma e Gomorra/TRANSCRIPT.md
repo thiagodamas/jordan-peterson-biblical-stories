@@ -1,6 +1,6 @@
 # **Série Bíblica XI: Sodoma e Gomorra**
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 por Dr. Jordan Peterson
@@ -216,10 +216,6 @@ A história delineou a catástrofe ética de Sodoma e Gomorra; a dissolução da
 
 ---
 
-## Notas de rodapé
-
----
-
 **Notas**
 
 [^1]: **Hospitalidade** (*hospitality*): Virtude central da história, especialmente no contexto antigo. Receber o estranho (os três visitantes/anjos) é receber o divino. A falha de Sodoma não é primariamente sexual no sentido moderno, mas a destruição completa da capacidade de receber o Outro com dignidade e proteção. Abraão e Ló são mestres do estranho; a cidade é o oposto.
@@ -236,4 +232,48 @@ A história delineou a catástrofe ética de Sodoma e Gomorra; a dissolução da
 
 [^7]: **Potencial e ideal como juiz**: O futuro/ideal que você formula se torna juiz. Ao elevar seu objetivo, você cria um juiz que revela o que é inútil em você para ser dispensado (processo "fênix"). Cristo como juiz arquetípico: "livre-se de tudo que não é perfeito". Pessoas que você admira são encarnações parciais do messias arquetípico.
 
-[^8]: **Hospitalidade ao estranho como ato de coragem**: Abraão recebe bem os anjos/estrangeiros apesar de ser um cara durão e ciente dos perigos. Evoca o melhor do Outro. Cada pessoa tem valor intrínseco/transcendente (logos). "O que você faz ao menor, faz a mim." Fazer contato genuíno com o estranho é como o pão que nutre (não material). --- **Fim da Lecture 11**
+[^8]: **Hospitalidade ao estranho como ato de coragem**: Abraão recebe bem os anjos/estrangeiros apesar de ser um cara durão e ciente dos perigos. Evoca o melhor do Outro. Cada pessoa tem valor intrínseco/transcendente (logos). "O que você faz ao menor, faz a mim." Fazer contato genuíno com o estranho é como o pão que nutre (não material).
+
+[^9]: **Ló "demora-se"**: Hesitação em abandonar o familiar/corrupto mesmo quando o julgamento é iminente. Muitos sob convicção adiam o trabalho necessário. "Não há tempo a perder."
+
+[^10]: **Mulher de Ló / não olhar para trás**: Virar estátua de sal. Lição: quando você deixa um lugar/situação terrível (Sodoma = corrupção ética), não há nostalgia. Olhar para trás é se condenar.
+
+[^11]: **Incesto pós-fuga**: Mesmo depois de escapar, as filhas de Ló repetem a corrupção de Sodoma na caverna. "Postshadowing" — o mal carregado dentro da pessoa.
+
+[^12]: **Abraão intercedendo por Sodoma**: Barganha 50→10 justos. Modelo de responsabilidade moral individual. O indivíduo luta com Deus sobre justiça ("Israel" = aquele que luta com Deus).
+
+[^13]: **"Grande demais pra falir" ético**: Cidades/sistemas que violam a ordem moral (equilíbrio caos/ordem) colapsam. Ruído do pecado chega aos céus. Paralelo com regimes totalitários.
+
+[^14]: **Cegueira voluntária**: Pessoas em Sodoma "sabiam" mas escolheram não saber. Corrupção se espalha porque indivíduos recusam ver e agir.
+
+[^15]: **Hospitalidade como virtude central**: Receber o estranho = receber o divino. Falha de Sodoma é destruição da capacidade de proteger o Outro.
+
+[^16]: **Circuncisão como sacrifício internalizado**: De externo (animais) para corporal/pessoal. Marca a aliança na carne; ecoa batismo (morte do velho eu).
+
+[^17]: **Fogo e enxofre do céu**: Julgamento sobre corrupção total. Não é só "sexual" no sentido moderno — é dissolução completa das restrições civilizatórias.
+
+[^18]: **Zoar como compromisso**: Ló pede a "cidade pequena" em vez do monte. Deus aceita, mas o perigo persiste. Meias medidas têm consequências.
+
+[^19]: **Abraão olha para a fumaça**: Testemunha a destruição. Lembra a promessa de Deus e a salvação de Ló por causa de Abraão.
+
+[^20]: **Potencial e ideal como juiz**: O futuro/ideal que você formula se torna juiz que revela o que dispensar em você (processo fênix). Cristo como juiz arquetípico.
+
+[^21]: **Sem desculpas, nem mesmo catástrofe familiar**: Histórias dizem: quando sai de lugar terrível, nenhuma nostalgia, nenhuma desculpa (nem morte do pai). Faça o que deve ser feito.
+
+[^22]: **Justificar inação com sofrimento**: Usar catástrofe pra extrair misericórdia e evitar responsabilidade é repreensível e contraproducente.
+
+[^23]: **Ló na caverna**: Mesmo salvo, carrega o veneno de Sodoma. O mal interno precisa ser confrontado; fuga física não basta.
+
+[^24]: **As três visitas / hospitalidade de Abraão**: Abraão corre ao encontro dos estranhos, oferece o melhor. Modelo de como receber o divino no Outro.
+
+[^25]: **Negociação ética com o transcendente**: Abraão não aceita passivamente. Argumenta por justiça. Mostra desenvolvimento da consciência moral individual.
+
+[^26]: **Fim de uma era arcaica**: As histórias de Sodoma/Gomorra marcam o fim das narrativas puramente míticas e o avanço para o individual (Abraão como personagem complexo).
+
+[^27]: **Responsabilidade pelo Outro**: Proteger o estranho (mesmo desconhecido) é sagrado. A cidade que viola isso destrói a si mesma.
+
+[^28]: **Hesitação de Ló = hesitação nossa**: "Demora-se" reflete a tendência humana de adiar a saída de situações corruptas por conforto ou medo.
+
+[^29]: **Sodoma como arquetipo da corrupção coletiva**: Violação radical da hospitalidade e da ordem ética leva a colapso total. Aviso atemporal.
+
+[^30]: **Abraão como contraponto**: Aquele que recebe o estranho, intercede, mantém a aliança. O indivíduo que faz o certo mesmo quando a cidade ao redor colapsa é o portador da promessa.
