@@ -197,10 +197,10 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 - 12 (terceira): + spoken expandido da Akedah (jornada de 3 dias, "Deus proverá", disposição absoluta).
 
 Gaps aproximados atuais (PT vs EN) após mais inserções densas:
-13: 6.352 vs 19.311 (em redução ativa)
-15: 7.924 vs 20.872 (em redução ativa)
+13: 6.561 vs 19.311 (em redução ativa)
+15: 7.946 vs 20.872 (em redução ativa)
 12: 4.944 vs 14.883 (em redução ativa)
-10: 10.425 vs 18.450 (em redução ativa - +~1.5k)
+10: 10.425 vs 18.450 (em redução ativa)
 09: 10.308 vs 19.983
 16: 5.695 vs 8.294
 11: 14.534 vs 17.739
