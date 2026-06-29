@@ -81,6 +81,16 @@ Na noite antes de reencontrar Esaú, Jacó fica sozinho e luta com um "homem" (a
 
 Essa é a cena mais importante. Jacó não é abençoado por ser bom ou obediente. Ele é abençoado por lutar, por não desistir, por se engajar diretamente com o divino mesmo quando dói fisicamente e existencialmente.
 
+A luta no vau de Jaboque é arquetípica. Jacó luta fisicamente com um ser divino a noite toda e se recusa a soltar até ser abençoado. O quadril deslocado é o preço permanente da luta (ele mancará pelo resto da vida). A bênção vem através do confronto, não da obediência passiva.
+
+Para Jung e para a tradição, isso é integração do shadow. O "homem" que luta é aspecto do próprio Jacó ou do divino. Você tem que lutar com o que é mais escuro em você pra ser abençoado.
+
+Ele então encontra Esaú. Em vez da esperada vingança, Esaú corre ao encontro dele e o abraça. A reconciliação acontece (pelo menos temporariamente).
+
+A graça aparece onde a justiça retributiva seria esperada. Mesmo o trapaceiro pode ser perdoado quando há arrependimento real (Jacó envia presentes e se humilha).
+
+Jacó constrói um altar em Betel — o lugar onde ele sonhou com a escada de anjos subindo e descendo do céu. O sonho é a visão de que existe uma conexão entre terra e céu, entre o humano e o divino, e que essa conexão pode ser acessada mesmo por um trapaceiro como ele.
+
 Ele então encontra Esaú. Em vez da esperada vingança, Esaú corre ao encontro dele e o abraça. A reconciliação acontece (pelo menos temporariamente).
 
 Jacó constrói um altar em Betel — o lugar onde ele sonhou com a escada de anjos subindo e descendo do céu. O sonho é a visão de que existe uma conexão entre terra e céu, entre o humano e o divino, e que essa conexão pode ser acessada mesmo por um trapaceiro como ele.

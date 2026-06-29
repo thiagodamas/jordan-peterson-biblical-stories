@@ -177,6 +177,8 @@ E isso é Gênesis. O ciclo fecha. O povo está no Egito, pronto para o Êxodo. 
 
 A lição final: você pode transformar o inferno em salvação se recusar o ressentimento e guardar caráter. Não há força mais poderosa.
 
+A lição final: você pode transformar o inferno em salvação se recusar o ressentimento e guardar caráter. Não há força mais poderosa.
+
 
 ## Seção IV
 
