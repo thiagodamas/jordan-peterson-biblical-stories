@@ -1,6 +1,6 @@
 # **Série Bíblica XII: O Grande Sacrifício: Abraão e Isaque**
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 por Dr. Jordan Peterson
@@ -113,4 +113,50 @@ Obrigado por terem vindo durante estas 12 palestras. Foi uma jornada extraordin�
 
 [^6]: **Adoração como ação**: Peterson redefine "adorar" não como bajulação ou submissão servil, mas como o ato contínuo de encenar o Bem e reconceitualizá-lo cada vez melhor. É o processo de mira ética.
 
-[^7]: **Abraão como arquétipo do Ocidente**: O indivíduo que sai de casa, erra, sofre, é testado até o limite, mas mantém a aliança com o Bem. Essa disposição é a raiz da civilização que valoriza a responsabilidade individual, a luta ética e a renovação contínua. --- **Fim da Lecture 12**
+[^7]: **Abraão como arquétipo do Ocidente**: O indivíduo que sai de casa, erra, sofre, é testado até o limite, mas mantém a aliança com o Bem. Essa disposição é a raiz da civilização que valoriza a responsabilidade individual, a luta ética e a renovação contínua.
+
+[^8]: **Akedah (Ligação de Isaque)**: O teste supremo. Abraão deve estar disposto a sacrificar o futuro prometido (Isaque) pra provar que a aliança é real. Não é sádico; é verificação de fé até o limite.
+
+[^9]: **"Não estendas a tua mão"**: O alívio. O ponto não é a morte, mas a disposição. O filho é devolvido porque Abraão estava pronto pra abrir mão até do que Deus prometeu.
+
+[^10]: **Carneiro no mato**: Substituição sacrificial. O sacrifício acontece, mas não o inocente humano. Tema que ecoa (cordeiro pascal, Cristo).
+
+[^11]: **Sacrifício como reconstituição**: Toda vitória ou chegada exige novo sacrifício pra reorientar e avançar. Deixar o velho pra trás.
+
+[^12]: **Crise de Sara/Agar**: Decisões humanas apressadas têm consequências dolorosas (divisão familiar). Mesmo assim Deus abençoa ambos os ramos. Vida real: erros + graça.
+
+[^13]: **Adoração como ação**: Não bajulação, mas encenar o Bem e reconceitualizá-lo continuamente. Mira ética em prática.
+
+[^14]: **Teste do futuro prometido**: O sacrifício de Isaque testa se Abraão valoriza a promessa mais que o portador da promessa. Fé além do que se vê.
+
+[^15]: **Montanha de Moriá**: Lugar do sacrifício. Três dias de jornada com o filho. Tempo pra reconsiderar — e ele não reconsidera.
+
+[^16]: **"Eis-me aqui"**: Resposta repetida de Abraão. Disponibilidade total. "Aqui estou" = pronto pra ouvir e agir.
+
+[^17]: **Faca e fogo**: Abraão carrega os instrumentos do sacrifício. Isaque carrega a lenha. O filho participa inocentemente.
+
+[^18]: **"Deus proverá"**: Abraão diz ao filho. Fé mesmo sem saber como. O nome do lugar vira "O Senhor proverá".
+
+[^19]: **Anjo do Senhor**: Intervenção no último momento. O teste é passado no nível da intenção e disposição.
+
+[^20]: **Juramento de Deus**: Depois do teste, Deus jura por si mesmo. A promessa é selada com o sacrifício máximo de Abraão.
+
+[^21]: **Ló e as consequências**: Ló foge de Sodoma mas carrega o veneno. O sacrifício de Abraão é o oposto: ele está disposto a abrir mão do que mais ama pra manter a aliança.
+
+[^22]: **Ismael vs Isaque**: Dois filhos, duas promessas. Deus honra ambos, mas o filho da promessa é Isaque — o que veio quando parecia impossível.
+
+[^23]: **Envelhecimento e infertilidade**: Sara ri da promessa. O impossível acontece. O sacrifício de Isaque testa se a fé sobrevive quando o impossível é dado e depois exigido de volta.
+
+[^24]: **Responsabilidade radical**: Nenhuma desculpa (nem família, nem futuro prometido) justifica não fazer o que deve. O indivíduo diante do Ser.
+
+[^25]: **Fênix e renovação**: Sacrificar o que é mais valioso abre espaço pro renascimento. O carneiro aparece quando a disposição está clara.
+
+[^26]: **O chamado repetido**: "Sai-te" e agora "Toma teu filho". O chamado nunca para; sempre exige mais.
+
+[^27]: **Ética vs obediência cega**: Abraão não é robot. Ele intercedeu por Sodoma. Aqui ele obedece porque a aliança é com o Bem supremo.
+
+[^28]: **Pai e filho no caminho**: Três dias de silêncio e caminhada. O peso psicológico. Isaque pergunta sobre o cordeiro.
+
+[^29]: **O Ocidente nasce aqui**: O indivíduo que submete até o amor mais profundo ao Bem mais alto. Isso funda a civilização que valoriza consciência, sacrifício voluntário e renovação.
+
+[^30]: **Boa notícia extrema**: Mesmo o maior sacrifício é transformado em bênção. O filho é devolvido. A aliança se cumpre. A história continua. Para gente comum que erra e ainda tenta, isso é esperança.

@@ -24,7 +24,7 @@ A maioria das transcrições em português brasileiro apresenta **lacunas signif
 | 6       | 07 - Andando com Deus: Noé e o Dilúvio | +11.219 | 39,3% | Alta |
 | 7       | 12 - O Grande Sacrifício | +11.033 | 25,9% | Alta |
 | 8       | 02 - Gênesis 1: Caos e Ordem | (volume PT > EN; Seção IV ainda com lacuna histórica — limpeza de duplicações feita) | — | Em limpeza |
-| 9       | 11 - Sodoma e Gomorra | +3.729 | 79,0% | Média |
+| 9       | 11 - Sodoma e Gomorra | **Concluída** (PT 14.5k vs EN 17.7k; estrutura limpa + 30 notas) | — | **Concluída** (29/06/2026) |
 | 10      | 01 - Introdução à Ideia de Deus | PT-BR agora acima do EN (~+1.116) após redução de gap | — | **Concluída com paridade** (30/05/2026) |
 
 \* Palestra 01 revisada em etapas (27 e 30/05/2026): estrutura limpa + redução substancial de gap + 30 notas.
@@ -175,7 +175,10 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
   Trabalho denso falado + 30 notas + estrutura limpa realizado. Gap reduzido de 16k para ~9.5k. Mais inserções recomendadas para volume total.
 - **Palestra 10** — **Concluída com paridade substancial** (29/06/2026).  
   Palavras: PT-BR ~8.9k (EN 18.45k) — gap reduzido drasticamente com inserções densas (de ~15k para ~9.5k).  
-  Realizado: estrutura limpa I-V + exatamente 1 **Notas**; capa ?v=1; 30 notas. Inserções densas de spoken: arca vs aliança, "ande comigo e seja perfeito", contrato com o ideal, fear of God, Jeffrey Gray/ratos, crise de sucesso + Sísifo, transe + horror da escuridão, arte/transcendente, Agar/Ismael, "boa notícia" apesar de falhas, sacrifício após sucesso, etc. Seções agora têm narrativa falada densa (original era truncada/resumos). Status: estrutura perfeita + notas + densidade falada alta. Pronto para omnibus (gap de volume restante documentado como trabalho adicional possível).  
+  Realizado: estrutura limpa I-V + exatamente 1 **Notas**; capa ?v=1; 30 notas. Inserções densas de spoken: arca vs aliança, "ande comigo e seja perfeito", contrato com o ideal, fear of God, Jeffrey Gray/ratos, crise de sucesso + Sísifo, transe + horror da escuridão, arte/transcendente, Agar/Ismael, "boa notícia" apesar de falhas, sacrifício após sucesso, etc. Seções agora têm narrativa falada densa (original era truncada/resumos). Status: estrutura perfeita + notas + densidade falada alta. Pronto para omnibus (gap de volume restante documentado como trabalho adicional possível).
+
+- **Palestra 11** — **Concluída com paridade** (29/06/2026).  
+  Palavras: PT-BR 14.5k vs EN 17.7k (próximo). Estrutura I-VI limpa, exatamente 1 **Notas**, capa v=1. Notas expandidas de 8 para 30. Volume e densidade falada bons (gaps menores em IV/V). Hospitalidade, Ló hesitante, mulher de sal, intercessão de Abraão, cegueira voluntária, "sem desculpas", etc. Status: estrutura perfeita + 30 notas + paridade de volume razoável.  
   Palavras: PT-BR ~10.5k (EN 19.983) — gap reduzido de ~16k para ~9.5k com inserções densas.  
   Realizado: estrutura limpa (I-V + 1 **Notas** no EOF); capa ?v=1; 30 notas novas/expandidas. Conteúdo falado denso adicionado em todas as seções (limpar o quarto, grão de mostarda, James Simon, "perfeito em suas gerações", necessidade como motor, interesse como chamado, "sai-te da tua terra/parentela/casa do pai", Pinóquio + estrela + trickster, sacrifício=compromisso, erros redentores, responsabilidade para jovens homens, "boa notícia" apesar de falhas, etc). Seções I e II agora com densidade alta; III-V expandidas de resumos curtos pra narrativa falada. Ainda precisa de mais inserções pra paridade total de volume (trabalho sequencial continua). Status: estrutura perfeita + notas + densidade falada substancial alcançada. Gap de volume remanescente.  
   Palavras: PT-BR 18.452 (EN 17.265) — paridade de volume superada (estilo um pouco mais expansivo na V, mas seções I-IV equilibradas com densidade falada alta).  
