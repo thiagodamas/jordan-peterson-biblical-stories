@@ -1,6 +1,6 @@
 # **Biblical Series IX: The Call to Abraham**  
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 by Dr. Jordan Peterson

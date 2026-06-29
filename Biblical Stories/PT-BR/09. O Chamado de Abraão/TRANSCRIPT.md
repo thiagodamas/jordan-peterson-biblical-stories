@@ -195,10 +195,6 @@ Você tem que fazer sacrifícios. O que sacrificar? Aquilo que é mais valioso p
 
 A mensagem das histórias abraâmicas é repetida: saia. Vá. Faça algo. Assuma a responsabilidade. Mantenha a aliança com o Ser mesmo quando parece impossível. O mundo não vai ser fácil — vai ser tirânico, catastrófico e enganoso —, mas se você continuar avançando com integridade, algo de valor se acumula, e não só pra você.
 
-## Seção IV (expansão densa completa do conteúdo falado faltante)
-
-[TIMESTAMP](https://youtu.be/GmuzUZTJ0GA?t=4332)
-
 Então Abrão partiu, como o Senhor lhe havia falado; e Ló foi com ele; e Abrão tinha setenta e cinco anos quando saiu de Harã. E Abrão tomou Sarai, sua mulher, e Ló, filho de seu irmão, e toda a sua substância que haviam adquirido, e as almas que haviam conseguido em Harã; e saíram para ir à terra de Canaã.
 
 Ele tem um relacionamento com Ló, certo? Ele não tem seu próprio filho, mas seu irmão morreu, então ele toma o sobrinho como filho. Isso é grato. Ele poderia estar muito bravo e não ter nada a ver com ele, porque não conseguiu seu próprio filho. Mas não é isso que acontece. Ele é oferecido um substituto, digamos, e aceita, então bom pra ele. Isso também é algo que vi caracterizar pessoas que conseguem fazer o melhor de uma situação ruim: elas não conseguem exatamente o que querem, mas algo surge que oferece possibilidades suficientes, talvez, se explorado corretamente. Elas abrem o coração e recebem, em vez de rejeitar com amargura. Isso é uma coisa boa, e faz parte do caráter de Abraão.
@@ -275,8 +271,6 @@ De novo, não penso nisso como uma moralidade externa, precisamente. Acho que vo
 
 É incrível. Vejo isso o tempo todo: Se você faz algo errado, e é porque você é ignorante, você não sabe melhor, não dá certo para você. Esse é o caso. Mas se você faz alguém errado, e sabe que está errado, a punição é múltipla. Acho que a razão para isso é porque isso te faz Caim. Significa que você trai seu próprio ideal. Se você simplesmente não sabe, bem, você não traiu seu ideal; você simplesmente não está junto. Talvez você seja até cegamente voluntário. Mas se você faz algo que sabe que está errado, então você traiu seu próprio ideal. Então isso te coloca — uma vez que Caim destruiu Abel, Caim disse a Deus, "não posso suportar meu castigo."
 
-## Seção V (fechamento adicional)
-
 A história continua com a promessa de terra após a separação de Ló, o chamado para percorrer a terra, a guerra dos reis no vale de Sidim (o lugar mais baixo, inferno), o resgate de Ló por Abraão com 318 homens (ato de coragem e poder, não mansidão), o encontro com Melquisedeque (pão e vinho, dízimo), a recusa de recompensa do rei de Sodoma para manter a pureza ética ("nem um fio nem uma correia de sandália"), a visão noturna com horror de grande escuridão, o forno de fumaça e tocha de fogo passando entre os pedaços (ratificação da aliança), a profecia dos 400 anos de escravidão no Egito e o retorno com grande riqueza, e a aliança confirmada.
 
 O ponto é que a jornada de Abraão é pontuada por crises, descidas (fome, tirania, engano, perda potencial), sacrifícios, e ascensões. Mesmo com erros (mentir sobre Sarai), as coisas dão certo porque ele mantém a orientação e a aliança. A vida é assim: sofrimento real, mas se você mantém o contrato com o bem, o melhor resultado possível ocorre. A evidência não pode estar lá antes; é um ato de fé. A estase é o pior; comprometer-se e lutar é o que transforma.
@@ -340,10 +334,6 @@ Então a interpretação da história, essencialmente, é que os descendentes de
 "No mesmo dia o Senhor fez uma aliança com Abrão, dizendo: À tua descendência dei esta terra, desde o rio do Egito até o grande rio, o rio Eufrates; aos queneus, e aos quenezeus, e aos cadmoneus, e aos heteus, e aos ferezeus, e aos refains, e aos amorreus, e aos cananeus, e aos girgaseus, e aos jebuseus."
 
 Acho que vamos parar aqui. Estou cansando, e é 9:29, então esse é um lugar muito bom para parar. Eu deveria fechar propriamente e apenas resumir. Então o que acontece, aqui, é que Abrão entra em uma aliança com Deus para agir no mundo. A ação é uma história de aventura, essencialmente. As aventuras se repetem, e são pontuadas por sucesso e sacrifício e re-contemplação. É a jornada do herói colina acima: eu estou aqui; há uma crise; eu colapso; eu me reconstruo para um lugar mais alto. A vida é assim, continuamente, e essa é a história de Abraão. Isso é o que é tão legal: essa é a aparência que sua vida vai ter. Se você planeja sua vida ou não, vai ser pontuada assim. Talvez não suba; talvez desça. A questão é, que tipo de recipiente você precisa estar para tolerar o movimento para cima e para baixo? É isso que a história de Abraão fornece: ela fornece uma descrição da aliança. A aliança e a arca são a mesma coisa, exceto que a aliança é o equivalente psicológico da arca. A aliança é, tenha fé na estrutura da existência e vá em frente. Essa é a aliança. A história é, essa é a melhor solução possível que você tem à mão.
-
-## Seção V (fechamento final)
-
-## Seção V
 
 "E havia fome na terra…" Isso é a mãe natureza falhando em cooperar. Quer dizer, isso deve ser bastante desanimador para Abraão, não acha? Ele finalmente se organiza, quando tem 75, para sair, porque Deus diz "vá", e o primeiro lugar para onde vai, todo mundo está morrendo de fome. É tipo, você pode pensar nisso como um teste de fé, não diria? Mas ele continua. E então o que acontece? Bem, ele tem que ir para o Egito. Então ótimo; ele vai para onde todo mundo está morrendo de fome, e então, para fugir de onde todo mundo está morrendo de fome, ele vai para uma tirania. Então o começo inteiro da história não é particularmente auspicioso.
 
