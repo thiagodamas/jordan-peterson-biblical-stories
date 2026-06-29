@@ -199,7 +199,7 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 Gaps aproximados atuais (PT vs EN) após mais inserções densas:
 13: 6.352 vs 19.311 (em redução ativa)
 15: 7.924 vs 20.872 (em redução ativa)
-12: 4.744 vs 14.883 (em redução ativa)
+12: 4.944 vs 14.883 (em redução ativa)
 10: 8.894 vs 18.450
 09: 10.308 vs 19.983
 16: 5.695 vs 8.294
