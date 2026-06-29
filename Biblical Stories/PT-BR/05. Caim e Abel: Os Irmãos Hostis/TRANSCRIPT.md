@@ -1,6 +1,6 @@
 # **Série Bíblica V: Caim e Abel: Os Irmãos Hostis**
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 por Dr. Jordan Peterson
