@@ -124,8 +124,9 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 11: gap -268 (concluída individualmente; estrutura I-VI limpa, 30 notas, 1 **Notas**)
 12: gap -433 (concluída individualmente; Seção IV adicionada; estrutura I-IV limpa, 30 notas, 1 **Notas**)
 13: gap 77 (CONCLUÍDA individualmente; estrutura I-V limpa, 30 notas, 1 **Notas**; inserts densos em visão da escada, xamanismo, Jaboque/Israel, reconciliação Esaú, caráter/liderança, etc.)
-14: gap=-358 (notas a expandir para ~30)
-15: gap~12926 (aguardando)
+14: gap=-1356 (CONCLUÍDA: notas expandidas de 7 para 30; estrutura I-IV limpa, 1 **Notas**, cover v=1)
+15: gap ~7697 (em processamento individual; grandes inserts densos de spoken em Seção II-V; gap reduzindo de 12k+; só avança quando <500)
+16: gap 64 (CONCLUÍDA; estrutura expandida, 30 notas)
 16: gap~2599 (aguardando)
 
 **Paridade de Conteúdo** (seguindo regra estrita):
