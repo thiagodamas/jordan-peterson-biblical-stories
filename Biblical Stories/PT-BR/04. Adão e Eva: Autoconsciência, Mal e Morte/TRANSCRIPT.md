@@ -1,6 +1,6 @@
 # **Série Bíblica IV: Adão e Eva: Autoconsciência, Mal e Morte**
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 por Dr. Jordan Peterson

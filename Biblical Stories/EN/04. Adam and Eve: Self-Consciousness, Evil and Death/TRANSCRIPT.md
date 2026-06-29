@@ -1,6 +1,6 @@
 # **Biblical Series IV: Adam & Eve: Self-Consciousness, Evil, & Death**  
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 by Dr. Jordan Peterson
