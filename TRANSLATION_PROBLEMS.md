@@ -123,7 +123,7 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 10: gap=-1144 (estrutura reparada - dups II/III removidos)
 11: gap -268 (concluída individualmente; estrutura I-VI limpa, 30 notas, 1 **Notas**)
 12: gap -433 (concluída individualmente; Seção IV adicionada; estrutura I-IV limpa, 30 notas, 1 **Notas**)
-13: gap ~10763 (em processamento individual; estrutura I-V limpa após remoção de header duplicado; inserts densos de spoken (visão da escada, voto, Jaboque, Israel, reconciliação) em andamento; só avança quando gap <500)
+13: gap 77 (CONCLUÍDA individualmente; estrutura I-V limpa, 30 notas, 1 **Notas**; inserts densos em visão da escada, xamanismo, Jaboque/Israel, reconciliação Esaú, caráter/liderança, etc.)
 14: gap=-358 (notas a expandir para ~30)
 15: gap~12926 (aguardando)
 16: gap~2599 (aguardando)
