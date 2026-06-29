@@ -79,19 +79,23 @@ O que está sendo testado é se a aliança de Abraão é real ou não. Ele está
 
 É a história da fé levada ao limite: a disposição de deixar ir até o que você mais quer, confiando que o Bem não exige destruição inútil.
 
-## Seção IV
+Abraão levanta de madrugada, corta lenha, toma os servos e Isaque, e caminha três dias até o monte Moriá. Três dias com o filho que ele vai sacrificar. Tempo pra mudar de ideia. Ele não muda.
 
-[TIMESTAMP](https://youtu.be/-yUP40gwht0?t=1h15m18s)
+Isaque pergunta: "Eis aqui o fogo e a lenha, mas onde está o cordeiro?" Abraão responde: "Deus proverá para si o cordeiro para o holocausto, meu filho." Ele não sabe como, mas caminha em direção ao sacrifício.
 
-Depois do sacrifício, a história de Abraão continua com a morte de Sara, a compra do campo de Macpela (primeira posse permanente da terra prometida), o casamento de Isaque com Rebeca (encontrada de forma providencial), e a morte de Abraão.
+No topo, ele edifica o altar, põe a lenha, ata Isaque, levanta a faca. Nesse momento, o anjo o detém.
 
-O ciclo se fecha. Abraão viveu uma vida de movimento constante, erro, sacrifício, renovação da aliança e bênção apesar de tudo. Ele não é perfeito. Ele é humano. Mas ele manteve a orientação.
+A história não é sobre matar o filho. É sobre a disposição absoluta. Abraão provou que nada — nem o futuro prometido — é maior que a aliança com o Bem. Por isso o filho é devolvido.
+
+Depois, a história continua com a morte de Sara, a compra do campo de Macpela (primeira posse permanente na terra prometida), o casamento de Isaque com Rebeca, e a morte de Abraão.
+
+O ciclo se fecha. Abraão viveu movimento constante, erro, sacrifício, renovação da aliança e bênção apesar de tudo. Ele não é perfeito. É humano. Mas manteve a orientação.
 
 A lição final das histórias de Abraão é que a vida significativa não é ausência de sofrimento, traição, infertilidade, guerra ou exigências impossíveis. É a disposição de continuar avançando, de continuar fazendo os sacrifícios necessários, de manter o contrato com o que é mais alto — mesmo (especialmente) quando o preço parece insuportável.
 
 Essa é a raiz da civilização ocidental: o indivíduo que luta eticamente com Deus e com o destino, e não desiste.
 
-Obrigado por terem vindo durante estas 12 palestras. Foi uma jornada extraordinária pra mim. Vamos continuar mensalmente com o resto das histórias patriarcais (Jacó, José) e depois com o resto da Bíblia.
+Obrigado por terem vindo. Vamos continuar com Jacó e José.
 
 ---
 

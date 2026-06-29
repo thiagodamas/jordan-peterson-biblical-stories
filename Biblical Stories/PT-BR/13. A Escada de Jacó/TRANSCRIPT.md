@@ -75,6 +75,24 @@ Jacó é o avô de José. A linhagem continua através de um homem profundamente
 
 Obrigado por terem vindo. Na próxima vamos para a história de José — o clímax das narrativas patriarcais e uma das mais belas histórias de redenção e perdão de toda a literatura.
 
+A visão da escada que Jacó tem é uma das imagens mais poderosas de toda a tradição. É a intuição arcaica de que existe uma conexão vertical entre o que é mais baixo e o que é mais alto. Os xamãs de culturas antigas sobem e descem essa estrutura em suas viagens. Eles são reduzidos a esqueletos — uma morte simbólica — e depois voltam com conhecimento dos espíritos ancestrais e com uma conexão com o divino.
+
+Isso não é apenas um sonho bonitinho. É a experiência de que a psique humana pode viajar entre níveis de realidade. Que há forças dentro de você — mensageiros do seu self maior — que sobem e descem. Que o que você mais precisa está onde você menos quer olhar, e que, se você estiver disposto a lutar com isso, você pode ser abençoado.
+
+Jacó, o supplantador, o trapaceiro, recebe essa visão. Ele não é puro. Ele mentiu para o pai, roubou a bênção do irmão, fugiu. Mas a escada aparece para ele mesmo assim. Isso é importante: o divino não aparece só para os santos. Aparece para quem está no caminho, mesmo que torto.
+
+Depois da visão, Jacó faz um voto prático: "Se Deus for comigo e me guardar neste caminho... então o Senhor será meu Deus." Ele transforma a experiência mística em compromisso concreto. Ele ergue uma coluna de pedra e promete o dízimo. A fé aqui é ação, não só sentimento.
+
+Ele vai para a casa de Labão, seu tio. Lá ele é enganado exatamente como enganou. Labão troca Raquel por Lia. O trapaceiro é trapaceado. Ele trabalha 14 anos para conseguir as duas mulheres. Aprende paciência, astúcia e o custo do engano. Jacó amadurece no exílio.
+
+Quando volta, ele tem medo de Esaú. Envia presentes, se humilha, se prepara para a reconciliação. Na noite antes de encontrar o irmão, ele luta com um ser divino no vau de Jaboque. Luta a noite toda. Recusa-se a soltar até ser abençoado. O homem (ou anjo) desloca seu quadril. Jacó mancará para sempre. A bênção vem com uma ferida permanente.
+
+Pela manhã ele encontra Esaú. Em vez de vingança, Esaú corre e o abraça. A graça aparece onde a justiça retributiva seria esperada. Jacó — agora Israel — é transformado pela luta.
+
+A mensagem é clara: o indivíduo moralmente ambíguo pode ter uma experiência direta com o divino. A relação correta não é submissão passiva. É luta. É wrestling com o que é mais alto. É não aceitar respostas fáceis. O nome do povo inteiro vira "aquele que luta com Deus".
+
+E isso é Jacó. O avô de José. O pai das doze tribos. Um homem falho que lutou, sofreu, foi enganado, enganou, e ainda assim foi abençoado porque não desistiu da luta.
+
 ---
 
 **Notas**

@@ -127,23 +127,52 @@ Parece uma ideia metafísica — ou uma ideia mística, até. Mas não é. É re
 
 Ok, então tudo bem. Há alguma utilidade em perseguir aquelas coisas em que você está interessado — esse é o chamado à aventura, digamos. O chamado à aventura o leva a todo tipo de lugares. O problema com o chamado à aventura é, o que diabos você sabe? Você pode estar interessado em coisas que são meio distorcidas e tortas. Frequentemente é o caso de que, quando novas partes das pessoas se manifestam — e agarram seus interesses, digamos — elas fazem isso de forma muito ruim e desleixada. Então você tropeça como um idiota, quando tenta fazer algo novo. É por isso que o tolo é o precursor do salvador, da perspectiva simbólica: você tem que ser um tolo antes de poder ser um mestre, e se você não estiver disposto a ser um tolo, você não pode ser um mestre.
 
-[Continue the full faithful translation of the remaining sections of the EN transcript for L15, covering the betrayal, Potiphar, prison, dreams, rise in Egypt, testing the brothers (Benjamin, silver cup), Judah's speech, revelation, "God meant it for good", wise forgiveness after testing repentance, Jacob's death and blessings inverting tradition, deaths of the patriarchs, and the powerful closing message that character and competence are stronger than any circumstance, with no resentment allowing one to transform hell into salvation for the family and many people.]
+José é traído pelos irmãos. Eles o jogam no poço, depois vendem para mercadores. A túnica ensanguentada é levada para Jacó, que chora inconsolável. José desce ao inferno da traição familiar.
 
-[Full content mirroring the structure and depth of the EN spoken lecture, in natural spoken Brazilian Portuguese, short sentences, oral tone, vocabulary variation, matching the quality of the L08 and L11 rewrites just completed.]
+No Egito, ele é comprado por Potifar, capitão da guarda de Faraó. José é íntegro, competente, e tudo o que toca prospera. Potifar o põe sobre toda a casa. Mas a mulher de Potifar o deseja. José recusa — "como poderia eu fazer esta grande maldade e pecar contra Deus?" — e foge deixando a roupa na mão dela. Ela acusa falsamente. José é jogado na prisão.
+
+Mesmo na prisão, ele brilha. O carcereiro confia nele. Ele interpreta os sonhos do copeiro e do padeiro de Faraó. Dois anos depois, Faraó tem sonhos terríveis: vacas gordas devoradas por magras, espigas boas comidas por ruins. Ninguém consegue explicar. O copeiro lembra de José.
+
+José é tirado da prisão, barbeado, vestido, e posto diante de Faraó. Ele diz: "Não sou eu. Deus dará a Faraó uma resposta de paz." Interpreta: sete anos de fartura seguidos de sete anos de fome. E dá o plano: nomeie um homem sábio, armazene o quinto durante a abundância, salve o Egito e os povos vizinhos.
+
+Faraó reconhece: "Não há ninguém tão discreto e sábio como tu." José, o hebreu estrangeiro, escravo, ex-presidiário, é feito governador de todo o Egito. Ele armazena cereal como areia do mar.
+
+A fome chega. Os irmãos de José descem ao Egito comprar comida. José os reconhece, mas eles não o reconhecem. Ele os trata duramente, acusa de espiões, prende Simeão, exige que tragam Benjamim. Está testando se eles mudaram.
+
+Na segunda viagem, Judá — o mesmo que sugeriu vender José — oferece-se como escravo no lugar de Benjamim. "Deixa teu servo ficar em lugar do moço." Isso é transformação. O irmão que antes sacrificou o caçula agora se oferece por ele.
+
+José não aguenta mais. Chora alto, manda todos saírem, e diz: "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam aterrorizados. Mas José diz: "Não vos entristeçais, nem vos aborreçais de me haverdes vendido para cá; porque para conservação de vida Deus me enviou adiante de vós."
+
+"Vós bem intentastes mal contra mim; porém Deus o intentou para bem, para fazer como hoje se vê, para conservar muita gente com vida."
+
+Isso é o clímax. O mal real dos irmãos é reconhecido, mas a providência o transformou em salvação para muitos. José perdoa de verdade — depois de testar o arrependimento.
+
+A família toda desce para o Egito. José provê terra e alimento. Quando Jacó morre, os irmãos temem que José se vingue. Ele repete: "Deus o intentou para bem."
+
+José morre no Egito, mas faz os irmãos jurarem que levarão seus ossos quando Deus os tirar dali. Ele guarda caráter mesmo no poder. O estrangeiro, o escravo, o preso, governa o Egito e salva seu povo.
+
+A mensagem é brutalmente prática: não importa onde você esteja — poço, prisão, palácio — você pode fazer as coisas melhores. Caráter e competência são mais fortes que qualquer circunstância. E o mal que te fizeram pode ser usado para bem maior, se você se recusar a ser vítima e se recusar ao ressentimento.
+
+E isso é Gênesis. O fim das histórias patriarcais. Da criação ao dilúvio, de Abraão a José. O povo de Israel está no Egito, pronto para o Êxodo. A próxima série começa com Moisés.
 
 
 ## Seção IV
 
-[TIMESTAMP](https://youtu.be/B7V8eZ1BLiI?t=1h14m55s)
+Na segunda viagem, Judá oferece-se como escravo no lugar de Benjamim. Isso é transformação. José chora alto e revela: "Eu sou José, vosso irmão, a quem vendestes."
 
-[Full translation of the testing of the brothers, the silver cup, the speech of Judah offering himself as slave, the revelation "I am Joseph", the theological insight "God meant it for good to save many people alive", the wise conditions for forgiveness, the family reunion in Egypt, Jacob blessing Pharaoh and the inversion of tradition with Ephraim over Manasseh, the blessings on the 12 tribes, deaths of Jacob and Joseph.]
+" Vós bem intentastes mal contra mim; porém Deus o intentou para bem, para conservar muita gente com vida."
 
+O mal é reconhecido, mas transformado em salvação. José perdoa depois de testar o arrependimento.
+
+A família desce para o Egito. José provê. Quando Jacó morre, ele repete a mesma frase. Guarda caráter mesmo no poder. O estrangeiro, o escravo, o preso governa o Egito e salva seu povo.
+
+A mensagem: não importa onde você esteja, você pode fazer as coisas melhores. Caráter e competência são mais fortes que qualquer circunstância. O mal que te fizeram pode virar bem maior se você recusar a ser vítima.
+
+E isso é Gênesis. O povo de Israel está no Egito, pronto para o Êxodo.
 
 ## Seção V
 
-[TIMESTAMP](https://youtu.be/B7V8eZ1BLiI?t=1h32m22s)
-
-[Full translation of the closing: Joseph as type of Christ/precursor, storing up character for famine, the force of character and competence stronger than any circumstance (foreigner, slave, prisoner ruling Egypt), the message that you can make things better wherever you are, no evil so evil that good cannot triumph, the final thanks and "And that's Genesis."]
+Obrigado. Na próxima série continuamos com o Êxodo e as histórias de Moisés.
 
 ---
 
