@@ -107,6 +107,14 @@ Depois, a história continua com a morte de Sara, a compra do campo de Macpela (
 
 O ciclo se fecha. Abraão viveu movimento constante, erro, sacrifício, renovação da aliança e bênção apesar de tudo. Ele não é perfeito. É humano. Mas manteve a orientação.
 
+Uma das coisas que Deus diz pra Abraão, constantemente, conforme a história avança — especialmente toda vez que Abraão faz um sacrifício — Deus diz: "ande comigo, e seja perfeito". A injunção é: mire alto; estabeleça esse relacionamento com a coisa mais alta que você pode conceber. O conceito de Deus é uma encarnação do ideal mais alto da humanidade. Estabelecer um contrato com o mais alto é sua melhor aposta.
+
+Você não tem ideia de quão rica e realizadora sua vida poderia ser, apesar de sua tragédia e limitação, se você parasse de fazer as coisas que você sabe que estão erradas. É um experimento grandioso.
+
+Abraão não é perfeito. Ele mente, ele erra, ele tem falhas. Mas ele mantém a aliança. E por causa disso ele é abençoado e se torna pai de nações. Essa é a boa notícia pra todos nós que não somos perfeitos.
+
+A mensagem é: saia. Vá. Faça algo. Mantenha sua aliança com o Ser. Mesmo quando você erra, mesmo quando as coisas parecem impossíveis, continue avançando com integridade. Algo de valor vai se acumular — e não só pra você. A história inteira da civilização flui dele, e pode fluir de você também.
+
 A lição final das histórias de Abraão é que a vida significativa não é ausência de sofrimento, traição, infertilidade, guerra ou exigências impossíveis. É a disposição de continuar avançando, de continuar fazendo os sacrifícios necessários, de manter o contrato com o que é mais alto — mesmo (especialmente) quando o preço parece insuportável.
 
 Essa é a raiz da civilização ocidental: o indivíduo que luta eticamente com Deus e com o destino, e não desiste.
