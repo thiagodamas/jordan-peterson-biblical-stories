@@ -1,6 +1,6 @@
 # **Biblical Series XIII: Jacob's Ladder**  
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 by Dr. Jordan Peterson
