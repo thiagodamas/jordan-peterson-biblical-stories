@@ -1,6 +1,6 @@
 # **Série Bíblica II: Gênesis 1: Caos e Ordem**
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 por Dr. Jordan Peterson

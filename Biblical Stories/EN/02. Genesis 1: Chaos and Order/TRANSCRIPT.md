@@ -1,6 +1,6 @@
 # **Biblical Series II: Genesis 1: Chaos & Order**  
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 by Dr. Jordan Peterson
