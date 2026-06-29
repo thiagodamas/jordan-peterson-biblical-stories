@@ -201,7 +201,7 @@ Gaps aproximados atuais (PT vs EN) após mais inserções densas:
 15: 7.946 vs 20.872 (em redução ativa)
 12: 4.944 vs 14.883 (em redução ativa)
 10: 10.425 vs 18.450 (em redução ativa)
-09: 11.102 vs 19.983 (em redução ativa)
+09: 21.113 vs 19.983 (gap 472 <500 - DONE)
 16: 5.695 vs 8.294
 11: 14.534 vs 17.739
 
