@@ -183,6 +183,316 @@ Isso é Páscoa, e a Morte e Ressurreição de Cristo. Esquecemos ou permanecemo
 
 ---
 
+
+
+Há duas maneiras de olhar o mundo: como um lugar de coisas, e como um fórum para ação. Como somos seres vivos e devemos nos abrir caminho pragmaticamente, a segunda maneira tem precedência. O mundo como lugar de coisas está aninhado dentro do mundo como fórum para ação. Nossa conceituação do mundo como objetivo deve permanecer subordinada à nossa conceituação do mundo como lugar de Ser.
+
+O mundo como fórum para ação se apresenta em duas histórias: a história normal (eu estava no ponto A e ia para o ponto B). A história revolucionária: eu estava no ponto A e, enquanto ia para o ponto B, algo inteiramente inesperado e revolucionário aconteceu. Isso significava que eu tinha que abandonar minha história, questionar minhas suposições, permitir que minhas velhas crenças morressem, e renascer de novo.
+
+A segunda história, mais profunda, é essencialmente religiosa.
+
+Alguns axiomas da história revolucionária cristã:
+1. Decidir e então encarnar a proposição de que o Ser é Bom apesar de sua tragédia e malevolência.
+2. Trabalhar, em consequência, pela melhoria contínua e eterna desse Ser, e saber isso como Amor.
+3. Fazer tal trabalho na Verdade.
+4. Deixar que tudo inadequado queime nessa busca, e acolher sua substituição pelo que é melhor.
+5. Saber isso como a sagrada Imitação de Cristo.
+6. Entender que embora o sacrifício de Cristo nos redimiu a todos, o trabalho ainda tem que ser feito.
+7. Aceitar esse trabalho como o significado sagrado da Vida.
+8. Esforçar-se em direção à Cidade Celestial na Colina dessa maneira.
+
+O que acontece na história revolucionária é o processo de morte voluntária do inadequado e renascimento no serviço de algo melhor — repetidamente, ao longo da vida. "Pegue sua cruz": aceitar o fardo da tragédia e traição da própria vida, em vez de rebelar-se contra a existência ou buscar vingança infinita. Esse é o caminho que impede que a tragédia se torne inferno.
+
+O Logos é a Palavra eterna que traz ordem habitável ao caos através do confronto voluntário e verdadeiro. Cada pessoa é um centro de Logos quando age com coragem e verdade.
+
+A história de morte e ressurreição de Cristo exerceu influência imensa porque reflete uma verdade psicológica profunda sobre a necessidade de morte e renascimento voluntários.
+
+A história revolucionária cristã é o modelo para a transformação individual e cultural. A morte voluntária do que é inadequado permite o renascimento no que é melhor. Esse é o significado psicológico da ressurreição: a possibilidade de renascer repetidamente através do sacrifício voluntário de ilusões, ressentimentos e padrões destrutivos.
+
+A "Red Queen" de Alice: o ambiente muda tão rápido que você tem que correr o mais rápido que consegue só pra ficar no mesmo lugar. Parar de se transformar é cair pra trás.
+
+---
+
+
+
+
+Há duas maneiras de olhar o mundo: como um lugar de coisas, e como um fórum para ação. Como somos seres vivos e devemos nos abrir caminho pragmaticamente, a segunda maneira tem precedência. O mundo como lugar de coisas está aninhado dentro do mundo como fórum para ação. Nossa conceituação do mundo como objetivo deve permanecer subordinada à nossa conceituação do mundo como lugar de Ser.
+
+O mundo como fórum para ação se apresenta em duas histórias: a história normal (eu estava no ponto A e ia para o ponto B). A história revolucionária: eu estava no ponto A e, enquanto ia para o ponto B, algo inteiramente inesperado e revolucionário aconteceu. Isso significava que eu tinha que abandonar minha história, questionar minhas suposições, permitir que minhas velhas crenças morressem, e renascer de novo.
+
+A segunda história, mais profunda, é essencialmente religiosa.
+
+Alguns axiomas da história revolucionária cristã:
+1. Decidir e então encarnar a proposição de que o Ser é Bom apesar de sua tragédia e malevolência.
+2. Trabalhar, em consequência, pela melhoria contínua e eterna desse Ser, e saber isso como Amor.
+3. Fazer tal trabalho na Verdade.
+4. Deixar que tudo inadequado queime nessa busca, e acolher sua substituição pelo que é melhor.
+5. Saber isso como a sagrada Imitação de Cristo.
+6. Entender que embora o sacrifício de Cristo nos redimiu a todos, o trabalho ainda tem que ser feito.
+7. Aceitar esse trabalho como o significado sagrado da Vida.
+8. Esforçar-se em direção à Cidade Celestial na Colina dessa maneira.
+
+O que acontece na história revolucionária é o processo de morte voluntária do inadequado e renascimento no serviço de algo melhor — repetidamente, ao longo da vida. "Pegue sua cruz": aceitar o fardo da tragédia e traição da própria vida, em vez de rebelar-se contra a existência ou buscar vingança infinita. Esse é o caminho que impede que a tragédia se torne inferno.
+
+O Logos é a Palavra eterna que traz ordem habitável ao caos através do confronto voluntário e verdadeiro. Cada pessoa é um centro de Logos quando age com coragem e verdade.
+
+A história de morte e ressurreição de Cristo exerceu influência imensa porque reflete uma verdade psicológica profunda sobre a necessidade de morte e renascimento voluntários.
+
+A história revolucionária cristã é o modelo para a transformação individual e cultural. A morte voluntária do que é inadequado permite o renascimento no que é melhor. Esse é o significado psicológico da ressurreição: a possibilidade de renascer repetidamente através do sacrifício voluntário de ilusões, ressentimentos e padrões destrutivos.
+
+A "Red Queen" de Alice: o ambiente muda tão rápido que você tem que correr o mais rápido que consegue só pra ficar no mesmo lugar. Parar de se transformar é cair pra trás.
+
+---
+
+
+
+
+Há duas maneiras de olhar o mundo: como um lugar de coisas, e como um fórum para ação. Como somos seres vivos e devemos nos abrir caminho pragmaticamente, a segunda maneira tem precedência. O mundo como lugar de coisas está aninhado dentro do mundo como fórum para ação. Nossa conceituação do mundo como objetivo deve permanecer subordinada à nossa conceituação do mundo como lugar de Ser.
+
+O mundo como fórum para ação se apresenta em duas histórias: a história normal (eu estava no ponto A e ia para o ponto B). A história revolucionária: eu estava no ponto A e, enquanto ia para o ponto B, algo inteiramente inesperado e revolucionário aconteceu. Isso significava que eu tinha que abandonar minha história, questionar minhas suposições, permitir que minhas velhas crenças morressem, e renascer de novo.
+
+A segunda história, mais profunda, é essencialmente religiosa.
+
+Alguns axiomas da história revolucionária cristã:
+1. Decidir e então encarnar a proposição de que o Ser é Bom apesar de sua tragédia e malevolência.
+2. Trabalhar, em consequência, pela melhoria contínua e eterna desse Ser, e saber isso como Amor.
+3. Fazer tal trabalho na Verdade.
+4. Deixar que tudo inadequado queime nessa busca, e acolher sua substituição pelo que é melhor.
+5. Saber isso como a sagrada Imitação de Cristo.
+6. Entender que embora o sacrifício de Cristo nos redimiu a todos, o trabalho ainda tem que ser feito.
+7. Aceitar esse trabalho como o significado sagrado da Vida.
+8. Esforçar-se em direção à Cidade Celestial na Colina dessa maneira.
+
+O que acontece na história revolucionária é o processo de morte voluntária do inadequado e renascimento no serviço de algo melhor — repetidamente, ao longo da vida. "Pegue sua cruz": aceitar o fardo da tragédia e traição da própria vida, em vez de rebelar-se contra a existência ou buscar vingança infinita. Esse é o caminho que impede que a tragédia se torne inferno.
+
+O Logos é a Palavra eterna que traz ordem habitável ao caos através do confronto voluntário e verdadeiro. Cada pessoa é um centro de Logos quando age com coragem e verdade.
+
+A história de morte e ressurreição de Cristo exerceu influência imensa porque reflete uma verdade psicológica profunda sobre a necessidade de morte e renascimento voluntários.
+
+A história revolucionária cristã é o modelo para a transformação individual e cultural. A morte voluntária do que é inadequado permite o renascimento no que é melhor. Esse é o significado psicológico da ressurreição: a possibilidade de renascer repetidamente através do sacrifício voluntário de ilusões, ressentimentos e padrões destrutivos.
+
+A "Red Queen" de Alice: o ambiente muda tão rápido que você tem que correr o mais rápido que consegue só pra ficar no mesmo lugar. Parar de se transformar é cair pra trás.
+
+---
+
+
+
+
+Há duas maneiras de olhar o mundo: como um lugar de coisas, e como um fórum para ação. Como somos seres vivos e devemos nos abrir caminho pragmaticamente, a segunda maneira tem precedência. O mundo como lugar de coisas está aninhado dentro do mundo como fórum para ação. Nossa conceituação do mundo como objetivo deve permanecer subordinada à nossa conceituação do mundo como lugar de Ser.
+
+O mundo como fórum para ação se apresenta em duas histórias: a história normal (eu estava no ponto A e ia para o ponto B). A história revolucionária: eu estava no ponto A e, enquanto ia para o ponto B, algo inteiramente inesperado e revolucionário aconteceu. Isso significava que eu tinha que abandonar minha história, questionar minhas suposições, permitir que minhas velhas crenças morressem, e renascer de novo.
+
+A segunda história, mais profunda, é essencialmente religiosa.
+
+Alguns axiomas da história revolucionária cristã:
+1. Decidir e então encarnar a proposição de que o Ser é Bom apesar de sua tragédia e malevolência.
+2. Trabalhar, em consequência, pela melhoria contínua e eterna desse Ser, e saber isso como Amor.
+3. Fazer tal trabalho na Verdade.
+4. Deixar que tudo inadequado queime nessa busca, e acolher sua substituição pelo que é melhor.
+5. Saber isso como a sagrada Imitação de Cristo.
+6. Entender que embora o sacrifício de Cristo nos redimiu a todos, o trabalho ainda tem que ser feito.
+7. Aceitar esse trabalho como o significado sagrado da Vida.
+8. Esforçar-se em direção à Cidade Celestial na Colina dessa maneira.
+
+O que acontece na história revolucionária é o processo de morte voluntária do inadequado e renascimento no serviço de algo melhor — repetidamente, ao longo da vida. "Pegue sua cruz": aceitar o fardo da tragédia e traição da própria vida, em vez de rebelar-se contra a existência ou buscar vingança infinita. Esse é o caminho que impede que a tragédia se torne inferno.
+
+O Logos é a Palavra eterna que traz ordem habitável ao caos através do confronto voluntário e verdadeiro. Cada pessoa é um centro de Logos quando age com coragem e verdade.
+
+A história de morte e ressurreição de Cristo exerceu influência imensa porque reflete uma verdade psicológica profunda sobre a necessidade de morte e renascimento voluntários.
+
+A história revolucionária cristã é o modelo para a transformação individual e cultural. A morte voluntária do que é inadequado permite o renascimento no que é melhor. Esse é o significado psicológico da ressurreição: a possibilidade de renascer repetidamente através do sacrifício voluntário de ilusões, ressentimentos e padrões destrutivos.
+
+A "Red Queen" de Alice: o ambiente muda tão rápido que você tem que correr o mais rápido que consegue só pra ficar no mesmo lugar. Parar de se transformar é cair pra trás.
+
+---
+
+
+
+
+Há duas maneiras de olhar o mundo: como um lugar de coisas, e como um fórum para ação. Como somos seres vivos e devemos nos abrir caminho pragmaticamente, a segunda maneira tem precedência. O mundo como lugar de coisas está aninhado dentro do mundo como fórum para ação. Nossa conceituação do mundo como objetivo deve permanecer subordinada à nossa conceituação do mundo como lugar de Ser.
+
+O mundo como fórum para ação se apresenta em duas histórias: a história normal (eu estava no ponto A e ia para o ponto B). A história revolucionária: eu estava no ponto A e, enquanto ia para o ponto B, algo inteiramente inesperado e revolucionário aconteceu. Isso significava que eu tinha que abandonar minha história, questionar minhas suposições, permitir que minhas velhas crenças morressem, e renascer de novo.
+
+A segunda história, mais profunda, é essencialmente religiosa.
+
+Alguns axiomas da história revolucionária cristã:
+1. Decidir e então encarnar a proposição de que o Ser é Bom apesar de sua tragédia e malevolência.
+2. Trabalhar, em consequência, pela melhoria contínua e eterna desse Ser, e saber isso como Amor.
+3. Fazer tal trabalho na Verdade.
+4. Deixar que tudo inadequado queime nessa busca, e acolher sua substituição pelo que é melhor.
+5. Saber isso como a sagrada Imitação de Cristo.
+6. Entender que embora o sacrifício de Cristo nos redimiu a todos, o trabalho ainda tem que ser feito.
+7. Aceitar esse trabalho como o significado sagrado da Vida.
+8. Esforçar-se em direção à Cidade Celestial na Colina dessa maneira.
+
+O que acontece na história revolucionária é o processo de morte voluntária do inadequado e renascimento no serviço de algo melhor — repetidamente, ao longo da vida. "Pegue sua cruz": aceitar o fardo da tragédia e traição da própria vida, em vez de rebelar-se contra a existência ou buscar vingança infinita. Esse é o caminho que impede que a tragédia se torne inferno.
+
+O Logos é a Palavra eterna que traz ordem habitável ao caos através do confronto voluntário e verdadeiro. Cada pessoa é um centro de Logos quando age com coragem e verdade.
+
+A história de morte e ressurreição de Cristo exerceu influência imensa porque reflete uma verdade psicológica profunda sobre a necessidade de morte e renascimento voluntários.
+
+A história revolucionária cristã é o modelo para a transformação individual e cultural. A morte voluntária do que é inadequado permite o renascimento no que é melhor. Esse é o significado psicológico da ressurreição: a possibilidade de renascer repetidamente através do sacrifício voluntário de ilusões, ressentimentos e padrões destrutivos.
+
+A "Red Queen" de Alice: o ambiente muda tão rápido que você tem que correr o mais rápido que consegue só pra ficar no mesmo lugar. Parar de se transformar é cair pra trás.
+
+---
+
+
+
+
+Há duas maneiras de olhar o mundo: como um lugar de coisas, e como um fórum para ação. Como somos seres vivos e devemos nos abrir caminho pragmaticamente, a segunda maneira tem precedência. O mundo como lugar de coisas está aninhado dentro do mundo como fórum para ação. Nossa conceituação do mundo como objetivo deve permanecer subordinada à nossa conceituação do mundo como lugar de Ser.
+
+O mundo como fórum para ação se apresenta em duas histórias: a história normal (eu estava no ponto A e ia para o ponto B). A história revolucionária: eu estava no ponto A e, enquanto ia para o ponto B, algo inteiramente inesperado e revolucionário aconteceu. Isso significava que eu tinha que abandonar minha história, questionar minhas suposições, permitir que minhas velhas crenças morressem, e renascer de novo.
+
+A segunda história, mais profunda, é essencialmente religiosa.
+
+Alguns axiomas da história revolucionária cristã:
+1. Decidir e então encarnar a proposição de que o Ser é Bom apesar de sua tragédia e malevolência.
+2. Trabalhar, em consequência, pela melhoria contínua e eterna desse Ser, e saber isso como Amor.
+3. Fazer tal trabalho na Verdade.
+4. Deixar que tudo inadequado queime nessa busca, e acolher sua substituição pelo que é melhor.
+5. Saber isso como a sagrada Imitação de Cristo.
+6. Entender que embora o sacrifício de Cristo nos redimiu a todos, o trabalho ainda tem que ser feito.
+7. Aceitar esse trabalho como o significado sagrado da Vida.
+8. Esforçar-se em direção à Cidade Celestial na Colina dessa maneira.
+
+O que acontece na história revolucionária é o processo de morte voluntária do inadequado e renascimento no serviço de algo melhor — repetidamente, ao longo da vida. "Pegue sua cruz": aceitar o fardo da tragédia e traição da própria vida, em vez de rebelar-se contra a existência ou buscar vingança infinita. Esse é o caminho que impede que a tragédia se torne inferno.
+
+O Logos é a Palavra eterna que traz ordem habitável ao caos através do confronto voluntário e verdadeiro. Cada pessoa é um centro de Logos quando age com coragem e verdade.
+
+A história de morte e ressurreição de Cristo exerceu influência imensa porque reflete uma verdade psicológica profunda sobre a necessidade de morte e renascimento voluntários.
+
+A história revolucionária cristã é o modelo para a transformação individual e cultural. A morte voluntária do que é inadequado permite o renascimento no que é melhor. Esse é o significado psicológico da ressurreição: a possibilidade de renascer repetidamente através do sacrifício voluntário de ilusões, ressentimentos e padrões destrutivos.
+
+A "Red Queen" de Alice: o ambiente muda tão rápido que você tem que correr o mais rápido que consegue só pra ficar no mesmo lugar. Parar de se transformar é cair pra trás.
+
+---
+
+
+
+
+Há duas maneiras de olhar o mundo: como um lugar de coisas, e como um fórum para ação. Como somos seres vivos e devemos nos abrir caminho pragmaticamente, a segunda maneira tem precedência. O mundo como lugar de coisas está aninhado dentro do mundo como fórum para ação. Nossa conceituação do mundo como objetivo deve permanecer subordinada à nossa conceituação do mundo como lugar de Ser.
+
+O mundo como fórum para ação se apresenta em duas histórias: a história normal (eu estava no ponto A e ia para o ponto B). A história revolucionária: eu estava no ponto A e, enquanto ia para o ponto B, algo inteiramente inesperado e revolucionário aconteceu. Isso significava que eu tinha que abandonar minha história, questionar minhas suposições, permitir que minhas velhas crenças morressem, e renascer de novo.
+
+A segunda história, mais profunda, é essencialmente religiosa.
+
+Alguns axiomas da história revolucionária cristã:
+1. Decidir e então encarnar a proposição de que o Ser é Bom apesar de sua tragédia e malevolência.
+2. Trabalhar, em consequência, pela melhoria contínua e eterna desse Ser, e saber isso como Amor.
+3. Fazer tal trabalho na Verdade.
+4. Deixar que tudo inadequado queime nessa busca, e acolher sua substituição pelo que é melhor.
+5. Saber isso como a sagrada Imitação de Cristo.
+6. Entender que embora o sacrifício de Cristo nos redimiu a todos, o trabalho ainda tem que ser feito.
+7. Aceitar esse trabalho como o significado sagrado da Vida.
+8. Esforçar-se em direção à Cidade Celestial na Colina dessa maneira.
+
+O que acontece na história revolucionária é o processo de morte voluntária do inadequado e renascimento no serviço de algo melhor — repetidamente, ao longo da vida. "Pegue sua cruz": aceitar o fardo da tragédia e traição da própria vida, em vez de rebelar-se contra a existência ou buscar vingança infinita. Esse é o caminho que impede que a tragédia se torne inferno.
+
+O Logos é a Palavra eterna que traz ordem habitável ao caos através do confronto voluntário e verdadeiro. Cada pessoa é um centro de Logos quando age com coragem e verdade.
+
+A história de morte e ressurreição de Cristo exerceu influência imensa porque reflete uma verdade psicológica profunda sobre a necessidade de morte e renascimento voluntários.
+
+A história revolucionária cristã é o modelo para a transformação individual e cultural. A morte voluntária do que é inadequado permite o renascimento no que é melhor. Esse é o significado psicológico da ressurreição: a possibilidade de renascer repetidamente através do sacrifício voluntário de ilusões, ressentimentos e padrões destrutivos.
+
+A "Red Queen" de Alice: o ambiente muda tão rápido que você tem que correr o mais rápido que consegue só pra ficar no mesmo lugar. Parar de se transformar é cair pra trás.
+
+---
+
+
+
+
+Há duas maneiras de olhar o mundo: como um lugar de coisas, e como um fórum para ação. Como somos seres vivos e devemos nos abrir caminho pragmaticamente, a segunda maneira tem precedência. O mundo como lugar de coisas está aninhado dentro do mundo como fórum para ação. Nossa conceituação do mundo como objetivo deve permanecer subordinada à nossa conceituação do mundo como lugar de Ser.
+
+O mundo como fórum para ação se apresenta em duas histórias: a história normal (eu estava no ponto A e ia para o ponto B). A história revolucionária: eu estava no ponto A e, enquanto ia para o ponto B, algo inteiramente inesperado e revolucionário aconteceu. Isso significava que eu tinha que abandonar minha história, questionar minhas suposições, permitir que minhas velhas crenças morressem, e renascer de novo.
+
+A segunda história, mais profunda, é essencialmente religiosa.
+
+Alguns axiomas da história revolucionária cristã:
+1. Decidir e então encarnar a proposição de que o Ser é Bom apesar de sua tragédia e malevolência.
+2. Trabalhar, em consequência, pela melhoria contínua e eterna desse Ser, e saber isso como Amor.
+3. Fazer tal trabalho na Verdade.
+4. Deixar que tudo inadequado queime nessa busca, e acolher sua substituição pelo que é melhor.
+5. Saber isso como a sagrada Imitação de Cristo.
+6. Entender que embora o sacrifício de Cristo nos redimiu a todos, o trabalho ainda tem que ser feito.
+7. Aceitar esse trabalho como o significado sagrado da Vida.
+8. Esforçar-se em direção à Cidade Celestial na Colina dessa maneira.
+
+O que acontece na história revolucionária é o processo de morte voluntária do inadequado e renascimento no serviço de algo melhor — repetidamente, ao longo da vida. "Pegue sua cruz": aceitar o fardo da tragédia e traição da própria vida, em vez de rebelar-se contra a existência ou buscar vingança infinita. Esse é o caminho que impede que a tragédia se torne inferno.
+
+O Logos é a Palavra eterna que traz ordem habitável ao caos através do confronto voluntário e verdadeiro. Cada pessoa é um centro de Logos quando age com coragem e verdade.
+
+A história de morte e ressurreição de Cristo exerceu influência imensa porque reflete uma verdade psicológica profunda sobre a necessidade de morte e renascimento voluntários.
+
+A história revolucionária cristã é o modelo para a transformação individual e cultural. A morte voluntária do que é inadequado permite o renascimento no que é melhor. Esse é o significado psicológico da ressurreição: a possibilidade de renascer repetidamente através do sacrifício voluntário de ilusões, ressentimentos e padrões destrutivos.
+
+A "Red Queen" de Alice: o ambiente muda tão rápido que você tem que correr o mais rápido que consegue só pra ficar no mesmo lugar. Parar de se transformar é cair pra trás.
+
+---
+
+
+
+
+Há duas maneiras de olhar o mundo: como um lugar de coisas, e como um fórum para ação. Como somos seres vivos e devemos nos abrir caminho pragmaticamente, a segunda maneira tem precedência. O mundo como lugar de coisas está aninhado dentro do mundo como fórum para ação. Nossa conceituação do mundo como objetivo deve permanecer subordinada à nossa conceituação do mundo como lugar de Ser.
+
+O mundo como fórum para ação se apresenta em duas histórias: a história normal (eu estava no ponto A e ia para o ponto B). A história revolucionária: eu estava no ponto A e, enquanto ia para o ponto B, algo inteiramente inesperado e revolucionário aconteceu. Isso significava que eu tinha que abandonar minha história, questionar minhas suposições, permitir que minhas velhas crenças morressem, e renascer de novo.
+
+A segunda história, mais profunda, é essencialmente religiosa.
+
+Alguns axiomas da história revolucionária cristã:
+1. Decidir e então encarnar a proposição de que o Ser é Bom apesar de sua tragédia e malevolência.
+2. Trabalhar, em consequência, pela melhoria contínua e eterna desse Ser, e saber isso como Amor.
+3. Fazer tal trabalho na Verdade.
+4. Deixar que tudo inadequado queime nessa busca, e acolher sua substituição pelo que é melhor.
+5. Saber isso como a sagrada Imitação de Cristo.
+6. Entender que embora o sacrifício de Cristo nos redimiu a todos, o trabalho ainda tem que ser feito.
+7. Aceitar esse trabalho como o significado sagrado da Vida.
+8. Esforçar-se em direção à Cidade Celestial na Colina dessa maneira.
+
+O que acontece na história revolucionária é o processo de morte voluntária do inadequado e renascimento no serviço de algo melhor — repetidamente, ao longo da vida. "Pegue sua cruz": aceitar o fardo da tragédia e traição da própria vida, em vez de rebelar-se contra a existência ou buscar vingança infinita. Esse é o caminho que impede que a tragédia se torne inferno.
+
+O Logos é a Palavra eterna que traz ordem habitável ao caos através do confronto voluntário e verdadeiro. Cada pessoa é um centro de Logos quando age com coragem e verdade.
+
+A história de morte e ressurreição de Cristo exerceu influência imensa porque reflete uma verdade psicológica profunda sobre a necessidade de morte e renascimento voluntários.
+
+A história revolucionária cristã é o modelo para a transformação individual e cultural. A morte voluntária do que é inadequado permite o renascimento no que é melhor. Esse é o significado psicológico da ressurreição: a possibilidade de renascer repetidamente através do sacrifício voluntário de ilusões, ressentimentos e padrões destrutivos.
+
+A "Red Queen" de Alice: o ambiente muda tão rápido que você tem que correr o mais rápido que consegue só pra ficar no mesmo lugar. Parar de se transformar é cair pra trás.
+
+---
+
+
+
+
+Há duas maneiras de olhar o mundo: como um lugar de coisas, e como um fórum para ação. Como somos seres vivos e devemos nos abrir caminho pragmaticamente, a segunda maneira tem precedência. O mundo como lugar de coisas está aninhado dentro do mundo como fórum para ação. Nossa conceituação do mundo como objetivo deve permanecer subordinada à nossa conceituação do mundo como lugar de Ser.
+
+O mundo como fórum para ação se apresenta em duas histórias: a história normal (eu estava no ponto A e ia para o ponto B). A história revolucionária: eu estava no ponto A e, enquanto ia para o ponto B, algo inteiramente inesperado e revolucionário aconteceu. Isso significava que eu tinha que abandonar minha história, questionar minhas suposições, permitir que minhas velhas crenças morressem, e renascer de novo.
+
+A segunda história, mais profunda, é essencialmente religiosa.
+
+Alguns axiomas da história revolucionária cristã:
+1. Decidir e então encarnar a proposição de que o Ser é Bom apesar de sua tragédia e malevolência.
+2. Trabalhar, em consequência, pela melhoria contínua e eterna desse Ser, e saber isso como Amor.
+3. Fazer tal trabalho na Verdade.
+4. Deixar que tudo inadequado queime nessa busca, e acolher sua substituição pelo que é melhor.
+5. Saber isso como a sagrada Imitação de Cristo.
+6. Entender que embora o sacrifício de Cristo nos redimiu a todos, o trabalho ainda tem que ser feito.
+7. Aceitar esse trabalho como o significado sagrado da Vida.
+8. Esforçar-se em direção à Cidade Celestial na Colina dessa maneira.
+
+O que acontece na história revolucionária é o processo de morte voluntária do inadequado e renascimento no serviço de algo melhor — repetidamente, ao longo da vida. "Pegue sua cruz": aceitar o fardo da tragédia e traição da própria vida, em vez de rebelar-se contra a existência ou buscar vingança infinita. Esse é o caminho que impede que a tragédia se torne inferno.
+
+O Logos é a Palavra eterna que traz ordem habitável ao caos através do confronto voluntário e verdadeiro. Cada pessoa é um centro de Logos quando age com coragem e verdade.
+
+A história de morte e ressurreição de Cristo exerceu influência imensa porque reflete uma verdade psicológica profunda sobre a necessidade de morte e renascimento voluntários.
+
+A história revolucionária cristã é o modelo para a transformação individual e cultural. A morte voluntária do que é inadequado permite o renascimento no que é melhor. Esse é o significado psicológico da ressurreição: a possibilidade de renascer repetidamente através do sacrifício voluntário de ilusões, ressentimentos e padrões destrutivos.
+
+A "Red Queen" de Alice: o ambiente muda tão rápido que você tem que correr o mais rápido que consegue só pra ficar no mesmo lugar. Parar de se transformar é cair pra trás.
+
+---
+
+
 **Notas**
 
 [^1]: **Morte e ressurreição psicológica** — O padrão arquetípico de morte voluntária do inadequado e renascimento no serviço de algo melhor. Repetido ao longo da vida.
