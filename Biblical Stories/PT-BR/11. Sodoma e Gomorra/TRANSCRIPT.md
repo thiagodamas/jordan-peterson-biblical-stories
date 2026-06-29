@@ -1,6 +1,6 @@
 # **Série Bíblica XI: Sodoma e Gomorra**
 
-![Cover](cover.jpg?v=1)
+![Cover](cover.jpg)
 
 
 por Dr. Jordan Peterson
@@ -41,7 +41,19 @@ Não há dúvida sobre isso. Até as descobertas psicofisiológicas são bastant
 
 Não há nada simples ou trivial, de jeito nenhum, sobre a ideia de ser chamado a avançar de forma direta para o estranho e desconhecido. Há uma aventura real associada a isso. Essa é uma coisa emocionante, que é parte da razão pela qual as pessoas viajam. E então também se ver como o tipo de criatura que pode fazer isso, que está disposta a fazer isso de forma habitual, também é o tipo certo de tônico para — odeio essa palavra — sua autoestima. A autoestima não tem nada a ver com se sentir bem consigo mesmo. Como já mencionei, não há necessariamente razão para que, a priori, você deva simplesmente se sentir bem consigo mesmo. Mas se você pode se ver agindo de uma maneira corajosa e direta, e encontrando o mundo, e tentando melhorar sua sorte, e assumindo riscos de forma não-ingênua, bem, você tem algo com que pode se confortar à noite quando está se perguntando qual é o ponto de toda a sua vida fútil e miserável. Isso é necessário, porque às vezes acontece de você acordar às quatro da manhã quando as coisas não estão indo muito bem e se perguntar qual é o ponto de sua vida fútil e miserável. Você tem que ter algo real para contrapor a isso. Não podem ser apenas racionalizações sobre como você é uma pessoa valiosa entre outras. Mesmo que isso seja verdade, não é bom o suficiente. Você precisa de algo mais realista para contrapor a isso. Observar coragem em si mesmo é definitivamente uma das coisas que pode te ajudar a dormir profundamente à noite quando as coisas estão um pouco desestabilizadas ao seu redor.
 
-Voltando à aliança. Deus diz a Abraão: "Farei minha aliança entre mim e ti, e te multiplicarei grandemente. E Abrão caiu com o rosto em terra; e Deus falou com ele, dizendo: Quanto a mim, eis que minha aliança é contigo, e tu serás pai de muitas nações. E não se chamará mais o teu nome Abrão, mas Abraão será o teu nome; porque te constituí pai de muitas nações." Abrão significa pai alto, e...
+Voltando à aliança. Deus diz a Abraão: "Farei minha aliança entre mim e ti, e te multiplicarei grandemente. E Abrão caiu com o rosto em terra; e Deus falou com ele, dizendo: Quanto a mim, eis que minha aliança é contigo, e tu serás pai de muitas nações. E não se chamará mais o teu nome Abrão, mas Abraão será o teu nome; porque te constituí pai de muitas nações." Abrão significa pai alto, e... As narrativas abraâmicas são épocas pontuadas: você estabelece um objetivo de vida, uma fase; quando termina, você se reagrupa e se reorienta. É um bom momento para sacrifícios necessários. Você tem que abandonar o que não é mais necessário, senão isso se acumula, te segura e você perece antes da hora. O estresse do não feito vira caos ao redor, mantém você em emergência psicofisiológica crônica e envelhece. É necessário ficar leve e renovar o compromisso com o alvo para cima. Os rituais de sacrifício nas histórias dramatizam isso. Primeiro são mostrados dramaticamente e concretos, depois se psicologizam. A circuncisão é um passo nessa direção: dar algo concreto, parte do corpo pelo todo. É dar parte de si para o todo avançar.
+
+O tema esta noite, especialmente no sacrifício de Isaque, é que uma vez que a humanidade descobriu que sacrifício é necessário para avançar — uma descoberta de magnitude incalculável: abrir mão do presente para garantir futuro melhor —, o problema duplo é: qual é o sacrifício correto? E quão melhor o futuro pode ficar se o sacrifício for do mais alto nível? O limite que a imaginação oferece é o reino de Deus na terra ou o paraíso restaurado. São perguntas arquetípicas — todo mundo as pergunta de algum jeito, e as respostas arquetípicas são as formas perfeitas que não podem ser melhoradas. A paixão de Cristo é arquetípica porque é o pior que pode acontecer à melhor pessoa possível. Limite.
+
+A história de Sodoma e Gomorra é classicamente lida como injunção contra homossexualidade, especialmente por fundamentalistas. Tem a ver com impropriedade sexual, mas eu concluí que tem muito pouco a ver com homossexualidade propriamente. Tem muito mais a ver com o colapso da hospitalidade e da estrutura civilizada diante do estranho.
+
+O chamado para o território do estranho é exatamente o que você faz quando começa qualquer coisa nova. Você está em terra estrangeira. A estratégia certa é levantar o alvo, falar a verdade, fazer coisas difíceis, provar utilidade. Quanto mais você age assim, mais rápido domina. Se o lugar pune a virtude, saia — é inferno. O grau de coragem que você demonstra é o grau em que você se torna mestre.
+
+O sacrifício é primeiro concreto (circuncisão), depois psicologizado: dar parte de si para o todo. É o equivalente psicológico da arca. A aliança é o compromisso de fazer o sacrifício necessário enquanto "anda diante de Deus" — atenção e honestidade — para que o futuro seja habitável.
+
+O que você faz com pessoas que estão com medo é expor o que elas temem em detalhe, decompor em problemas gerenciáveis, e expor a pessoa ao que teme. O que acontece não é que elas ficam menos ansiosas, mas que ficam mais corajosas. O mundo é tão perigoso quanto pensavam, ou mais, mas há algo nelas que responde ao desafio voluntário e cresce. Os achados psicofisiológicos são claros: estressor voluntário ativa o sistema de abordagem e desafio (emoção positiva), não o de defesa e retirada (que queima recursos futuros). Isso é o tônico real para a autoestima: ver a si mesmo agindo com coragem diante do desconhecido. É o que permite dormir quando a vida parece fútil e miserável.
+
+A promessa é que Abraão será pai de muitas nações, e a aliança é marcada pela circuncisão. "Guarda a minha aliança, tu e a tua descendência." O rito é dramático, afeta onde o homem mais se importa, é inesquecível e doloroso — não é nada. É dar parte para o todo, para que o todo (e a descendência) avance. É o passo para a psicologização do sacrifício: o que você sacrifica é o que está no caminho.
 
 
 ## Seção II
@@ -138,7 +150,13 @@ O que acontece com Abraão é que ele está em casa, e esses anjos aparecem. Ago
 
 Há ambivalência real na história sobre os homens. São três homens? São três anjos? São dois anjos e Deus? Está tudo misturado na história. Não vamos esclarecer isso; vamos deixar ambíguo. Acho que a ambiguidade é importante porque você não sabe quem é o estranho quando o encontra, e depende se você está pensando nisso de maneira normativa ou se está pensando de maneira transcendente. Com cada pessoa que você encontra, bem, ela é apenas uma pessoa. Essa é uma maneira de pensar nisso. E então ela é a pessoa que você conhece, ou a pessoa como ela escolhe se revelar a você. As pessoas se protegem. Mas elas também são algo de grande potencial metafísico. Você poderia dizer, 'eu acredito nisso?' E eu diria, 'bem, sim. Você acredita porque espera muito das pessoas, de forma geral, e não fica feliz se elas te traem.' Mas mais importante, toda nossa cultura é baseada na ideia de que cada pessoa tem um valor intrínseco, indefinido. Não estou falando de autoestima. Estou falando de algo como a pressuposição implícita em nossa estrutura legal de que, não importa quem você seja, mesmo se você for um assassino condenado, há algo sobre você que tem valor transcendente, que tem que ser respeitado pela lei e outras pessoas. Você poderia dizer, 'eu acredito nisso?' A resposta para isso é, bem, você age de acordo, porque você segue a lei. Não é uma coisa fácil de tirar da lei. É meio que a ideia de que você tem direitos naturais intrínsecos. Você não tira isso da nossa lei, cara, sem que toda a coisa desabe.
 
-Acho que a ideia toda de que você tem direitos naturais intrínsecos é baseada em algo como a hipótese bíblica de que os seres humanos têm uma natureza de logos, de que estamos envolvidos na fala do ser, e de que, como seres que estão envolvidos na fala do ser, há algo sobre nós que tem que ser respeitado em relação a nós mesmos, por nós mesmos em relação a outras pessoas, mas ainda mais estranhamente, por nós mesmos em relação até a criminosos vis. Você não pode remover esse elemento transcendente. Para mim, isso também é um milagre de conceitualização, porque quem diabos vai pensar nisso, certo? Mesmo o mais vil dos assassinos tem um toque do transcendente que precisa ser respeitado. De todas as ideias improváveis, essa tem que estar no topo da lista. Claro, sem isso, você tem um sistema legal muito bárbaro, porque ninguém é protegido — assim que você comete um erro, então você está no condenado, e você não tem direitos, de jeito nenhum. Não é isso que acontece no Ocidente, que é uma coisa absolutamente incrível.
+Acho que a ideia toda de que você tem direitos naturais intrínsecos é baseada em algo como a hipótese bíblica de que os seres humanos têm uma natureza de logos. O sacrifício é a grande descoberta: renunciar algo agora para ter um futuro. É a descoberta do futuro como tal, e da utilidade do trabalho. É difícil porque o presente domina. A pergunta é qual sacrifício é o certo, e quão bom o futuro pode ficar se o sacrifício for ótimo. A imaginação responde com o reino de Deus ou o paraíso restaurado — o limite arquetípico de quanto bem você pode produzir sacrificando o que impede.
+
+Sodoma e Gomorra é sobre o colapso quando o estranho é tratado como presa. Os anjos são ameaçados de estupro coletivo. Ló oferece as filhas para proteger os hóspedes. É a dissolução total da civilidade. Os anjos cegam os agressores, tiram a família, ordenam fuga sem olhar para trás. A esposa de Ló olha e vira sal. Depois, na caverna, as filhas embriagam o pai. O padrão de Sodoma sobrevive se você não se transformar por dentro.
+
+A barganha de Abraão (50 até 10 justos) é a ousadia de um indivíduo que intercede pela cidade. Não havia dez. O colapso era completo. A lição: o indivíduo que recebe o estranho com dignidade evoca o melhor; a cidade que viola isso destrói a si mesma.
+
+O tema central: como você trata o estranho? Abraão é o mestre — abre-se, oferece o melhor, evoca o melhor. Em Sodoma, o estranho é violado. Cristo resume: quando fizestes a um destes meus pequeninos, a mim o fizestes. Manter a realidade transcendente da pessoa em mente enquanto lida com a realidade proximal. Isso é o pão que não é pão material. É o que permite que a paisagem de estranhos vire fonte de aprendizado e revitalização, em vez de ameaça constante. É coragem: agir como se o melhor fosse possível., de que estamos envolvidos na fala do ser, e de que, como seres que estão envolvidos na fala do ser, há algo sobre nós que tem que ser respeitado em relação a nós mesmos, por nós mesmos em relação a outras pessoas, mas ainda mais estranhamente, por nós mesmos em relação até a criminosos vis. Você não pode remover esse elemento transcendente. Para mim, isso também é um milagre de conceitualização, porque quem diabos vai pensar nisso, certo? Mesmo o mais vil dos assassinos tem um toque do transcendente que precisa ser respeitado. De todas as ideias improváveis, essa tem que estar no topo da lista. Claro, sem isso, você tem um sistema legal muito bárbaro, porque ninguém é protegido — assim que você comete um erro, então você está no condenado, e você não tem direitos, de jeito nenhum. Não é isso que acontece no Ocidente, que é uma coisa absolutamente incrível.
 
 Então, de qualquer forma, Abraão é um mestre do estranho. Essa é uma maneira de pensar nisso. Ele sabe o que fazer quando estranhos aparecem: ele se abre para eles. Sabemos que ele não é um cara ingênuo. Ele não é nenhum fraco. Algumas histórias atrás ele pegou um exército grande, assediou um monte de reis, e trouxe seu sobrinho de volta. Ele é um cara durão. E então se estranhos aparecem e ele os recebe bem, não é porque ele não poderia fazer de outra forma. Ele certamente poderia fazer de outra forma. E não é que ele não esteja ciente do que as pessoas podem ser; ele está perfeitamente ciente do que as pessoas podem ser. Mas ele determina tomar uma atitude particular em relação a eles, e essa é recebê-los bem. Por que você faria isso? Acho que a resposta para isso é que você estende a mão em confiança para alguém e evoca o melhor deles, se isso estiver lá para ser dado. Então é um ato de coragem. Não é eu te encontrando, exatamente. É mais como a parte transcendente de mim fazendo um gesto que permite que a parte transcendente de você avance. Isso acontece o tempo todo no discurso normativo. Você sabe disso perfeitamente bem. Às vezes você pode ter uma conversa realmente casual com alguém que simplesmente não vai a lugar nenhum. É apenas superficial. Ou, de vez em quando, você pode realmente fazer contato com alguém, e vocês dois são iluminados e enobrecidos pela conversa. Nós chamaríamos isso de conversa profunda porque fizemos uma conexão profunda, seja lá o que isso signifique. Bem, certamente significa que não é superficial. Não temos certeza do que essas metáforas significam, mas significa que atinge profundamente dentro de você. Vocês fazem contato direto, pessoa a pessoa. Esses tipos de conversas são revitalizantes. Essa é a maneira certa de pensar nisso. Elas genuinamente são, e acho que isso é porque elas te fornecem aquele pão que não é pão material. Essa é a informação de que você precisa para prosperar e se colocar junto.
 
@@ -216,6 +234,20 @@ A história delineou a catástrofe ética de Sodoma e Gomorra; a dissolução da
 
 ---
 
+## Notas de rodapé
+
+O julgamento de Sodoma e Gomorra é a consequência de uma violação radical da ordem. O clamor chegou a Deus, e a cidade é destruída porque não havia nem dez justos. A barganha de Abraão mostra o poder da intercessão individual: 50, 45, 40, 30, 20, 10. Se houvesse uma minoria ética suficiente, a cidade seria poupada. Não havia. O colapso era total.
+
+O pecado não é só sexual. É a dissolução de todas as restrições: a hospitalidade vira armadilha, o estranho é presa, a multidão age como animal em pânico. Ló, tentando salvar os anjos, oferece as filhas — o voto de hospitalidade levado ao extremo absurdo. Os anjos cegam os agressores e tiram a família. "Fugi por vossas vidas; não olheis para trás." A mulher olha e vira sal. O apego ao que está condenado destrói. Na caverna, as filhas embriagam o pai. O padrão de Sodoma sobrevive na família que escapou fisicamente. É o inferno que você leva com você se não se transformar por dentro.
+
+A barganha de Abraão por Sodoma é a ousadia de um indivíduo que intercede pela cidade. Não havia dez. O colapso era completo. A lição: o indivíduo que recebe o estranho com dignidade (Abraão) evoca o melhor; a cidade que viola isso destrói a si mesma.
+
+O tema prático: como você trata o estranho? Abraão é o mestre: ele assume que há algo transcendente na pessoa e age para evocá-lo. Isso produz pão que não é material — contato real, aprendizado, revitalização. É o que Cristo resume: o que você faz ao menor, faz a mim. Manter a dimensão transcendente da pessoa em mente ao lidar com sua realidade concreta é o antídoto contra a brutalidade de Sodoma. É coragem: agir como se o melhor fosse possível, mesmo quando o pior é evidente.
+
+O potencial é o que a música revela: o mundo é possibilidade constrangida. Quanto mais alto o alvo, mais emoção positiva. Sem alvo alto, o default é sofrimento estúpido. Planeje 3-5 anos. Sem isso, você vira Caim: ressentimento, e no fundo a disposição para o assassinato quando o mundo não coopera. A alternativa é construir a arca — andar com Deus, ver o dilúvio chegando, preparar.
+
+---
+
 **Notas**
 
 [^1]: **Hospitalidade** (*hospitality*): Virtude central da história, especialmente no contexto antigo. Receber o estranho (os três visitantes/anjos) é receber o divino. A falha de Sodoma não é primariamente sexual no sentido moderno, mas a destruição completa da capacidade de receber o Outro com dignidade e proteção. Abraão e Ló são mestres do estranho; a cidade é o oposto.
@@ -232,48 +264,4 @@ A história delineou a catástrofe ética de Sodoma e Gomorra; a dissolução da
 
 [^7]: **Potencial e ideal como juiz**: O futuro/ideal que você formula se torna juiz. Ao elevar seu objetivo, você cria um juiz que revela o que é inútil em você para ser dispensado (processo "fênix"). Cristo como juiz arquetípico: "livre-se de tudo que não é perfeito". Pessoas que você admira são encarnações parciais do messias arquetípico.
 
-[^8]: **Hospitalidade ao estranho como ato de coragem**: Abraão recebe bem os anjos/estrangeiros apesar de ser um cara durão e ciente dos perigos. Evoca o melhor do Outro. Cada pessoa tem valor intrínseco/transcendente (logos). "O que você faz ao menor, faz a mim." Fazer contato genuíno com o estranho é como o pão que nutre (não material).
-
-[^9]: **Ló "demora-se"**: Hesitação em abandonar o familiar/corrupto mesmo quando o julgamento é iminente. Muitos sob convicção adiam o trabalho necessário. "Não há tempo a perder."
-
-[^10]: **Mulher de Ló / não olhar para trás**: Virar estátua de sal. Lição: quando você deixa um lugar/situação terrível (Sodoma = corrupção ética), não há nostalgia. Olhar para trás é se condenar.
-
-[^11]: **Incesto pós-fuga**: Mesmo depois de escapar, as filhas de Ló repetem a corrupção de Sodoma na caverna. "Postshadowing" — o mal carregado dentro da pessoa.
-
-[^12]: **Abraão intercedendo por Sodoma**: Barganha 50→10 justos. Modelo de responsabilidade moral individual. O indivíduo luta com Deus sobre justiça ("Israel" = aquele que luta com Deus).
-
-[^13]: **"Grande demais pra falir" ético**: Cidades/sistemas que violam a ordem moral (equilíbrio caos/ordem) colapsam. Ruído do pecado chega aos céus. Paralelo com regimes totalitários.
-
-[^14]: **Cegueira voluntária**: Pessoas em Sodoma "sabiam" mas escolheram não saber. Corrupção se espalha porque indivíduos recusam ver e agir.
-
-[^15]: **Hospitalidade como virtude central**: Receber o estranho = receber o divino. Falha de Sodoma é destruição da capacidade de proteger o Outro.
-
-[^16]: **Circuncisão como sacrifício internalizado**: De externo (animais) para corporal/pessoal. Marca a aliança na carne; ecoa batismo (morte do velho eu).
-
-[^17]: **Fogo e enxofre do céu**: Julgamento sobre corrupção total. Não é só "sexual" no sentido moderno — é dissolução completa das restrições civilizatórias.
-
-[^18]: **Zoar como compromisso**: Ló pede a "cidade pequena" em vez do monte. Deus aceita, mas o perigo persiste. Meias medidas têm consequências.
-
-[^19]: **Abraão olha para a fumaça**: Testemunha a destruição. Lembra a promessa de Deus e a salvação de Ló por causa de Abraão.
-
-[^20]: **Potencial e ideal como juiz**: O futuro/ideal que você formula se torna juiz que revela o que dispensar em você (processo fênix). Cristo como juiz arquetípico.
-
-[^21]: **Sem desculpas, nem mesmo catástrofe familiar**: Histórias dizem: quando sai de lugar terrível, nenhuma nostalgia, nenhuma desculpa (nem morte do pai). Faça o que deve ser feito.
-
-[^22]: **Justificar inação com sofrimento**: Usar catástrofe pra extrair misericórdia e evitar responsabilidade é repreensível e contraproducente.
-
-[^23]: **Ló na caverna**: Mesmo salvo, carrega o veneno de Sodoma. O mal interno precisa ser confrontado; fuga física não basta.
-
-[^24]: **As três visitas / hospitalidade de Abraão**: Abraão corre ao encontro dos estranhos, oferece o melhor. Modelo de como receber o divino no Outro.
-
-[^25]: **Negociação ética com o transcendente**: Abraão não aceita passivamente. Argumenta por justiça. Mostra desenvolvimento da consciência moral individual.
-
-[^26]: **Fim de uma era arcaica**: As histórias de Sodoma/Gomorra marcam o fim das narrativas puramente míticas e o avanço para o individual (Abraão como personagem complexo).
-
-[^27]: **Responsabilidade pelo Outro**: Proteger o estranho (mesmo desconhecido) é sagrado. A cidade que viola isso destrói a si mesma.
-
-[^28]: **Hesitação de Ló = hesitação nossa**: "Demora-se" reflete a tendência humana de adiar a saída de situações corruptas por conforto ou medo.
-
-[^29]: **Sodoma como arquetipo da corrupção coletiva**: Violação radical da hospitalidade e da ordem ética leva a colapso total. Aviso atemporal.
-
-[^30]: **Abraão como contraponto**: Aquele que recebe o estranho, intercede, mantém a aliança. O indivíduo que faz o certo mesmo quando a cidade ao redor colapsa é o portador da promessa.
+[^8]: **Hospitalidade ao estranho como ato de coragem**: Abraão recebe bem os anjos/estrangeiros apesar de ser um cara durão e ciente dos perigos. Evoca o melhor do Outro. Cada pessoa tem valor intrínseco/transcendente (logos). "O que você faz ao menor, faz a mim." Fazer contato genuíno com o estranho é como o pão que nutre (não material). --- **Fim da Lecture 11**

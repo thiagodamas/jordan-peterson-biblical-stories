@@ -1,6 +1,6 @@
 # **Biblical Series XI: Sodom and Gomorrah**  
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 by Dr. Jordan Peterson

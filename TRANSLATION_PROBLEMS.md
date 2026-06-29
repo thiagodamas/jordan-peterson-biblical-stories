@@ -1,6 +1,6 @@
 # Relatório de Problemas na Tradução PT-BR
 
-**Data do relatório**: 29 de junho de 2026 (redução de gaps iniciada pelas piores: 13, 15, 12, 10, 09 — inserções densas de spoken em andamento)  
+**Data do relatório**: 29 de junho de 2026 (processamento individual 01-16 em ordem; só avança da palestra corrente quando gap <500 palavras; estrutura limpa + covers ?v=1; otimização de tokens via seções limitadas e inserts targeted) 
 **Método**: Análise automática via comparação de seções, contagem de palavras e timestamps (sem geração de texto por IA).
 
 ## Resumo Executivo
