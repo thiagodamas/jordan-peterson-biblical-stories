@@ -1,6 +1,6 @@
 # **Biblical Series XII: The Great Sacrifice: Abraham and Isaac**  
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 by Dr. Jordan Peterson
