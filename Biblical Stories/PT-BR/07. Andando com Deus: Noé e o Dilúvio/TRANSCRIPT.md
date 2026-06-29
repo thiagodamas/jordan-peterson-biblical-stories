@@ -1,6 +1,6 @@
 # **Série Bíblica VII: Andando com Deus: Noé e o Dilúvio**
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 por Dr. Jordan Peterson

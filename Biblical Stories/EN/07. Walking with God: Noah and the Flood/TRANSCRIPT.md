@@ -1,6 +1,6 @@
 # **Biblical Series VII: Walking with God: Noah and the Flood**  
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 by Dr. Jordan Peterson
