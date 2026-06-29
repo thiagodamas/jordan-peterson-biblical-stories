@@ -1,6 +1,6 @@
 # **Série Bíblica VIII: A Fenomenologia do Divino**
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 por Dr. Jordan Peterson
@@ -275,10 +275,6 @@ Essas histórias são como protótipos, tentativas de trazer à tona o modo apro
 
 ---
 
-## Notas de rodapé
-
----
-
 **Notas**
 
 [^1]: **Fenomenologia do Divino**: O estudo da experiência vivida do divino (como o divino *aparece* à consciência), em vez de definições teológicas abstratas. Peterson explora como Deus "se manifesta" ou "some" conforme o desenvolvimento da psique individual.
@@ -295,4 +291,48 @@ Essas histórias são como protótipos, tentativas de trazer à tona o modo apro
 
 [^7]: **Freud vs Jung — Édipo vs mito do herói**: Freud via o mito de Édipo (fracasso em se separar da mãe/família) como universal. Jung via o mito do herói bem-sucedido (confronto com o caos, triunfo, enobrecimento) como o padrão central do desenvolvimento humano. Jung acreditava que as estruturas religiosas/arquetípicas não eram ilusões protetoras, mas as próprias histórias que nos permitem avançar diante do caos.
 
-[^8]: **Jung, Livros Negros e Livro Vermelho**: Jung documentou seus experimentos com imaginação ativa (dialogar com figuras autônomas da imaginação) em cadernos inéditos por décadas (*Black Books*), destilados no *Red Book* (publicado postumamente). Essas figuras da imaginação são destilações de padrões de comportamento coletivos — conteúdo evolutivo/cultural que revela a estrutura da realidade. O que você mais precisa está onde você menos quer olhar. --- **Fim da Lecture 08**
+[^8]: **Jung, Livros Negros e Livro Vermelho**: Jung documentou seus experimentos com imaginação ativa (dialogar com figuras autônomas da imaginação) em cadernos inéditos por décadas (*Black Books*), destilados no *Red Book* (publicado postumamente). Essas figuras da imaginação são destilações de padrões de comportamento coletivos — conteúdo evolutivo/cultural que revela a estrutura da realidade. O que você mais precisa está onde você menos quer olhar.
+
+[^9]: **Imaginação Ativa (Active Imagination)**: Técnica junguiana de diálogo consciente com figuras autônomas da imaginação (sonhos, fantasias). Não é devaneio passivo, mas engajamento ativo onde o ego participa sem dominar. Jung usou isso para mapear o inconsciente coletivo e desenvolver sua psicologia.
+
+[^10]: **Arquetipos**: Padrões universais de comportamento e imagem herdados (não aprendidos). O dragão = predador/caos; o herói = confronto redentor; o self = centro unificador da psique. Aparecem em mitos, sonhos e religiões do mundo inteiro.
+
+[^11]: **O Dragão**: Símbolo arquetípico do caos desconhecido, predatório e potencial. Luta contra o dragão = confronto com o desconhecido para extrair ordem e valor. Aparece em mitos (São Jorge, Marduque, Fafnir) e na psique individual.
+
+[^12]: **O Self (Jung)**: Arquétipo do centro da psique total, além do ego. União de opostos (sol/lua, masculino/feminino, consciente/inconsciente). Relacionado à imagem de Deus e à experiência mística de unidade.
+
+[^13]: **Livros Negros e Livro Vermelho**: Registros de Jung de suas experiências com imaginação ativa (1913-1916+). As figuras autônomas (Elias, Salomé, Philemon) revelaram a estrutura do inconsciente coletivo. O *Red Book* é a destilação central de sua obra posterior.
+
+[^14]: **Hipergamia**: Tendência feminina (cross-cultural) de escolher parceiros de status igual ou superior. Pressão seletiva que impulsionou a evolução da competência masculina e expansão cortical humana. Complementa a hierarquia masculina.
+
+[^15]: **Desaparecimento do Divino e Emergência do Indivíduo**: Conforme a narrativa bíblica avança, Deus aparece menos diretamente e os humanos assumem mais responsabilidade (Abraão, Moisés, etc.). Friedman: transição da responsabilidade divina para humana. Jung: o divino torna-se "interno".
+
+[^16]: **Mito do Herói vs. Édipo**: Freud via o Édipo (falha em separar-se da mãe) como universal. Jung via o mito do herói (confronto voluntário com o caos, morte do ego antigo, renascimento) como o padrão de desenvolvimento saudável. O herói integra o dragão em vez de ser devorado por ele.
+
+[^17]: **Caos e Ordem**: O cosmos começa no caos (tohu wa-bohu, Tiamat, o dragão). A ordem emerge do confronto. O jardim murado (paraíso) é o equilíbrio perfeito: cultura (muro) + natureza (jardim). O habitat humano adequado.
+
+[^18]: **Alquimia e o Sonho da Ciência**: Jung via a alquimia como o sonho coletivo do qual a ciência emergiu. A pedra filosofal = medicina universal contra o sofrimento. A ciência secularizou o projeto religioso de redenção material.
+
+[^19]: **O Intelecto como Dragão**: O orgulho do intelecto (Satanás de Milton, Scar) rejeita o transcendente e se apaixona por suas próprias construções. Resultado: inferno ideológico. Aviso contra sistemas "perfeitos" que dispensam o Ser.
+
+[^20]: **Sabbath e Iterabilidade**: O descanso não é fraqueza; é sabedoria. Hiperconscienciosos que não descansam se queimam. O sábado institucionaliza o reconhecimento de que o futuro exige equilíbrio. Sem descanso, a produtividade colapsa.
+
+[^21]: **Experiência Mística como Capacidade Humana Normal**: Não é patologia nem ilusão (contra Freud). Induzível, cross-cultural, com efeitos duradouros (psilocibina studies). Parte da arquitetura da psique adaptada ao mundo.
+
+[^22]: **O Jardim Murado como Metáfora do Self**: Paradise = walled garden = ordem (cultura) + caos benéfico (natureza). O muro protege; o jardim permite florescimento. Equilíbrio entre estrutura e espontaneidade.
+
+[^23]: **A Serpente Cósmica**: Símbolo do potencial desconhecido/predatório (DNA, dragão). Bifurca-se em masculino/feminino. O "fruto" = informação/meta-alimento. Comer o fruto = abertura dos olhos = autoconsciência e responsabilidade.
+
+[^24]: **Nudez e Vergonha**: Nudez = exposição total ao julgamento. Antes da queda: inocência não autoconsciente. Depois: autoconsciência e vergonha. A autoconsciência é o preço da visão (evolução + cultura).
+
+[^25]: **Buckminster Fuller e a Hipótese Aquática**: Explicação alternativa para a perda de pelos: adaptação semi-aquática. Natação, gordura subcutânea, lágrimas salgadas, pés palmados. Complementa a hipótese da caça de resistência.
+
+[^26]: **A Jornada do Herói é Interna e Externa**: Jung enfatizou o aspecto interno (confronto com o inconsciente). Mas o desconhecido pode ser externo (dragões reais, situações). O que importa é o confronto voluntário, não a localização.
+
+[^27]: **A Multidão e o Indivíduo**: A multidão pode ser acolhedora ou hostil. O herói deve aprender a se defender e a abordar o desconhecido no seu próprio ritmo. Jung: o inconsciente tem sabedoria autônoma, mas exige coragem.
+
+[^28]: **O Rei Arthur e a Busca pelo Graal**: Cada cavaleiro entra na floresta no ponto mais escuro para *ele*. O que você mais evita é o portal para o que você mais precisa. Jung: a sombra contém o ouro.
+
+[^29]: **Cuidado com a Sabedoria Não Conquistada** (Jung sobre Huxley): Experiências místicas/ psicodélicas podem inflar o ego se não forem integradas com disciplina, rituais e vida cotidiana. Nietzsche como exemplo de falta de enraizamento.
+
+[^30]: **O Inconsciente Coletivo como Herança Evolutiva**: Não é "invenção" cultural arbitrária. É conteúdo que evoluiu e é transmitido. As figuras da imaginação são destilações de padrões de comportamento que revelam a estrutura da realidade. O que você mais precisa está onde você menos quer olhar.

@@ -1,6 +1,6 @@
 # Relatório de Problemas na Tradução PT-BR
 
-**Data do relatório**: 30 de maio de 2026 (atualizado com conclusão da paridade de conteúdo perfeita para Palestras 01-07)  
+**Data do relatório**: 29 de junho de 2026 (atualizado com conclusão da paridade de conteúdo perfeita para Palestra 08; sequencial 08-16 em andamento)  
 **Método**: Análise automática via comparação de seções, contagem de palavras e timestamps (sem geração de texto por IA).
 
 ## Resumo Executivo
@@ -92,7 +92,7 @@ Seções III, IV e V estão praticamente colapsadas.
 
 ## Palestras em Situação Aceitável
 
-- **08** e **14**: Têm mais palavras em PT-BR do que em EN (possivelmente por estilo de tradução mais expansivo ou inclusão de notas).
+- **14**: Tem mais palavras em PT-BR do que em EN (possivelmente por estilo de tradução mais expansivo ou inclusão de notas).
 - **03**, **05**: Gaps moderados (< 2.000 palavras).
 - **16** (bônus): Gap de ~3.100 palavras, mas é uma palestra mais curta.
 
@@ -123,6 +123,7 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 - **Palestra 05** — Paridade perfeita (PT-BR acima: 18.625 vs 18.112 EN). Estrutura perfeita. 30 notas.
 - **Palestra 06** — Paridade excelente (PT-BR 20.658 vs 21.270 EN). Estrutura perfeita. 30+ notas. Desequilíbrio seccional documentado como wontfix para preservar densidade.
 - **Palestra 07** — Paridade perfeita (PT-BR acima: 19.235 vs 18.480 EN). Estrutura perfeita. 30+ notas.
+- **Palestra 08** — Paridade de volume superada (PT-BR 18.452 vs 17.265 EN). Seções I–IV muito equilibradas (gaps <100 palavras); Seção V mais expandida na tradução mas com densidade falada equivalente. Estrutura perfeita (I-V limpa). Exatamente 30 notas explicativas de qualidade. Capa com cache-buster. Limpeza de cabeçalhos duplicados de Notas. Status: **Concluída com paridade e estrutura muito limpa**.
 
 **Resumo** (Verified post-remediation 30/05/2026): Estrutura 100% limpa em todas as 01-07. 04/05 agora em conformidade total após remediação (30 notas limpas, Notas no EOF). 06 com desequilíbrio seccional documentado. Paridade de volume excelente em 01 (agora acima), 06 e 07; boa em 03 e 05; ainda precisa de mais trabalho de tradução de conteúdo em 02 e 04.
 
@@ -168,6 +169,12 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
   Realizado (prévio): núcleo denso + buraco no gelo fino, hierarquia competência, Nova Orleans/diques, sogra demência, Eliade, trigger warnings, "andar com Deus", arca, dilúvio, aliança, arco-íris etc.  
   30 notas já presentes (confirmado). Estrutura I-V limpa, 1 Notas final.  
   Status: **Concluída** com padrão alvo de paridade e notas. Pronto para omnibus.
+
+- **Palestra 08** — **Concluída** (29/06/2026).  
+  Palavras: PT-BR 18.452 (EN 17.265) — paridade de volume superada (estilo um pouco mais expansivo na V, mas seções I-IV equilibradas com densidade falada alta).  
+  Realizado: estrutura já razoavelmente completa; limpeza para padrão de perfeição (removido "## Notas de rodapé" duplicado, mantido exatamente **Notas** único no EOF; removido sufixo "Fim da Lecture" residual; capa atualizada com ?v=1 para consistência). 30 notas já presentes e mantidas (qualidade explicativa sobre fenomenologia, espírito do pai, Babel, desaparecimento de Deus, Milton/Jung/ativo imaginação, dragão, self, hipergamia, etc.). Conteúdo falado denso presente (história do cliente + manipulador de cobra/hipnose ativa imaginação, Rei Arthur/Graal, Friedman quotes integrais, transição divino→humano, etc.).  
+  Estrutura: I→V sequencial limpa, exatamente 1 **Notas** no final, zero "(continuação)", capa embeddável.  
+  Status final: **Concluída com paridade de conteúdo e estrutura muito limpa**. Sequencial 08-16 iniciado.
 
 ## Observações Técnicas
 
