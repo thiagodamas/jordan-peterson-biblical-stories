@@ -71,6 +71,22 @@ A história do sacrifício de Isaque é o teste supremo. Depois de esperar cem a
 
 Abraão obedece. Ele não discute, não negocia (diferente de quando negociou por Sodoma). Ele simplesmente vai. No último segundo, o anjo intervém: "Não estendas a tua mão sobre o menino, e não lhe faças nada; porquanto agora sei que temes a Deus, e não me negaste o teu filho, o teu único filho."
 
+Abraão levanta de madrugada, corta lenha, toma os servos e Isaque, e caminha três dias até o monte Moriá. Três dias com o filho que ele vai sacrificar. Tempo pra mudar de ideia. Ele não muda.
+
+Isaque pergunta: "Eis aqui o fogo e a lenha, mas onde está o cordeiro?" Abraão responde: "Deus proverá para si o cordeiro para o holocausto, meu filho." Ele não sabe como, mas caminha em direção ao sacrifício.
+
+No topo, ele edifica o altar, põe a lenha, ata Isaque, levanta a faca. Nesse momento, o anjo o detém.
+
+A história não é sobre matar o filho. É sobre a disposição absoluta. Abraão provou que nada — nem o futuro prometido — é maior que a aliança com o Bem. Por isso o filho é devolvido.
+
+Deus providencia um carneiro preso pelos chifres no mato. O sacrifício é feito, mas não é o filho — é o substituto.
+
+Essa história é insuportavelmente difícil. Interpretações superficiais (Deus é sádico, Abraão é fanático) perdem completamente o ponto.
+
+O que está sendo testado é se a aliança de Abraão é real ou não. Ele está disposto a sacrificar até o que mais ama — o futuro que Deus prometeu — se for o que a relação com o Bem exige. E, no último instante, o sacrifício é transformado. O filho é poupado. A aliança é confirmada no nível mais profundo possível.
+
+É a história da fé levada ao limite: a disposição de deixar ir até o que você mais quer, confiando que o Bem não exige destruição inútil.
+
 Deus providencia um carneiro preso pelos chifres no mato. O sacrifício é feito, mas não é o filho — é o substituto.
 
 Essa história é insuportavelmente difícil. Interpretações superficiais (Deus é sádico, Abraão é fanático) perdem completamente o ponto.
