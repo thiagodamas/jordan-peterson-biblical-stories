@@ -222,8 +222,6 @@ José é o favorito de Israel porque ele vê nele esse excesso de possibilidade.
 
 ---
 
----
-
 **Notas**
 
 [^1]: *Axis mundi* — o eixo ou pilar central que une o céu (transcendente) e a terra (material); símbolo arcaico do centro sagrado de uma cultura ou psique. Aparece em muitas tradições (árvore do mundo, obeliscos, cruz, etc.).
@@ -238,4 +236,50 @@ José é o favorito de Israel porque ele vê nele esse excesso de possibilidade.
 
 [^6]: Ritual xamânico — prática ancestral disseminada em que o praticante "morre" simbolicamente (dissolução até os ossos), viaja ao mundo espiritual, conversa com ancestrais e retorna renovado. Muitos estudiosos veem ecos disso na origem das tradições religiosas.
 
-[^7]: "Perfeito em suas gerações" — ideia de integridade familiar e moral como "arca" protetora contra o caos (tema recorrente em Gênesis: Noé, Abraão, agora Jacó/Israel). Fim da Lecture 14
+[^7]: "Perfeito em suas gerações" — ideia de integridade familiar e moral como "arca" protetora contra o caos (tema recorrente em Gênesis: Noé, Abraão, agora Jacó/Israel).
+
+[^8]: **Luta noturna no vau de Jaboque** — Jacó luta fisicamente com um ser divino durante a noite antes de reencontrar Esaú. Representa o confronto existencial com o desconhecido e com o próprio caráter. A bênção vem através da luta, não da evitação.
+
+[^9]: **Israel = "aquele que luta com Deus"** — O novo nome dado a Jacó após a luta. Indica que a relação madura com o divino (e com a vida) não é submissão passiva ou crença ingênua, mas um engajamento ativo, corajoso e transformador. "Lutar com Deus" é o modelo de vida ética.
+
+[^10]: **Ferida permanente no quadril** — Jacó mancará para sempre após a luta. A transformação espiritual frequentemente deixa marcas físicas ou psicológicas permanentes. A bênção não anula o custo do confronto real com o Ser.
+
+[^11]: **Peniel / Penuel** — "O rosto de Deus". O lugar do encontro direto e perigoso com o transcendente. Ver Deus "face a face" é transformador e arriscado; ninguém sai ileso de um encontro autêntico com o divino.
+
+[^12]: **Reconciliação com Esaú** — Após 14 anos, Jacó volta temeroso. Envia presentes substanciais e se humilha ("teu servo Jacó"). Esaú corre e abraça. Mostra que o perdão verdadeiro pode ocorrer, mas exige reparação real e reconhecimento da dívida moral.
+
+[^13]: **Presentes como pagamento de dívida** — Jacó oferece rebanhos como forma de fazer as pazes concretas pela traição do direito de primogenitura. Não é suborno, mas reconhecimento de que a reconciliação autêntica exige ação, não só palavras.
+
+[^14]: **Sociedades de honra e vingança** — A história de Diná e Siquém ilustra culturas onde a violação da irmã exige resposta violenta dos irmãos (Simeão e Levi). Jacó critica a ação por razões pragmáticas (segurança), mas os irmãos defendem a honra da irmã.
+
+[^15]: **Circuncisão como condição de aliança** — Os homens de Siquém aceitam circuncidar-se para se unir à família de Jacó. O sacrifício corporal é visto como entrada no grupo, mas é explorado traiçoeiramente por Simeão e Levi.
+
+[^16]: **Traição de Simeão e Levi** — Enquanto os homens estão doloridos pela circuncisão, os irmãos atacam e matam toda a cidade. É um ato de vingança brutal que viola o acordo feito por Jacó. Mostra os perigos da vingança descontrolada mesmo em defesa da honra.
+
+[^17]: **Retorno a Betel (eixo do mundo)** — Deus instrui Jacó a voltar a Betel, onde ele havia erguido a coluna pela primeira vez. É o retorno ao centro sagrado após a jornada de transformação. O herói sai, luta, muda, e volta ao ponto de origem renovado.
+
+[^18]: **Purificação e tirar os deuses estranhos** — Antes de subir a Betel, Jacó manda a família enterrar ídolos e brincos (símbolos de lealdade a outros deuses). A renovação espiritual exige limpeza de lealdades divididas e compromisso exclusivo com o Deus que o chamou.
+
+[^19]: **Mudança de nome confirmada** — Em Betel, Deus confirma: "teu nome não será mais Jacó (usurpador), mas Israel". A identidade nova reflete o caráter transformado pela luta. O nome carrega a missão: ser aquele que luta eticamente com Deus e com a vida.
+
+[^20]: **12 tribos de Israel** — Os filhos de Jacó (de diferentes mães: Lia, Raquel, Zilpa, Bila) tornam-se os fundadores das 12 tribos. A nação emerge de uma família complicada, com rivalidades, traições e bênçãos misturadas — realismo da origem de Israel.
+
+[^21]: **José como filho da velhice e favorito** — Israel ama José mais que os outros e lhe dá uma túnica de muitas cores. O favoritismo repete o padrão familiar (como Isaac preferia Esaú). Isso planta as sementes de inveja e traição entre os irmãos que levará à história de José no Egito.
+
+[^22]: **Túnica de muitas cores como símbolo de papel** — Roupas em histórias frequentemente representam função ou status. A túnica indica que José é visto como tendo "plurapotencialidade" — domínio em múltiplos domínios — e destinado a um papel de liderança superior.
+
+[^23]: **Rivalidade entre irmãos como motivo recorrente** — De Caim e Abel até Esaú e Jacó, até os filhos de Israel e José, a inveja fraterna é um tema central de Gênesis. Mostra como o favoritismo parental pode gerar divisão profunda e como o mal pode ser transformado em bem maior (como na história de José).
+
+[^24]: **Luta como caminho de desenvolvimento** — A vida de Jacó ilustra que o crescimento moral e espiritual vem através do conflito e da adversidade, não da facilidade. Fugir, ser enganado por Labão, lutar com o anjo, enfrentar o passado — tudo contribui para sua transformação em Israel.
+
+[^25]: **Perdão e reparação** — A reconciliação entre Jacó e Esaú mostra que o verdadeiro perdão pode exigir mais que palavras: exige reconhecimento da ofensa, reparação concreta e humildade. Esaú demonstra generosidade madura; Jacó demonstra disposição em pagar o preço.
+
+[^26]: **Eixo mundi e retorno ao centro** — Betel funciona como axis mundi (centro sagrado). Jacó ergue coluna, tem visão, foge, luta, retorna, ergue novamente. A jornada do herói termina com renovação do vínculo com o lugar e o Deus do chamado original.
+
+[^27]: **Deus Todo-Poderoso (El Shaddai)** — A aparição em Betel enfatiza o poder de Deus para abençoar, multiplicar e cumprir promessas mesmo através de um homem falho como Jacó. A aliança continua apesar (e através) das falhas humanas.
+
+[^28]: **Transição para José** — A palestra termina preparando a última grande história de Gênesis: José e seus irmãos. O favoritismo, a túnica e a inveja plantam o conflito que levará José ao Egito e, ironicamente, à salvação da família.
+
+[^29]: **Caráter através do sofrimento** — Jacó sai de casa como trapaceiro arrogante e volta como Israel, marcado pela luta. O sofrimento, o engano sofrido e a confrontação com o passado o forjam. A história ensina que o caráter é construído na adversidade voluntariamente enfrentada.
+
+[^30]: **Israel como modelo de relação com o divino** — Diferente de submissão cega ou rebelião, a identidade de Israel é "lutar com Deus". É um engajamento ativo, ético e persistente com o significado da existência. Essa é a definição petersoniana de crença madura no Antigo Testamento.
