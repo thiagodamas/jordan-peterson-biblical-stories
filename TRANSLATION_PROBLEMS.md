@@ -190,20 +190,24 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 
 - **Palestra 16** — **Concluída** (29/06/2026). Estrutura limpa, 30 notas (morte/renascimento psicológico, imitação de Cristo, Logos, Red Queen, sofrimento redentor, processo vitalício, etc.).
 
-**Resumo atual (29/06/2026 - redução de gaps iniciada pelas piores)**: Estrutura + 30 notas perfeitas em todas as 08-16. Iniciamos redução de gap pelas piores:
+**Resumo atual (29/06/2026 - redução de gaps iniciada pelas piores, em andamento)**: Estrutura + 30 notas perfeitas em todas as 08-16. Redução de gap iniciada pelas piores com inserções densas faladas adicionais:
 
-- 13 (maior gap): inserções da escada, luta em Jaboque, reconciliação.
-- 15 (segunda): história completa de José + "Deus o intentou para bem".
-- 12 (terceira): Akedah expandida.
+- 13 (pior): + spoken sobre visão da escada, xamanismo, luta em Jaboque, reconciliação com Esaú.
+- 15 (segunda pior): + spoken expandido sobre traição, prisão, ascensão, teste dos irmãos, "Deus o intentou para bem", perdão após evidência de mudança.
+- 12 (terceira): + spoken expandido da Akedah (jornada de 3 dias, "Deus proverá", disposição absoluta).
 
-Gaps restantes (aprox.):
-13: ~15k → em redução ativa
-15: ~13k → em redução ativa
-12: ~10k → em redução ativa
-10 e 09: ~9-10k (próximos)
-16 e 11: menores.
+Gaps aproximados atuais (PT vs EN):
+13: 4.263 vs 19.311 (em redução ativa)
+15: 7.804 vs 20.872 (em redução ativa)
+12: 4.485 vs 14.883 (em redução ativa)
+10: 8.894 vs 18.450
+09: 10.308 vs 19.983
+16: 5.695 vs 8.294
+11: 14.534 vs 17.739
 
-Trabalho continua sequencialmente até o gap mínimo possível.  
+08 e 14: PT acima ou muito próximo.
+
+Trabalho continua sequencialmente nas piores até o gap mínimo.  
   Palavras: PT-BR ~10.5k (EN 19.983) — gap reduzido de ~16k para ~9.5k com inserções densas.  
   Realizado: estrutura limpa (I-V + 1 **Notas** no EOF); capa ?v=1; 30 notas novas/expandidas. Conteúdo falado denso adicionado em todas as seções (limpar o quarto, grão de mostarda, James Simon, "perfeito em suas gerações", necessidade como motor, interesse como chamado, "sai-te da tua terra/parentela/casa do pai", Pinóquio + estrela + trickster, sacrifício=compromisso, erros redentores, responsabilidade para jovens homens, "boa notícia" apesar de falhas, etc). Seções I e II agora com densidade alta; III-V expandidas de resumos curtos pra narrativa falada. Ainda precisa de mais inserções pra paridade total de volume (trabalho sequencial continua). Status: estrutura perfeita + notas + densidade falada substancial alcançada. Gap de volume remanescente.  
   Palavras: PT-BR 18.452 (EN 17.265) — paridade de volume superada (estilo um pouco mais expansivo na V, mas seções I-IV equilibradas com densidade falada alta).  
