@@ -1,6 +1,6 @@
 # **Série Bíblica I: Introdução à Ideia de Deus**
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 por Dr. Jordan Peterson
