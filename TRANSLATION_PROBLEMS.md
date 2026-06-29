@@ -170,7 +170,10 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
   30 notas já presentes (confirmado). Estrutura I-V limpa, 1 Notas final.  
   Status: **Concluída** com padrão alvo de paridade e notas. Pronto para omnibus.
 
-- **Palestra 08** — **Concluída** (29/06/2026).  
+- **Palestra 08** — **Concluída** (29/06/2026).
+- **Palestra 09** — **Em andamento / Parcialmente concluída** (29/06/2026).  
+  Palavras: PT-BR ~10.5k (EN 19.983) — gap reduzido de ~16k para ~9.5k com inserções densas.  
+  Realizado: estrutura limpa (I-V + 1 **Notas** no EOF); capa ?v=1; 30 notas novas/expandidas. Conteúdo falado denso adicionado em todas as seções (limpar o quarto, grão de mostarda, James Simon, "perfeito em suas gerações", necessidade como motor, interesse como chamado, "sai-te da tua terra/parentela/casa do pai", Pinóquio + estrela + trickster, sacrifício=compromisso, erros redentores, responsabilidade para jovens homens, "boa notícia" apesar de falhas, etc). Seções I e II agora com densidade alta; III-V expandidas de resumos curtos pra narrativa falada. Ainda precisa de mais inserções pra paridade total de volume (trabalho sequencial continua). Status: estrutura perfeita + notas + densidade falada substancial alcançada. Gap de volume remanescente.  
   Palavras: PT-BR 18.452 (EN 17.265) — paridade de volume superada (estilo um pouco mais expansivo na V, mas seções I-IV equilibradas com densidade falada alta).  
   Realizado: estrutura já razoavelmente completa; limpeza para padrão de perfeição (removido "## Notas de rodapé" duplicado, mantido exatamente **Notas** único no EOF; removido sufixo "Fim da Lecture" residual; capa atualizada com ?v=1 para consistência). 30 notas já presentes e mantidas (qualidade explicativa sobre fenomenologia, espírito do pai, Babel, desaparecimento de Deus, Milton/Jung/ativo imaginação, dragão, self, hipergamia, etc.). Conteúdo falado denso presente (história do cliente + manipulador de cobra/hipnose ativa imaginação, Rei Arthur/Graal, Friedman quotes integrais, transição divino→humano, etc.).  
   Estrutura: I→V sequencial limpa, exatamente 1 **Notas** no final, zero "(continuação)", capa embeddável.  

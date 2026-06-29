@@ -1,6 +1,6 @@
 # **Série Bíblica IX: O Chamado de Abraão**
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 por Dr. Jordan Peterson
@@ -35,7 +35,29 @@ A outra coisa que me impressionou é que Abraão — e acho que isso é absoluta
 
 Tenho este programa — alguns de vocês podem estar familiarizados com ele — que se chama Future Authoring Program. Ele é projetado pra ajudar as pessoas a fazer um plano pra três a cinco anos no futuro. O que você faz é responder algumas perguntas — é um programa de escrita — sobre como você gostaria que sua vida fosse, o que você gostaria que seu caráter fosse, três a cinco anos à frente, se você estivesse cuidando de si mesmo como cuidaria de alguém que realmente se importasse. Você meio que tem que dividir a si mesmo em duas pessoas, e tratar a si mesmo como alguém que você respeita e quer o melhor pra. Isso não é fácil, porque as pessoas não necessariamente têm respeito por si mesmas, e não necessariamente querem o melhor pra si mesmas. Elas têm muito autodesprezo, e muita raiva de si mesmas, muita culpa, muita angústia existencial, e muita autoconsciência, e tudo isso. E então as pessoas não necessariamente cuidam muito bem de si mesmas. Acho que você tem uma obrigação — é uma das mais altas obrigações morais — de tratar a si mesmo como se fosse uma criatura de valor que é, de certa forma, independente de suas ações. Você pode pensar nisso, metaforicamente, como um reconhecimento do seu valor divino, no sentido bíblico, independentemente de seus pecados, por assim dizer. Acho que essa é uma linguagem poderosa, uma vez que você a entende.
 
-Enfim, com o Self Authoring Program e o Future Authoring Program...
+Enfim, com o Self Authoring Program e o Future Authoring Program, você responde perguntas sobre como gostaria que suas amizades fossem conduzidas. É útil se cercar de pessoas que estão tentando avançar, e, mais importante, que ficam felizes quando você avança, e não ficam felizes quando você retrocede — não quando você cai; não é isso que quero dizer. Quando você está fazendo coisas autodestrutivas, seus amigos não deveriam estar lá pra aplaudir, porque então eles realmente não estão agindo como amigos, obviamente. Eu sei que é óbvio, mas ainda acontece o tempo todo, e as pessoas permitem que aconteça. Não é uma boa ideia.
+
+Como você gostaria de organizar sua família? Eu estava pensando nisso também, porque estava pensando na arca de Noé. Tinha uma frase naquela história que eu não entendia, que era que "Noé era perfeito em suas gerações". Eu pensei, eu não sei o que isso significa. Quando você está passando por um livro como a Bíblia, se você não entende uma frase, isso na verdade significa que você perdeu algo. Não significa que isso não é relevante pra história: significa que você foi burro. Você não entendeu. Você não pegou. Você não compreendeu. A ideia de que Noé era perfeito em suas gerações, e que por isso ele pôde construir uma arca que sustentaria ele e a humanidade através do dilúvio, significava que, não só ele andava com Deus — que é algo sobre o que falamos no contexto do Sermão da Montanha —, mas que ele estabeleceu relacionamentos apropriados com sua família, com seus filhos. O que isso significava era que, não só ele estava bem integrado como pessoa, mas seu nível de integração tinha chegado ao ponto em que se estendia além dele, e abrangia sua família. Então era Noé e a família que estavam na arca.
+
+Eu realmente entendi isso, este ano. Eu tive um ano realmente tumultuado. Você pode pensar nisso de uma perspectiva pessoal. Eu posso pensar nisso como um ano que não faltou dilúvios. Parte da razão pela qual consegui passar por ele — eu também tive problemas terríveis de saúde — foi porque minha família realmente se uniu ao meu redor: meus filhos, minha esposa, meus pais, e meus amigos também — particularmente um certo grupo de amigos. Tudo isso veio à minha mente esta semana. Eu pensei, ah, é isso que significa ser perfeito em suas gerações. Significava que ele não tinha apenas endireitado a si mesmo: ele também tinha endireitado seus relacionamentos com a família. Eu posso dizer a vocês que, quando a crise te atinge — e vai atingir. Vai. Os dilúvios virão. É por isso que o apocalipse está sempre sobre nós. O dilúvio definitivamente virá na sua vida, e o grau em que você se organizou psicologicamente, e também curou os relacionamentos entre você e sua família, poderia ser o elemento crítico que determina se você vive ou morre quando uma crise chega, ou se alguém da sua família vive ou morre. Então a ideia da arca contendo o homem que anda com Deus, e cujas gerações são perfeitas, e que isso é o que sustenta a humanidade através da crise — você não poderia ser mais psicologicamente preciso que isso.
+
+Eu estava pensando em outra linha do Novo Testamento, esta semana. Acho que é do Sermão da Montanha, mas não tenho certeza absoluta. Cristo compara o reino dos céus a um grão de mostarda. Um grão de mostarda é uma semente muito pequena. Ela cresce e vira uma planta bem espetacular e complexa. Eu estava pensando em como você deveria operar no mundo para torná-lo um lugar melhor, assumindo que é isso que você deveria estar fazendo. É isso que você deveria estar fazendo. Há muita coisa no mundo pra consertar. Tudo que te incomoda sobre o mundo, e sobre você mesmo, deveria ser consertado. Você pode fazer isso. Minha percepção crescente...
+
+Tenho um amigo. Ele mora em Montreal. O nome dele é James Simon. Ele é um grande pintor, e me ensinou muitas coisas. Ele me ajudou a projetar minha casa, e a embelezá-la. Comprei algumas pinturas dele há alguns anos. Ele fez esta série de pinturas onde viajou pela América do Norte, e ficou em lugares diferentes, e então pintou a vista de lá pra baixo. E então são os pés dele plantados em lugares diferentes: em estradas, no deserto, no oceano. Eu tenho uma, na verdade, pendurada sobre meu vaso sanitário, que é ele em pé sobre um mictório. Bem, sabe, ele estava tentando fazer um ponto. O ponto era que, onde quer que você esteja, vale a pena prestar atenção. Então todos esses lugares que ele visitou, ele olhou exatamente onde estava: parado ao lado da estrada no deserto — meio mundano, de certa forma. Mas então, talvez ele tenha colocado 40 horas naquela pintura, e é muito, muito realista, com uma luz realmente boa. O que ele está te dizendo como pintor é, tudo vale a pena prestar atenção a uma quantidade infinita, mas você não tem tempo suficiente. O artista faz isso por você. O artista olha e olha e olha e olha, e então te dá aquela visão, para que você possa olhar a pintura. Isso te lembra que tudo que existe está bem onde você está. Essa é uma coisa difícil de perceber, mas é na verdade verdade.
+
+Tenho dito às pessoas online, de várias maneiras, e em palestras, que elas deveriam começar a consertar o mundo limpando o quarto. Eu queria apenas elaborar um pouco isso antes de voltar pra palestra em si. Então virou esse meme estranho da internet. É uma piada, e bom: é uma piada. Eu estou realmente feliz com o fato de que tanto disso ganhou humor. Isso é realmente importante. É o que impede as coisas de degenerarem em conflito. Eu estava pensando nessa ideia de limpar o quarto em relação à ideia do grão de mostarda.
+
+A coisa sobre limpar o quarto… Isso também é algo que aprendi com Carl Jung e seus estudos sobre alquimia. Para Jung, quando o alquimista estava tentando fazer a pedra filosofal, ele não estava apenas envolvido na transformação do mundo material, mas estava envolvido em um processo de autotransformação que ocorria ao mesmo tempo que a transformação química. Era um trabalho psicológico, de certa forma.
+
+Digamos que você quer arrumar seu quarto, e embelezá-lo, porque a beleza também é importante. Digamos que tudo que você tem é apenas um quartinho. Você não é rico; você é pobre, e não tem poder nenhum. Mas você tem seu maldito quarto, e tem esse espaço bem na sua frente que é parte do cosmos, que você pode lidar. Você pode pensar, bem, o que está bem na sua frente? A resposta pra isso é, depende de quão abertos seus olhos estão. Essa é a resposta apropriada. William Blake disse isso, por exemplo — Aldous Huxley fez comentários muito semelhantes: em um estado transcendente, você pode ver o infinito no finito. Você pode dizer, bem, você pode ver o infinito no que você tem ao seu alcance, se olhar. Você poderia dizer, talvez, que é o caso com seu quarto.
+
+Então você quer limpar seu quarto. Ok, como você faz isso, exatamente? Bem, um quarto é um lugar pra dormir. Se você arruma seu quarto adequadamente, então você descobre como dormir, e quando você deveria dormir, e como você deveria dormir. E então você descobre quando você deveria acordar, e então você descobre, bem, que roupas você deveria usar, porque elas precisam estar arrumadas adequadamente na sua cômoda, e então você precisa ter algum lugar pra colocar suas roupas. Se você vai ter algumas roupas, você precisa descobrir o que você vai fazer com aquelas roupas. Isso significa que você precisa descobrir o que você vai fazer, e então seu quarto precisa servir a esse propósito. Caso contrário, não está arrumado adequadamente. Se ele não serve aos seus propósitos, você vai ser infeliz no quarto, porque a maneira como percebemos o mundo é como um lugar pra nos movermos do ponto A pro ponto B. E então, se o lugar em que estamos facilita esse movimento, então ficamos felizes por estar lá. Se o lugar em que estamos serve como obstáculo a esse movimento, então ficamos infelizes por estar lá. E então, arrumar seu quarto significa que você precisa ter algum lugar pra ir que valha a pena, ou você não consegue arrumar seu quarto. E então seu quarto precisa ser arrumado pra facilitar isso.
+
+A próxima coisa é, bem, talvez você precise torná-lo bonito. Isso não é fácil, certo? Isso significa que você precisa ter algum gosto, e isso não significa que você precisa ter dinheiro. Não significa. Você pode ser espalhafatoso com dinheiro, e pode ser de bom gosto com nada. Tudo que você precisa é gosto, e gosto vence dinheiro quando se trata de embelezar coisas — não que dinheiro seja trivial, porque não é, mas gosto é crucial. Pessoas que são muito orientadas artisticamente podem fazer coisas bonitas a partir de praticamente nada. A literatura sugere que, se você vai fazer coisas bonitas, colocar restrições reais no que você permite a si mesmo fazer facilita a criatividade, em vez de interferir nela.
+
+Digamos que você precisa fazer algo a partir do nada — o que, suponho, seria um ato divino. Você precisa fazer algo do nada; você precisa ser criativo para fazer isso. Então, embelezar seu quarto significa que você também precisa desenvolver sua capacidade de ser criativo, para então poder fazer seu quarto brilhar. Mas então o que vai acontecer, se sua família não estiver unida, eles vão interferir nisso — você vai interferir nisso, porque você não terá a disciplina pra fazer isso adequadamente. Mas então, quando você começa a construir esse pequeno microcosmo de perfeição com o que tem à mão, isso vai evocar todas as patologias de todo mundo na sua casa. Eles vão se perguntar o que diabos você está aprontando, lá dentro. Eles não vão necessariamente ficar felizes, porque se eles estão em um lugar baixo, digamos, e você também, e você está tentando sair daquilo, então quanto mais alto você sai daquilo, mais o lugar em que eles estão parece ruim. Você pode dizer, bem, o que eles deveriam fazer é celebrar sua vitória sobre o caos e o mal, mas não é isso que vai acontecer. O que vai acontecer, em vez disso, é que eles vão tentar te puxar de volta pra baixo.
+
+Quer dizer, obviamente, nem todas as famílias fazem isso, mas todas as famílias fazem isso em algum grau, e algumas famílias não fazem quase nada além disso. O que isso significa é que, se você vai organizar seu quarto, então você vai ter que confrontar os demônios na sua casa. Isso é frequentemente uma coisa aterrorizante; alguns desses demônios têm linhagens que remontam a muitas, muitas, muitas gerações. Só Deus sabe com o que você precisa lutar para superar isso. E então, se organizar, e consertar seu quarto, é uma questão não trivial. Você vai aprender fazendo isso, e então, talvez, você consiga consertar um pouco sua família, e então, tendo feito isso, você terá caráter suficiente para, quando tentar operar no mundo — no seu trabalho, ou talvez nas esferas sociais mais amplas — você será uma força pro bem, em vez de pro mal. Você terá aprendido alguma humildade ao notar o quão difícil foi juntar seu maldito quarto — e a si mesmo, aliás. Você vai prosseguir com cautela, de olhos abertos, em direção ao bem.
 
 ## Seção II
 
@@ -57,9 +79,63 @@ Eu estava falando com um jornalista inglês hoje. Ele ia escrever um artigo na S
 
 Essa é a outra coisa que você vê nas histórias abraâmicas. Abraão não é uma pessoa perfeita, de jeito nenhum. Ele é uma pessoa real. Ele comete erros, mas não importa: a narrativa geral é, mantenha sua aliança com Deus, e, apesar de suas inadequações, não só você vai prevalecer, mas seus descendentes vão prevalecer. É tipo: ótimo. Isso é realmente uma boa notícia. Tem sido algo realmente ver isso nas histórias. Então isso é responsabilidade.
 
+"Não é apenas que Abraão seja mais gentil, mais brando, mais intrépido, mais ético, ou um debatedor melhor que seu ancestral Noé. Antes, tanto as histórias de Noé quanto as de Abraão são pedaços de um desenvolvimento de uma postura cada vez mais forte dos humanos em relação à divindade. Antes que a história termine, os humanos se tornarão muito mais fortes e ousados que Abraão."
+
+Isso é realmente algo de se dizer. Abraão é bastante corajoso. Vamos ler as histórias.
+
+A primeira é sobre Abraão, Sara e Ló. "Estas são as gerações de Terá..." (o texto bíblico é lido em detalhes). Sarai é introduzida como estéril pra preparar o palco da catástrofe e da promessa impossível que virá. O filho chegará tarde, quando eles forem velhos — e mesmo assim a promessa se cumpre. Os escritores bíblicos estão dizendo: se você perseguir de frente o que Deus direciona, todas as coisas são possíveis. Não é ingênuo; é o lugar onde você para de dispensar ideias e percebe que não sabe os limites do que é possível quando se organiza e persegue o que deve.
+
+Eu vi pessoas se organizando incrementalmente ao longo do tempo e se tornando capazes de coisas jaw-dropping, às vezes metafisicamente impossíveis de entender. Não sabemos os limites do esforço humano. Vale a pena descobrir o que você seria capaz se dedicasse 30 anos a se juntar. Essa é a responsabilidade.
+
+A batalha entre significado e niilismo: o niilismo é mais poderoso que otimismo ingênuo, mas não que otimismo não ingênuo. O otimismo não ingênuo diz que o sofrimento pode ser reduzido se as pessoas se orientarem direito e fizerem o que podem. Potencial humano é virtualmente ilimitado. Não há razão pra niilismo. Você sabe disso porque não está feliz com quem é e porque vê que não estamos dando 100%. Se déssemos 90% em vez de 55%, quão bem as coisas ficariam? Comece limpando o quarto.
+
+"Agora o Senhor disse a Abrão: Sai-te da tua terra, da tua parentela e da casa de teu pai, para a terra que eu te mostrarei."
+
+Cada cláusula importa. Vá pra lugar que você não entende! "Sai-te da tua terra" — os escritores americanos em Paris nos 20s (Hemingway, Fitzgerald) só viram o que seu país era quando saíram. Você tem que ir pro desconhecido. "E da tua parentela" — cresça, estabeleça independência. Famílias superprotetoras privam de necessidade. Filhos de imigrantes de primeira geração vão melhor porque a necessidade impulsiona. Afastar-se permite que necessidade te ensine.
+
+A cultura que ataca o avanço de jovens homens tem medo do poder deles. Confunde poder com autoridade/competência. Precisamos de autoridade e competência. "E da casa de teu pai" — saia e se estabeleça. É chamado à aventura.
+
+"Para a terra que eu te mostrarei" — Jung: você não é mestre da sua casa. Sonhos, impulsos, atenção, interesses te escapam. Interesse te agarra; você não o controla. O que te compele pode ser chamado divino. Se não escuta o que te chama pra frente, paga caro. É chamado e aviso.
+
+A terra além da que você conhece nunca desaparece. A fronteira está sempre à frente. Você olha o mundo por uma história. Onde você está nunca é bom o suficiente — e isso pode ser bom, porque se fosse, não haveria nada pra fazer. A emoção positiva vem da visão do futuro melhor e da evidência de que está indo pra lá.
+
+Nas histórias abraâmicas, a aliança se mantém pelo sacrifício contínuo. Abraão queima cordeiros vivos e valiosos pra mostrar seriedade. Talvez não tenhamos rituais assim agora, e talvez não estejamos sérios sobre nada. Talvez eles soubessem algo que perdemos. Compromisso = sacrifício. Você sacrifica o que mais valoriza e que te impede — muitas vezes o pior de você.
+
+Você se move pro futuro ideal. Planeje o futuro perfeito pra colocar a casa em ordem. Deus não é avarento: se você põe esforço, aceita a aliança e os sacrifícios, pode ter sucesso abundante. Boa notícia. E você não precisa ser perfeito.
+
+Ir pro desconhecido é transformação sacrificial — mover-se voluntariamente pro caos, como lutar o dragão, história do herói. Você se transforma. O chamado ao ideal é sequência de mortes e renascimentos. É isso que Deus chama Abraão a fazer na primeira frase.
+
+Você vê isso ecoado em Pinóquio: o grilo é a vozinha; a estrela é o que transcende. Gepetto quer filho autônomo — marca de grandeza. O tolo (trickster) é precursor do salvador: se não estiver disposto a ser tolo, nunca começa o novo. Erros redentores te informam. A estrela se move conforme você avança. Cada ziguezague é fênix.
+
+A mensagem: saia. Vá. Faça algo. Carregue o peso. Mantenha a aliança. Mesmo falho, mesmo errando, mesmo no meio da tirania e do caos — se você continuar com integridade, algo de valor se acumula, e a história flui de você.
+
 "It is not just that Abraham is kinder, gentler, more intrepid, more ethical, or a better debater than his ancestor Noah. Rather, both the Noah and the Abraham stories are pieces of a development of an increasingly stronger stance of humans relative to the deity. Before the story is over, humans will become a good deal stronger and bolder than Abraham."
 
 Isso é realmente algo de se dizer, porque Abraão é bastante corajoso. Então vamos ler as histórias. A primeira é sobre Abraão, Sara e Ló. "Estas são as gerações de Terá: Terá gerou a Abrão" — então o nome dele é Abrão, pra começo de conversa, e isso na verdade acaba sendo importante. Não é Abraão — "Naor e Harã; e Harã gerou a Ló" — então Harã é irmão de Abrão — "E Harã morreu antes de seu pai Terá na terra de seu nascimento, em Ur dos Caldeus. E tomaram Abrão e Naor mulheres para si: o nome da mulher de Abrão era Sarai; e o nome da mulher de Naor era Milca, filha de Harã, pai de Milca e pai de Iscá. Mas Sarai era estéril; não tinha filhos. E tomou Terá a Abrão seu filho, e a Ló filho de Harã, filho de seu filho, e a Sarai sua nora, mulher de seu filho Abrão; e saíram com eles de Ur dos Caldeus, para irem à terra de Canaã" — então isso é exílio — "e vieram a Harã, e habitaram ali. E foram os dias de Terá duzentos e cinco anos; e morreu Terá em Harã."
+
+Tem uma razão pra Sarai ser introduzida como estéril: é pra preparar o palco. Parte da razão pela qual os escritores bíblicos estão apontando que a esposa de Abrão é estéril é porque é uma catástrofe real pra Abraão, e pra Sarai também. Está mostrando o problema em que Abraão está no começo da história. O que acontece conforme a história avança é que Abrão e Sarai eventualmente recebem um filho, mas bem tarde, quando eles já são muito velhos. E, claro, você não vai ser pai de nações sem ter um filho. Os escritores estão tentando mostrar que, se você perseguir de frente aquilo que Deus direciona, então todas as coisas são possíveis.
+
+Você pode pensar que isso é ingênuo. Não é. Quando você para de dispensar ideias, chega a outro lugar: onde você não sabe o que pode ser possível pra você se se organizar e perseguir o que deve. Não sabemos os limites do esforço humano. Você já é algo, mas se dedicasse os próximos 30 anos só a se organizar, o que seria capaz de fazer? Vale a pena descobrir. Essa é a adoção da responsabilidade.
+
+Uma coisa que aprendi: a batalha entre significado e niilismo. O argumento niilista é poderoso, mas não mais que o otimismo não ingênuo. O otimismo não ingênuo diz que o sofrimento pode ser reduzido se as pessoas se orientarem adequadamente e fizerem o que são capazes. O potencial humano é virtualmente ilimitado. Não há razão pra niilismo ou desesperança. Você sabe disso porque não está feliz com quem é agora, e porque vê que não estamos dando nosso melhor. Se dedicássemos 90% do esforço em vez de 55%, quão bem as coisas poderiam ficar? Comece pelo seu quarto.
+
+"Agora o Senhor disse a Abrão: Sai-te da tua terra, da tua parentela e da casa de teu pai, para a terra que eu te mostrarei."
+
+Cada cláusula é significativa. Vá pra algum lugar que você não entende! "Sai-te da tua terra." Nos anos 1920, escritores americanos foram expatriados em Paris — Hemingway, Fitzgerald. Parte da transformação deles foi estar fora do país: você não vê o que seu país é até sair. Vá pro desconhecido. Esse é o primeiro comando de Deus: vá pra onde você não sabe.
+
+"E da tua parentela." Significa crescer! Afaste-se da família o suficiente pra estabelecer independência. Muitas famílias dão proteção demais; as pessoas sabem que são privadas de necessidade. Os filhos de imigrantes de primeira geração frequentemente se dão melhor porque a necessidade os impulsiona. Se a catástrofe não te atinge imediatamente quando você não age de frente, você nunca aprende. Afaste-se da dependência pra que a necessidade te impulsione. Isso é amadurecer.
+
+Acho que parte do que ataca o avanço dos jovens na cultura é medo do poder dos homens. Confunde poder com autoridade e competência. Um homem com autoridade e competência tem poder como subproduto. Precisamos de autoridade e competência. O que mais vai nos permitir prevalecer? Vá pra fora da casa do seu pai e se estabeleça. É um chamado à aventura.
+
+"Para a terra que eu te mostrarei." Jung e outros entenderam que você não é mestre da sua própria casa. Há coisas dentro de você além do seu controle consciente: sonhos, impulsos, interesses. Interesse se manifesta e te agarra; você não pode se forçar a se interessar por algo. O que te compele? Pode ser chamado de divino porque te agarra. Há um chamado em você. Se você não escuta o que te chama pra frente, vai pagar caro: terá tudo de terrível na vida e nada de bom, e saberá que foi sua culpa. É um chamado e um aviso.
+
+A terra que você não conhece está sempre lá, e é pra onde você deve ir. Você olha o mundo através de uma história. Onde você está nunca é bom o suficiente — e isso pode ser bom, porque se fosse, não haveria nada pra fazer. Você se move do insuportável presente pro futuro melhor. A emoção positiva vem da concepção desse futuro e da evidência de que está avançando.
+
+Nas histórias abraâmicas, o que mantém a aliança é a disposição contínua de sacrificar. Sacrifício e compromisso são a mesma coisa. Abraão queima cordeiros — algo vivo e valioso — pra indicar seriedade. Talvez não tenhamos rituais de seriedade assim agora, e talvez não estejamos realmente sérios sobre nada. Talvez eles soubessem algo que perdemos.
+
+Você tem que sacrificar o que é mais valioso e está te impedindo — frequentemente o pior de você. Você se move pro futuro ideal. Se quer colocar sua casa em ordem, planeje o futuro perfeito. Deus não parece se opor ao sucesso daqueles que ele escolheu: rebanhos maiores, mais autoridade, vida abundante. Se você põe o esforço e aceita os sacrifícios, pode ser bem-sucedido além dos sonhos. Boa notícia.
+
+Ir pro desconhecido é transformação sacrificial: mover-se voluntariamente pro caos, como a luta do dragão, a história do herói. Você se transforma. O chamado ao ideal é chamado a mortes e renascimentos sucessivos que te aproximam do ideal.
 
 ## Seção III
 
@@ -69,7 +145,27 @@ E então vem o chamado. "Ora, o Senhor disse a Abrão: Sai-te da tua terra, da t
 
 Esse é o chamado. Saia da sua terra, da sua parentela, da casa do seu pai. Vá pra um lugar que eu vou te mostrar. E eu farei de você uma grande nação. É um chamado pra deixar tudo que é familiar e seguro e ir em direção ao desconhecido com fé. E a promessa é que isso vai gerar algo imenso — não só pra você, mas pra gerações.
 
-Abraão obedece. Ele sai. E imediatamente começa a encontrar problemas: fome, tirania, ele mente sobre sua esposa pra se proteger (duas vezes), tem conflito com o sobrinho Ló sobre terra, guerra, etc. Ele não é perfeito. Ele comete erros reais de caráter. Mas o que ele mantém é a aliança — a disposição de continuar indo, de continuar agindo como se o mundo fosse estruturado de tal forma que, se você fizer o certo, as coisas vão dar certo no final.
+Você vê essas coisas ecoadas nos lugares mais estranhos. São stills que tirei de Pinóquio. Esse grilinho é a vozinha quieta e pequena, certo? É a coisa que te chama. É sua consciência, em parte; sua intuição, em parte. É a coisa que abre o grande livro sagrado do mundo. É o que acontece aqui. Os animadores se esforçam pra te mostrar isso. É um livro de couro com letras douradas. É um livro valioso. É algo quieto que está te mostrando. Você tem que meditar. Tem que estar em algum lugar onde o mundo não está te afogando pra entender como abrir isso, pra escutar aquela voz que te diz pra onde ir, o que fazer em seguida. E então algo te chama na noite. É uma estrela. Algo que transcende o horizonte. Brilha. É brilhante. Não é cotidiano. É algo além de você — algo que representa um ideal transcendente, e então o torna manifesto pra você, se você estiver quieto o suficiente pra escutar. É nisso que você faz um desejo, tão estranhamente, certo?
+
+As pessoas fazem isso: fazem desejo pra uma estrela. Ensinam aos filhos, e não sabem por quê. O que significa fazer desejo pra uma estrela? Significa erguer os olhos pros céus, e fazer um pacto com o transcendente, e então o desejo do seu coração virá pra você. Isso não é ingênuo. É a coisa mais sofisticada que você pode saber, e é o nascimento do herói.
+
+Essa é a estrela da natividade, obviamente. Onde acontece: em qualquer lugar. A pessoa é apenas um carpinteiro e um fabricante de brinquedos. Mas isso é bem bom, um carpinteiro. Se você é um carpinteiro enganoso, sua casa cai. E se você é fabricante de brinquedos, ama crianças. É um bom começo. Gepetto, que mora — não é uma casa grandiosa. É apenas uma casa comum, mas tudo que acontece nela é bom. Isso significa que é um palácio, porque tudo que acontece nela é bom. Há um ditado — e eu não me lembro de onde veio — que é melhor ter pão e água em paz que um banquete em conflito. Não é um ditado; é apenas a descrição mais sombria possível da verdade. Não há nada pior que comer uma refeição grandiosa com pessoas que você odeia e despreza, que estão à garganta uma da outra. É muito melhor ter pão e água em paz. É apenas análise de cabeça fria da estrutura do mundo. E então a transformação mágica pode acontecer nos lugares mais mundanos. A razão é que a natureza mundana dos lugares é uma ilusão. Todo lugar é o potencial berço do reino de Deus.
+
+Gepetto é um cara bom. Tem um gatinho. O gatinho gosta dele. Ele faz fantoches, e é uma pessoa humilde. Ele sabe que, comparado ao ideal ao qual tenta se inscrever, ele não é... não se abate diante disso. Não é desprezível em relação a isso. Mas a razão pela qual está de joelhos é porque a coisa pra qual aponta está acima dele.
+
+Gepetto quer um indivíduo autônomo como filho. Isso também o torna uma grande pessoa, porque indivíduos autônomos têm sua própria vontade. Se você é um tirano, é a última coisa que vai querer. E então mirar, e querer o desenvolvimento do indivíduo autônomo, são a mesma coisa. Eu diria que essa é a história central, de certa forma, da cultura ocidental: mirar alto, e desenvolver o indivíduo autônomo, são a mesma coisa. É o que acontece em Pinóquio. É o que acontece na história de Abraão.
+
+A transformação mágica acontece. Uma das coisas tão interessantes sobre a história de Pinóquio — isso é parte de sua subestrutura mitológica — é que, da perspectiva científica, há apenas duas forças determinantes com relação ao destino do indivíduo: natureza e cultura, e ambas são determinísticas. Mas, em histórias mitológicas, há sempre um terceiro elemento. O terceiro elemento é algo como consciência autônoma. Não há lugar pra consciência autônoma nas teorias determinísticas. Mas nas histórias, há. E a consciência autônoma é o que permite a transformação.
+
+Há uma ideia que Jung desenvolveu sobre o trickster, ou o bobo da corte, ou o comediante. O trickster é o precursor do salvador. É uma das coisas que aprendi com Jung que era tão improvável. Você nunca pensaria isso. É tão incrível que possa ser o caso. O satírico, o irônico, o encrenqueiro, o comediante — o tolo é o precursor do salvador. Por quê? Porque você é um tolo quando começa algo novo. E então, se você não estiver disposto a ser tolo, nunca vai começar nada novo. E se nunca começar nada novo, não vai se desenvolver. A disposição de ser tolo é o precursor da transformação. Isso é o mesmo que humildade. Se você vai escrever seu destino, pode fazer um primeiro trabalho ruim. Vai ficar mais esperto conforme avança.
+
+Algo te chama. Talvez a estrela sobre a qual Gepetto fez desejo fosse a estrela errada, mas pelo menos era uma estrela, certo? Pelo menos estava no céu. Pelo menos o moveu pra frente. E então você diz na sua vida: bem, algo me agarra, e me enche de interesse. E você pensa, devo fazer isso? A resposta é: se não isso, então algo! E se for um erro? É um erro! Pode ter certeza. O que você sabe? Você vai tropeçar por aí, certo? E o que vai acontecer é: você não vai ficar em estase; não vai vagar em círculos. Vejo pessoas assim. Dizem: nunca soube o que fazer, e agora tenho 40. Isso não é bom. E há literatura que sugere que as pessoas são muito mais infelizes, quando olham pra trás, sobre as coisas que não fizeram do que sobre os erros que cometeram enquanto faziam coisas.
+
+Há erros redentores. Um erro redentor seria um erro que você comete quando sai pra tentar fazer algo. Você tenta fazer isso, não é bom nisso. Comete um monte de erros. Qual a consequência, se prestar atenção? Você não é tão burro mais. Isso é: você foi informado pelos resultados de seus erros. O que acontece é que você segue o farol; segue a luz, e é cego, então não sabe onde a luz está. É apenas vagamente apreendida, e você tem medo de segui-la. Mas decide dar alguns passos tropeçantes em direção a ela, e, conforme dá passos tropeçantes, se torna iluminado e informado pela natureza de sua experiência, porque está se empurrando além de onde está; está indo pro país onde ainda não esteve. Você aprende algo. O que acontece então é que a estrela se move. Você se move 3 metros em direção a ela, e pensa: não, não é isso. Não acertei. Não está lá; está lá. Então você vê em outro lugar, e se ajusta ligeiramente. Avança.
+
+Você continua conforme muda. A coisa que te guia pra frente se move. É como Deus no deserto no Egito. A coluna de luz que você segue está se movendo. Não é uma coisa permanente. Você se move em direção a ela, e ela se afasta. Te guia pra frente. Então você diz: o que estou mirando é o paraíso em si? A resposta é não, porque o que você sabe? Você não conseguiria ver o paraíso se estivesse bem na sua frente, mas pode ter um vislumbre. E então você se move em direção a ele, e cresce. Da próxima vez que abre os olhos, vê um pouco mais claramente. Isso acontece repetidamente. Continua se movendo, e você se move assim. Mas o legal é que cada um desses ziguezagues é uma catástrofe. Bati numa parede, meu Deus! E então tive que morrer um pouco, e mal consegui me levantar. É uma transformação fênix a cada curva.
+
+A ideia é que, se você mira adequadamente, então a natureza se alinha atrás de você. Também se arranja à sua frente, talvez até como antagonista. Mas o poder que ela te fornece de dentro pode ser suficiente pra superá-la de fora. Acho que a evidência clínica é clara sobre isso. Uma das coisas que sabemos é que, se você pega pessoas que estão confrontando coisas terríveis, e se encolhendo delas, e as ensina a estruturar seu comportamento pra avançar com coragem, tudo funciona melhor pra elas. Seus medos diminuem, e seu caráter cresce. E então pode haver o suficiente da natureza dentro de nós pra nos ajudar a resistir à natureza que está fora de nós. Depende, pelo menos em certa medida, de como nos orientamos no mundo.
 
 ## Seção IV
 
@@ -83,6 +179,10 @@ Depois vem a grande promessa: Deus tira Abraão pra fora e diz: "Olha agora para
 
 Essa é a aliança em ação. A crença aqui não é assinar um credo. É a disposição de agir como se o mundo fosse construído de tal forma que, se você fizer o certo e fizer os sacrifícios necessários, o melhor resultado possível vai ocorrer. É um ato de fé — e tem que ser, porque a evidência não pode estar lá antes de você fazer o sacrifício.
 
+Você tem que fazer sacrifícios. O que sacrificar? Aquilo que é mais valioso pra você atualmente e está te impedindo. Na história, Abraão sacrifica cordeiros; mais tarde, é confrontado com sacrificar o filho. O ponto dramático é que o compromisso é medido pelo que você está disposto a abrir mão. Sem sacrifício, não há aliança real.
+
+A mensagem das histórias abraâmicas é repetida: saia. Vá. Faça algo. Assuma a responsabilidade. Mantenha a aliança com o Ser mesmo quando parece impossível. O mundo não vai ser fácil — vai ser tirânico, catastrófico e enganoso —, mas se você continuar avançando com integridade, algo de valor se acumula, e não só pra você.
+
 ## Seção V
 
 [TIMESTAMP](https://youtu.be/GmuzUZTJ0GA?t=5659)
@@ -93,11 +193,29 @@ A mensagem repetida é: saia. Vá. Faça algo. Assuma a responsabilidade pelo se
 
 É por isso que essas histórias ainda falam tão fortemente hoje. Elas são um antídoto direto contra a passividade, o ressentimento e a recusa em assumir responsabilidade que são tão comuns. Abraão é o arquétipo do indivíduo que ouve o chamado, sai do conforto, erra, aprende, e ainda assim avança — e por causa disso a história inteira da civilização ocidental flui dele.
 
+Você move do presente insuportável pro futuro ideal. Se quer sua casa em ordem, planeje o futuro perfeito. Deus não se opõe ao sucesso daqueles que aceitam a aliança: vida abundante pode vir. E você não precisa ser perfeito pra isso acontecer.
+
+Ir pro desconhecido transforma você. Cada passo tropeçante em direção à estrela te ilumina um pouco mais. A estrela se move conforme você muda. Cada ziguezague é uma pequena morte e renascimento. É a jornada do herói em ação.
+
+É necessário que os homens se levantem e assumam responsabilidade. Eles sabem disso, e estão famintos por essa mensagem. O antídoto pra vitimismo e passividade é verdade e responsabilidade. "Pegue a coisa mais pesada que conseguir e carregue." Quando você fala isso, a sala fica silenciosa e os olhos se abrem. Porque é o segredo pra uma vida significativa.
+
+Abraão não é perfeito. Ele mente, ele erra, ele tem falhas — mas mantém a aliança. E por causa disso, não só ele prevalece: seus descendentes prevalecem. Essa é a boa notícia para todos nós, que não somos perfeitos.
+
+A primeira frase das histórias abraâmicas é um chamado à aventura em quatro partes: saia da sua terra (vá pro desconhecido), da sua parentela (cresça, torne-se independente), da casa do seu pai (deixe a proteção excessiva), para a terra que eu te mostrarei (siga o que te compele, a estrela que brilha além do horizonte). Cada parte é profunda. O chamado não é pra conforto imediato; é pra transformação.
+
+Deus não manda Abraão direto pra terra que mana leite e mel. Manda pra lugar de fome, tirania, dissolução, engano — exatamente como o mundo real. E ainda assim diz: vá, e você será pai de nações. A boa notícia é que, se você for alinhado com o divino, pode florescer no meio do caos. Abraão nunca chega à terra prometida, mas sua missão é divina. A sua também será assim.
+
+Quando você sai, coisas radicais acontecem. Você confronta o pior de si e do mundo. Mas o sacrifício contínuo mantém a aliança. E o que você sacrifica abre espaço pro que é melhor. A estrela se move, você se move, e cada passo te transforma. É por isso que as histórias de Abraão são o início da história como a entendemos: o indivíduo emerge, assume responsabilidade, e o divino se retira na medida em que o humano avança.
+
 Obrigado por terem vindo. Na próxima vamos continuar com mais das aventuras de Abraão, incluindo o sacrifício de Isaque — uma das histórias mais difíceis e importantes de toda a Bíblia.
 
----
+Quando você sai da sua terra, parentela e casa do pai, você entra no desconhecido e sofre transformações radicais. Isso é sacrifício voluntário. É a mesma coisa que lutar o dragão. O chamado ao ideal é sequência de mortes e renascimentos.
 
-## Notas de rodapé
+Você vê o mesmo em Pinóquio: o grilo chama; a estrela transcende. Gepetto quer filho autônomo — marca de não-tirano. O tolo disposto a errar é precursor do salvador. Erros redentores informam. A estrela se move. Cada ziguezague é fênix.
+
+É necessário que os homens se levantem. O antídoto pro vitimismo é responsabilidade. "Pegue a coisa mais pesada e carregue." A sala fica silenciosa porque as pessoas estão famintas por isso.
+
+Abraão mente, erra, tem falhas — mas mantém a aliança. E por causa disso é abençoado e a civilização flui dele. Essa é a boa notícia pra todos nós que não somos perfeitos.
 
 ---
 
@@ -115,4 +233,50 @@ Obrigado por terem vindo. Na próxima vamos continuar com mais das aventuras de 
 
 [^6]: **"Contempla as estrelas"**: A promessa impossível (Abraão é velho e Sara é estéril). A fé aqui é a disposição de apostar sua vida na ideia de que o sacrifício e a orientação correta produzem frutos que vão muito além do que você consegue ver no momento.
 
-[^7]: **Responsabilidade como antídoto**: Peterson conecta diretamente o chamado de Abraão com o que ele observa em seu público (especialmente jovens homens): uma fome profunda por responsabilidade, em contraste com a cultura contemporânea de direitos, vitimismo e passividade. "Pegue a coisa mais pesada que conseguir e carregue." --- **Fim da Lecture 09**
+[^7]: **Responsabilidade como antídoto**: Peterson conecta diretamente o chamado de Abraão com o que ele observa em seu público (especialmente jovens homens): uma fome profunda por responsabilidade, em contraste com a cultura contemporânea de direitos, vitimismo e passividade. "Pegue a coisa mais pesada que conseguir e carregue."
+
+[^8]: **Limpar o quarto como microcosmo**: Começar pelo que está à mão (quarto) é o primeiro passo pra consertar o mundo. Organizar espaço, sono, roupas, beleza com gosto (não dinheiro) desenvolve disciplina e criatividade. Restrições facilitam, não impedem.
+
+[^9]: **Grão de mostarda e futuro**: O reino dos céus como semente minúscula que cresce imenso. O futuro que você visa determina o significado presente. Planejar 3-5 anos (Future Authoring) é ato de fé e responsabilidade.
+
+[^10]: **"Perfeito em suas gerações" (Noé)**: Não só andar com Deus, mas ter família integrada. A arca é Noé + família unida. Em crise (dilúvios da vida), relacionamentos curados determinam sobrevivência.
+
+[^11]: **James Simon e atenção**: O pintor que pinta os pés plantados em lugares mundanos ensina: tudo vale atenção infinita. O artista olha demoradamente e revela o infinito no finito. Prestar atenção ao que está à sua frente é ato sagrado.
+
+[^12]: **Alquimia e transformação do eu**: O alquimista transforma matéria e a si mesmo simultaneamente. Limpar o quarto é trabalho psicológico. Beleza + ordem = microcosmo que evoca patologias da família — confrontar demônios da casa é parte do processo.
+
+[^13]: **Demônios da família**: Ao tentar melhorar, a família pode puxar de volta (inveja, medo). Confronto necessário. Linhagens de problemas vão longe no tempo. Humildade vem de ver o quão difícil é organizar apenas seu quarto.
+
+[^14]: **Necessidade como motor**: Filhos de imigrantes de 1ª geração prosperam por necessidade. Proteção excessiva priva de crescimento. Afastar-se (de terra, parentela, casa do pai) permite que necessidade impulsione maturidade e independência.
+
+[^15]: **Interesse como chamado divino**: Você não escolhe o que te interessa; o interesse te agarra. Subpersonalidades ou "espíritos" dentro. Escutar o que te compele é escutar Deus (ou o equivalente). Ignorar = pagar caro com sofrimento e autodesprezo.
+
+[^16]: **Não ser mestre da própria casa**: Sonhos, impulsos, atenção — coisas dentro de você escapam ao controle consciente. O chamado vem de fora do ego. Ir pro desconhecido = confrontar o que te move verdadeiramente.
+
+[^17]: **Estrela que se move**: O ideal (estrela) não é fixo. Conforme você avança, a visão se refina e a meta se move. Cada passo ilumina mais. É processo de mortes e renascimentos (fênix). Jornada do herói.
+
+[^18]: **Erro redentor**: Erros cometidos ao tentar algo novo informam e amadurecem. Pessoas se arrependem mais do que não fizeram do que dos erros que fizeram agindo. Disposição de ser tolo (trickster) é precursor da transformação.
+
+[^19]: **Trickster / bobo como precursor do salvador**: Jung: o tolo/irônico/encrenqueiro precede o herói. Se não estiver disposto a ser tolo no começo, nunca começa nada novo. Humildade = estar aberto a errar no início.
+
+[^20]: **Sacrifício = compromisso**: Sem sacrifício não há aliança. Abraão queima cordeiros (vivo + valioso). Mais tarde enfrenta o filho. O ato dramático ensina seriedade. Rituais de sacrifício indicam compromisso real.
+
+[^21]: **"Que eu te mostrarei"**: A terra não é especificada de antemão. O chamado é pra ir com fé. O destino se revela no caminho. Fronteira psicológica/geográfica: sempre há território desconhecido à frente.
+
+[^22]: **Pinóquio e consciência autônoma**: Natureza + cultura são determinísticas. O terceiro elemento nas histórias é consciência autônoma (o grilo, a estrela). Gepetto quer filho autônomo — marca de não-tirano. Autonomia + mira alta = núcleo da cultura ocidental.
+
+[^23]: **Gepetto e berço do reino**: Casa simples onde tudo é bom = palácio. Todo lugar pode ser berço do reino de Deus. O mundano é ilusão. O mágico acontece onde há integridade e atenção.
+
+[^24]: **Pão e água em paz vs banquete em conflito**: Melhor pouco em harmonia que muito em discórdia. Análise clara da estrutura do mundo. A transformação começa no pequeno bem feito.
+
+[^25]: **Futuro Authoring e autoria**: Dividir-se em duas pessoas (eu atual vs eu que cuida de mim como de alguém amado). Planejar amizades, família, caráter. Tratar-se como criatura de valor divino independente das ações.
+
+[^26]: **Abraão e a notícia boa**: Homem falho (mentiras, erros) é abençoado e funda nação. Perfeição não é requisito. Manter aliança apesar de falhas é o que importa. Isso é esperança para todos.
+
+[^27]: **Dirigir-se ao bem no caos**: Se alinhado com o divino (Ser), você pode operar no meio de tirania, catástrofe e engano e florescer. Paralelo ao Sermão da Montanha. O mundo é exatamente esse lugar — e a notícia é boa.
+
+[^28]: **O chamado é para todos**: "Vá fazer algo" não é só pra Abraão. É pra você. Nada que você fez com coração e alma foi desperdiçado. O retorno vem, mesmo se não da forma esperada. Sacrifício produz valor acumulado.
+
+[^29]: **Jovem homens e responsabilidade**: O silêncio na plateia quando se fala de carregar o peso mais pesado revela fome. Cultura de direitos/vitimismo é anti-humana. Revelar o melhor de si é força avassaladora pro bem.
+
+[^30]: **A estrela e o herói**: Desejar pra estrela = erguer olhos pro transcendente e pactuar. O chamado move da estase pro crescimento. Abraão é protótipo do indivíduo que ouve, sai, erra, aprende, avança — e muda a história.
