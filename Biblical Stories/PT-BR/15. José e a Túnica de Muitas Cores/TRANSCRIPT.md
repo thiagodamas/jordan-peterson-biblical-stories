@@ -165,4 +165,50 @@ Ok, então tudo bem. Há alguma utilidade em perseguir aquelas coisas em que voc
 
 [^6]: **José como tipo de Cristo / precursor**: Tradicional na leitura cristã. O filho amado traído, que sofre injustamente, é exaltado, e salva seu povo da morte. Peterson vê também o padrão psicológico: o indivíduo competente e sem ressentimento que redime a linhagem familiar e a cultura. "Não há força mais poderosa que caráter e competência."
 
-[^7]: **Fim de Gênesis e as 12 tribos**: A série cobre as histórias fundacionais. José fecha o ciclo: da criação e queda, através do dilúvio e Babel, dos patriarcas, até o povo de Israel no Egito. Jacó abençoa invertendo tradição (Efraim sobre Manassés). O próximo movimento (Êxodo) é a saída do "inferno" que José transformou em salvação. "E isso é Gênesis." --- **Fim da Lecture 15**
+[^7]: **Fim de Gênesis e as 12 tribos**: A série cobre as histórias fundacionais. José fecha o ciclo: da criação e queda, através do dilúvio e Babel, dos patriarcas, até o povo de Israel no Egito. Jacó abençoa invertendo tradição (Efraim sobre Manassés). O próximo movimento (Êxodo) é a saída do "inferno" que José transformou em salvação. "E isso é Gênesis."
+
+[^8]: **Túnica de muitas cores / favoritismo**: O presente que gera inveja e traição. Favoritismo parental destrói famílias. José paga o preço.
+
+[^9]: **Poço e venda**: Traição dos irmãos. Inveja vira ação. José desce ao "inferno" (poço, escravidão, prisão).
+
+[^10]: **Potifar e acusação falsa**: José é íntegro no trabalho, é promovido, e é falsamente acusado por mulher de Potifar. Sofrimento injusto.
+
+[^11]: **Prisão e interpretação de sonhos**: Mesmo na prisão, José usa seu dom. Interpreta sonhos do copeiro e padeiro. Esquecido por dois anos.
+
+[^12]: **Sonhos do Faraó**: Vacas gordas e magras, espigas. Só José interpreta corretamente. Sobe do poço pro trono.
+
+[^13]: **Armazenamento e fome**: José planeja para o futuro. Competência + caráter salvam muitas vidas (incluindo a família que o traiu).
+
+[^14]: **Teste dos irmãos**: Com a taça de prata e Benjamim. Só quando Judá se oferece no lugar do caçula (transformação) José revela.
+
+[^15]: **"Vós bem intentastes mal, porém Deus o intentou para bem"**: A frase central. Mal real transformado em bem maior. Não nega o mal; afirma que bem pode triunfar.
+
+[^16]: **Ausência de ressentimento**: José nunca culpa. Quando tem poder, perdoa e providencia. Força mais poderosa: recusa o papel de vítima.
+
+[^17]: **José como tipo de Cristo**: Filho amado traído, sofre injustamente, exaltado, salva seu povo. Padrão psicológico de redenção da linhagem.
+
+[^18]: **"Deus o intentou para bem"**: Providência. Erros humanos têm consequências, mas podem ser redimidos.
+
+[^19]: **Fome como teste coletivo**: A fome força a família a confrontar o passado. O bem surge da crise.
+
+[^20]: **Jacó abençoando invertido**: Efraim sobre Manassés. Deus usa o mais novo, o inesperado.
+
+[^21]: **12 tribos**: José fecha Gênesis. O povo está no Egito, pronto pro Êxodo.
+
+[^22]: **Caráter e competência**: "Não há força mais poderosa". José armazena caráter durante o sofrimento.
+
+[^23]: **Perdão verdadeiro exige evidência**: José testa os irmãos. Arrependimento real (Judá) abre o perdão.
+
+[^24]: **Sonhos como orientação**: Deus fala em sonhos. José ouve e age.
+
+[^25]: **Subida do poço ao trono**: Padrão: descida (traição, prisão) → ascensão (interpretação, poder) → salvação.
+
+[^26]: **Irmãos transformados**: De assassinos pra protetores (Judá). O mal pode ser redimido.
+
+[^27]: **José chora**: Emoção humana. Mesmo o forte sente a dor e a reconciliação.
+
+[^28]: **Provisão para o futuro**: Planejar para a fome (7 anos de abundância). Responsabilidade prática.
+
+[^29]: **Redenção da família**: A linhagem é salva apesar da traição. O indivíduo competente sem ressentimento redime todos.
+
+[^30]: **Fim de Gênesis**: Criação → queda → dilúvio → patriarcas → José no Egito. O ciclo fecha com esperança. O próximo é Êxodo: saída do inferno que José transformou em salvação.

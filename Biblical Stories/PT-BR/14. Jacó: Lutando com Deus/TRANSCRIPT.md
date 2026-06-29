@@ -1,6 +1,6 @@
 # **Série Bíblica XIV: Jacó: Lutando com Deus**
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 por Dr. Jordan Peterson

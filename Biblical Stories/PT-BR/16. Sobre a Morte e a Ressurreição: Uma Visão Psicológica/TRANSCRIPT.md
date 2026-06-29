@@ -1,6 +1,6 @@
 # **Sobre a Morte e a Ressurreição: Uma Visão Psicológica**
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 por Dr. Jordan Peterson
@@ -195,4 +195,50 @@ Isso é Páscoa, e a Morte e Ressurreição de Cristo. Esquecemos ou permanecemo
 
 [^6]: **Red Queen de Alice**: Referência recorrente em Peterson. O ambiente muda tão rápido que você tem que correr o mais rápido que consegue só pra ficar no mesmo lugar. Parar de se transformar é cair pra trás.
 
-[^7]: **O mistério do impacto do cristianismo**: Mesmo ateus como Dawkins e Harris reconhecem que a história da morte e ressurreição de Cristo exerceu influência imensa. Peterson argumenta que isso reflete uma verdade psicológica profunda sobre a necessidade de morte e renascimento voluntários. --- **Fim da Lecture 16 (Bônus)**
+[^7]: **O mistério do impacto do cristianismo**: Mesmo ateus como Dawkins e Harris reconhecem que a história da morte e ressurreição de Cristo exerceu influência imensa. Peterson argumenta que isso reflete uma verdade psicológica profunda sobre a necessidade de morte e renascimento voluntários.
+
+[^8]: **Morte como pré-requisito do aprendizado**: Toda transformação séria exige a morte de velhas crenças, velhos hábitos, velhas identidades. Sem morte voluntária, não há renascimento.
+
+[^9]: **Ressurreição como retorno com valor**: Você não volta o mesmo. Volta com algo novo (sabedoria, caráter, orientação) para compartilhar com o mundo.
+
+[^10]: **Voluntariedade**: A cruz não é imposta; é escolhida. Aceitar o fardo voluntariamente transforma o sofrimento em sacrifício redentor.
+
+[^11]: **Inferno como rejeição da transformação**: Recusar morrer para o inadequado é ficar preso no inferno (ressentimento, vitimismo, estase).
+
+[^12]: **Cristo como padrão arquetípico**: O herói que desce voluntariamente ao inferno, confronta o mal, morre, e ressuscita. Padrão para todo desenvolvimento humano saudável.
+
+[^13]: **Logos como ação**: A Palavra que ordena o caos não é só fala; é ação verdadeira, coragem, sacrifício. Cada pessoa pode ser centro de Logos.
+
+[^14]: **Red Queen**: Mudança constante exige adaptação constante. Parar de se transformar = cair pra trás. Morte/renascimento é o mecanismo de adaptação.
+
+[^15]: **Tragédia vs inferno**: A vida é trágica. O que você faz com a tragédia determina se vira inferno ou caminho pro paraíso.
+
+[^16]: **Imitação de Cristo como processo vitalício**: Não evento único. Repetido ao longo da vida: identificar o inadequado, sacrificá-lo, renascer melhor.
+
+[^17]: **"Pegue sua cruz diariamente"**: Aceitar o fardo da própria vida (dores, limitações, responsabilidades) em vez de rebelar-se contra o ser.
+
+[^18]: **Céu e inferno como estados psicológicos**: Não só locais pós-morte. Modos de ser aqui e agora, determinados pela orientação voluntária.
+
+[^19]: **Confronto voluntário com o caos**: A ressurreição exige primeiro o confronto com o dragão (o pior de si e do mundo).
+
+[^20]: **Renascimento como serviço**: Você ressuscita não pra si, mas pra trazer ordem e valor pro mundo (redimir a linhagem, a cultura).
+
+[^21]: **Cristianismo como mito supremo**: Para Peterson, a história de Cristo é a narrativa mais completa do padrão de morte e renascimento que a psique humana reconhece como verdadeiro.
+
+[^22]: **Ciência vs mito**: O mundo como "coisas" (ciência) é útil, mas incompleto. O mundo como "fórum para ação" (mito) dá orientação para viver.
+
+[^23]: **Morte do ego**: O velho eu (orgulhoso, ressentido, limitado) deve morrer para que o self maior (alinhado com o Logos) nasça.
+
+[^24]: **Sofrimento redentor**: O sofrimento aceito voluntariamente purifica e fortalece. O sofrimento recusado corrompe.
+
+[^25]: **Arrependimento como morte**: Mudar de direção exige "morrer" para o caminho antigo. Sem arrependimento, sem renascimento.
+
+[^26]: **Ressurreição corporal**: A transformação não é só "espiritual"; afeta o modo de ser no mundo concreto (ação, relacionamentos, trabalho).
+
+[^27]: **O túmulo vazio**: Símbolo de que a morte não tem a última palavra quando a vida é vivida em aliança com o Bem.
+
+[^28]: **Cristo como juiz e salvador**: O padrão que revela o inadequado (juiz) e oferece o caminho de saída (salvador).
+
+[^29]: **Vida como série de mortes e ressurreições**: Do nascimento (morte do útero) até a velhice (morte de capacidades). Cada estágio exige sacrifício.
+
+[^30]: **A maior história**: A morte e ressurreição de Cristo encapsula o padrão que permite ao indivíduo suportar a tragédia da existência e transformar o inferno em paraíso. É por isso que a história ainda fala com tanta força.
