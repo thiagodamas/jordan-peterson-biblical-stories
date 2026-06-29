@@ -1,6 +1,6 @@
 # **Série Bíblica XIII: A Escada de Jacó**
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 por Dr. Jordan Peterson
@@ -77,10 +77,6 @@ Obrigado por terem vindo. Na próxima vamos para a história de José — o clí
 
 ---
 
-## Notas de rodapé
-
----
-
 **Notas**
 
 [^1]: **Israel = "Aquele que luta com Deus"**: O nome mais importante da tradição. Não significa submissão passiva. Significa engajamento ativo, wrestling, recusa em desistir da relação mesmo quando dói. Essa é a definição de "crer" no Antigo Testamento segundo Peterson.
@@ -95,4 +91,50 @@ Obrigado por terem vindo. Na próxima vamos para a história de José — o clí
 
 [^6]: **Betel**: "Casa de Deus". O lugar onde o céu e a terra se tocam. Jacó transforma o sonho em altar e voto. O local comum se torna sagrado através da experiência transformadora.
 
-[^7]: **Moralidade realista das histórias bíblicas**: Peterson enfatiza repetidamente que os "heróis" de Gênesis são profundamente falhos (mentem, traem, têm favoritos, etc.). Isso não é defeito das histórias — é o que as torna grandes e úteis. Pessoas reais, com falhas reais, ainda podem ter relação com o divino e gerar algo de valor. --- **Fim da Lecture 13**
+[^7]: **Moralidade realista das histórias bíblicas**: Peterson enfatiza repetidamente que os "heróis" de Gênesis são profundamente falhos (mentem, traem, têm favoritos, etc.). Isso não é defeito das histórias — é o que as torna grandes e úteis. Pessoas reais, com falhas reais, ainda podem ter relação com o divino e gerar algo de valor.
+
+[^8]: **Jacó trapaceiro abençoado**: Diferente de Abraão ou Isaque, Jacó é explicitamente manipulador. Mesmo assim tem a visão e a luta. O divino não exige perfeição moral prévia.
+
+[^9]: **Luta no vau de Jaboque**: Cena arquetípica. Luta física a noite toda, se recusa a soltar até ser abençoado. Quadril deslocado = preço permanente da luta. Bênção através do confronto.
+
+[^10]: **Escada de anjos / Betel**: Conexão estruturada entre terra e céu. O lugar comum se torna sagrado através da experiência. "Casa de Deus". Arquitetura religiosa inteira ecoa isso.
+
+[^11]: **Reconciliação com Esaú**: O traído corre e abraça. Graça onde justiça seria esperada. Arrependimento real (presentes, humilhação) abre a porta.
+
+[^12]: **"Israel" = luta com Deus**: Não submissão passiva. Engajamento ativo, wrestling, recusa em desistir da relação mesmo quando dói. Definição de "crer".
+
+[^13]: **Sonho e voto**: Jacó sonha e faz voto condicional. Transforma experiência em compromisso. O sagrado exige resposta humana.
+
+[^14]: **Engano da bênção**: Jacó rouba a bênção de Esaú com ajuda de Rebeca. Consequências (fuga, labuta com Labão) ensinam.
+
+[^15]: **Labão e o engano recíproco**: Jacó é enganado com Lia em vez de Raquel. O trapaceiro é trapaceado. Justiça poética e crescimento.
+
+[^16]: **Escada como participação vertical**: O ser humano pode participar da conexão entre humano e divino. Não só passivo receptor.
+
+[^17]: **Preço da bênção**: Jacó manca pelo resto da vida. A bênção não é grátis; deixa marca permanente.
+
+[^18]: **Esaú perdoador**: O "irmão hostil" perdoa. Mostra que a graça pode aparecer onde menos se espera.
+
+[^19]: **Jacó como protótipo do Ocidente**: O indivíduo falho que luta, erra, sofre, se transforma e gera nação. Luta ética em vez de obediência cega.
+
+[^20]: **Sonho como revelação**: A escada não é invenção; é recebida. O divino se manifesta em sonho quando o ego dorme.
+
+[^21]: **Voto prático**: "Se Deus for comigo... então o Senhor será meu Deus". Fé que se expressa em compromisso concreto (dízimo).
+
+[^22]: **Fuga e retorno**: Padrão do herói. Sai, sofre, luta, volta transformado. Jacó sai como trapaceiro, volta como Israel.
+
+[^23]: **Luta com o anjo = luta com o self**: O "homem" que luta é aspecto do próprio Jacó ou do divino. Integração do shadow.
+
+[^24]: **Nome mudado = identidade transformada**: Jacó (suplantador) vira Israel (luta com Deus). A luta redefine quem você é.
+
+[^25]: **Bênção para todas as nações**: Mesmo através de um trapaceiro, a promessa abraâmica se cumpre. Graça apesar de falhas.
+
+[^26]: **Arquétipo da escada**: Conexão vertical aparece em toda tradição (árvore do mundo, zigurates, catedrais). Aspiração humana + descida divina.
+
+[^27]: **Decepção familiar**: Rebeca favorece Jacó, Isaque favorece Esaú. Famílias disfuncionais geram destino. Mas destino pode ser redimido.
+
+[^28]: **Trabalho com Labão**: 14 anos por Raquel. Engano ensina paciência e astúcia. Jacó amadurece no exílio.
+
+[^29]: **Retorno e medo**: Jacó teme Esaú. Envia presentes, luta, se humilha. Preparação para reconciliação.
+
+[^30]: **Luta como bênção**: O quadril deslocado é marca de que você encontrou Deus e não foi destruído. A ferida é o sinal da transformação. Quem luta com o Ser é abençoado, mesmo mancando.
