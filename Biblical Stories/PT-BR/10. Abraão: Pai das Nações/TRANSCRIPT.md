@@ -1,6 +1,6 @@
 # **Série Bíblica X: Abraão: Pai das Nações**
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 por Dr. Jordan Peterson
@@ -89,10 +89,6 @@ Obrigado por terem vindo. Na próxima vamos para uma das histórias mais difíce
 
 ---
 
-## Notas de rodapé
-
----
-
 **Notas**
 
 [^1]: **Pai de muitas nações**: O título da lecture. A promessa a Abraão não é só pessoal ou tribal — é universal. A aliança vai gerar ramificações que afetam toda a humanidade (judeus, cristãos, muçulmanos traçam linhagem até ele).
@@ -107,4 +103,50 @@ Obrigado por terem vindo. Na próxima vamos para uma das histórias mais difíce
 
 [^6]: **A recusa de recompensa (L09) repetida aqui**: Abraão consistentemente se recusa a se beneficiar de forma imprópria de suas ações corretas. Manutenção da pureza ética do motivo.
 
-[^7]: **O transe de Abraão**: Peterson trata as visões e transe de forma psicológica (estados alterados de consciência, revelação interna) sem descartar o mistério. O importante não é o mecanismo, mas o conteúdo: a aliança e a promessa. --- **Fim da Lecture 10**
+[^7]: **O transe de Abraão**: Peterson trata as visões e transe de forma psicológica (estados alterados de consciência, revelação interna) sem descartar o mistério. O importante não é o mecanismo, mas o conteúdo: a aliança e a promessa.
+
+[^8]: **Crise de sucesso**: Depois de vitórias vem a pergunta "e agora?". As histórias de Abraão mostram reorientação e novo sacrifício exatamente após chegadas.
+
+[^9]: **Ismael e consequências humanas**: Tentar "ajudar" a promessa (Agar) gera ramificações reais. Deus cumpre o original (Isaque) mas abençoa também o fruto do erro. Vida é assim.
+
+[^10]: **Ande na minha presença e seja perfeito**: Orientação contínua ao ideal mais alto, não perfeição sem falhas. Abraão falha e segue.
+
+[^11]: **Aliança como contrato**: Mútuo. Abraão mantém integridade/sacrifício; Deus cumpre. Equivalente psicológico da arca.
+
+[^12]: **Pai de muitas nações**: Promessa universal, não tribal. Afeta judeus, cristãos, muçulmanos.
+
+[^13]: **Sacrifício após vitória**: Recorrente. Após resgate ou promessa, novo sacrifício é exigido.
+
+[^14]: **Futuro incerto após obediência**: Abraão obedece e ainda enfrenta fome, guerra, infertilidade. A aliança não remove o caos; dá estrutura pra atravessá-lo.
+
+[^15]: **Hagar e Sara**: Dinâmica de ciúme, status, descendência. Conflito humano dentro da promessa divina.
+
+[^16]: **Circuncisão como sinal**: Marca corporal da aliança. Lembrete constante de compromisso e separação para o sagrado.
+
+[^17]: **Mudança de nome**: Abram -> Abraão, Sarai -> Sara. Transformação de identidade que acompanha o chamado e a aliança.
+
+[^18]: **Riso de Sara**: Resposta humana natural à promessa "impossível". Deus usa até o riso.
+
+[^19]: **Anjos em Sodoma (preview)**: A visita que leva ao julgamento de Sodoma mostra a tensão entre justiça divina e intercessão humana (Abraão negocia).
+
+[^20]: **Intercessão de Abraão**: Abraão barganha por Sodoma. Mostra que o indivíduo pode dialogar com o divino sobre ética e justiça.
+
+[^21]: **Ló e a escolha da terra**: Ló escolhe o que parece melhor (planície fértil). Consequências ruins. Lição sobre visão curta vs orientação correta.
+
+[^22]: **Guerra dos reis**: Contexto político/militar realista das histórias. Abraão não é só figura espiritual; age no mundo.
+
+[^23]: **Dízimo a Melquisedeque**: Reconhecimento de ordem espiritual superior. Abraão paga dízimo antes de qualquer lei.
+
+[^24]: **Promessa de terra e descendência**: Dupla promessa. Terra física + nação numerosa. Ambas exigem fé além da evidência.
+
+[^25]: **Idolatria vs aliança**: O chamado implica rejeição de deuses locais e lealdade exclusiva ao Deus que chama.
+
+[^26]: **Fé como ação**: "Abraão acreditou e foi-lhe imputado como justiça" — não credo, mas movimento.
+
+[^27]: **Relação com o futuro**: A promessa é sempre sobre o que virá (filho, nação). Fé é orientação pro futuro desconhecido.
+
+[^28]: **Riscos da aliança**: Mentir pra salvar a vida, expor a esposa. Integridade não é ausência de medo.
+
+[^29]: **Desenvolvimento do indivíduo**: Como em 08, o humano assume mais responsabilidade; Deus "some" na medida em que o personagem amadurece.
+
+[^30]: **Arquetipo do chamado**: "Sai-te" é padrão para todo herói: deixar o conhecido, enfrentar o desconhecido, transformar-se, trazer valor de volta. Abraão é protótipo bíblico.
