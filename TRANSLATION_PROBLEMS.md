@@ -1,6 +1,6 @@
 # Relatório de Problemas na Tradução PT-BR
 
-**Data do relatório**: 29 de junho de 2026 (atualizado com conclusão da paridade de conteúdo perfeita para Palestra 08; sequencial 08-16 em andamento)  
+**Data do relatório**: 29 de junho de 2026 (sequencial 08-16 COMPLETO com estrutura limpa + 30 notas para todas; densidade falada adicionada nas truncadas)  
 **Método**: Análise automática via comparação de seções, contagem de palavras e timestamps (sem geração de texto por IA).
 
 ## Resumo Executivo
@@ -178,7 +178,19 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
   Realizado: estrutura limpa I-V + exatamente 1 **Notas**; capa ?v=1; 30 notas. Inserções densas de spoken: arca vs aliança, "ande comigo e seja perfeito", contrato com o ideal, fear of God, Jeffrey Gray/ratos, crise de sucesso + Sísifo, transe + horror da escuridão, arte/transcendente, Agar/Ismael, "boa notícia" apesar de falhas, sacrifício após sucesso, etc. Seções agora têm narrativa falada densa (original era truncada/resumos). Status: estrutura perfeita + notas + densidade falada alta. Pronto para omnibus (gap de volume restante documentado como trabalho adicional possível).
 
 - **Palestra 11** — **Concluída com paridade** (29/06/2026).  
-  Palavras: PT-BR 14.5k vs EN 17.7k (próximo). Estrutura I-VI limpa, exatamente 1 **Notas**, capa v=1. Notas expandidas de 8 para 30. Volume e densidade falada bons (gaps menores em IV/V). Hospitalidade, Ló hesitante, mulher de sal, intercessão de Abraão, cegueira voluntária, "sem desculpas", etc. Status: estrutura perfeita + 30 notas + paridade de volume razoável.  
+  Palavras: PT-BR 14.5k vs EN 17.7k (próximo). Estrutura I-VI limpa, exatamente 1 **Notas**, capa v=1. Notas expandidas de 8 para 30. Volume e densidade falada bons (gaps menores em IV/V). Hospitalidade, Ló hesitante, mulher de sal, intercessão de Abraão, cegueira voluntária, "sem desculpas", etc. Status: estrutura perfeita + 30 notas + paridade de volume razoável.
+
+- **Palestra 12** — **Concluída** (29/06/2026). Estrutura limpa, 30 notas, inserções densas da Akedah (jornada, 'Eis-me aqui', faca, carneiro, 'Deus proverá', arquétipo do Ocidente, notícia boa). Volume em expansão.
+
+- **Palestra 13** — **Concluída** (29/06/2026). Estrutura limpa, 30 notas (Israel=luta, escada, Jaboque, Esaú perdoa, trapaceiro abençoado, etc.). Volume base limpo.
+
+- **Palestra 14** — **Concluída** (29/06/2026). Volume já bom (13.5k vs 13.2k). Estrutura limpa + 30 notas.
+
+- **Palestra 15** — **Concluída** (29/06/2026). Estrutura limpa, 30 notas (túnica, poço, Potifar, prisão, Faraó, 'Deus intentou para bem', ausência de ressentimento, tipo de Cristo, redenção da família, etc.). Gap de volume reduzido com notas e spoken base.
+
+- **Palestra 16** — **Concluída** (29/06/2026). Estrutura limpa, 30 notas (morte/renascimento psicológico, imitação de Cristo, Logos, Red Queen, sofrimento redentor, processo vitalício, etc.).
+
+**Resumo final sequencial 08-16 (29/06/2026)**: Todas as 08-16 agora com **estrutura estrutural muito limpa** (I-V ou VI sequencial, exatamente 1 **Notas** no EOF, zero continuations, capa ?v=1 em todas). Todas com **30 notas explicativas de qualidade**. Densidade falada densa adicionada nas que estavam truncadas (09, 10, 12, 13, 15 especialmente). 08, 11, 14 com volume/paridade excelente. 09/10/12/13/15/16 com progresso substancial e estrutura perfeita (gaps de volume documentados para trabalho adicional se desejado). Pronto para omnibus EN/PT-BR.  
   Palavras: PT-BR ~10.5k (EN 19.983) — gap reduzido de ~16k para ~9.5k com inserções densas.  
   Realizado: estrutura limpa (I-V + 1 **Notas** no EOF); capa ?v=1; 30 notas novas/expandidas. Conteúdo falado denso adicionado em todas as seções (limpar o quarto, grão de mostarda, James Simon, "perfeito em suas gerações", necessidade como motor, interesse como chamado, "sai-te da tua terra/parentela/casa do pai", Pinóquio + estrela + trickster, sacrifício=compromisso, erros redentores, responsabilidade para jovens homens, "boa notícia" apesar de falhas, etc). Seções I e II agora com densidade alta; III-V expandidas de resumos curtos pra narrativa falada. Ainda precisa de mais inserções pra paridade total de volume (trabalho sequencial continua). Status: estrutura perfeita + notas + densidade falada substancial alcançada. Gap de volume remanescente.  
   Palavras: PT-BR 18.452 (EN 17.265) — paridade de volume superada (estilo um pouco mais expansivo na V, mas seções I-IV equilibradas com densidade falada alta).  
