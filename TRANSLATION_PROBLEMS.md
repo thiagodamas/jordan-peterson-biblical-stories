@@ -119,7 +119,7 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 06: gap=174 (<500, Seção III/V densas adicionadas)
 07: gap=-755
 08: gap=-1187
-09: gap=-1106 (estrutura reparada - dups IV/V removidos)
+09: gap=3650 (dups removidos: Sai-te repetido + bloco completo fome/Egito/Sarai/Ló repetido ~10k chars; estrutura I-V limpa, 1 **Notas**, 30 notas, cover v=1; wc limpo 17.9k vs EN 21.5k)
 10: gap=-1144 (estrutura reparada - dups II/III removidos)
 11: gap -268 (concluída individualmente; estrutura I-VI limpa, 30 notas, 1 **Notas**)
 12: gap -433 (concluída individualmente; Seção IV adicionada; estrutura I-IV limpa, 30 notas, 1 **Notas**)
@@ -183,8 +183,7 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
   Status: **Concluída** com padrão alvo de paridade e notas. Pronto para omnibus.
 
 - **Palestra 08** — **Concluída** (29/06/2026).
-- **Palestra 09** — **Parcialmente concluída** (29/06/2026, gap de volume remanescente).  
-  Trabalho denso falado + 30 notas + estrutura limpa realizado. Gap reduzido de 16k para ~9.5k. Mais inserções recomendadas para volume total.
+- **Palestra 09** — **Limpa de duplicações** (29/06/2026). Dups removidos (citação "Sai-te" + interpretação + bloco inteiro "Abrão está realmente passando por um momento ruim..." fome/Egito + retorno/Ló + explicação do pecado repetidos). Estrutura I-V sequencial limpa, exatamente 1 **Notas** no EOF, 30 notas, cover.jpg?v=1. Texto final ~17.9k palavras (EN 21.5k). Polimento de repetições de inserts anteriores feito. (Gap atual maior após limpeza; inserts densos falados podem ser adicionados depois se paridade total for priorizada.)
 - **Palestra 10** — **Concluída com paridade substancial** (29/06/2026).  
   Palavras: PT-BR ~8.9k (EN 18.45k) — gap reduzido drasticamente com inserções densas (de ~15k para ~9.5k).  
   Realizado: estrutura limpa I-V + exatamente 1 **Notas**; capa ?v=1; 30 notas. Inserções densas de spoken: arca vs aliança, "ande comigo e seja perfeito", contrato com o ideal, fear of God, Jeffrey Gray/ratos, crise de sucesso + Sísifo, transe + horror da escuridão, arte/transcendente, Agar/Ismael, "boa notícia" apesar de falhas, sacrifício após sucesso, etc. Seções agora têm narrativa falada densa (original era truncada/resumos). Status: estrutura perfeita + notas + densidade falada alta. Pronto para omnibus (gap de volume restante documentado como trabalho adicional possível).

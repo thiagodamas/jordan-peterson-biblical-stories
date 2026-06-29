@@ -2,7 +2,6 @@
 
 ![Cover](cover.jpg?v=1)
 
-
 por Dr. Jordan Peterson
 
 *Palavras-chave: Abraão, Chamado, Fé, Sacrifício, Aliança*
@@ -131,24 +130,6 @@ Você pode pensar que isso é ingênuo. Não é. Quando você para de dispensar 
 
 Uma coisa que aprendi: a batalha entre significado e niilismo. O argumento niilista é poderoso, mas não mais que o otimismo não ingênuo. O otimismo não ingênuo diz que o sofrimento pode ser reduzido se as pessoas se orientarem adequadamente e fizerem o que são capazes. O potencial humano é virtualmente ilimitado. Não há razão pra niilismo ou desesperança. Você sabe disso porque não está feliz com quem é agora, e porque vê que não estamos dando nosso melhor. Se dedicássemos 90% do esforço em vez de 55%, quão bem as coisas poderiam ficar? Comece pelo seu quarto.
 
-"Agora o Senhor disse a Abrão: Sai-te da tua terra, da tua parentela e da casa de teu pai, para a terra que eu te mostrarei."
-
-Cada cláusula é significativa. Vá pra algum lugar que você não entende! "Sai-te da tua terra." Nos anos 1920, escritores americanos foram expatriados em Paris — Hemingway, Fitzgerald. Parte da transformação deles foi estar fora do país: você não vê o que seu país é até sair. Vá pro desconhecido. Esse é o primeiro comando de Deus: vá pra onde você não sabe.
-
-"E da tua parentela." Significa crescer! Afaste-se da família o suficiente pra estabelecer independência. Muitas famílias dão proteção demais; as pessoas sabem que são privadas de necessidade. Os filhos de imigrantes de primeira geração frequentemente se dão melhor porque a necessidade os impulsiona. Se a catástrofe não te atinge imediatamente quando você não age de frente, você nunca aprende. Afaste-se da dependência pra que a necessidade te impulsione. Isso é amadurecer.
-
-Acho que parte do que ataca o avanço dos jovens na cultura é medo do poder dos homens. Confunde poder com autoridade e competência. Um homem com autoridade e competência tem poder como subproduto. Precisamos de autoridade e competência. O que mais vai nos permitir prevalecer? Vá pra fora da casa do seu pai e se estabeleça. É um chamado à aventura.
-
-"Para a terra que eu te mostrarei." Jung e outros entenderam que você não é mestre da sua própria casa. Há coisas dentro de você além do seu controle consciente: sonhos, impulsos, interesses. Interesse se manifesta e te agarra; você não pode se forçar a se interessar por algo. O que te compele? Pode ser chamado de divino porque te agarra. Há um chamado em você. Se você não escuta o que te chama pra frente, vai pagar caro: terá tudo de terrível na vida e nada de bom, e saberá que foi sua culpa. É um chamado e um aviso.
-
-A terra que você não conhece está sempre lá, e é pra onde você deve ir. Você olha o mundo através de uma história. Onde você está nunca é bom o suficiente — e isso pode ser bom, porque se fosse, não haveria nada pra fazer. Você se move do insuportável presente pro futuro melhor. A emoção positiva vem da concepção desse futuro e da evidência de que está avançando.
-
-Nas histórias abraâmicas, o que mantém a aliança é a disposição contínua de sacrificar. Sacrifício e compromisso são a mesma coisa. Abraão queima cordeiros — algo vivo e valioso — pra indicar seriedade. Talvez não tenhamos rituais de seriedade assim agora, e talvez não estejamos realmente sérios sobre nada. Talvez eles soubessem algo que perdemos.
-
-Você tem que sacrificar o que é mais valioso e está te impedindo — frequentemente o pior de você. Você se move pro futuro ideal. Se quer colocar sua casa em ordem, planeje o futuro perfeito. Deus não parece se opor ao sucesso daqueles que ele escolheu: rebanhos maiores, mais autoridade, vida abundante. Se você põe o esforço e aceita os sacrifícios, pode ser bem-sucedido além dos sonhos. Boa notícia.
-
-Ir pro desconhecido é transformação sacrificial: mover-se voluntariamente pro caos, como a luta do dragão, a história do herói. Você se transforma. O chamado ao ideal é chamado a mortes e renascimentos sucessivos que te aproximam do ideal.
-
 ## Seção III
 
 [TIMESTAMP](https://youtu.be/GmuzUZTJ0GA?t=2899)
@@ -239,17 +220,15 @@ Há regras intrínsecas ao jogo do ser humano social, e talvez regras intrínsec
 
 "E Faraó chamou Abrão e disse: Que é isto que me fizeste? Por que não me disseste que ela era tua mulher? Por que disseste: É minha irmã? para que eu a tomasse para mim por mulher; agora, pois, eis tua mulher, toma-a e vai-te. E Faraó deu ordens a seus homens a respeito dele; e eles o enviaram, a ele, e a sua mulher, e a tudo o que tinha."
 
-É interessante: Abraão vai para o lugar da fome, e então vai para o lugar da tirania, e então mente, e então quase perde sua esposa, mas porque vai, as coisas dão certo para ele. Então viva por isso.
+É notável: Abraão vai para a fome, depois para a tirania, mente, quase perde a esposa — e ainda assim, por causa da jornada, as coisas acabam dando certo. Isso é um padrão que vale a pena notar.
 
 "E Abrão subiu do Egito, ele, e sua mulher, e tudo o que tinha, e Ló com ele, para o sul. E Abrão era muito rico em gado, em prata e em ouro."
-
-É interessante: Abraão vai para o lugar da fome, e então vai para o lugar da tirania, e então mente, e então quase perde sua esposa, mas porque vai, as coisas dão certo para ele. Então viva por isso.
 
 "E ele foi em suas jornadas do sul até Betel, até o lugar onde sua tenda tinha estado no princípio, entre Betel e Ai; Até o lugar do altar" — então ele faz outro sacrifício — "que ele tinha feito lá no primeiro; e ali Abrão invocou o nome do Senhor."
 
 Então ele teve uma aventura, certo? Ele terminou sua jornada. Há um ponto culminante nesta narrativa, e agora ele não sabe o que fazer. Ele deixou o lugar onde está; ele não sabe o que fazer, então é hora de construir um altar, fazer um sacrifício, e pedir orientação divina, novamente. Ele esteve lá, fez aquilo. O que vem em seguida? A questão é feita seriamente, e isso é algo a considerar: se você quiser saber o que fazer, pergunte seriamente.
 
-Abraão sacrifica uma vida ao seu voto. Então o que você faz? Bem, você não sacrifica um animal. Você não faz um sacrifício de sangue; você faz psicologicamente. Você diz, vou sacrificar minha vida a este objetivo. É isso que você faz, se for sério. O que devo fazer em seguida? Bem, vou sacrificar minha vida a este objetivo. O que é que devo fazer que valha a pena sacrificar minha vida por? Essa é uma questão séria. Talvez seja o tipo de questão que as pessoas não fazem, porque têm medo da seriedade da questão e da magnitude potencial da resposta. Você realmente quer saber o que deveria fazer que valeria a pena sacrificar sua vida por? Bem, a resposta é sim, porque vale a pena. Mas a resposta também é não, porque é sua vida, sabe? E se você estiver errado? E você provavelmente está errado. Mas talvez isso não importe. Talvez a correção esteja no processo, e não na decisão. É o começo de uma sequência de decisões, como já apontamos.
+Abraão está disposto a sacrificar sua própria vida ao voto. O que isso significa na prática? Você não sacrifica um animal. Você sacrifica psicologicamente: diz "vou dedicar minha vida a este objetivo". Se for sério, é isso que você faz. "O que devo fazer em seguida que valha a pena sacrificar minha vida por?" É uma questão séria. Muita gente evita fazer essa pergunta porque teme a gravidade da resposta. Mas vale a pena perguntar. E a resposta costuma ser: sim, vale a pena. O erro não é o problema principal — o processo de tentar, ajustar e aprender é o que transforma. Cada passo errado ensina. É o começo de uma sequência de decisões, não uma decisão única e perfeita.
 
 "E Ló também, que foi com Abrão, tinha rebanhos, gado e tendas. E a terra não podia sustentá-los, para que habitassem juntos; porque a sua substância era grande, de modo que não podiam habitar juntos. E houve contenda entre os pastores do gado de Abrão e os pastores do gado de Ló; e o cananeu e o ferezeu habitavam então na terra."
 
@@ -335,65 +314,7 @@ Então a interpretação da história, essencialmente, é que os descendentes de
 
 Acho que vamos parar aqui. Estou cansando, e é 9:29, então esse é um lugar muito bom para parar. Eu deveria fechar propriamente e apenas resumir. Então o que acontece, aqui, é que Abrão entra em uma aliança com Deus para agir no mundo. A ação é uma história de aventura, essencialmente. As aventuras se repetem, e são pontuadas por sucesso e sacrifício e re-contemplação. É a jornada do herói colina acima: eu estou aqui; há uma crise; eu colapso; eu me reconstruo para um lugar mais alto. A vida é assim, continuamente, e essa é a história de Abraão. Isso é o que é tão legal: essa é a aparência que sua vida vai ter. Se você planeja sua vida ou não, vai ser pontuada assim. Talvez não suba; talvez desça. A questão é, que tipo de recipiente você precisa estar para tolerar o movimento para cima e para baixo? É isso que a história de Abraão fornece: ela fornece uma descrição da aliança. A aliança e a arca são a mesma coisa, exceto que a aliança é o equivalente psicológico da arca. A aliança é, tenha fé na estrutura da existência e vá em frente. Essa é a aliança. A história é, essa é a melhor solução possível que você tem à mão.
 
-"E havia fome na terra…" Isso é a mãe natureza falhando em cooperar. Quer dizer, isso deve ser bastante desanimador para Abraão, não acha? Ele finalmente se organiza, quando tem 75, para sair, porque Deus diz "vá", e o primeiro lugar para onde vai, todo mundo está morrendo de fome. É tipo, você pode pensar nisso como um teste de fé, não diria? Mas ele continua. E então o que acontece? Bem, ele tem que ir para o Egito. Então ótimo; ele vai para onde todo mundo está morrendo de fome, e então, para fugir de onde todo mundo está morrendo de fome, ele vai para uma tirania. Então o começo inteiro da história não é particularmente auspicioso.
-
-"E Abrão desceu ao Egito para peregrinar lá; porque a fome era grave na terra." É uma repetição da mesma ideia, novamente, de uma viagem colina abaixo para o caos. É repetido várias vezes que o começo da jornada de Abraão é basicamente uma sequência de experiências de exílio, caos, tirania e catástrofe.
-
-Você deveria ser capaz de se relacionar com isso. Você sabe o quão difícil é organizar as coisas, sabe? Você sai para fazer o que deve fazer, digamos, e é assediado pela intransigência do mundo e pelo fracasso. Então o que você deve fazer sobre isso? Manter sua fé no bem, e continuar avançando. Essa é a ideia. Mesmo se você não comprar a metáfora, o que você vai fazer em vez disso, que não piorará as coisas? Então mesmo se não for suficiente que você esteja perseguindo, você pelo menos está evitando a transformação do caos da sua vida em puro inferno. Isso certamente pode acontecer. Você vê pessoas que estão passando por um momento terrível, e então você vê pessoas que estão passando por um momento terrível e que também estão no inferno. É muito melhor apenas ter um momento terrível do que ter um momento terrível e estar no inferno ao mesmo tempo.
-
-"E aconteceu que, quando ele estava perto de entrar no Egito, disse a Sarai, sua mulher: Eis que agora sei que és mulher formosa de parecer: Portanto será que, quando os egípcios te virem, dirão: Esta é sua mulher; e me matarão, mas a ti te deixarão viva."
-
-Abrão está realmente passando por um momento ruim. Ele é um fracasso. Está vagando pela terra da fome, e agora vai ser quase escravo no Egito. Tem esta esposa incrivelmente atraente, e tudo o que pode esperar é que o homem mais bem-sucedido no Egito, o Faraó, a tire dele. Então ele tem toda a coisa de amargura resolvida, pelo que posso dizer. E é quando comete um de seus erros, digamos, e um dos erros que o humaniza.
-
-"Dize, peço-te, que és minha irmã; para que me vá bem por tua causa, e minha alma viverá por tua causa. E aconteceu que, quando Abrão entrou no Egito, os egípcios viram que a mulher era muito formosa. Também os príncipes de Faraó a viram e a louvaram diante de Faraó; e a mulher foi tomada para a casa de Faraó. E tratou bem a Abrão por causa dela; e ele teve ovelhas, bois, jumentos, servos, servas, jumentas e camelos."
-
-Então, na verdade, as coisas dão muito certo para Abrão, apesar de seu engano, o que é bastante interessante. Acho que é porque, se a estrutura geral é sólida — algo assim — então erros ainda podem ser perdoados, para falar disso de uma perspectiva metafórica.
-
-"E o Senhor feriu Faraó e sua casa com grandes pragas por causa de Sarai, mulher de Abrão."
-
-Bem, não parece muito justo, porque o Faraó não sabia. Mas não é o jeito certo de olhar para isso. O jeito certo de olhar para isso — há uma história mais tarde na Bíblia sobre Davi. Davi podia ser um cara bem ruim. Quando se torna rei, está em seu castelo, olhando sobre a cidade, e vê uma mulher tomando banho de sol nua, no telhado, fora na cidade. Ele fica encantado por ela — chocado por ela. Faz indagações sobre quem ela é. Seu nome é Bate-Seba, e ele descobre quem é seu marido. Seu marido na verdade acontece de ser um general em seu exército. Ele arranjou para que esse general fosse posto no meio da batalha e morto. E então toma Bate-Seba.
-
-O Senhor não fica satisfeito com isso, digamos assim. Essa é uma história interessante porque você pode dizer, bem, por que o rei não pode fazer o que diabos quiser? Sério; ele é o rei. Não é apenas como o Primeiro-Ministro ou o Presidente. Ele é o rei. Então você pode dizer, bem, por que o rei está sujeito a quaisquer regras, seja o que for? Qual é a razão para o rei estar sujeito a regras? Bem, a razão emerge nessas histórias. Há restrições sociais tais que, mesmo se o governante da terra transgredir contra elas, haverá inferno a pagar. Isso é continuamente apresentado, várias vezes, nas histórias bíblicas. É uma ideia de lei natural.
-
-Há regras intrínsecas ao jogo do ser humano social, e talvez regras intrínsecas ao estado natural do ser humano. Você quebra essas regras consciente ou inconscientemente sob seu absoluto perigo — e não só sob seu perigo, mas sob o perigo do estado. Não importa quem você é. Eu diria que isso na verdade é uma indicação de Deus ser justo, em vez de injusto. Porque a regra é: Faraó ou não, você não tem o direito de tomar a esposa de outra pessoa, e a ignorância não é desculpa. Você pode dizer que isso é um pouco duro — e talvez seja um pouco duro — mas a ideia não é sem mérito. Claro, Abrão é cúmplice nisso. Apesar disso, ele é bem-sucedido.
-
-"E Faraó chamou Abrão e disse: Que é isto que me fizeste? Por que não me disseste que ela era tua mulher? Por que disseste: É minha irmã? para que eu a tomasse para mim por mulher; agora, pois, eis tua mulher, toma-a e vai-te. E Faraó deu ordens a seus homens a respeito dele; e eles o enviaram, a ele, e a sua mulher, e a tudo o que tinha."
-
-É interessante: Abraão vai para o lugar da fome, e então vai para o lugar da tirania, e então mente, e então quase perde sua esposa, mas porque vai, as coisas dão certo para ele. Então viva por isso.
-
-"E Abrão subiu do Egito, ele, e sua mulher, e tudo o que tinha, e Ló com ele, para o sul. E Abrão era muito rico em gado, em prata e em ouro."
-
-É interessante: Abraão vai para o lugar da fome, e então vai para o lugar da tirania, e então mente, e então quase perde sua esposa, mas porque vai, as coisas dão certo para ele. Então viva por isso.
-
-"E ele foi em suas jornadas do sul até Betel, até o lugar onde sua tenda tinha estado no princípio, entre Betel e Ai; Até o lugar do altar" — então ele faz outro sacrifício — "que ele tinha feito lá no primeiro; e ali Abrão invocou o nome do Senhor."
-
-Então ele teve uma aventura, certo? Ele terminou sua jornada. Há um ponto culminante nesta narrativa, e agora ele não sabe o que fazer. Ele deixou o lugar onde está; ele não sabe o que fazer, então é hora de construir um altar, fazer um sacrifício, e pedir orientação divina, novamente. Ele esteve lá, fez aquilo. O que vem em seguida? A questão é feita seriamente, e isso é algo a considerar: se você quiser saber o que fazer, pergunte seriamente.
-
-Abraão sacrifica uma vida ao seu voto. Então o que você faz? Bem, você não sacrifica um animal. Você não faz um sacrifício de sangue; você faz psicologicamente. Você diz, vou sacrificar minha vida a este objetivo. É isso que você faz, se for sério. O que devo fazer em seguida? Bem, vou sacrificar minha vida a este objetivo. O que é que devo fazer que valha a pena sacrificar minha vida por? Essa é uma questão séria. Talvez seja o tipo de questão que as pessoas não fazem, porque têm medo da seriedade da questão e da magnitude potencial da resposta. Você realmente quer saber o que deveria fazer que valeria a pena sacrificar sua vida por? Bem, a resposta é sim, porque vale a pena. Mas a resposta também é não, porque é sua vida, sabe? E se você estiver errado? E você provavelmente está errado. Mas talvez isso não importe. Talvez a correção esteja no processo, e não na decisão. É o começo de uma sequência de decisões, como já apontamos.
-
-"E Ló também, que foi com Abrão, tinha rebanhos, gado e tendas. E a terra não podia sustentá-los, para que habitassem juntos; porque a sua substância era grande, de modo que não podiam habitar juntos. E houve contenda entre os pastores do gado de Abrão e os pastores do gado de Ló; e o cananeu e o ferezeu habitavam então na terra."
-
-Isso também é interessante. Abrão está se dando muito bem agora. Ele saiu da fome — ei, isso é bom — saiu da tirania, e agora está meio rico. E então a história vira contra ele: ele está rico, e o sobrinho também, e agora eles não conseguem se dar bem, porque têm coisas demais. Isso é bastante cômico, também. Acho que isso é um interlúdio cômico, aqui. Agora, eles lidam com isso adequadamente.
-
-"E Abrão disse a Ló: Não haja contenda, peço-te, entre mim e ti, e entre meus pastores e teus pastores; porque somos irmãos. Não está toda a terra diante de ti? Separa-te, peço-te, de mim: se tu fores para a esquerda, eu irei para a direita; ou se tu fores para a direita, eu irei para a esquerda."
-
-Então basicamente eles sentam e dizem, bem, um de nós tem que sair da cidade. Pode ser um ou o outro; não importa realmente. Podemos jogar uma moeda, mas temos que nos separar. Eles fazem isso amigavelmente.
-
-"E Ló levantou os olhos e viu toda a planície do Jordão, que era bem regada em toda parte" — então isso é uma intuição do Éden, certo, porque Éden significa lugar bem regado — "antes que o Senhor destruísse Sodoma e Gomorra, mesmo como o jardim do Senhor, como a terra do Egito, quando se entra em Zoar."
-
-É tão interessante. Você tem foreshadowing aqui, novamente. Ló e Abrão estão tomando sua decisão sobre para onde ir, e Ló olha e vê um lugar razoável. Mas então este aviso surge de que há uma cidade lá fora onde as coisas não vão bem. As coisas estão sendo feitas mal, e as coisas não vão bem.
-
-"Então Ló escolheu para si toda a planície do Jordão; e Ló viajou para o oriente: e se separaram um do outro. Abrão habitou na terra de Canaã, e Ló habitou nas cidades da planície, e armou sua tenda em direção a Sodoma. Mas os homens de Sodoma eram maus e pecadores diante do Senhor em extremo."
-
-Agora, a palavra pecado — mencionei isso a vocês antes — é uma palavra interessante. É a derivação de um termo de arco e flecha, no meu entendimento de sua derivação. A palavra grega era hamartia, e hamartia é um termo de arco e flecha que significa errar o alvo. Vale a pena pensar nessa metáfora, porque você tem que pensar em todas as maneiras que você pode errar o alvo. Você pode fechar os olhos; isso é muito comum. Você poderia simplesmente não levantar o maldito arco e flecha para começar. Você poderia olhar para o lado errado. Você poderia ser inábil em sua mira. Eu também gosto da metáfora do arco e flecha porque os seres humanos são construídos em uma plataforma de caça. Nós sempre miramos em coisas — somos criaturas balísticas em uma trajetória, sempre. Estamos sempre em algo. Estamos sempre mirando no alvo, que é, claro, o que você faz quando caça. Você tem que acertar o alvo precisamente. É assim que somos psicologicamente. Temos que mirar em algo e então nos mover em direção a ele. E então pecar é errar o alvo, errar o bullseye, falhar em mirar, mirar mal, mirar descuidadamente, ou não mirar de jeito nenhum. Isso é como um pecado de omissão, isso é não fazer, e então ser mau é mirar no que você sabe que não deveria mirar.
-
-De novo, não penso nisso como uma moralidade externa, precisamente. Acho que você pode ler toda a narrativa bíblica de uma perspectiva psicológica. Não estamos falando de códigos externos de conduta, aqui — embora pudéssemos. A maldade que está sendo descrita é o ato de você fazer algo que você sabe que está errado, ponto. Você pode fazer algo, e não sabe se está errado ou não. Isso não é o tipo de coisa sobre a qual estamos falando. E não estamos falando das coisas que você faz, que estão certas, que outras pessoas pensam que estão erradas. Não estamos falando daquelas, também. Estamos falando daquelas coisas que você conscientemente faz embora saiba que estão erradas você mesmo. Essas são as coisas que parecem meter as pessoas em mais encrenca nessas histórias. Acredito que seja o caso. Acho que isso é muito preciso, psicologicamente.
-
-É incrível. Vejo isso o tempo todo: Se você faz algo errado, e é porque você é ignorante, você não sabe melhor, não dá certo para você. Esse é o caso. Mas se você faz algo errado, e sabe que está errado, a punição é múltipla. Acho que a razão para isso é porque isso te faz Caim. Significa que você trai seu próprio ideal. Se você simplesmente não sabe, bem, você não traiu seu ideal; você simplesmente não está junto. Talvez você seja até cegamente voluntário. Mas se você faz algo que sabe que está errado, então você traiu seu próprio ideal. Então isso te coloca — uma vez que Caim destruiu Abel, Caim disse a Deus, "não posso suportar meu castigo."
-
 ## Seção V
-
-[TIMESTAMP](https://youtu.be/GmuzUZTJ0GA?t=5659)
 
 [TIMESTAMP](https://youtu.be/GmuzUZTJ0GA?t=5659)
 
@@ -419,15 +340,9 @@ Quando você sai, coisas radicais acontecem. Você confronta o pior de si e do m
 
 Obrigado por terem vindo. Na próxima vamos continuar com mais das aventuras de Abraão, incluindo o sacrifício de Isaque — uma das histórias mais difíceis e importantes de toda a Bíblia.
 
-Quando você sai da sua terra, parentela e casa do pai, você entra no desconhecido e sofre transformações radicais. Isso é sacrifício voluntário. É a mesma coisa que lutar o dragão. O chamado ao ideal é sequência de mortes e renascimentos.
-
-Você vê o mesmo em Pinóquio: o grilo chama; a estrela transcende. Gepetto quer filho autônomo — marca de não-tirano. O tolo disposto a errar é precursor do salvador. Erros redentores informam. A estrela se move. Cada ziguezague é fênix.
-
-É necessário que os homens se levantem. O antídoto pro vitimismo é responsabilidade. "Pegue a coisa mais pesada e carregue." A sala fica silenciosa porque as pessoas estão famintas por isso.
-
-Abraão mente, erra, tem falhas — mas mantém a aliança. E por causa disso é abençoado e a civilização flui dele. Essa é a boa notícia pra todos nós que não somos perfeitos.
-
 ---
+
+
 
 **Notas**
 
