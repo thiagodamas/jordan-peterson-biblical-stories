@@ -153,7 +153,21 @@ José morre no Egito, mas faz os irmãos jurarem que levarão seus ossos quando 
 
 A mensagem é brutalmente prática: não importa onde você esteja — poço, prisão, palácio — você pode fazer as coisas melhores. Caráter e competência são mais fortes que qualquer circunstância. E o mal que te fizeram pode ser usado para bem maior, se você se recusar a ser vítima e se recusar ao ressentimento.
 
-E isso é Gênesis. O fim das histórias patriarcais. Da criação ao dilúvio, de Abraão a José. O povo de Israel está no Egito, pronto para o Êxodo. A próxima série começa com Moisés.
+José é o arquétipo do indivíduo que recusa o papel de vítima. Traído pela família, escravizado, acusado falsamente, esquecido na prisão — ele nunca culpa. Quando tem poder, ele perdoa e providencia. Isso é a força mais poderosa: caráter sem ressentimento.
+
+Quando os irmãos voltam temendo vingança, ele diz a mesma frase que repetiu antes: "Deus o intentou para bem." O mal foi real. As intenções deles foram más. Mas o resultado foi salvação para muita gente.
+
+Ele testa os irmãos primeiro. Não perdoa automaticamente. Só quando Judá se oferece como escravo no lugar de Benjamim (o oposto do que fizeram com José) é que José revela. Perdão verdadeiro exige evidência de mudança.
+
+A família inteira desce para o Egito. José armazena caráter durante os anos de sofrimento e agora usa isso para salvar todos — inclusive os que o traíram.
+
+Quando Jacó morre, os irmãos temem. José repete: "Deus o intentou para bem."
+
+No final, ele faz os irmãos jurarem que levarão seus ossos quando Deus os tirar do Egito. Ele morre no poder, mas guarda a visão do futuro.
+
+E isso é Gênesis. O ciclo fecha. O povo está no Egito, pronto para o Êxodo. Da criação ao dilúvio, dos patriarcas a José. A próxima é Moisés.
+
+A lição final: você pode transformar o inferno em salvação se recusar o ressentimento e guardar caráter. Não há força mais poderosa.
 
 
 ## Seção IV

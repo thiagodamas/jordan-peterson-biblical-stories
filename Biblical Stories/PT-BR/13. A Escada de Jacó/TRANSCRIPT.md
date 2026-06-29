@@ -81,17 +81,19 @@ Isso não é apenas um sonho bonitinho. É a experiência de que a psique humana
 
 Jacó, o supplantador, o trapaceiro, recebe essa visão. Ele não é puro. Ele mentiu para o pai, roubou a bênção do irmão, fugiu. Mas a escada aparece para ele mesmo assim. Isso é importante: o divino não aparece só para os santos. Aparece para quem está no caminho, mesmo que torto.
 
-Depois da visão, Jacó faz um voto prático: "Se Deus for comigo e me guardar neste caminho... então o Senhor será meu Deus." Ele transforma a experiência mística em compromisso concreto. Ele ergue uma coluna de pedra e promete o dízimo. A fé aqui é ação, não só sentimento.
+A visão da escada é uma das imagens mais antigas da humanidade. Xamãs sobem e descem estruturas como essa em suas viagens. Eles são reduzidos a esqueletos (morte simbólica), encontram espíritos ancestrais, e voltam com conhecimento. A escada é a conexão entre terra e céu, entre o humano e o divino. É a intuição de que a psique pode viajar entre níveis de realidade. Forças dentro de você — mensageiros do self — sobem e descem. O que você mais precisa está onde você menos quer olhar, e se você lutar com isso, você pode ser abençoado.
 
-Ele vai para a casa de Labão, seu tio. Lá ele é enganado exatamente como enganou. Labão troca Raquel por Lia. O trapaceiro é trapaceado. Ele trabalha 14 anos para conseguir as duas mulheres. Aprende paciência, astúcia e o custo do engano. Jacó amadurece no exílio.
+Depois da visão, Jacó faz um voto prático: "Se Deus for comigo e me guardar neste caminho... então o Senhor será meu Deus." Ele transforma a experiência mística em compromisso concreto. Ergue uma coluna de pedra e promete o dízimo. A fé aqui é ação.
 
-Quando volta, ele tem medo de Esaú. Envia presentes, se humilha, se prepara para a reconciliação. Na noite antes de encontrar o irmão, ele luta com um ser divino no vau de Jaboque. Luta a noite toda. Recusa-se a soltar até ser abençoado. O homem (ou anjo) desloca seu quadril. Jacó mancará para sempre. A bênção vem com uma ferida permanente.
+Ele vai para Labão. É enganado exatamente como enganou (Raquel trocada por Lia). O trapaceiro é trapaceado. Trabalha 14 anos. Aprende paciência e o custo do engano. Amadurece no exílio.
 
-Pela manhã ele encontra Esaú. Em vez de vingança, Esaú corre e o abraça. A graça aparece onde a justiça retributiva seria esperada. Jacó — agora Israel — é transformado pela luta.
+Quando volta, teme Esaú. Envia presentes, se humilha. Na noite antes, luta com um ser divino no vau de Jaboque. Luta a noite toda. Recusa soltar até ser abençoado. O quadril é deslocado. Ele mancará para sempre. A bênção vem com ferida permanente.
 
-A mensagem é clara: o indivíduo moralmente ambíguo pode ter uma experiência direta com o divino. A relação correta não é submissão passiva. É luta. É wrestling com o que é mais alto. É não aceitar respostas fáceis. O nome do povo inteiro vira "aquele que luta com Deus".
+Pela manhã encontra Esaú. Em vez de vingança, Esaú corre e abraça. A graça aparece onde justiça seria esperada. Jacó vira Israel — "aquele que luta com Deus".
 
-E isso é Jacó. O avô de José. O pai das doze tribos. Um homem falho que lutou, sofreu, foi enganado, enganou, e ainda assim foi abençoado porque não desistiu da luta.
+A mensagem: o indivíduo ambíguo moralmente pode ter experiência direta com o divino. A relação correta é luta, wrestling, não submissão passiva. O nome do povo inteiro é "aquele que luta com Deus".
+
+E isso é Jacó. O avô de José. O pai das doze tribos. Um homem falho que lutou, sofreu, foi enganado, enganou, e foi abençoado porque não desistiu da luta.
 
 ---
 
