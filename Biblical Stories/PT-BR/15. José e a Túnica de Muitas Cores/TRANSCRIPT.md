@@ -633,6 +633,566 @@ O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, qu
 
 
 
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
+
+
+Os irmãos descem pela segunda vez com Benjamin. José os vê e ordena que os levem para casa. Eles têm medo do dinheiro que foi devolvido. O mordomo os tranquiliza. José pergunta pelo pai. Vê Benjamin e comove-se. Serve o banquete com Benjamin recebendo porção maior.
+
+José coloca a taça de prata no saco de Benjamin. O mordomo os alcança. A taça é achada. Eles voltam. José diz: "Que é esta obra que fizestes?" Judá se oferece como escravo no lugar do irmão. Conta a história do pai que não sobreviveria a outro filho perdido.
+
+José não pode mais se conter. Chora em alta voz. "Eu sou José, vosso irmão, a quem vendestes para o Egito." Os irmãos ficam em pânico. José diz: "Não vos aflijais; porque Deus me enviou adiante de vós para preservar vida." A fome durará mais cinco anos. "Deus me enviou adiante para vos preservar posteridade na terra e para vos salvar a vida por um grande livramento."
+
+Manda buscar o pai. Dá carroças. Abraça Benjamin e chora. Beija todos os irmãos.
+
+Israel vai ao Egito. Deus aparece: "Eu descerei contigo." José provê para toda a família.
+
+O mal se transforma em bem maior. O indivíduo que não se corrompe no poço, que armazena caráter, salva a todos.
+
+
+
 **Notas**
 
 [^1]: **Túnica de muitas cores** — símbolo de favoritismo e plurapotencialidade. Causa inveja e traição entre os irmãos.
