@@ -1,6 +1,6 @@
 # **Biblical Series X: Abraham: Father of Nations**  
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 by Dr. Jordan Peterson

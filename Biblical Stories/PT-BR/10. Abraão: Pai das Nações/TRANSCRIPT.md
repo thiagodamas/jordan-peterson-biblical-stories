@@ -79,8 +79,6 @@ Muito estranho — uma série de interpretações muito, muito estranhas. Parece
 
 "E eis que um horror de grande escuridão caiu sobre ele — isso foi projetado pra inspirar um temor no espírito de Abrão, e possuí-lo com uma santa reverência. O santo temor prepara a alma para a santa alegria; Deus humilha primeiro, e então levanta."
 
-## Seção II (expansão - Hagar, Ismael, aliança, circuncisão, Isaque, "ande diante de mim e seja perfeito")
-
 E Agar deu à luz a Abrão um filho; e Abrão chamou o nome de seu filho, que Agar deu à luz, Ismael. E Abrão tinha oitenta e seis anos quando Agar deu à luz Ismael a Abrão.
 
 Então, no final de outra história. E então, novamente, há um encontro entre Abraão e Deus.
@@ -135,7 +133,7 @@ Ele era um cara durão. Estes tipos de punk vinham até ele, e meio que o desafi
 
 Esse é um bom exemplo desta questão com relação à verdade e sucesso em uma terra estranha. Eu estava em uma terra estranha quando estava falando com meu vizinho, meu senhorio. Consegui dizer o que era verdade cuidadosamente o suficiente para que, apesar do fato de que ele era uma pessoa muito violenta, e que ele era uma pessoa muito intoxicada, e que ele tinha todas as razões para ser suspeito de mim, e nós não podíamos nos comunicar muito bem, e eu não fiz o que ele queria, ele aceitou, e saiu, e não houve problema, e a vida continuou bem depois disso. Então não queremos subestimar a utilidade de estabelecer este relacionamento delimitado com o ideal, e tentar viver com alguma nobreza, em verdade, enquanto mirando no mais alto ideal. Nada sobre isso é qualquer coisa menos fortalecedor e positivo. É exatamente o que você precisa colocar contra a catástrofe e incerteza da vida. Pelo que posso dizer, é isso que estas histórias abraâmicas estão tentando comunicar. Então vamos parar aqui. Obrigado. 
 
-## Seção III (continuação - aliança, circuncisão, Isaque, "ande diante de mim")
+## Seção III
 
 "E farei a minha aliança entre mim e ti, e te multiplicarei grandissimamente. E Abrão caiu sobre o seu rosto: e Deus falou com ele, dizendo: Quanto a mim, eis que a minha aliança é contigo, e tu serás pai de muitas nações."
 
@@ -172,8 +170,6 @@ Então comprei o micro-ondas, torradeira, e algumas outras coisas. Mas então mi
 Ele era um cara durão. Estes tipos de punk vinham até ele, e meio que o desafiavam, e agiam estupidamente ao redor dele. Ele era muito cético, e se você estivesse agindo estupidamente ao redor dele por qualquer período de tempo, ele simplesmente te batia, porque ele sentia que era o que você merecia, e talvez ele estivesse certo. Então tive uma oportunidade em primeira mão de observá-lo. Então de qualquer forma, certamente, cerca de uma semana ou duas depois que tivemos esta conversa, ele apareceu na porta. Bate, bate, bate. Abri a porta, e ele estava parado lá, com os olhos meio fechados. Ele estava balançando. Ele tinha — não me lembro qual era o aparelho, desta vez, mas ele queria me vender. Eu disse: ‘Paul, eu não posso comprar isso. Não vou comprar isso, porque eu sei que você está tentando parar de beber. Se eu te der este dinheiro, então você vai sair e beber. Não vai ser bom para você…’ O que mais eu disse a ele? Acho que eu disse a ele, também, que toda esta coisa dele vindo para minha casa como às duas da manhã estava assustando minha esposa, que ele gostava, e que isso tinha que parar. Acredite em mim, cara, eu estava pensando no que eu estava dizendo. Ele estava me olhando como um cara durão olha você. Um cara durão olha você assim: ele pensa: ‘se você disser uma coisa que indique desprezo, você vai pagar caro por isso.’ Então eu estava encontrando minhas palavras como se estivesse cruzando um pântano, e tentando procurar as pedras debaixo da superfície. Eu disse o que tinha que dizer muito, muito cuidadosamente. Ele me olhou por cerca de 15 segundos, e esse é um longo tempo para ser olhado, às três da manhã. Ele saiu, e nunca mais voltou para me vender nada, e nos dávamos bem bem.
 
 Esse é um bom exemplo desta questão com relação à verdade e sucesso em uma terra estranha. Eu estava em uma terra estranha quando estava falando com meu vizinho, meu senhorio. Consegui dizer o que era verdade cuidadosamente o suficiente para que, apesar do fato de que ele era uma pessoa muito violenta, e que ele era uma pessoa muito intoxicada, e que ele tinha todas as razões para ser suspeito de mim, e nós não podíamos nos comunicar muito bem, e eu não fiz o que ele queria, ele aceitou, e saiu, e não houve problema, e a vida continuou bem depois disso. Então não queremos subestimar a utilidade de estabelecer este relacionamento delimitado com o ideal, e tentar viver com alguma nobreza, em verdade, enquanto mirando no mais alto ideal. Nada sobre isso é qualquer coisa menos fortalecedor e positivo. É exatamente o que você precisa colocar contra a catástrofe e incerteza da vida. Pelo que posso dizer, é isso que estas histórias abraâmicas estão tentando comunicar. Então vamos parar aqui. Obrigado.
-
-## Seção III
 
 A aliança é renovada e expandida. Deus promete a Abraão uma terra e uma descendência tão numerosa quanto as estrelas do céu. E Abraão acredita. Essa é a parte crucial: ele acredita na promessa mesmo quando as evidências contrárias são esmagadoras (ele é velho, Sara é estéril).
 
