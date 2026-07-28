@@ -119,7 +119,7 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 06: gap=174 (<500, Seção III/V densas adicionadas)
 07: gap=-755
 08: gap=-1187
-09: gap=3650 (dups removidos: Sai-te repetido + bloco completo fome/Egito/Sarai/Ló repetido ~10k chars; estrutura I-V limpa, 1 **Notas**, 30 notas, cover v=1; wc limpo 17.9k vs EN 21.5k)
+09: gap=+242 (CONCLUÍDA 29/06/2026: dups limpos + inserts densos II/III/V + redistribuição IV→V; I-V limpa, 1 **Notas**, 30 notas, cover v=1; ~21.3k vs EN 21.5k)
 10: gap=-1144 (estrutura reparada - dups II/III removidos)
 11: gap -268 (concluída individualmente; estrutura I-VI limpa, 30 notas, 1 **Notas**)
 12: gap -433 (concluída individualmente; Seção IV adicionada; estrutura I-IV limpa, 30 notas, 1 **Notas**)
@@ -136,6 +136,31 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 - 12-16: pendentes (processo em ordem, sem pular).
 
 **Método de otimização**: wc por seção via python/sed (leitura limitada), read_file offset/limit para EN sections com gap, inserts targeted de spoken denso PT-BR (exemplos, metáforas, "você", "bem", "certo"), re-wc até gap<500 para a corrente, depois commit granular + push + update report. Sem ler arquivos inteiros quando possível.
+
+---
+
+## Plano de execução de gaps (2026-06-29)
+
+**Meta:** gap total EN−PT < 500 (ou PT≥EN), seções equilibradas, sem dups, estrutura limpa (I–V/VI, 1 **Notas**, ~30 notas, cover ?v=1).
+
+**Método por palestra:** (1) wc total + por seção; (2) dedup se houver repetição; (3) inserts densos falados só nas seções short vs EN; (4) redistribuir se bulk estiver na seção errada; (5) re-wc até gap&lt;500; (6) commit granular + update report.
+
+### Ordem de ataque
+
+| Prioridade | # | Gap atual (aprox.) | Tipo de problema | Ação |
+|------------|---|--------------------|------------------|------|
+| 1 ✓ | **09** | **+242** | concluída | Dedup + inserts II/III/V + redistribuição IV→V |
+| **2 (próxima)** | **15** | +1800 | estrutura quebrada + dups no bulk | Consertar headers Notas; dedup; redistribuir III–V |
+| 3 | 13 | +1950 | dump na V | Redistribuir V→I–IV + fechar gap |
+| 4 | 06 | +1900 | V quase vazia; IV excesso | Encher III/V; aliviar dump |
+| 5 | 03 | +2285 | short uniforme | Inserts densos I–VI |
+| 6 | 05, 07, 11, 12 | +500–900 | desbalance + gap | Redistribuir + fechar |
+| 7 | 10 | +284 total | IV/V vazias (falso OK) | Redistribuir I–III→IV/V |
+| 8 | 02, 04, 16 | PT≥EN | excesso / possível dup | Auditoria dedup, não volume |
+| 9 | 01, 08, 14 | OK | — | Só polimento fino |
+
+**Não reintroduzir** blocos narrativos já contados (ex.: 09 fome/Egito/Sarai).
+
 
 **Resumo** (Verified post-remediation 30/05/2026): Estrutura 100% limpa em todas as 01-07. 04/05 agora em conformidade total após remediação (30 notas limpas, Notas no EOF). 06 com desequilíbrio seccional documentado. Paridade de volume excelente em 01 (agora acima), 06 e 07; boa em 03 e 05; ainda precisa de mais trabalho de tradução de conteúdo em 02 e 04.
 
