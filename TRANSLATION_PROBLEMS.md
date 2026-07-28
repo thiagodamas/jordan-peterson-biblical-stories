@@ -282,3 +282,31 @@ Trabalho continua sequencialmente nas piores até o gap mínimo.
 | 13 | 21129 | 21354 | −225 | OK, PT≥EN, 0 dups, I–V, 30 notas |
 
 Processo: 3 subagentes em paralelo + 2ª passagem de correção de wc em 03/06.
+
+
+---
+
+## Status final 01–16 (subagentes paralelo, verificado)
+
+Meta: gap EN−PT < 500 (ou PT≥EN), 0 dups longos, 1 **Notas**, ~30 notas, cover ?v=1.
+
+| # | EN | PT | Gap | Dups | Status |
+|---|----|----|-----|------|--------|
+| 01 | 19824 | 19342 | +482 | 0 | OK |
+| 02 | 20935 | 20479 | +456 | 0 | OK |
+| 03 | 22343 | 22956 | -613 | 0 | OK |
+| 04 | 24534 | 24035 | +499 | 0 | OK |
+| 05 | 19545 | 19337 | +208 | 0 | OK |
+| 06 | 23000 | 23479 | -479 | 0 | OK |
+| 07 | 19718 | 20391 | -673 | 0 | OK |
+| 08 | 18575 | 18422 | +153 | 0 | OK |
+| 09 | 21534 | 21292 | +242 | 0 | OK |
+| 10 | 19843 | 19344 | +499 | 0 | OK |
+| 11 | 18864 | 20533 | -1669 | 0 | OK |
+| 12 | 15794 | 16176 | -382 | 0 | OK |
+| 13 | 21129 | 21354 | -225 | 0 | OK |
+| 14 | 14262 | 14510 | -248 | 0 | OK |
+| 15 | 22396 | 21898 | +498 | 0 | OK |
+| 16 | 8747 | 9408 | -661 | 0 | OK |
+
+**Todas OK:** True
