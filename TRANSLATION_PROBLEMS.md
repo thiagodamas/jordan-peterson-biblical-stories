@@ -113,7 +113,7 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 **Gaps atuais (wc -w, 29/06/2026)**:
 01: gap=-1116 (PT>EN)
 02: gap=-5492
-03: gap=499 (<500, verificada)
+03: gap=-613 (CONCLUÍDA subagentes; I–VI limpa, 30 notas, 0 dups)
 04: gap=-2850
 05: gap=-513
 06: gap=174 (<500, Seção III/V densas adicionadas)
@@ -270,3 +270,15 @@ Trabalho continua sequencialmente nas piores até o gap mínimo.
 ---
 
 *Relatório gerado automaticamente por análise estrutural. Sem geração de texto traduzido por modelo de linguagem.*
+
+---
+
+## Palestras 03/06/13 via subagentes (paralelo)
+
+| # | EN | PT | Gap | Status |
+|---|----|----|-----|--------|
+| 03 | 22343 | 22956 | −613 | OK, PT≥EN, 0 dups, I–VI, 30 notas |
+| 06 | 23000 | 23479 | −479 | OK, PT≥EN, 0 dups, I–V, 30 notas |
+| 13 | 21129 | 21354 | −225 | OK, PT≥EN, 0 dups, I–V, 30 notas |
+
+Processo: 3 subagentes em paralelo + 2ª passagem de correção de wc em 03/06.
