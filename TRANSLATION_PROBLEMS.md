@@ -151,9 +151,9 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 |------------|---|--------------------|------------------|------|
 | 1 ✓ | **09** | **+242** | concluída | Dedup + inserts II/III/V + redistribuição IV→V |
 | 2 ✓ | **15** | **+498** | concluída | Dups (65×6) removidos; III–V reescritas densas; estrutura limpa |
-| 3 | 13 | +1950 | dump na V | Redistribuir V→I–IV + fechar gap |
-| 4 | 06 | +1900 | V quase vazia; IV excesso | Encher III/V; aliviar dump |
-| 5 | 03 | +2285 | short uniforme | Inserts densos I–VI |
+| 3 ✓ | **13** | **−225** | concluída (subagentes) | Dedup + redistribuição I–V |
+| 4 ✓ | **06** | **−479** | concluída (subagentes) | III/IV/V reconstruídas |
+| 5 ✓ | **03** | **−613** | concluída (subagentes) | Inserts densos I–VI |
 | 6 | 05, 07, 11, 12 | +500–900 | desbalance + gap | Redistribuir + fechar |
 | 7 | 10 | +284 total | IV/V vazias (falso OK) | Redistribuir I–III→IV/V |
 | 8 | 02, 04, 16 | PT≥EN | excesso / possível dup | Auditoria dedup, não volume |
