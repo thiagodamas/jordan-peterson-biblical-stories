@@ -1,6 +1,6 @@
 # **On the Death and Resurrection: A Psychological View in Five Parts**  
 
-![Cover](cover.jpg)
+![Cover](cover.jpg?v=1)
 
 
 by Dr. Jordan Peterson
