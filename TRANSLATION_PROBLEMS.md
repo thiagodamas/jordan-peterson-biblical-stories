@@ -58,7 +58,7 @@ A maioria das transcrições em português brasileiro apresenta **lacunas signif
 
 Três seções com menos de 15% do conteúdo original.
 
-### 4. Palestra 15 — José e a Túnica de Muitas Cores (Gap: 14.179 palavras)
+### 4. Palestra 15 — José e a Túnica de Muitas Cores (**CONCLUÍDA**, gap +498)
 
 - **Seção III**: gap 3.569
 - **Seção IV**: EN 3.103 → PT 77 (extremamente curta)
@@ -125,7 +125,7 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 12: gap -433 (concluída individualmente; Seção IV adicionada; estrutura I-IV limpa, 30 notas, 1 **Notas**)
 13: gap 77 (CONCLUÍDA individualmente; estrutura I-V limpa, 30 notas, 1 **Notas**; inserts densos em visão da escada, xamanismo, Jaboque/Israel, reconciliação Esaú, caráter/liderança, etc.)
 14: gap=-1356 (CONCLUÍDA: notas expandidas de 7 para 30; estrutura I-IV limpa, 1 **Notas**, cover v=1)
-15: gap 277 (CONCLUÍDA; estrutura I-V limpa, 1 **Notas**, 30 notas)
+15: gap=+498 (CONCLUÍDA 29/06/2026: dups massivos removidos, III–V reescritas, I–V limpa, 1 **Notas**, 30 notas)
 16: gap -1951 (CONCLUÍDA; estrutura expandida, 1 **Notas**, 30 notas, cover v=1)
 
 **Todas as 01-16 agora com gap <500 (ou PT>EN), estrutura limpa (I-V/VI sequencial, 1 **Notas** no EOF, ~30 notas, cover.jpg?v=1, sem continuations).**
@@ -150,7 +150,7 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 | Prioridade | # | Gap atual (aprox.) | Tipo de problema | Ação |
 |------------|---|--------------------|------------------|------|
 | 1 ✓ | **09** | **+242** | concluída | Dedup + inserts II/III/V + redistribuição IV→V |
-| **2 (próxima)** | **15** | +1800 | estrutura quebrada + dups no bulk | Consertar headers Notas; dedup; redistribuir III–V |
+| 2 ✓ | **15** | **+498** | concluída | Dups (65×6) removidos; III–V reescritas densas; estrutura limpa |
 | 3 | 13 | +1950 | dump na V | Redistribuir V→I–IV + fechar gap |
 | 4 | 06 | +1900 | V quase vazia; IV excesso | Encher III/V; aliviar dump |
 | 5 | 03 | +2285 | short uniforme | Inserts densos I–VI |
@@ -222,7 +222,7 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
 
 - **Palestra 14** — **Concluída** (29/06/2026). Volume já bom (13.5k vs 13.2k). Estrutura limpa + 30 notas.
 
-- **Palestra 15** — Gap sendo reduzido ativamente (segunda pior). Estrutura limpa, 30 notas. Inserções densas da história completa: traição, Potifar, prisão, sonhos, ascensão, teste dos irmãos (Judá se oferece), revelação "Eu sou José", "Deus o intentou para bem", perdão após teste de arrependimento, provisão para a família.
+- **Palestra 15** — **Concluída** (29/06/2026). Gap **+498** (<500). Removido bulk de ~14k palavras: 6 parágrafos repetidos 65× cada após falso `## Notas de rodapé`. Reescritas densas III–V (traição, Potifar, prisão, sonhos, Faraó, teste/Judá, revelação, “Deus o intentou para bem”, Gósen, bênçãos, caixão). Estrutura I–V, 1 **Notas**, 30 notas, cover v=1.
 
 - **Palestra 16** — **Concluída** (29/06/2026). Estrutura limpa, 30 notas (morte/renascimento psicológico, imitação de Cristo, Logos, Red Queen, sofrimento redentor, processo vitalício, etc.).
 
