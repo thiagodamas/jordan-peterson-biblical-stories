@@ -168,15 +168,20 @@ def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
         front = content[:idx] if idx != -1 else ""
         relevant = content[idx:] if idx != -1 else content
 
-        # Include the per-lecture cover image (added for visualization) in the omnibus.
-        # Extract from front matter and fix path to be relative to Biblical Stories root
-        # so Pandoc can find and embed it with --resource-path.
+        # Include the per-lecture cover image in the omnibus.
+        # Transcripts may use cache-busted refs like cover.jpg?v=1 (fine on GitHub);
+        # EPUB/PDF need a real filesystem path — strip query strings and point at
+        # {lecture_folder}/cover.jpg relative to Biblical Stories/.
         cover_img = ""
-        m = re.search(r'!\[[^\]]*\]\(([^)]*cover\.jpg[^)]*)\)', front, re.IGNORECASE)
+        m = re.search(r'!\[([^\]]*)\]\(([^)]*cover\.jpg[^)]*)\)', front, re.IGNORECASE)
         if m:
-            orig_ref = m.group(0)
-            rel_folder = transcript.relative_to(base).parent
-            cover_img = orig_ref.replace("](cover.jpg)", f"]({rel_folder}/cover.jpg)")
+            alt = m.group(1) or "Cover"
+            rel_folder = transcript.relative_to(base).parent.as_posix()
+            cover_file = transcript.parent / "cover.jpg"
+            if cover_file.exists():
+                cover_img = f"![{alt}]({rel_folder}/cover.jpg)"
+            else:
+                print(f"  WARNING: cover missing for lecture {num}: {cover_file}")
 
         # Simple split - no more renumbering or Pandoc footnote magic needed.
         # Notes are now just another section with distinct formatting.
@@ -186,6 +191,12 @@ def build_omnibus(lang: str, output_dir: Path, generate_pdf: bool = False):
             combined_md.append(cover_img)
             combined_md.append("")
 
+        # Strip ?v=… from any remaining local media refs in the body (safety net).
+        body = re.sub(
+            r"!\[([^\]]*)\]\((?!https?://)([^)?#]+)(?:[?#][^)]*)?\)",
+            r"![\1](\2)",
+            body,
+        )
         combined_md.append(body)
         combined_md.append("")
 

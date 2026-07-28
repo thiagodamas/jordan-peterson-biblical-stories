@@ -13,8 +13,10 @@ Requirements (in the environment):
 """
 
 import argparse
+import re
 import subprocess
 import sys
+import tempfile
 from pathlib import Path
 from typing import Optional
 
@@ -25,6 +27,23 @@ try:
 except ImportError:
     print("ERROR: Could not import scripts/lectures.py", file=sys.stderr)
     sys.exit(1)
+
+
+def strip_image_query_params(markdown: str) -> str:
+    """Strip ?v=… (and similar) from local image URLs so Pandoc can find files.
+
+    GitHub-friendly refs like ![Cover](cover.jpg?v=1) break EPUB embedding because
+    Pandoc looks for a file literally named ``cover.jpg?v=1``.
+    """
+    def _repl(m: re.Match) -> str:
+        alt, url = m.group(1), m.group(2)
+        # Only strip query/fragment on non-http paths
+        if re.match(r"https?://", url, re.I):
+            return m.group(0)
+        clean = re.split(r"[?#]", url, maxsplit=1)[0]
+        return f"![{alt}]({clean})"
+
+    return re.sub(r"!\[([^\]]*)\]\(([^)]+)\)", _repl, markdown)
 
 
 def get_transcript_path(lecture_num: int, lang: str) -> Path:
@@ -114,9 +133,15 @@ def get_pt_title(lecture_num: int) -> str:
     return titles[lecture_num]
 
 
-def run_pandoc(input_file: Path, output_file: Path, metadata: dict, 
-               extra_args: list[str], cover: Optional[Path] = None):
-    """Run pandoc with proper arguments."""
+def run_pandoc(input_file: Path, output_file: Path, metadata: dict,
+               extra_args: list[str], cover: Optional[Path] = None,
+               resource_dir: Optional[Path] = None):
+    """Run pandoc with proper arguments.
+
+    ``input_file`` may be a temp copy with cache-busting query strings stripped
+    from image paths; ``resource_dir`` should be the original transcript folder
+    so relative ``cover.jpg`` resolves correctly.
+    """
     cmd = [
         "pandoc",
         str(input_file),
@@ -129,16 +154,15 @@ def run_pandoc(input_file: Path, output_file: Path, metadata: dict,
         "--toc",
         "--toc-depth=2",
     ]
-    
-    # Set resource-path to the directory of the transcript so that relative images
-    # like ![Cover](cover.jpg) (and any future images) are found and embedded.
-    resource_dir = input_file.parent
-    cmd += ["--resource-path", str(resource_dir)]
+
+    # Resource path = lecture folder (covers live next to TRANSCRIPT.md)
+    res = resource_dir if resource_dir is not None else input_file.parent
+    cmd += ["--resource-path", str(res)]
     if cover:
         cmd += [f"--epub-cover-image={cover}"]
-    
+
     cmd += extra_args
-    
+
     print(f"  → Running: {' '.join(cmd)}")
     result = subprocess.run(cmd, capture_output=True, text=True)
     if result.returncode != 0:
@@ -167,42 +191,66 @@ def generate_ebook(lecture_num: int, lang: str, output_dir: Path):
     
     print(f"\n=== Lecture {lecture_num} ({lang.upper()}) ===")
     print(f"Source: {transcript}")
-    
-    # 1. EPUB (best quality with Pandoc)
-    print("Generating EPUB...")
-    run_pandoc(transcript, epub_path, metadata, [
-        "--to", "epub3",
-        "--epub-chapter-level=2",
-    ], cover)
-    
-    # 2. PDF via WeasyPrint (lightweight, good typography)
-    print("Generating PDF (WeasyPrint)...")
-    run_pandoc(transcript, pdf_path, metadata, [
-        "--pdf-engine=weasyprint",
-        "-V", "geometry:margin=2cm",
-    ], cover)
-    
-    # 3. MOBI from the EPUB we just created (best results)
-    print("Generating MOBI (Calibre)...")
-    cmd = [
-        "ebook-convert",
-        str(epub_path),
-        str(mobi_path),
-        "--mobi-file-type", "both",
-        "--title", metadata["title"],
-        "--authors", metadata["author"],
-        "--language", metadata["lang"],
-    ]
-    if cover:
-        cmd += ["--cover", str(cover)]
-    
-    print(f"  → Running: ebook-convert ...")
-    result = subprocess.run(cmd, capture_output=True, text=True)
-    if result.returncode != 0:
-        print(result.stderr)
-        # MOBI failure is not fatal
-        print("  ⚠️  MOBI generation failed (non-fatal)")
-    
+
+    # Strip ?v=1 (etc.) from local image paths so Pandoc embeds cover.jpg correctly.
+    raw = transcript.read_text(encoding="utf-8")
+    cleaned = strip_image_query_params(raw)
+    tmp_path = None
+    try:
+        if cleaned != raw:
+            tmp = tempfile.NamedTemporaryFile(
+                mode="w", suffix=".md", delete=False, encoding="utf-8"
+            )
+            tmp.write(cleaned)
+            tmp.close()
+            tmp_path = Path(tmp.name)
+            pandoc_input = tmp_path
+            print("  (normalized image URLs: stripped ?query from local media refs)")
+        else:
+            pandoc_input = transcript
+
+        resource_dir = transcript.parent
+
+        # 1. EPUB (best quality with Pandoc)
+        print("Generating EPUB...")
+        run_pandoc(pandoc_input, epub_path, metadata, [
+            "--to", "epub3",
+            "--epub-chapter-level=2",
+        ], cover, resource_dir=resource_dir)
+
+        # 2. PDF via WeasyPrint (lightweight, good typography)
+        print("Generating PDF (WeasyPrint)...")
+        try:
+            run_pandoc(pandoc_input, pdf_path, metadata, [
+                "--pdf-engine=weasyprint",
+                "-V", "geometry:margin=2cm",
+            ], cover, resource_dir=resource_dir)
+        except RuntimeError as e:
+            print(f"  ⚠️  PDF generation failed (non-fatal): {e}")
+
+        # 3. MOBI from the EPUB we just created (best results)
+        print("Generating MOBI (Calibre)...")
+        cmd = [
+            "ebook-convert",
+            str(epub_path),
+            str(mobi_path),
+            "--mobi-file-type", "both",
+            "--title", metadata["title"],
+            "--authors", metadata["author"],
+            "--language", metadata["lang"],
+        ]
+        if cover:
+            cmd += ["--cover", str(cover)]
+
+        print("  → Running: ebook-convert ...")
+        result = subprocess.run(cmd, capture_output=True, text=True)
+        if result.returncode != 0:
+            print(result.stderr)
+            print("  ⚠️  MOBI generation failed (non-fatal)")
+    finally:
+        if tmp_path and tmp_path.exists():
+            tmp_path.unlink(missing_ok=True)
+
     print(f"✓ Done: {safe_title} ({lang_suffix})")
     return epub_path, pdf_path, mobi_path
 
