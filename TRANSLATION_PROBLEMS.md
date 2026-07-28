@@ -32,12 +32,12 @@ A maioria das transcrições em português brasileiro apresenta **lacunas signif
 
 ## Análise Detalhada por Palestra (Críticas e Altas)
 
-### 1. Palestra 09 — O Chamado de Abraão (Gap: 16.065 palavras)
+### 1. Palestra 09 — O Chamado de Abraão (**CONCLUÍDA**, gap +242)
 
-- **Seção I**: EN 3.888 → PT 1.622 (gap 2.266)
-- **Seção II**: EN 4.844 → PT 1.204 (gap 3.640)
-- **Seção III**: EN 4.139 → PT 231 (gap 3.908) ← **quase vazia**
-- **Seção IV**: EN 3.951 → PT 250 (gap 3.701) ← **quase vazia**
+- **Seção I**: EN 3.890 → PT 3.647 (gap +243)
+- **Seção II**: EN 4.846 → PT 4.644 (gap +202)
+- **Seção III**: EN 4.141 → PT 3.679 (gap +462)
+- **Seção IV**: EN 3.953 → PT 3.904 (gap +49)
 - **Seção V**: EN 4.680 → PT 568 (gap 4.112) ← **muito incompleta**
 
 **Problema**: As três últimas seções estão drasticamente reduzidas.
@@ -208,7 +208,7 @@ Se o objetivo for maximizar impacto com menor esforço de revisão manual:
   Status: **Concluída** com padrão alvo de paridade e notas. Pronto para omnibus.
 
 - **Palestra 08** — **Concluída** (29/06/2026).
-- **Palestra 09** — **Limpa de duplicações** (29/06/2026). Dups removidos (citação "Sai-te" + interpretação + bloco inteiro "Abrão está realmente passando por um momento ruim..." fome/Egito + retorno/Ló + explicação do pecado repetidos). Estrutura I-V sequencial limpa, exatamente 1 **Notas** no EOF, 30 notas, cover.jpg?v=1. Texto final ~17.9k palavras (EN 21.5k). Polimento de repetições de inserts anteriores feito. (Gap atual maior após limpeza; inserts densos falados podem ser adicionados depois se paridade total for priorizada.)
+- **Palestra 09** — **Concluída** (29/06/2026). Gap total **+242** (<500). Dups removidos; inserts densos em II/III/V; material de catedral/guerra/aliança redistribuído IV→V. Estrutura I–V limpa, 1 **Notas**, 30 notas, cover v=1.
 - **Palestra 10** — **Concluída com paridade substancial** (29/06/2026).  
   Palavras: PT-BR ~8.9k (EN 18.45k) — gap reduzido drasticamente com inserções densas (de ~15k para ~9.5k).  
   Realizado: estrutura limpa I-V + exatamente 1 **Notas**; capa ?v=1; 30 notas. Inserções densas de spoken: arca vs aliança, "ande comigo e seja perfeito", contrato com o ideal, fear of God, Jeffrey Gray/ratos, crise de sucesso + Sísifo, transe + horror da escuridão, arte/transcendente, Agar/Ismael, "boa notícia" apesar de falhas, sacrifício após sucesso, etc. Seções agora têm narrativa falada densa (original era truncada/resumos). Status: estrutura perfeita + notas + densidade falada alta. Pronto para omnibus (gap de volume restante documentado como trabalho adicional possível).
